@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 1970-06-05
+Version Consolidée au 1970-12-31
 
 # Partie législative
 
@@ -2563,6 +2563,52 @@ restitution des sommes indûment perçues.
 	**Codifié par**:
 
 	  - Loi n°64-1339 1964-12-29
+
+
+#### Chapitre II : Cumul de pensions et de rémunérations d'activité.
+
+###### Article L86
+
+Les titulaires de pension qui ont été rayés des cadres soit sur leur demande, soit d'office par mesure de discipline, avant
+d'avoir atteint la limite d'âge qui leur était applicable dans leur ancien emploi, et qui perçoivent une rémunération
+d'activité servie par l'une des collectivités énumérées à l'article L. 84, ne peuvent bénéficier de leur pension avant
+d'avoir atteint l'âge correspondant à cette limite d'âge, sauf à percevoir, si la pension est supérieure à la nouvelle
+rémunération d'activité, une somme égale à l'excédent de la pension sur le montant de cette rémunération.
+
+Toutefois, peuvent cumuler intégralement le montant de leur pension avec celui des émoluments correspondant à l'emploi qui
+leur est confié :
+
+1° Les titulaires de pensions civiles et militaires ou d'une solde de réforme allouées pour invalidité ;
+
+2° Les titulaires de pensions de sous-officiers rémunérant moins de vingt-cinq ans de services même dans le cas où ces
+dernières se trouveraient modifiées à la suite de services nouveaux effectués pendant un rappel à l'activité donnant lieu à
+promotion de grade ;
+
+3° Les titulaires de pensions, dont la rémunération annuelle d'activité n'excède pas le quart du montant de la pension ou le
+montant du traitement afférent à l'indice 100 fixé par l'article 1er du décret n° 48-1108 du 10 juillet 1948 et les textes
+subséquents.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°48-1108 du 10 juillet 1948 - art. 1 (V)
+
+	**Cité par**:
+
+	  - Décret n°85-1148 du 24 octobre 1985 - art. 7 (M)
+	  - Code des pensions civiles et militaires de retrait - art. L84 (V)
+	  - Code des pensions civiles et militaires de retrait - art. R*92 (M)
+	  - Loi n°89-1007 du 31 décembre 1989 - art. 6-1 (V)
+	  - Loi n°91-1241 du 13 décembre 1991 - art. 8 (V)
+
+	**Codifié par**:
+
+	  - Loi n°64-1339 1964-12-29
+
+	**Modifié par**:
+
+	  - Loi n°70-1283 1970-12-31 art. 22 II JORF 31 décembre 1970
 
 
 #### Chapitre III : Cumul de plusieurs pensions.
