@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 2002-01-01
+Version Consolidée au 2002-01-18
 
 # Partie législative
 
@@ -807,6 +807,11 @@ de la cessation des services valables pour la retraite ou, dans le cas contraire
 disciplinaire, par les émoluments soumis à retenue afférents à l'emploi, grade, classe et échelon antérieurement occupés
 d'une manière effective.
 
+Pour les personnels radiés des cadres à l'issue d'une période de détachement auprès d'une administration ou d'un organisme
+implanté sur le territoire d'un Etat étranger ou auprès d'un organisme international, les émoluments de base sont constitués
+par les derniers émoluments afférents à l'indice correspondant aux grades, classes et échelons détenus depuis six mois au
+moins à la date de la radiation des cadres, qu'ils aient donné lieu ou non à retenue pour pension.
+
 Ce délai de six mois ne sera pas opposé lorsque la mise hors de service ou le décès d'un fonctionnaire ou militaire se sera
 produit par suite d'un accident survenu en service ou à l'occasion du service.
 
@@ -1490,7 +1495,7 @@ détachement.
 
 	**Modifié par**:
 
-	  - Loi n°91-715 du 26 juillet 1991 - art. 6 () JORF 27 juillet 1991
+	  - Loi n°2002-73 2002-01-17 art. 20 jorf 18 janvier 2002
 
 	**Codifié par**:
 
