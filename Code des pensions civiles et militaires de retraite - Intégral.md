@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 1989-04-18
+Version Consolidée au 1989-12-30
 
 # Partie législative
 
@@ -4078,6 +4078,105 @@ réservés au profit de la femme et des enfants.
 
 
 ### Titre IX : Retenues pour pensions.
+
+###### Article L61
+
+Les agents visés à l'article L. 2 supportent une retenue de 8,9 % sur les sommes payées à titre de traitement ou de solde, à
+l'exclusion d'indemnités de toute nature.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°57-444 du 8 avril 1957 - art. 6 bis (V)
+	  - Décret n°67-290 du 28 mars 1967 - art. 16 (V)
+	  - Décret n°74-338 du 22 avril 1974 - art. 35 (Ab)
+	  - Décret n°78-729 du 28 juin 1978 - art. 3 (V)
+	  - Loi n°83-1179 du 29 décembre 1983 - art. 131 (V)
+	  - Décret n°85-986 du 16 septembre 1985 - art. 32 (V)
+	  - Décret n°85-986 du 16 septembre 1985 - art. 41 (V)
+	  - Loi n°85-1403 du 30 décembre 1985 - art. 76 (V)
+	  - Loi n°89-18 du 13 janvier 1989 - art. 23 (V)
+	  - Loi n°89-936 du 29 décembre 1989 - art. 127 (V)
+	  - Loi n°90-568 du 2 juillet 1990 - art. 30 (V)
+	  - Loi n°91-73 du 18 janvier 1991 - art. 25 (V)
+	  - Décret n°91-189 du 21 février 1991 - art. 1 (V)
+	  - Décret n°92-1072 du 2 octobre 1992 - art. 1 (V)
+	  - Arrêté du 27 octobre 1997 - art. 1 (V)
+	  - Loi - art. 87 (V)
+	  - Décret n°2004-678 du 8 juillet 2004 - art. 2 (VD)
+	  - Décret n°2004-939 du 3 septembre 2004 - art. 3 (V)
+	  - Loi n°2005-1719 du 30 décembre 2005 - art. 51 (V)
+	  - Décret n°2006-23 du 5 janvier 2006 - art. 1 (Ab)
+	  - Décret n°2006-23 du 5 janvier 2006 - art. 2 (Ab)
+	  - Décret n°2006-391 du 30 mars 2006 - art. 1 (Ab)
+	  - Décret n°2006-418 du 7 avril 2006 - art. 5 (V)
+	  - Décret n°2006-882 du 17 juillet 2006 - art. 23 (Ab)
+	  - Décret n°2006-882 du 17 juillet 2006 - art. 48 (Ab)
+	  - Loi n°2006-1666 du 21 décembre 2006 - art. 36 (V)
+	  - Décret n°2006-1798 du 23 décembre 2006 - art. 1 (Ab)
+	  - Décret n°2006-1798 du 23 décembre 2006 - art. 2 (Ab)
+	  - Arrêté du 1 janvier 2007 - art. 1 (V)
+	  - Décret n°2007-1470 du 15 octobre 2007 - art. 13 (Ab)
+	  - Décret n°2007-1796 du 19 décembre 2007 - art. 3 (V)
+	  - Décret n°2007-1796 du 19 décembre 2007 - art. 4 (V)
+	  - Décret n°2007-1796 du 19 décembre 2007 - art. 6 (V)
+	  - Décret n°2007-1807 du 21 décembre 2007 - art. 11 (V)
+	  - Décret n°2007-1845 du 26 décembre 2007 - art. 39 (Ab)
+	  - Décret n°2008-53 du 15 janvier 2008 - art. 1 (Ab)
+	  - Décret n°2008-53 du 15 janvier 2008 - art. 2 (Ab)
+	  - Décret n°2008-62 du 17 janvier 2008 - art. 3 (V)
+	  - Décret n°2008-1534 du 22 décembre 2008 (Ab)
+	  - Décret n°2008-1534 du 22 décembre 2008 - art. 1 (Ab)
+	  - Décret n°2009-1599 du 18 décembre 2009 - art. 1 (Ab)
+	  - Décret n°2010-53 du 14 janvier 2010 - art. 1 (Ab)
+	  - Décret n°2010-343 du 31 mars 2010 - art. 3 (Ab)
+	  - Décret n°2010-1749 du 30 décembre 2010 - art. 1 (VD)
+	  - Décret n°2011-11 du 4 janvier 2011 - art. 1 (Ab)
+	  - Décret n°2011-634 du 8 juin 2011 - art. 10 (V)
+	  - Décret n°2011-2037 du 29 décembre 2011 - art. 1 (Ab)
+	  - Décret n°2012-1507 du 27 décembre 2012 - art. 1 (V)
+	  - Décret n°2013-435 du 27 mai 2013 - art. 3 (V)
+	  - Décret n°2013-1064 du 25 novembre 2013 - art. 1 (V)
+	  - Décret n°2016-1732 du 14 décembre 2016 - art. 12 (V)
+	  - Décret n°2017-435 du 28 mars 2017 - art. 11 (V)
+	  - Code de la défense. - art. R4138-43 (V)
+	  - Code de la défense. - art. R4138-46 (V)
+	  - Code de la santé publique - art. R1432-68 (V)
+	  - Code de la sécurité sociale. - art. L711-12 (V)
+	  - Code des pensions civiles et militaires de retr... - art. L63 (V)
+	  - Code des pensions civiles et militaires de retr... - art. R*74-1 (VD)
+	  - Code des pensions civiles et militaires de retr... - art. R*76 ter (V)
+	  - Code des pensions civiles et militaires de retr... - art. R*81 (V)
+	  - Code des pensions civiles et militaires de retrait - art. L11 bis (V)
+	  - Code des pensions civiles et militaires de retrait - art. L87 (V)
+
+	**Modifié par**:
+
+	  - Loi n°83-1179 du 29 décembre 1983 - art. 33 () JORF 30 décembre 1983
+	  - Loi n°86-966 1986-08-18 art. 9 JORF 19 août 1986
+	  - Loi n°87-516 du 10 juillet 1987 - art. 4 () JORF 12 juillet 1987
+	  - Loi n°88-810 1988-07-12 art. 3 JORF 14 juillet 1988
+	  - Loi n°89-18 du 13 janvier 1989 - art. 23 (V) JORF 14 janvier 1989
+	  - Loi n°89-936 du 29 décembre 1989 - art. 59 (V)
+	  - Loi n°89-936 du 29 décembre 1989 - art. 59 (V) JORF 30 décembre 1989
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°87-516 du 10 juillet 1987 - art. 4, v. init.
+	  - SPEC_APPLI: Loi n°88-810 1988-07-12 art. 3
+	  - SPEC_APPLI: Loi n°89-18 1989-01-13 art. 23
+	  - TXT_SOURCE: Loi n°91-73 du 18 janvier 1991 - art. 25 (V)
+	  - SPEC_APPLI: Loi n°89-936 du 29 décembre 1989 - art. 59 (V)
+
+	**Cite**:
+
+	  - Code des pensions civiles et militaires de retrait - art. L2 (M)
+
+	**Codifié par**:
+
+	  - Loi n°64-1339 1964-12-29
+
 
 ###### Article L62
 
