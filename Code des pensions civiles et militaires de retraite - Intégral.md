@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 1998-06-10
+Version Consolidée au 1999-10-23
 
 # Partie législative
 
@@ -34,7 +34,8 @@ relatives aux titres Ier et II du statut général des fonctionnaires ;
 2° Les magistrats de l'ordre judiciaire ;
 
 3° Les militaires de tous grades possédant le statut de militaires de carrière ou servant au-delà de la durée légale en vertu
-d'un contrat ;
+d'un contrat et les militaires servant au titre d'un engagement à servir dans la réserve opérationnelle ou au titre de la
+disponibilité ;
 
 4° Leurs conjoints survivants et leurs orphelins.
 
@@ -47,7 +48,7 @@ d'un contrat ;
 
 	**Modifié par**:
 
-	  - Loi n°91-715 du 26 juillet 1991 - art. 6 () JORF 27 juillet 1991
+	  - Loi n°99-894 du 22 octobre 1999 - art. 51 () JORF 23 octobre 1999
 
 	**Cité par**:
 
