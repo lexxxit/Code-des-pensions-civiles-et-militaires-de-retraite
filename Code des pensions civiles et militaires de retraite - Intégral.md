@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 1978-07-18
+Version Consolidée au 1979-01-30
 
 # Partie législative
 
@@ -4537,37 +4537,6 @@ Les textes de classement des emplois dans la partie active ou la catégorie B fi
 	  - Décret n°66-809 1966-10-28
 
 
-###### Article R*37
-
-**Nota:**
-
-[*(Abrogé par l'article 1er du décret n° 79-81 du 15 janvier 1979)*].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°66-809 1966-10-28
-
-	**Cité par**:
-
-	  - Décret n°68-382 du 5 avril 1968 - art. 19 (V)
-	  - Décret n°68-960 du 11 octobre 1968 - art. 17 (V)
-	  - Décret n°90-1215 du 20 décembre 1990 - art. 84 (VT)
-	  - Décret n°2003-1306 du 26 décembre 2003 - art. 25 (V)
-	  - Décret n°2003-1306 du 26 décembre 2003 - art. 65-2 (V)
-	  - Décret n°2004-1056 du 5 octobre 2004 - art. 21 (VD)
-	  - Décret n°2006-933 du 28 juillet 2006 - art. 4 (V)
-	  - Décret n°2006-941 du 28 juillet 2006 - art. 4 (V)
-	  - Décret n°2010-1741 du 30 décembre 2010 - art. 2 (V)
-	  - Décret n°2016-810 du 16 juin 2016 (V)
-	  - Code de l'éducation - art. R914-123 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°79-81 1979-01-15 art. 1 JORF 30 janvier 1979
-
-
 ###### Article R35
 
 Les services rendus par les agents qui, terminant leur carrière au service de l'Etat, ont été auparavant tributaires de l'un
@@ -4688,6 +4657,37 @@ validité restante du fonctionnaire.
 
 
 ##### Paragraphe III : Dispositions communes.
+
+###### Article R*43
+
+La majoration spéciale pour assistance d'une tierce personne prévue au deuxième alinéa de l'article L. 30 est accordée sur sa
+demande et quelle que soit la date à laquelle la pension lui a été concédée, à tout titulaire d'une pension civile
+d'invalidité qui justifie remplir les conditions fixées audit article et qui n'a pas bénéficié ou n'était pas en droit de
+bénéficier d'une majoration de même nature en vertu des dispositions antérieures à la loi n° 62-873 du 31 juillet 1962.
+
+La majoration spéciale est accordée pour une période de cinq ans. A l'expiration de cette période, les droits des retraités
+font l'objet d'un nouvel examen et la majoration est, soit accordée à titre définitif s'il est reconnu que le titulaire
+continue de remplir les conditions pour en bénéficier, soit, dans le cas contraire, supprimée. Postérieurement, elle peut
+être à tout moment rétablie suivant la même procédure à compter de la date de la demande du retraité si celui-ci justifie
+être de nouveau en droit d'y prétendre.
+
+Cette majoration n'est pas cumulable à concurrence de son montant avec toute autre prestation ayant le même objet.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°62-873 1962-07-31
+	  - Code des pensions civiles et militaires de retraite L30 al. 2
+
+	**Codifié par**:
+
+	  - Décret n°66-809 1966-10-28
+
+	**Modifié par**:
+
+	  - Décret n°79-81 1979-01-15 art. 2 JORF 30 janvier 1979
+
 
 ###### Article R41
 
@@ -5064,6 +5064,53 @@ d'exercer une profession quelconque.
 
 
 ### Titre VIII : Dispositions d'ordre et diverses.
+
+#### Paragraphe Ier : Concession et révision de la pension.
+
+###### Article R65
+
+Le ministre dont relevait le fonctionnaire ou le militaire lors de sa radiation des cadres ou de son décès en activité est
+chargé de constituer le dossier nécessaire au règlement des droits à pension ; il propose les bases de liquidation de la
+pension et, le cas échéant, de la rente viagère d'invalidité. Après contrôle de cette proposition, le ministre du budget
+effectue les opérations de liquidation et, par arrêté, concède la pension et la rente viagère d'invalidité.
+
+Les dossiers de demande de pension constitués par les ayants cause de fonctionnaires ou militaires décédés en position de
+retraite sont adressés directement au ministre du budget. Si les droits des intéressés sont reconnus, ce dernier procède à la
+liquidation et à la concession de la pension. Dans le cas contraire, le dossier est transmis au ministre dont relevait
+l'auteur du droit en vue de l'application de la procédure prévue à l'alinéa précédent.
+
+Le décompte détaillé de la liquidation est obligatoirement notifié à chaque intéressé en même temps que la décision portant
+concession de la pension.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°66-809 1966-10-28
+
+	**Modifié par**:
+
+	  - Décret n°79-81 1979-01-15 art. 3 JORF 30 janvier 1979
+
+	**Cité par**:
+
+	  - Décret n°2010-981 du 26 août 2010 - art. 2 (V)
+	  - Arrêté du 26 décembre 2011 - art. 1 (V)
+	  - Arrêté du 7 décembre 2012 - art. 1 (V)
+	  - Arrêté du 12 décembre 2012 - art. 1 (V)
+	  - Arrêté du 17 décembre 2012 - art. 1 (V)
+	  - Arrêté du 19 décembre 2012 - art. 1 (V)
+	  - Arrêté du 21 décembre 2012 - art. 1 (V)
+	  - Arrêté du 14 décembre 2012 - art. 1 (V)
+	  - Arrêté du 26 décembre 2012 - art. 1 (V)
+	  - Décret n°2013-1033 du 14 novembre 2013 (V)
+	  - Arrêté du 17 février 2014 - art. 23 (V)
+	  - Décret n°2014-393 du 29 mars 2014 - art. 1 (V)
+	  - Arrêté du 3 octobre 2014 - art. 1 (V)
+	  - Arrêté du 7 novembre 2014 - art. 1 (V)
+	  - Arrêté du 21 août 2015 - art. 1 (V)
+	  - Code des pensions civiles et militaires de retr... - art. D21-1 (VD)
+
 
 #### Paragraphe II : Dispositions diverses.
 
@@ -5888,6 +5935,34 @@ selon les règles sus-énoncées.
 	  - Code des pensions civiles et militaires de retraite L27, L28, L29 et L90 al. 2
 
 
+###### Article R*102
+
+Lorsque les dispositions de l'article L. 90 (2e alinéa) ne peuvent être satisfaites, les veuves et orphelins des
+fonctionnaires civils et des militaires en possession de droits à pension de réversion fondée sur la durée des services
+reçoivent, à titre d'avance, en attendant le règlement définitif de leur pension, à compter du premier jour du mois civil qui
+suit celui du décès de leur auteur, une allocation provisoire égale au montant arrondi au franc inférieur de la somme à
+laquelle une liquidation sommaire permet d'évaluer la pension à laquelle ils ont droit, à l'exclusion de la fraction de la
+rente d'invalidité éventuellement réversible.
+
+Lorsque dans le cas prévu au deuxième alinéa de l'article R. 65, l'impossibilité d'évaluer avec exactitude la quotité de la
+pension de réversion fait obstacle à ce que celle-ci soit immédiatement concédée, une avance est attribuée sans délai aux
+ayants cause par le ministre du budget. Cette avance est calculée comme prévu à l'alinéa précédent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°66-809 1966-10-28
+
+	**Modifié par**:
+
+	  - Décret n°79-81 1979-01-15 art. 4 JORF 30 janvier 1979
+
+	**Cite**:
+
+	  - Code des pensions civiles et militaires de retraite L90 al. 2 et R65 al. 2
+
+
 ###### Article R*103
 
 Les avances attribuées au titre des deux articles qui précèdent sont majorées, le cas échéant, des avantages familiaux visés
@@ -5907,6 +5982,32 @@ aux articles L. 19 et R. 33 ainsi que des pensions temporaires d'orphelins et de
 	  - Code des pensions civiles et militaires de retrait - art. L38 (M)
 	  - Code des pensions civiles et militaires de retrait - art. R33 (M)
 	  - Code des pensions civiles et militaires de retraite L18, L19, L38, L40 à L43, R33, R101 et R102
+
+
+###### Article R*104
+
+Les avances prévues à l'article R. 101 et au premier alinéa de l'article R. 102 qui sont attribuées par le département
+ministériel dont dépendait le fonctionnaire ou le militaire lors de sa radiation des cadres ou de son décès et les avances
+prévues au deuxième alinéa de l'article R. 102 accordées par le ministre du budget sont payées mensuellement et à terme échu.
+Leur mise en paiement [*délai*] doit intervenir au profit des intéressés dans le mois qui suit la cessation de l'activité ou
+le décès de l'auteur du droit.
+
+Les avances ainsi consenties sont récupérées par voie de précompte sur les premiers arrérages de la pension à laquelle les
+intéressés auront été reconnus avoir droit et, s'il y a lieu, au moyen d'une retenue du cinquième des arrérages postérieurs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°66-809 1966-10-28
+
+	**Modifié par**:
+
+	  - Décret n°79-81 1979-01-15 art. 5 JORF 30 janvier 1979
+
+	**Cite**:
+
+	  - Code des pensions civiles et militaires de retraite R101 et R102 al. 1 et 2
 
 
 ### CHAPITRE III : Avances mensuelles sur pensions concédées en paiement.
@@ -6260,6 +6361,27 @@ ni à ceux embarqués sur les bâtiments non navigants affectés à la surveilla
 	  - Décret n°66-810 1966-10-28
 
 
+###### Article D12
+
+Les bonifications prévues par l'article R. 20 sont allouées pour les services aériens exécutés par les personnels militaires,
+dans les conditions déterminées audit article, en dehors des opérations de guerre, c'est-à-dire en toutes situations ne
+comportant pas le bénéfice de la campagne double par application des dispositions de l'article R. 14, A.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°79-82 1979-01-15 art. 1 JORF 30 janvier 1979
+
+	**Cite**:
+
+	  - Code des pensions civiles et militaires de retraite R14 et R20
+
+	**Codifié par**:
+
+	  - Décret n°66-810 1966-10-28
+
+
 ###### Article D13
 
 Les personnels titulaires de brevets ou certificats de spécialité aériens obtenus antérieurement au 1er décembre 1964
@@ -6462,6 +6584,333 @@ rémunérant les services visée à l'article L. 6.
 
 ### Titre VIII : Dispositions d'ordre et diverses.
 
+#### Paragraphe Ier : Concession et révision de la pension.
+
+###### Article D20
+
+La demande de pension ou de rente viagère d'invalidité est adressée au ministre du département auquel appartenait le
+fonctionnaire ou le militaire décédé en activité de service ; elle est adressée au ministre du budget lorsque l'auteur du
+droit est décédé en position de retraite.
+
+La date du dépôt de la demande de liquidation est apposée sur ladite demande. Il en est accusé réception.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°79-82 1979-01-15 art. 2 JORF 30 janvier 1979
+
+	**Cité par**:
+
+	  - Arrêté du 26 novembre 2004 - art. 5 (V)
+	  - Arrêté du 10 janvier 2013 - art. 1 (V)
+	  - Arrêté du 18 janvier 2013 - art. 1 (V)
+	  - Arrêté du 22 mai 2014 - art. 1 (V)
+	  - Arrêté du 27 août 2014 - art. 1 (V)
+	  - Arrêté du 25 septembre 2015 - art. 1 (V)
+	  - Arrêté du 17 décembre 2015 - art. 1 (V)
+	  - Arrêté du 4 mai 2016 - art. 1 (V)
+	  - Arrêté du 11 août 2016 - art. 1 (V)
+	  - Code des pensions civiles et militaires de retr... - art. D27 (V)
+
+	**Codifié par**:
+
+	  - Décret n°66-810 1966-10-28
+
+
+###### Article D21
+
+Le fonctionnaire ou le militaire prétendant à pension doit produire une déclaration relative à l'élection de domicile et au
+cumul. En outre, doivent être fournis, si ces pièces ne se trouvent pas déjà dans le dossier administratif, un extrait de son
+acte de naissance et, pour l'agent féminin, s'il y a lieu, un extrait de son acte de mariage portant, le cas échéant, mention
+de l'arrêt ou du jugement de divorce ainsi qu'éventuellement une copie de l'acte de décès de son mari.
+
+En outre, sont exigés :
+
+A. - Pour le fonctionnaire civil :
+
+1° Une ampliation de la décision de radiation des cadres ;
+
+2° Pour la justification des services civils :
+
+Un état des services dûment certifié, extrait des registres et sommiers de l'administration à laquelle il a appartenu,
+énonçant ses nom et prénoms, sa qualité, la date et le lieu de sa naissance, les dates de nomination à un emploi permanent et
+d'entrée en fonctions ou d'installation, les emplois, grades, classes et échelons successivement détenus, le détail des
+positions valables ou non pour la retraite successivement occupées, la durée et le lieu d'accomplissement des services civils
+rendus hors d'Europe, la nature, la durée et le lieu des congés correspondant à ces services, et l'indice du ou des
+traitements dont il a joui pendant les six derniers mois de son activité.
+
+Les services civils rendus dans les cadres des administrations mentionnées à l'article L. 5 (3°, 4° et 5°) sont constatés,
+dans la même forme, par un état des services distinct délivré par les administrations intéressées.
+
+Les pièces relatives à la validation des services et au versement des retenues rétroactives ainsi qu'au reversement des
+retenues qui auraient été remboursées doivent, le cas échéant, être jointes à l'état des services.
+
+Lorsqu'il n'aura pas existé de registre ou que tous les services administratifs ne se trouveront pas inscrits sur les
+registres existants, il y sera suppléé par un certificat du chef ou des chefs compétents des administrations où l'agent aura
+servi, relatant les indications ci-dessus énoncées.
+
+A défaut de ces justifications, et lorsque, pour cause de destruction des archives dont on aurait pu les extraire ou du décès
+des fonctionnaires supérieurs, l'impossibilité de les produire aura été prouvée, les services pourront être constatés par
+acte de notoriété.
+
+3° Pour la justification des services militaires :
+
+Un état des services militaires et des campagnes dressé par les services compétents des administrations militaires. Lorsque
+d'autres pièces sont produites pour justifier de ces services, elles sont renvoyées aux services susvisés qui les remplacent,
+s'il y a lieu, par un certificat authentique.
+
+4° Pour la justification de l'invalidité des fonctionnaires civils :
+
+Le procès-verbal de la commission de réforme accompagné des pièces justificatives médicales et administratives produites à
+cet organisme.
+
+B. - Pour les militaires :
+
+1° Une ampliation de la décision de radiation des cadres chaque
+
+fois qu'elle est nécessaire ;
+
+2° Un état des services militaires énonçant :
+
+L'état civil du militaire ; le détail des services militaires accomplis et des différentes positions occupées, les bénéfices
+d'études préliminaires reconnus, les grades obtenus, les bénéfices de campagne acquis ainsi que les bonifications accordées
+pour services aériens ou sous-marins ;
+
+3° Un relevé des services civils admissibles pour la retraite, éventuellement accompagné des pièces justificatives prévues
+ci-dessus pour les fonctionnaires civils, établi par l'administration auprès de laquelle lesdits services ont été rendus ;
+
+4° Un certificat indiquant l'indice de la ou des soldes dont a joui le militaire pendant les six derniers mois de son
+activité.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°79-82 1979-01-15 art. 3 JORF 30 janvier 1979
+
+	**Cité par**:
+
+	  - Arrêté du 18 janvier 2013 - art. 1 (V)
+	  - Arrêté du 22 mai 2014 - art. 1 (V)
+	  - Arrêté du 27 août 2014 - art. 1 (V)
+	  - Arrêté du 25 septembre 2015 - art. 1 (V)
+	  - Arrêté du 17 décembre 2015 - art. 1 (V)
+	  - Arrêté du 4 mai 2016 - art. 1 (V)
+	  - Arrêté du 11 août 2016 - art. 1 (V)
+
+	**Cite**:
+
+	  - Code des pensions civiles et militaires de retrait - art. L5 (M)
+
+	**Codifié par**:
+
+	  - Décret n°66-810 1966-10-28
+
+	**Créé par**:
+
+	  - Décret n°66-810 1966-10-28 JORF 3 novembre 1966 rectificatif JORF 3 décembre 1966 en vigueur le 1er décembre 1964
+
+
+###### Article D22
+
+Pour bénéficier de la bonification pour enfants [*conditions*] prévue à l'article L. 12 (b), l'agent féminin doit souscrire
+une déclaration par laquelle il désigne nominativement les enfants au titre desquels il sollicite la bonification et atteste
+les avoir élevés dans les conditions fixées par ce texte ; il produit, en outre :
+
+1° Pour les enfants adoptifs, une copie de l'acte ou du jugement d'adoption ou du jugement de légitimation adoptive ou du
+jugement d'adoption plénière ;
+
+2° Pour les enfants ayant fait l'objet d'une délégation des droits de puissance paternelle ou de l'autorité parentale, une
+copie du jugement de délégation.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°79-82 1979-01-15 art. 4 JORF 30 janvier 1979
+
+	**Cite**:
+
+	  - Code des pensions civiles et militaires de retrait - art. L12 (M)
+
+	**Codifié par**:
+
+	  - Décret n°66-810 1966-10-28
+
+
+###### Article D23
+
+La veuve prétendant à pension fournit, indépendamment des pièces que son mari aurait été tenu de produire :
+
+1° Une copie de l'acte de naissance de son mari ;
+
+2° Un extrait de son acte de naissance ;
+
+3° Une copie de l'acte de décès de son mari ;
+
+4° Un extrait de l'acte de mariage ;
+
+5° Une déclaration par laquelle la veuve atteste si une séparation de corps a été ou non prononcée judiciairement entre elle
+et son époux, si elle est en jouissance de ses droits civils et si, à sa connaissance, son mari avait ou non contracté un
+précédent mariage et a laissé ou non des enfants âgés de moins de vingt et un ans issus d'un précédent mariage ou naturels
+reconnus ;
+
+6° Dans le cas où il y aurait eu divorce ou séparation de corps, la femme divorcée ou la veuve doit produire un extrait du
+jugement.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°75-1242 du 27 décembre 1975 - art. 16 () JORF 28 décembre 1975
+	  - Décret n°79-82 1979-01-15 art. 5 JORF 30 janvier 1979
+
+	**Codifié par**:
+
+	  - Décret n°66-810 1966-10-28
+
+
+###### Article D24
+
+Le représentant légal des orphelins prétendant à pension du chef des services de leur père fournit, indépendamment des pièces
+que leur auteur aurait été tenu de produire :
+
+1° Une copie de l'acte de naissance de leur père ;
+
+2° Un extrait de l'acte de naissance de chacun des enfants et, s'il s'agit d'enfants adoptifs, une copie de l'acte ou du
+jugement d'adoption ou du jugement de légitimation adoptive ou du jugement d'adoption plénière ;
+
+3° Une copie de l'acte de décès du père ;
+
+4° Un extrait de l'acte de mariage des père et mère ;
+
+5° Une copie de l'acte de décès de la mère ou les pièces établissant qu'elle est inhabile à obtenir une pension ou déchue de
+ses droits lorsque la pension est demandée en application de l'article L. 40 (2e alinéa) ;
+
+6° Une déclaration par laquelle le représentant légal atteste si, à sa connaissance, le fonctionnaire ou le militaire avait
+ou non contracté un mariage antérieur à celui dont sont issus les orphelins qu'il représente et s'il a laissé ou non d'autres
+enfants âgés de moins de vingt et un ans issus d'un précédent mariage ou naturels reconnus ;
+
+7° [*(Abrogé par l'article 6-II du décret n° 79-82 du 15 janvier 1979)*] ;
+
+8° Le cas échéant, une expédition ou un extrait de l'acte de tutelle.
+
+Lorsque les orphelins prétendent à pension du chef des services de leur mère, les pièces à produire sont, outre celles que
+l'auteur aurait été tenu de fournir :
+
+1° Un extrait de l'acte de naissance de chacun des enfants et, s'il s'agit d'enfants adoptifs, une copie de l'acte ou du
+jugement d'adoption ou du jugement de légitimation adoptive ou du jugement d'adoption plénière ;
+
+2° Une copie de l'acte de décès de la mère ;
+
+3° Un extrait de l'acte de mariage des père et mère ;
+
+4° Le cas échéant, une copie de l'acte de décès du père ;
+
+5° Une déclaration par laquelle le représentant légal indique si, à sa connaissance, la mère avait ou non contracté un
+mariage antérieur à celui dont sont issus les orphelins et si elle a laissé ou non d'autres enfants âgés de moins de vingt et
+un ans issus d'un précédent mariage ou enfants naturels dont la filiation est légalement établie ;
+
+6° [*(Abrogé par l'article 6-IV du décret n° 79-82 du 15 janvier 1979)*] ;
+
+7° Le cas échéant, une expédition ou un extrait de l'acte de tutelle.
+
+En outre, lorsque la pension est demandée au titre de l'article L. 40(3e ou 4e alinéa), est exigé le procès-verbal de la
+commission de réforme ou de la commission consultative médicale accompagné des pièces médicales et administratives produites
+à cet organisme établissant que l'orphelin était atteint, au jour du décès de son auteur ou avant sa vingt et unième année
+révolue, d'une infirmité permanente le mettant dans l'impossibilité de gagner sa vie.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°75-1242 du 27 décembre 1975 - art. 16 () JORF 28 décembre 1975
+	  - Décret n°79-82 1979-01-15 art. 6 JORF 30 janvier 1979
+
+	**Cite**:
+
+	  - Code des pensions civiles et militaires de retraite L40 al. 2, 3 et 4
+
+	**Codifié par**:
+
+	  - Décret n°66-810 1966-10-28
+
+	**Créé par**:
+
+	  - Décret n°66-810 1966-10-28 JORF 3 novembre 1966 rectificatif JORF 3 décembre 1966 en vigueur le 1er décembre 1964
+
+
+###### Article D25
+
+Le veuf prétendant à pension fournit, indépendamment des pièces que son épouse aurait été tenue de produire :
+
+1° Un extrait de son acte de naissance ;
+
+2° Une copie de l'acte de naissance de son conjoint ;
+
+3° Une copie de l'acte de décès du conjoint ;
+
+4° Un extrait de l'acte de mariage ;
+
+5° Une déclaration par laquelle il indique si une séparation de corps a été ou non prononcée judiciairement entre lui et son
+épouse, s'il est en jouissance de ses droits civils et si, à sa connaissance, son épouse a laissé ou non des enfants âgés de
+moins de vingt et un ans issus d'un précédent mariage ou enfants naturels dont la filiation est légalement établie ;
+
+6° Dans le cas où il y aurait eu divorce ou séparation de corps, l'ancien conjoint ou le veuf doit produire un extrait du
+jugement.
+
+Lorsque le demandeur fait état d'une infirmité ou maladie incurable le rendant définitivement incapable de travailler, le
+procès-verbal de la commission de réforme appelée à émettre un avis sur cette incapacité est exigé.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°79-82 1979-01-15 art. 7 JORF 30 janvier 1979
+
+	**Codifié par**:
+
+	  - Décret n°66-810 1966-10-28
+
+
+###### Article D26
+
+En vue d'obtenir la liquidation de la majoration pour enfants visée à l'article L. 18, le postulant doit souscrire une
+déclaration par laquelle il désigne nominativement les enfants au titre desquels il sollicite la majoration et atteste les
+avoir élevés dans les conditions fixées par ce texte. Indépendamment des justifications prévues à l'article D. 16, sont
+exigées en outre, si elles n'ont pas déjà été produites :
+
+1° Pour les enfants adoptifs, une copie de l'acte ou du jugement d'adoption ou du jugement de légitimation adoptive ou du
+jugement d'adoption plénière ;
+
+2° Pour les enfants ayant fait l'objet d'une délégation des droits de puissance paternelle ou de l'autorité parentale, une
+copie du jugement de délégation ;
+
+3° Pour les enfants sous tutelle, une expédition de l'acte de tutelle ;
+
+4° Pour les enfants décédés par faits de guerre, une copie de l'acte de décès.
+
+Sont considérés comme décédés par faits de guerre ceux dont l'acte de décès porte la mention "Mort pour la France" ainsi que
+ceux décédés dans des circonstances qualifiées faits de guerre, conformément aux dispositions des articles L. 193 et suivants
+du code des pensions militaires d'invalidité.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°79-82 1979-01-15 art. 8 JORF 30 janvier 1979
+
+	**Cite**:
+
+	  - Code des pensions civiles et militaires de retrait - art. L18 (M)
+	  - Code des pensions civiles et militaires de retraite L18, L193 et D16
+
+	**Codifié par**:
+
+	  - Décret n°66-810 1966-10-28
+
+
 #### Paragraphe II : Dispositions diverses.
 
 ###### Article D27
@@ -6561,6 +7010,22 @@ militaires quittant l'armée sans droit à pension.
 	**Cite**:
 
 	  - Code des pensions civiles et militaires de retrait - art. D30 (M)
+
+	**Codifié par**:
+
+	  - Décret n°66-810 1966-10-28
+
+
+###### Article D32
+
+Le bénéficiaire d'une pension à jouissance immédiate ou différée allouée au titre du présent code peut prétendre, s'il a en
+outre été affilié au régime général des assurances sociales, aux avantages de vieillesse prévus par ledit régime.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°79-82 1979-01-15 art. 9 JORF 30 janvier 1979
 
 	**Codifié par**:
 
@@ -6940,6 +7405,41 @@ servies aux intéressés, qui sont payés pour le net.
 	**Cité par**:
 
 	  - Code des pensions civiles et militaires de retrait - art. D54 (V)
+
+	**Codifié par**:
+
+	  - Décret n°66-810 1966-10-28
+
+
+###### Article D54
+
+Le produit de la cotisation de sécurité sociale visée à l'article précédent et de la cotisation à la charge de l'Etat est
+ordonnancé en fin de trimestre par le ministre des finances au profit de la caisse nationale de sécurité sociale ou de la
+caisse nationale militaire de sécurité sociale, suivant le cas, par imputation sur les crédits des chapitres de la dette
+viagère. Ce produit est calculé globalement en appliquant le taux de la cotisation de sécurité sociale en vigueur au premier
+jour du trimestre considéré au montant des crédits destinés à faire face, pendant ledit trimestre, au paiement des arrérages
+de pensions passibles de la retenue.
+
+Ce montant est préalablement réduit pour tenir compte du fait que certaines pensions sont en tout ou partie exemptes de la
+cotisation, notamment par l'effet du plafond d'assujettissement à la sécurité sociale. 
+
+Les sommes versées dans les conditions prévues à l'alinéa précédent au titre d'une année déterminée pourront faire l'objet
+d'une révision lors de la publication du compte général de l'administration des finances concernant ladite année, d'après les
+paiements d'arrérages réellement constatés en dépense.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°79-82 1979-01-15 art. 10 JORF 30 janvier 1979
+
+	**Cite**:
+
+	  - Code des pensions civiles et militaires de retrait - art. D53 (M)
+
+	**Cité par**:
+
+	  - Code des pensions civiles et militaires de retrait - art. D55 (Ab)
 
 	**Codifié par**:
 
