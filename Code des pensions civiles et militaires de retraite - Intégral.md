@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 1975-12-28
+Version Consolidée au 1977-06-08
 
 # Partie législative
 
@@ -2101,6 +2101,30 @@ Les enfants naturels reconnus et les enfants adoptifs sont assimilés aux orphel
 	  - Loi n°64-1339 1964-12-29
 
 
+###### Article L41
+
+Aucune condition d'antériorité de la naissance par rapport à la radiation des cadres de leur auteur n'est exigée des
+orphelins légitimes, légitimés ou naturels dont la filiation est légalement établie.
+
+Aucune condition d'antériorité de l'adoption par rapport à la radiation des cadres de l'adoptant n'est exigée des orphelins
+adoptifs.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°66-809 du 28 octobre 1966 - art. 12 (V)
+	  - Code de la sécurité sociale. - art. L161-21 (V)
+
+	**Modifié par**:
+
+	  - Loi n°77-574 1977-06-07 art. 19 JORF 8 juin 1977 rectificatif JORF 21 juin 1977
+
+	**Codifié par**:
+
+	  - Loi n°64-1339 1964-12-29
+
+
 ###### Article L42
 
 Les orphelins âgés de moins de vingt et un ans d'une femme fonctionnaire décédée en jouissance d'une pension et,
@@ -2259,6 +2283,34 @@ français, sauf dans le cas où ils viendraient à participer à un acte d'hosti
 
 #### Paragraphe Ier : Concession et révision de la pension.
 
+###### Article L53
+
+Lorsque, par suite du fait personnel du pensionné, la demande de liquidation ou de révision de la pension est déposée
+postérieurement à l'expiration de la quatrième année qui suit celle de l'entrée en jouissance normale de la pension, le
+titulaire ne peut prétendre qu'aux arrérages afférents à l'année au cours de laquelle la demande a été déposée et aux quatre
+années antérieures.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°65-773 du 9 septembre 1965 - art. 61 (Ab)
+	  - Décret n°92-620 du 7 juillet 1992 - art. 12 (V)
+	  - Loi - art. 68 (VT)
+	  - Décret n°2003-1306 du 26 décembre 2003 - art. 59 (V)
+	  - Décret n°2003-1306 du 26 décembre 2003 - art. 62 (V)
+	  - CODE DES COMMUNES. - art. R*354-48 (Ab)
+	  - Code des pensions civiles et militaires de retr... - art. D19-6 (V)
+
+	**Modifié par**:
+
+	  - Loi n°77-574 1977-06-07 art. 21 JORF 8 juin 1977 rectificatif JORF 21 juin 1977
+
+	**Codifié par**:
+
+	  - Loi n°64-1339 1964-12-29
+
+
 ###### Article L54
 
 Les pensions attribuées conformément aux dispositions du présent code sont inscrites au grand-livre de la Dette publique et
@@ -2270,6 +2322,37 @@ Les ministres ne peuvent faire payer sous quelque dénomination que ce soit aucu
 respectifs.
 
 **Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°64-1339 1964-12-29
+
+
+###### Article L55
+
+La pension et la rente viagère d'invalidité sont définitivement acquises et ne peuvent être révisées ou supprimées à
+l'initiative de l'administration ou sur demande de l'intéressé que dans les conditions suivantes :
+
+A tout moment en cas d'erreur matérielle ;
+
+Dans un délai d'un an à compter de la notification de la décision de concession initiale de la pension ou de la rente
+viagère, en cas d'erreur de droit.
+
+La restitution des sommes payées indûment au titre de la pension ou de la rente viagère d'invalidité supprimée ou révisée est
+exigible lorsque l'intéressé était de mauvaise foi. Cette restitution est, en tant que de besoin, poursuivie par l'agent
+judiciaire du Trésor.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°60-1089 du 6 octobre 1960 - art. 4 (V)
+	  - Décret n°2003-1306 du 26 décembre 2003 - art. 62 (V)
+	  - Décret n°2012-1256 du 13 novembre 2012 - art. 7 (V)
+
+	**Modifié par**:
+
+	  - Loi n°77-574 1977-06-07 art. 22 JORF 8 juin 1977 rectificatif JORF 21 juin 1977
 
 	**Codifié par**:
 
@@ -3217,6 +3300,34 @@ Le cumul de deux ou plusieurs pensions acquises au titre de services rendus dans
 	**Cite**:
 
 	  - Code des pensions civiles et militaires de retrait - art. L84 (M)
+
+	**Codifié par**:
+
+	  - Loi n°64-1339 1964-12-29
+
+
+#### Chapitre IV : Cumul d'accessoires de pension.
+
+###### Article L89
+
+Est interdit du chef d'un même enfant le cumul de plusieurs accessoires de traitement, solde, salaire et pension servis par
+l'Etat, les collectivités publiques et les organismes de prévoyance collectifs ou obligatoires, aux intéressés ou à leur
+conjoint, dans les conditions prévues à l'article L. 555 du code de la sécurité sociale. Cette interdiction ne s'applique pas
+à la majoration de pension prévue à l'article L. 18.
+
+En outre, le cumul de la majoration de pension prévue à l'article L. 18 et des prestations familiales afférentes aux enfants
+ouvrant droit à ladite majoration est autorisé.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°77-574 1977-06-07 art. 23 JORF 8 juin 1977 rectificatif JORF 21 juin 1977
+
+	**Cite**:
+
+	  - Code des pensions civiles et militaires de retrait - art. L18 (M)
+	  - Code de la sécurité sociale L555
 
 	**Codifié par**:
 
