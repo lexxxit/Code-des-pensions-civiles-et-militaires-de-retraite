@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 1983-12-30
+Version Consolidée au 1986-01-26
 
 # Partie législative
 
@@ -7516,6 +7516,31 @@ liquidation prévu par l'article R. 65 ainsi que la date de chaque échéance.
 	  - Code des pensions civiles et militaires de retraite R65
 
 
+#### Paragraphe III : Modalités de paiement des pensions.
+
+###### Article R100
+
+La pension est payée par un virement à un compte ouvert au nom du retraité, ou de son représentant légal, ou du mandataire
+désigné par l'un d'entre eux.
+
+A l'étranger, la pension est payée dans les conditions prévues par décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°66-809 1966-10-28
+
+	**Modifié par**:
+
+	  - Décret n°86-114 1986-01-23 art. 1 JORF 26 janvier 1986
+
+	**Cité par**:
+
+	  - Code des pensions civiles et militaires de retrait - art. R106 (Ab)
+	  - Code des pensions militaires d'invalidité et de... - art. R24 (VT)
+
+
 ### Chapitre II : Avances provisoires sur pensions en instance de liquidation.
 
 ###### Article R*101
@@ -8988,70 +9013,59 @@ La solde de réserve visée à l'article L. 51 est payée mensuellement par le m
 	  - Décret n°66-810 1966-10-28
 
 
+#### Paragraphe II : Contexture des titres de paiement.
+
+###### Article D40
+
+Le certificat d'inscription prévu à l'article R. 99, accompagné des documents nécessaires au paiement, est remis au pensionné
+ou à son représentant légal.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°86-112 1986-01-23 art. 2 JORF 26 janvier 1986
+
+	**Cite**:
+
+	  - Code des pensions civiles et militaires de retrait - art. R99 (M)
+
+	**Codifié par**:
+
+	  - Décret n°66-810 1966-10-28
+
+
 #### Paragraphe III : Modalités de paiement des pensions.
 
-###### Article D41
+###### Article D43
 
-**Nota:**
+Le pensionné ou son représentant légal a la faculté de faire percevoir les arrérages de la pension par un tiers. Celui-ci
+remet au comptable assignataire :
 
-[*(Abrogé par décret n° 86-112 du 23 janvier 1986, art. 3)*]
+- soit une procuration écrite établie selon les règles générales relatives au mandat ; si le mandat est donné par acte sous
+seing privé, il doit être signé, désigner le mandataire par ses nom, prénoms et adresse et indiquer expressément qu'il a pour
+effet d'autoriser la perception par le mandataire des arrérages de la pension dont la nature et le numéro sont précisés ;
 
-**Liens relatifs à cet article**
+- soit un certificat d'un modèle fixé par arrêté du ministre de l'économie, des finances et du budget délivré sans frais par
+le maire de la commune où réside le mandant et constatant que ce dernier donne procuration à l'effet d'encaisser les
+arrérages ; ce certificat peut être délivré par un notaire.
 
-	**Abrogé par**:
+Le mandataire doit, lorsque le comptable lui en fait la demande, justifier de l'existence du mandant soit par une fiche
+d'état civil, soit par un certificat de vie délivré par un notaire ou, à l'étranger, par une autorité consulaire française,
+soit par la présentation du livret de famille du pensionné ou de son représentant légal, soit enfin par toute autre pièce de
+nature à prouver cette existence.
 
-	  - Décret n°86-112 1986-01-23 art. 3 JORF 26 janvier 1986
-
-	**Codifié par**:
-
-	  - Décret n°66-810 1966-10-28
-
-
-###### Article D42
-
-**Nota:**
-
-[*(Abrogé par décret n° 86-112 du 23 janvier 1986, art. 3)*]
+Il doit signaler immédiatement au comptable le décès de son mandant.
 
 **Liens relatifs à cet article**
 
-	**Abrogé par**:
+	**Modifié par**:
 
-	  - Décret n°86-112 1986-01-23 art. 3 JORF 26 janvier 1986
+	  - Décret n°86-112 1986-01-23 art. 4 JORF 26 janvier 1986
 
-	**Codifié par**:
+	**Cité par**:
 
-	  - Décret n°66-810 1966-10-28
-
-
-###### Article D44
-
-**Nota:**
-
-[*(Abrogé par décret n° 86-112 du 23 janvier 1986, art. 5)*]
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Décret n°86-112 1986-01-23 art. 5 JORF 26 janvier 1986
-
-	**Codifié par**:
-
-	  - Décret n°66-810 1966-10-28
-
-
-###### Article D45
-
-**Nota:**
-
-[*(Abrogé par décret n° 86-112 du 23 janvier 1986, art. 5)*]
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Décret n°86-112 1986-01-23 art. 5 JORF 26 janvier 1986
+	  - Décret n°2015-1407 du 5 novembre 2015 - art. Annexe 1 (V)
 
 	**Codifié par**:
 
@@ -9074,87 +9088,24 @@ légal par le comptable français chargé du paiement ou par un consul de France
 	  - Décret n°66-810 1966-10-28
 
 
-#### Paragraphe IV : Paiement par l'intermédiaire d'un établissement bancaire.
+###### Article D47
 
-###### Article D48
+Des arrêtés du ministre de l'économie, des finances et du budget déterminent notamment :
 
-**Nota:**
+1° Les comptables publics qui participent au paiement des pensions ;
 
-[*(Abrogé par décret n° 86-112 du 23 janvier 1986, art. 7)*]
+2° Les justifications qui peuvent être demandées pour permettre l'exécution des virements ;
 
-**Liens relatifs à cet article**
+3° Les formalités à observer en cas de changement de représentant légal du pensionné ou de changement d'assignation de la
+pension, comme en cas de perte, destruction ou soustraction des titres de paiement ;
 
-	**Abrogé par**:
-
-	  - Décret n°86-112 1986-01-23 art. 7 JORF 26 janvier 1986
-
-	**Codifié par**:
-
-	  - Décret n°66-810 1966-10-28
-
-
-###### Article D49
-
-**Nota:**
-
-[*(Abrogé par décret n° 86-112 du 23 janvier 1986, art. 7)*]
+4° Les formalités à accomplir lorsque la pension est frappée de retenue ou de suspension ou lorsqu'elle vient à prendre fin.
 
 **Liens relatifs à cet article**
 
-	**Abrogé par**:
+	**Modifié par**:
 
-	  - Décret n°86-112 1986-01-23 art. 7 JORF 26 janvier 1986
-
-	**Codifié par**:
-
-	  - Décret n°66-810 1966-10-28
-
-
-###### Article D50
-
-**Nota:**
-
-[*(Abrogé par décret n° 86-112 du 23 janvier 1986, art. 7)*]
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Décret n°86-112 1986-01-23 art. 7 JORF 26 janvier 1986
-
-	**Codifié par**:
-
-	  - Décret n°66-810 1966-10-28
-
-
-###### Article D51
-
-**Nota:**
-
-[*(Abrogé par décret n° 86-112 du 23 janvier 1986, art. 7)*]
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Décret n°86-112 1986-01-23 art. 7 JORF 26 janvier 1986
-
-	**Codifié par**:
-
-	  - Décret n°66-810 1966-10-28
-
-
-###### Article D52
-
-**Nota:**
-
-[*(Abrogé par décret n° 86-112 du 23 janvier 1986, art. 7)*]
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Décret n°86-112 1986-01-23 art. 7 JORF 26 janvier 1986
+	  - Décret n°86-112 1986-01-23 art. 6 JORF 26 janvier 1986
 
 	**Codifié par**:
 
@@ -9262,6 +9213,29 @@ D. 472 du code des pensions militaires d'invalidité et des victimes de la guerr
 	  - Code des pensions militaires d'invalidité et de... - art. D472 (V)
 
 
+### Chapitre II : Avances provisoires sur pensions en instance de liquidation.
+
+###### Article D58
+
+Les avances visées aux articles R. 101 à R. 104 sont payées sans ordonnancement préalable et sans visa du contrôleur
+financier par les comptables du Trésor assignataires ; les dépenses correspondantes sont imputées par ces comptables aux
+chapitres ouverts au budget pour le service des pensions auxquelles elles se rapportent.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°86-112 1986-01-23 art. 8 JORF 26 janvier 1986
+
+	**Cite**:
+
+	  - Code des pensions civiles et militaires de retraite R101 à R104
+
+	**Codifié par**:
+
+	  - Décret n°66-810 1966-10-28
+
+
 ### Chapitre III : Avances mensuelles sur pensions concédées en paiement.
 
 #### Paragraphe Ier : Demande et autorisation de paiement d'avances.
@@ -9356,7 +9330,83 @@ délivrée.
 	  - Décret n°66-810 1966-10-28
 
 
+#### Paragraphe II : Paiement des avances.
+
+###### Article D62
+
+Le pensionné qui se présente pour toucher une avance doit être porteur de son certificat d'inscription et, s'il y a lieu, des
+autres documents nécessaires au paiement.
+
+Lors du paiement de la première avance, il doit apposer sa signature sur la fiche spéciale à son nom. S'il ne sait ou ne peut
+signer, il en est fait mention sur cette fiche.
+
+Pour chaque paiement, le pensionné souscrit une quittance du montant de la somme versée, augmentée de la commission dont la
+retenue est opérée par application de l'article R. 105. Le préposé s'assure que la signature de la partie prenante est
+conforme à celle dont est revêtue la fiche spéciale correspondante ; il fait mention du paiement sur la fiche spéciale.
+Aucune indication n'est portée sur le certificat d'inscription.
+
+Lorsque le titulaire de la pension ne sait ou ne peut signer, il en est fait mention sur la quittance ; le paiement est
+effectué, quel qu'en soit le montant, en présence de deux témoins connus ou justifiant de leur identité, qui indiquent leurs
+nom, prénoms, profession et domicile.
+
+Dans tous les cas où le titulaire de la pension ne peut se présenter en personne, il doit remettre une autorisation
+d'encaisser signée de lui à une tierce personne chargée de donner quittance en son lieu et place. S'il ne sait ou ne peut
+signer, l'autorisation d'encaisser doit être certifiée par le maire ou le commissaire de police de la commune de sa
+résidence.
+
+Les quittances afférentes aux avances successives sont dispensées du timbre, conformément à l'article 1269 du code général
+des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1269
+	  - Code des pensions civiles et militaires de retraite R105
+
+	**Modifié par**:
+
+	  - Décret n°86-112 1986-01-23 art. 9 JORF 26 janvier 1986
+
+	**Abrogé par**:
+
+	  - Décret n°2003-1309 du 26 décembre 2003 - art. 27 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
+
+	**Codifié par**:
+
+	  - Décret n°66-810 1966-10-28
+
+
 #### Paragraphe III : Paiement du solde du trimestre.
+
+###### Article D63
+
+L'établissement qui a fait une ou deux avances à un pensionné sur les arrérages d'un trimestre paie le solde de ce trimestre,
+à l'échéance, au vu du certificat d'inscription et, s'il y a lieu, des autres documents nécessaires au paiement.
+
+Le préposé de l'établissement détermine la somme restant à payer au pensionné sur le trimestre échu, après déduction des
+avances faites. L'acquit est donné pour le montant total des arrérages du trimestre.
+
+Le paiement du solde ne donne lieu à la perception d'aucun droit de commission.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°86-112 1986-01-23 art. 10 JORF 26 janvier 1986
+
+	**Abrogé par**:
+
+	  - Décret n°2003-1309 du 26 décembre 2003 - art. 27 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
+
+	**Cité par**:
+
+	  - Code des pensions civiles et militaires de retrait - art. D76 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°66-810 1966-10-28
+
 
 ###### Article D64
 
@@ -9370,6 +9420,37 @@ serait renvoyée au comptable supérieur du Trésor assignataire dès la fin du 
 obtenir de nouvelles avances qu'après l'accomplissement des formalités prévues à l'article D. 59.
 
 **Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Décret n°2003-1309 du 26 décembre 2003 - art. 27 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
+
+	**Cite**:
+
+	  - Code des pensions civiles et militaires de retrait - art. D59 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°66-810 1966-10-28
+
+
+###### Article D65
+
+Si le pensionné qui a touché des avances dans un établissement ne se présente pas pour retirer le solde des arrérages
+[*délai*] avant l'expiration du mois qui suit celui de l'échéance du trimestre, la fiche spéciale, dûment annotée, est
+renvoyée au comptable supérieur assignataire, qui a seul qualité pour autoriser le paiement dudit solde.
+
+Les quittances relatives aux avances restées en suspens sont versées à ce comptable qui en rembourse le montant à
+l'établissement.
+
+Si le pensionné veut obtenir ultérieurement d'autres avances, il doit formuler une nouvelle demande dans les conditions
+prévues à l'article D. 59.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°86-112 1986-01-23 art. 11 JORF 26 janvier 1986
 
 	**Abrogé par**:
 
@@ -9428,6 +9509,32 @@ Les bureaux de poste effectuent pour le compte de la caisse nationale d'épargne
 Trésor le paiement du solde des arrérages trimestriels échus.
 
 **Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Décret n°2003-1309 du 26 décembre 2003 - art. 27 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
+
+	**Codifié par**:
+
+	  - Décret n°66-810 1966-10-28
+
+
+###### Article D69
+
+Les pièces de dépense afférentes aux pensions ayant donné lieu à avance, portant l'acquit des pensionnés, sont versées par le
+chef du centre régional de comptabilité des postes et télécommunications au comptable du Trésor assignataire. Il en est de
+même des quittances d'avances afférentes à des pensions dont le solde trimestriel n'a pas été payé.
+
+**Nota:**
+
+[* Les mots " chef d'établissement " sont substitués à ceux de : " receveur " ou " chef de centre ", par l'article 1er du
+décret n° 91-70 du 17 janvier 1991. *]
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°86-112 1986-01-23 art. 12 JORF 26 janvier 1986
 
 	**Abrogé par**:
 
@@ -9540,6 +9647,36 @@ Les caisses de crédit municipal font face, au moyen de l'ensemble des fonds don
 	**Abrogé par**:
 
 	  - Décret n°2003-1309 du 26 décembre 2003 - art. 27 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
+
+	**Codifié par**:
+
+	  - Décret n°66-810 1966-10-28
+
+
+###### Article D76
+
+Le solde des arrérages trimestriels est payé dans les conditions prévues à l'article D. 63.
+
+Les caisses du crédit municipal versent au comptable du Trésor assignataire les pièces de dépense portant l'acquit des
+pensionnés, y compris les quittances d'avances afférentes à des avances sur pensions dont ils n'ont pas payé le solde, après
+les avoir récapitulées sur un bordereau spécial.
+
+Sur le vu des justifications et après vérification, les sommes payées par les caisses de crédit municipal, à titre d'avances
+ou de solde, leur sont remboursées par le comptable assignataire, qui crédite leur compte et leur en donne avis.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°86-112 1986-01-23 art. 13 JORF 26 janvier 1986
+
+	**Abrogé par**:
+
+	  - Décret n°2003-1309 du 26 décembre 2003 - art. 27 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
+
+	**Cite**:
+
+	  - Code des pensions civiles et militaires de retrait - art. D63 (Ab)
 
 	**Codifié par**:
 
