@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 2001-07-18
+Version Consolidée au 2002-01-01
 
 # Partie législative
 
@@ -4948,12 +4948,33 @@ date d'entrée en jouissance de sa pension.
 ###### Article L87
 
 En aucun cas, le temps décompté dans la liquidation d'une pension acquise au titre du présent code ou de l'un des régimes de
-retraites des collectivités visées à l'article L. 84 ou d'un régime de retraites d'un organisme international ne peut
-intervenir dans la liquidation d'une autre pension rémunérant des services accomplis à l'Etat.
+retraite des collectivités visées à l'article L. 84 ne peut intervenir dans la liquidation d'une autre pension rémunérant des
+services accomplis à l'Etat.
+
+Dans le cas où le fonctionnaire ou le militaire détaché dans une administration ou un organisme implanté sur le territoire
+d'un Etat étranger ou auprès d'un organisme international au cours de sa carrière a opté pour la poursuite de la retenue
+prévue à l'article L. 61, le montant de la pension acquise au titre de ce code, ajouté au montant de la pension
+éventuellement servie au titre des services accomplis en position de détachement, ne peut être supérieur à la pension qu'il
+aurait acquise en l'absence de détachement et la pension du présent code est, le cas échéant, réduite à concurrence du
+montant de la pension acquise lors de ce détachement.
+
+Le pensionné visé à l'alinéa précédent a l'obligation de communiquer annuellement au service liquidateur du ministère chargé
+du budget les éléments de nature à apprécier le montant de sa pension étrangère. A défaut, ce service liquidateur opère une
+réduction du montant de la pension à concurrence du temps passé dans cette position de détachement.
 
 Le cumul de deux ou plusieurs pensions acquises au titre de services rendus dans des emplois successifs est autorisé.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°72-662 du 13 juillet 1972 - art. 56 (M)
+	  - Loi n°84-16 du 11 janvier 1984 - art. 46 (M)
+	  - Loi n°84-53 1984-01-26 art. 65
+	  - Loi n°86-33 1986-01-09 art. 53
+	  - Code des pensions civiles et militaires de retrait - art. L61 (M)
+	  - Code des pensions civiles et militaires de retrait - art. L64 (V)
+	  - Code des pensions civiles et militaires de retrait - art. L84 (M)
 
 	**Cité par**:
 
@@ -4967,9 +4988,9 @@ Le cumul de deux ou plusieurs pensions acquises au titre de services rendus dans
 	  - Code des pensions civiles et militaires de retr... - art. R95-3 (V)
 	  - Code des pensions civiles et militaires de retrait - art. L87 (M)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code des pensions civiles et militaires de retrait - art. L84 (M)
+	  - Loi n°2002-73 2002-01-17 art. 20 jorf 18 janvier 2002  en vigueur le 1er janvier 2002
 
 	**Codifié par**:
 
