@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 1977-06-08
+Version Consolidée au 1977-11-20
 
 # Partie législative
 
@@ -4151,6 +4151,42 @@ au concours de recrutement dans les conditions exigées par le statut particulie
 	**Codifié par**:
 
 	  - Décret n°66-809 1966-10-28
+
+	**Cite**:
+
+	  - Code des pensions civiles et militaires de retrait - art. L12 (M)
+
+
+###### Article R25-1
+
+La bonification prévue par l'article L. 12, i, attribuée dans la limite de cinq annuités, est calculée en fonction des
+services militaires effectivement accomplis.
+
+La bonification est diminuée :
+
+D'une annuité pour les militaires radiés des cadres au plus tôt à compter du jour de leur cinquante-sixième anniversaire et
+au plus tard à compter de la veille de leur cinquante-septième anniversaire ;
+
+De deux annuités pour les militaires radiés des cadres au plus tôt à compter du jour de leur cinquante-septième anniversaire
+et au plus tard la veille de leur cinquante-huitième anniversaire ;
+
+De trois annuités pour les militaires radiés des cadres à compter du jour de leur cinquante-huitième anniversaire ou, en cas
+de radiation par limite d'âge, du lendemain de ce jour.
+
+En cas de radiation des cadres prononcée après le jour du cinquante-huitième anniversaire ou en cas de radiation des cadres
+par limite d'âge après le lendemain de cette date, aucune bonification n'est accordée.
+
+Ces dispositions sont applicables aux militaires rayés des cadres avec effet d'une date postérieure au 31 décembre 1975.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°66-809 1966-10-28
+
+	**Modifié par**:
+
+	  - Décret n°77-1268 1977-11-09 art. 1 JORF 20 novembre 1977
 
 	**Cite**:
 
