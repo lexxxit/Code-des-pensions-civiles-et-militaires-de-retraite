@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 1970-12-31
+Version Consolidée au 1972-07-14
 
 # Partie législative
 
@@ -120,6 +120,98 @@ des fonctions.
 
 
 #### Chapitre II : Militaires.
+
+##### Paragraphe Ier : Généralités.
+
+###### Article L6
+
+Le droit à pension est acquis :
+
+1° Aux officiers et aux militaires non officiers qui ont accompli quinze ans de services civils et militaires effectifs ;
+
+2° Sans condition de durée de services, aux officiers et sous-officiers de carrière radiés des cadres par suite d'infirmités.
+
+3° Aux militaires non officiers ne possédant pas le statut de militaires de carrière qui ont accompli plus de cinq ans et
+moins de quinze ans de services effectifs et qui ont été radiés des cadres pour infirmités imputables au service ;
+
+4° Sans condition de durée de services aux militaires non officiers servant par contrat au-delà de la durée légale qui ont
+accompli moins de quinze ans de services effectifs et qui ont été radiés des cadres pour infirmités attribuables à un service
+en opérations de guerre ouvrant droit au bénéfice de campagne double et contractées après l'expiration de la durée légale du
+service militaire obligatoire.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°58-1329 du 23 décembre 1958 - art. 8 (V)
+	  - Loi n°72-662 du 13 juillet 1972 - art. 82 (Ab)
+	  - Décret n°74-338 du 22 avril 1974 - art. 38 (Ab)
+	  - Loi n°96-1111 du 19 décembre 1996 - art. 14 (V)
+	  - Code des transports - art. L6527-9 (V)
+	  - Code de l'aviation civile - art. L426-2 (VT)
+	  - Code de la défense. - art. L4139-5 (V)
+	  - Code de la sécurité sociale. - art. L532-2 (V)
+	  - Code des pensions civiles et militaires de retr... - art. L34 (V)
+	  - Code des pensions civiles et militaires de retrait - art. D19 (V)
+	  - Code des pensions civiles et militaires de retrait - art. L35 (V)
+	  - Code des pensions civiles et militaires de retrait - art. L47 (V)
+	  - Code des pensions civiles et militaires de retrait - art. L48 (V)
+	  - Code des pensions civiles et militaires de retrait - art. L60 (Ab)
+	  - Code des pensions civiles et militaires de retrait - art. L7 (V)
+	  - Code des pensions civiles et militaires de retrait - art. R*64 (Ab)
+	  - Code des pensions civiles et militaires de retrait - art. R*83 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°72-662 1972-07-13 art. 109-1 JORF 14 juillet 1972
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°79-156 du 27 février 1979
+	  - TXT_SOURCE: Décret n°79-156 du 27 février 1979 - art. 1 (V)
+	  - TXT_SOURCE: Décret n°79-156 du 27 février 1979 - art. 2 (V)
+	  - TXT_SOURCE: Décret n°79-156 du 27 février 1979 - art. 3 (V)
+	  - TXT_SOURCE: Décret n°79-156 du 27 février 1979 - art. 4 (V)
+
+	**Codifié par**:
+
+	  - Loi n°64-1339 1964-12-29
+
+
+###### Article L7
+
+Le droit à la solde de réforme est acquis :
+
+1° S'ils sont réformés définitivement pour infirmités, aux militaires non officiers servant par contrat au-delà de la durée
+légale et qui ne peuvent prétendre au bénéfice des dispositions de l'article L. 6 (3° et 4°) ;
+
+2° Aux officiers et aux sous-officiers de carrière comptant moins de quinze ans de services civils et militaires radiés des
+cadres par mesure disciplinaire.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°58-351 du 2 avril 1958 - art. 17 (V)
+	  - Loi n°72-662 du 13 juillet 1972 - art. 82 (Ab)
+	  - Décret n°74-338 du 22 avril 1974 - art. 38 (Ab)
+	  - Loi n°96-1111 du 19 décembre 1996 - art. 12 (V)
+	  - Code des pensions civiles et militaires de retrait - art. L22 (V)
+	  - Code des pensions civiles et militaires de retrait - art. L47 (V)
+	  - Code des pensions civiles et militaires de retrait - art. L65 (M)
+
+	**Codifié par**:
+
+	  - Loi n°64-1339 1964-12-29
+
+	**Modifié par**:
+
+	  - Loi n°72-662 du 13 juillet 1972 - art. 109 () JORF 14 juillet 1972
+
+	**Cite**:
+
+	  - Code des pensions civiles et militaires de retrait - art. L6 (M)
+
 
 ##### Paragraphe II : Eléments constitutifs.
 
@@ -1219,6 +1311,27 @@ titulaire s'il n'avait pas été promu à un emploi ou grade supérieur.
 	  - Loi n°64-1339 du 26 décembre 1964 - art. 3 (V)
 
 
+###### Article L21
+
+Les bénéfices de campagne et les bonifications pour services aériens et sous-marins ne peuvent entrer en compte pour la
+liquidation de la pension allouée aux officiers radiés des cadres par mesure disciplinaire avant d'avoir accompli vingt-cinq
+ans de services effectifs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°64-1339 1964-12-29
+
+	**Cité par**:
+
+	  - Loi n°64-1339 du 26 décembre 1964 - art. 3 (V)
+
+	**Modifié par**:
+
+	  - Loi n°72-662 du 13 juillet 1972 - art. 109 () JORF 14 juillet 1972
+
+
 ###### Article L22
 
 La solde de réforme prévue en faveur des officiers et militaires non officiers visés à l'article L. 7 est fixée à 30 % des
@@ -1263,6 +1376,51 @@ services et de bonifications.
 
 
 ### Titre IV : Jouissance de la pension ou de la solde de réforme.
+
+###### Article L25
+
+La jouissance de la pension est différée :
+
+1° Pour les fonctionnaires civils autres que ceux visés à l'article L. 24, jusqu'à l'âge de soixante ans ou, s'ils ont
+accompli quinze ans  de services actifs ou de la catégorie B, jusqu'à l'âge de cinquante-cinq ans ;
+
+2° Pour les officiers ne réunissant pas vingt-cinq ans de services effectifs autres que ceux visés à l'article L. 24, jusqu'à
+l'âge de cinquante ans ;
+
+3° Pour les officiers radiés des cadres par mesure disciplinaire avant d'avoir accompli vingt-cinq ans de services effectifs,
+jusqu'à la date à laquelle ils auraient atteint la limite d'âge en vigueur à la date de cette radiation, et sans que cette
+jouissance puisse être antérieure au cinquantième anniversaire.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°72-662 du 13 juillet 1972 - art. 109 () JORF 14 juillet 1972
+
+	**Cité par**:
+
+	  - Loi n°2003-775 du 21 août 2003 - art. 5 (V)
+	  - Décret n°2003-1309 du 26 décembre 2003 - art. 28 (V)
+	  - Loi n°2005-270 du 24 mars 2005 - art. 68 (Ab)
+	  - Loi n°2005-270 du 24 mars 2005 - art. 73 (Ab)
+	  - Loi n°2010-1330 du 9 novembre 2010 - art. 45 (V)
+	  - Décret n°2011-705 du 21 juin 2011 - art. 3 (V)
+	  - Décret n°2015-1388 du 30 octobre 2015 (V)
+	  - Code de la défense. - art. L4139-13 (V)
+	  - Code de la défense. - art. L4139-8 (V)
+	  - Code de la sécurité sociale. - art. L161-17-2 (V)
+	  - Code des pensions civiles et militaires de retr... - art. L28 (V)
+	  - Code des pensions civiles et militaires de retrait - art. L3 (V)
+	  - Code des pensions civiles et militaires de retrait - art. L67 (V)
+
+	**Cite**:
+
+	  - Code des pensions civiles et militaires de retrait - art. L24 (M)
+
+	**Codifié par**:
+
+	  - Loi n°64-1339 1964-12-29
+
 
 ###### Article L26
 
@@ -2326,6 +2484,27 @@ d'organisations internationales.
 	  - Loi n°64-1339 du 26 décembre 1964 - art. 3 (V)
 
 
+###### Article L74
+
+Les militaires de tous grades en service détaché ont droit aux bénéfices de campagne ainsi qu'aux bonifications pour services
+aériens ou sous-marins dans les conditions déterminées par règlement d'administration publique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°64-1339 1964-12-29
+
+	**Modifié par**:
+
+	  - Loi n°72-662 du 13 juillet 1972 - art. 109 () JORF 14 juillet 1972
+
+	**Cité par**:
+
+	  - Loi - art. 68 (VT)
+	  - Code des pensions civiles et militaires de retrait - art. R*75 (V)
+
+
 ###### Article L75
 
 Tout fonctionnaire ou militaire qui réunit au moins quinze ans de services à l'époque de l'acceptation du mandat de député ou
@@ -2446,6 +2625,74 @@ La pension est éventuellement révisée pour tenir compte des nouveaux services
 	**Cité par**:
 
 	  - Loi n°64-1339 du 26 décembre 1964 - art. 12 (V)
+
+
+###### Article L79
+
+Les militaires autres que ceux de l'armée active cumulent en temps de paix, pendant les exercices ou manoeuvres auxquels ils
+sont convoqués, la pension militaire dont ils jouissent avec la solde et les prestations militaires afférentes à leur grade,
+mais le temps passé sous les drapeaux dans ces conditions n'entre pas dans la supputation des services militaires donnant
+droit à pension ou à révision d'une telle pension.
+
+Les militaires autorisés à contracter un engagement voient suspendre pendant la durée de ce dernier la pension dont ils
+pourraient être titulaires. Elle est éventuellement révisée au moment de la radiation définitive des contrôles, compte tenu
+des nouveaux services accomplis.
+
+La pension des officiers supérieurs ou subalternes et assimilés ayant atteint la limite d'âge de leur grade ou retraités
+après vingt-cinq ou trente ans de services, maintenus ou rappelés au service dans les conditions définies à l'article 25 de
+la loi n° 52-757 du 30 juin 1952, est suspendue jusqu'au moment où les intéressés cessent définitivement leur activité. Les
+services ainsi accomplis ne peuvent ouvrir de nouveaux droits à pension ou à révision de pension.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°52-757 1952-06-30 art. 25
+
+	**Créé par**:
+
+	  - Loi n°64-1339 1964-12-26 JORF 30 décembre 1964 rectificatif JORF 10 janvier 1965 en vigueur le 1er décembre 1964
+
+	**Cité par**:
+
+	  - Arrêté du 15 janvier 2001 - art. 1er (V)
+	  - Code des pensions civiles et militaires de retrait - art. L80 (V)
+
+	**Codifié par**:
+
+	  - Loi n°64-1339 1964-12-29
+
+	**Modifié par**:
+
+	  - Loi n°72-662 du 13 juillet 1972 - art. 109 () JORF 14 juillet 1972
+
+
+###### Article L80
+
+Sous réserve des dispositions de l'article L. 79, le versement de la pension des retraités militaires présents sous les
+drapeaux en temps de paix pour une durée continue, égale ou supérieure à un mois, est suspendu pendant toute la durée de
+cette présence.
+
+Les services accomplis par les militaires de réserve rappelés ou maintenus en activité en vertu des articles 76 (2e alinéa),
+77, 82 (2e alinéa), à l'exception du cas de convocation pour les périodes d'exercice et 84 (4e alinéa) du code du service
+national entrent en compte pour la constitution des droits à pension et la liquidation de celle-ci. Pour les retraités
+militaires, la pension déjà acquise est éventuellement révisée pour tenir compte des nouveaux services lorsque ceux-ci ont
+une durée continue, égale ou supérieure à un mois.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°72-662 du 13 juillet 1972 - art. 109 () JORF 14 juillet 1972
+
+	**Cite**:
+
+	  - Code des pensions civiles et militaires de retrait - art. L79 (V)
+	  - Code du service national 76 al. 2, 77, 82 al. 2 et 84 al. 4
+
+	**Codifié par**:
+
+	  - Loi n°64-1339 1964-12-29
 
 
 ###### Article L81
@@ -4322,6 +4569,59 @@ la partie diligente, désignera la personne attributaire du droit d'option.
 ### Titre II : Dispositions particulières relatives à certaines catégories de retraités civils et militaires.
 
 #### Chapitre Ier : Agents en service détaché.
+
+###### Article R*74
+
+Lorsqu'un fonctionnaire qui a été placé en position de détachement au cours de sa carrière n'a pas acquitté à la date de sa
+radiation des cadres les retenues pour pension dont il était redevable dans cette position, la pension est néanmoins
+concédée, mais il est procédé, avant la mise en paiement de cette pension, au précompte intégral sur les premiers arrérages
+des retenues non versées.
+
+Ces dispositions sont applicables aux personnels militaires et assimilés placés ou qui auraient été placés en service
+détaché.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°66-809 1966-10-28
+
+	**Modifié par**:
+
+	  - Décret n°71-74 1971-01-21 art. 4 JORF 28 janvier 1971
+	  - Loi n°72-662 du 13 juillet 1972 - art. 109 () JORF 14 juillet 1972
+
+
+###### Article R*75
+
+Les militaires de tous grades en service détaché visés à l'article L. 74 ont droit aux bénéfices de campagne prévus aux
+articles R. 15, b et c, et R. 16 dans les mêmes conditions que les militaires en service sur ces territoires. Ils ne peuvent
+prétendre aux bonifications prévues à l'article R. 20 ainsi qu'aux bénéfices de campagne prévus aux articles R. 15, a, et R.
+17 et au bénéfice de la double campagne prévu à l'article R. 14, A, que s'ils ont été placés en service détaché  pour exercer
+des fonctions de même nature.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°66-809 1966-10-28
+
+	**Modifié par**:
+
+	  - Loi n°72-662 du 13 juillet 1972 - art. 109 () JORF 14 juillet 1972
+
+	**Cité par**:
+
+	  - Arrêté du 24 mai 1974 - art. 7 (Ab)
+	  - Code de la défense. - art. R4138-37 (V)
+
+	**Cite**:
+
+	  - Code des pensions civiles et militaires de retrait - art. L74 (M)
+	  - Code des pensions civiles et militaires de retrait - art. R15 (V)
+	  - Code des pensions civiles et militaires de retrait - art. R16 (V)
+	  - Code des pensions civiles et militaires de retraite L74, R14, R15, R16, R17 et R20
+
 
 ###### Article R*76
 
