@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 2003-08-22
+Version Consolidée au 2004-01-01
 
 # Partie législative
 
@@ -62,8 +62,9 @@ disponibilité ;
 
 ###### Article L3
 
-Les fonctionnaires civils et militaires ne peuvent prétendre à pension au titre du présent code qu'après avoir été radiés des
-cadres, soit sur leur demande, soit d'office, en application des règles posées :
+Les fonctionnaires civils et militaires ne peuvent prétendre à pension au titre du présent code dans les conditions définies
+aux articles L. 24 et L. 25  qu'après avoir été radiés des cadres, soit sur leur demande, soit d'office, en application des
+règles posées :
 
 a) Pour le personnel civil, par le statut général de la fonction publique ou les statuts particuliers ;
 
@@ -71,9 +72,18 @@ b) Pour le personnel militaire, par les textes qui le régissent.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Loi n°2003-775 du 21 août 2003 - art. 42 () JORF 22 août 2003 en vigueur le 1er janvier 2004
+
 	**Cité par**:
 
 	  - Code de la sécurité sociale. - art. D712-11 (VD)
+
+	**Cite**:
+
+	  - Code des pensions civiles et militaires de retrait - art. L24 (M)
+	  - Code des pensions civiles et militaires de retrait - art. L25 (M)
 
 	**Codifié par**:
 
@@ -132,44 +142,50 @@ des fonctions.
 
 Les services pris en compte dans la constitution du droit à pension sont :
 
-1° Les services accomplis en qualité de fonctionnaire titulaire, la période pendant laquelle les intéressés ont été autorisés
-à accomplir un service à temps partiel dans les conditions prévues à l'article 37 de la loi n° 84-16 du 11 janvier 1984
-précitée étant comptée pour la totalité de sa durée ;
+1° Les services accomplis par les fonctionnaires titulaires et stagiaires mentionnés à l'article 2 de la loi n° 83-634 du 13
+juillet 1983 précitée ;
 
-2° Les services militaires, à l'exclusion de ceux effectués en temps de paix avant l'âge de seize ans ;
+2° Les services militaires ;
 
 3° Les services accomplis dans les établissements industriels de l'Etat en qualité d'affilié au régime de retraites de la loi
 du 21 mars 1928, modifiée par la loi n° 49-1097 du 2 août 1949 ;
 
-4° Les services accomplis dans les cadres permanents des administrations des départements, des communes, des établissements
-publics départementaux et communaux ;
+4° Les services accomplis par les magistrats de l'ordre judiciaire ;
 
-5° Les services rendus dans les cadres locaux permanents des administrations des territoires d'outre-mer et des anciennes
-colonies érigées en départements d'outre-mer en application de la loi n° 46-451 du 19 mars 1946 ;
+5° Les services rendus dans les cadres locaux permanents des administrations des collectivités territoriales d'outre-mer et
+de leurs établissements publics. Un décret en Conseil d'Etat détermine les modalités de prise en compte de ces services ;
 
-6° Les services rendus jusqu'à la date de l'indépendance ou du transfert de souveraineté ou jusqu'à la date de leur
-intégration dans les cadres métropolitains, dans les cadres des administrations de l'Algérie et des anciens pays et
-territoires d'outre-mer, anciens protectorats et territoires sous tutelle. Un règlement d'administration publique déterminera
-les modalités de prise en compte de ces services ;
+6° Les services effectués jusqu'à la date de l'indépendance ou jusqu'à celle de leur intégration dans les cadres
+métropolitains par les agents ayant servi dans les cadres de l'administration de l'Algérie, des anciens pays et territoires
+d'outre-mer, anciens protectorats et territoires sous tutelle ;
 
-7° Les services de stage ou de surnumérariat accomplis à partir de l'âge de dix-huit ans ;
+7° Abrogé ;
 
 8° Pour les instituteurs, le temps passé à l'école normale à partir de l'âge de dix-huit ans.
+
+Les périodes de services accomplies à temps partiel en application de l'article 37 de la loi n° 84-16 du 11 janvier 1984
+précitée, de l'article 60 de la loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction
+publique territoriale et de l'article 46 de la loi n° 86-33 du 9 janvier 1986 portant dispositions statutaires relatives à la
+fonction publique hospitalière sont comptées pour la totalité de leur durée.
 
 Peuvent également être pris en compte pour la constitution du droit à pension les services d'auxiliaire, de temporaire,
 d'aide ou de contractuel, y compris les périodes de congé régulier pour longue maladie, accomplis dans les administrations
 centrales de l'Etat, les services extérieurs en dépendant et les établissements publics de l'Etat ne présentant pas un
 caractère industriel et commercial, si la validation des services de cette nature a été autorisée pour cette administration
-par un arrêté conjoint du ministre intéressé et du ministre des finances et si elle est demandée avant la radiation des
-cadres.
+par un arrêté conjoint du ministre intéressé et du ministre des finances et si elle est demandée dans les deux années qui
+suivent la date de la titularisation ou d'entrée en service pour les militaires sous contrat.
+
+Le délai dont dispose l'agent pour accepter ou refuser la notification de validation est d'un an.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°46-451 1946-03-19
 	  - Loi n°49-1097 1949-08-02
+	  - Loi n°83-634 1983-07-13 art. 2
 	  - Loi n°84-16 1984-01-11 art. 37
+	  - Loi n°84-53 1984-01-26 art. 60
+	  - Loi n°86-33 du 9 janvier 1986 - art. 46 (M)
 	  - Loi n°1928-03-21
 
 	**Cité par**:
@@ -262,7 +278,7 @@ cadres.
 
 	**Modifié par**:
 
-	  - Loi n°91-715 du 26 juillet 1991 - art. 6 () JORF 27 juillet 1991
+	  - Loi n°2003-775 du 21 août 2003 - art. 43 () JORF 22 août 2003 en vigueur le 1er janvier 2004
 
 	**Codifié par**:
 
@@ -398,16 +414,33 @@ tout engagement militaire, lesdits services se décomptant du jour de l'entrée 
 
 ###### Article L9
 
-Le temps passé dans toutes positions statutaires ne comportant pas l'accomplissement de services effectifs ne peut entrer en
-compte dans la constitution du droit à pension, sauf, d'une part, dans le cas où le fonctionnaire ou le militaire se trouve
-placé en position régulière d'absence pour cause de maladie et, d'autre part, dans les cas exceptionnels prévus par une loi
-ou par un règlement d'administration publique.
+Le temps passé dans une position statutaire ne comportant pas l'accomplissement de services effectifs au sens de l'article L.
+5 ne peut entrer en compte dans la constitution du droit à pension, sauf :
+
+1° Dans la limite de trois ans par enfant légitime, naturel ou adoptif, né ou adopté à partir du 1er janvier 2004, sous
+réserve que le titulaire de la pension ait bénéficié :
+
+a) D'un temps partiel de droit pour élever un enfant ;
+
+b) D'un congé parental ;
+
+c) D'un congé de présence parentale ;
+
+d) Ou d'une disponibilité pour élever un enfant de moins de huit ans.
+
+Les modalités de prise en compte de ces périodes d'interruption ou de réduction d'activité prévues par les articles 37 bis,
+54 et 54 bis de la loi n° 84-16 du 11 janvier 1984 précitée, par l'article 47 du décret n° 85-986 du 16 septembre 1985
+relatif au régime particulier de certaines positions des fonctionnaires de l'Etat et à certaines modalités de cessation
+définitive de fonctions et par la loi n° 72-662 du 13 juillet 1972 portant statut général des militaires sont précisées par
+décret en Conseil d'Etat ;
+
+2° Dans les cas exceptionnels prévus par une loi ou par un décret en Conseil d'Etat.
 
 En ce qui concerne les fonctionnaires civils, et hormis les positions prévues aux articles 34 et 45 de la loi n° 84-16 du 11
-janvier 1984 précitée, le temps passé dans toute position ne comportant pas l'accomplissement de services effectifs et prévue
-par les textes visés à l'alinéa précédent n'est compté comme service effectif que dans la limite maximum de cinq ans et sous
-réserve que les bénéficiaires subissent pendant ce temps, sur leur dernier traitement d'activité, les retenues prescrites par
-le présent code.
+janvier 1984 précitée, le temps passé dans une position ne comportant pas l'accomplissement de services effectifs n'est
+compté comme service effectif que dans la limite de cinq ans et sous réserve que les bénéficiaires subissent pendant ce
+temps, sur leur dernier traitement d'activité, les retenues prescrites par le présent code. Ces dispositions ne sont pas
+applicables aux cas prévus au 1°.
 
 **Liens relatifs à cet article**
 
@@ -459,11 +492,87 @@ le présent code.
 
 	**Cite**:
 
-	  - Loi n°84-16 1984-01-11 art. 34, art. 45
+	  - Loi n°72-662 1972-07-13
+	  - Loi n°84-16 1984-01-11 art. 37 bis, art. 54, art. 54 bis, art. 34, art. 45
+	  - Décret n°85-986 du 16 septembre 1985 - art. 47 (M)
+	  - Code des pensions civiles et militaires de retrait - art. L5 (M)
 
 	**Modifié par**:
 
-	  - Loi n°91-715 du 26 juillet 1991 - art. 6 () JORF 27 juillet 1991
+	  - Loi n°2003-775 du 21 août 2003 - art. 44 () JORF 22 août 2003 en vigueur le 1er janvier 2004
+
+	**Codifié par**:
+
+	  - Loi n°64-1339 1964-12-29
+
+
+###### Article L9 bis
+
+Les périodes d'études accomplies dans les établissements, écoles et classes mentionnés à l'article L. 381-4 du code de la
+sécurité sociale sont prises en compte :
+
+- soit au titre de l'article L. 13 ;
+
+- soit au titre du I ou du II de l'article L. 14 ;
+
+- soit pour obtenir un supplément de liquidation au titre de l'article L. 13 sans que ce supplément soit pris en compte dans
+la durée d'assurance définie à l'article L. 14.
+
+Cette prise en compte peut concerner au plus douze trimestres, sous réserve de l'obtention du diplôme et du versement des
+cotisations nécessaires dans des conditions de neutralité actuarielle pour le régime selon un barème et des modalités de
+paiement définis par décret.
+
+Les périodes d'études ayant permis l'obtention d'un diplôme équivalent délivré par un Etat membre de l'Union européenne
+peuvent également être prises en compte.
+
+L'admission dans les grandes écoles et classes du second degré préparatoires à ces écoles est assimilée à l'obtention d'un
+diplôme.
+
+Ces trimestres ne doivent pas avoir donné lieu à une affiliation à un régime de retraite de base obligatoire.
+
+Un décret en Conseil d'Etat fixe les conditions d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°73-937 du 2 octobre 1973 - art. 3 quinquies (V)
+	  - Décret n°2003-1310 du 26 décembre 2003 - art. 2 bis (V)
+	  - Code de la sécurité sociale. - art. L173-7 (V)
+	  - Code de la sécurité sociale. - art. R351-4 (V)
+	  - Code des pensions civiles et militaires de retrait - art. D21-1 (V)
+	  - Code général des impôts, CGI. - art. 83 (V)
+
+	**Créé par**:
+
+	  - Loi n°2003-775 du 21 août 2003 - art. 45 () JORF 22 août 2003 en vigueur le 1er janvier 2004
+
+	**Cite**:
+
+	  - Code des pensions civiles et militaires de retrait - art. L13 (M)
+	  - Code des pensions civiles et militaires de retrait - art. L14 (M)
+	  - Code de la sécurité sociale. - art. L381-4 (M)
+
+	**Codifié par**:
+
+	  - Loi n°64-1339 1964-12-29
+
+
+###### Article L9 ter
+
+La majoration de durée d'assurance prévue à l'article L. 12 bis ne peut se cumuler avec la durée d'assurance prise en compte
+au titre du 1° de l'article L. 9 lorsque celle-ci est supérieure ou égale à six mois.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2003-775 du 21 août 2003 - art. 49 () JORF 22 août 2003 en vigueur le 1er janvier 2004
+
+	**Cite**:
+
+	  - Code des pensions civiles et militaires de retrait - art. L12 bis (V)
+	  - Code des pensions civiles et militaires de retrait - art. L9 (M)
 
 	**Codifié par**:
 
@@ -472,8 +581,8 @@ le présent code.
 
 ###### Article L10
 
-Les services accomplis postérieurement à la limite d'âge ne peuvent être pris en compte dans une pension, sauf dans les cas
-exceptionnels prévus par une loi.
+Les services accomplis postérieurement à la limite d'âge dans les conditions prévues par la loi sont pris en compte dans la
+pension.
 
 **Liens relatifs à cet article**
 
@@ -485,6 +594,10 @@ exceptionnels prévus par une loi.
 	**Codifié par**:
 
 	  - Loi n°64-1339 1964-12-29
+
+	**Modifié par**:
+
+	  - Loi n°2003-775 du 21 août 2003 - art. 46 () JORF 22 août 2003 en vigueur le 1er janvier 2004
 
 
 ### Titre III : Liquidation de la pension ou de la solde de réforme.
@@ -530,36 +643,80 @@ attribués aux militaires et assimilés dans les conditions déterminées par d�
 	  - Loi n°64-1339 1964-12-29
 
 
+###### Article L11 bis
+
+Par dérogation au 1° de l'article L. 11, les périodes de travail effectuées à temps partiel à compter du 1er janvier 2004
+peuvent être décomptées comme des périodes de travail à temps plein, sous réserve du versement d'une retenue pour pension
+dont le taux est fixé par décret. Cette retenue est appliquée au traitement correspondant à celui d'un agent de même grade,
+échelon et indice travaillant à temps plein.
+
+Cette prise en compte ne peut avoir pour effet d'augmenter la durée de services mentionnée à l'article L. 13 de plus de
+quatre trimestres.
+
+Pour les fonctionnaires handicapés dont l'incapacité permanente est au moins égale à 80 %, le taux mentionné au premier
+alinéa est celui prévu à l'article L. 61 et la limite mentionnée à l'alinéa précédent est portée à huit trimestres.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°82-624 du 20 juillet 1982 - art. 1-1 (V)
+	  - Décret n°2004-678 du 8 juillet 2004 - art. 1 (VD)
+	  - Décret n°2004-678 du 8 juillet 2004 - art. 2 (VD)
+	  - Décret n°2007-262 du 27 février 2007 - art. Annexe (VT)
+	  - Code des pensions civiles et militaires de retr... - art. D21-1 (VD)
+
+	**Créé par**:
+
+	  - Loi n°2003-775 du 21 août 2003 - art. 47 () JORF 22 août 2003 en vigueur le 1er janvier 2004
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°2004-678 du 8 juillet 2004
+	  - TXT_SOURCE: Décret n°2004-678 du 8 juillet 2004 - art. 1 (V)
+	  - TXT_SOURCE: Décret n°2004-678 du 8 juillet 2004 - art. 2 (M)
+	  - TXT_SOURCE: Décret n°2004-678 du 8 juillet 2004 - art. 3 (V)
+
+	**Cite**:
+
+	  - Code des pensions civiles et militaires de retrait - art. L11 (M)
+	  - Code des pensions civiles et militaires de retrait - art. L61 (M)
+
+	**Codifié par**:
+
+	  - Loi n°64-1339 1964-12-29
+
+
 ###### Article L12
 
-Aux services effectifs s'ajoutent, dans les conditions déterminées par règlement d'administration publique, les bonifications
-ci-après :
+Aux services effectifs s'ajoutent, dans les conditions déterminées par un décret en Conseil d'Etat, les bonifications ci-
+après :
 
 a) Bonification de dépaysement pour les services civils rendus hors d'Europe ;
 
-b) Bonification accordée aux femmes fonctionnaires pour chacun de leurs enfants légitimes, de leurs enfants naturels dont la
-filiation est établie ou de leurs enfants adoptifs et, sous réserve qu'ils aient été élevés pendant neuf ans au moins avant
-leur vingt et unième année révolue, pour chacun des autres enfants énumérés au paragraphe II de l'article L. 18.
+b) Pour chacun de leurs enfants légitimes et de leurs enfants naturels nés antérieurement au 1er janvier 2004, pour chacun de
+leurs enfants dont l'adoption est antérieure au 1er janvier 2004 et, sous réserve qu'ils aient été élevés pendant neuf ans au
+moins avant leur vingt et unième anniversaire, pour chacun des autres enfants énumérés au II de l'article L. 18 dont la prise
+en charge a débuté antérieurement au 1er janvier 2004, les fonctionnaires et militaires bénéficient d'une bonification fixée
+à un an, qui s'ajoute aux services effectifs, à condition qu'ils aient interrompu leur activité dans des conditions fixées
+par décret en Conseil d'Etat ;
 
-c) Bénéfices de campagne, notamment en temps de guerre et pour services à la mer et outre-mer.
+b bis La bonification prévue au b est acquise aux femmes fonctionnaires ou militaires ayant accouché au cours de leurs années
+d'études, antérieurement à leur recrutement dans la fonction publique, dès lors que ce recrutement est intervenu dans un
+délai de deux ans après l'obtention du diplôme nécessaire pour se présenter au concours, sans que puisse leur être opposée
+une condition d'interruption d'activité ;
 
-Les fonctionnaires et agents féminins ayant servi en qualité d'infirmières ou d'ambulancières pendant les guerres 1914-1918
-et 1939-1945, les campagnes d'Indochine et de Corée bénéficient des avantages réservés aux fonctionnaires anciens
-combattants.
-
-Cette disposition est étendue aux agents féminins dont la pension a déjà été liquidée ou a fait l'objet d'une péréquation ;
+c) Bénéfices de campagne dans le cas de services militaires, notamment pour services à la mer et outre-mer ;
 
 d) Bonification pour l'exécution d'un service aérien ou sous-marin commandé. Le décompte des coefficients applicables aux
 heures de vol ou à la durée des services sous-marins est effectué conformément aux dispositions en vigueur au moment où s'est
 ouvert le droit à ces bonifications ;
 
-e) Bonification accordée aux fonctionnaires demeurés dans les régions envahies ou les localités bombardées au cours de la
-guerre 1914-1918 ;
+e) Abrogé ;
 
-f) Bonification accordée aux agents des postes et télécommunications ayant servi en temps de guerre à bord des navires
-câbliers ;
+f) Abrogé ;
 
-g) Bonification accordée aux déportés politiques ;
+g) Abrogé ;
 
 h) Bonification accordée aux professeurs d'enseignement technique au titre du stage professionnel exigé pour avoir le droit
 de se présenter au concours par lequel ils ont été recrutés ;
@@ -567,8 +724,11 @@ de se présenter au concours par lequel ils ont été recrutés ;
 i) Une bonification du cinquième du temps de service accompli est accordée dans la limite de cinq annuités à tous les
 militaires à la condition qu'ils aient accompli au moins quinze ans de services militaires effectifs ou qu'ils aient été
 rayés des cadres pour invalidité ; le maximum de bonifications est donné aux militaires qui quittent le service à cinquante-
-cinq ans ; la bonification est diminuée d'une annuité pour chaque année supplémentaire de service jusqu'à l'âge de cinquante-
-huit ans.
+sept ans ; la bonification est diminuée d'une annuité pour chaque année supplémentaire de service jusqu'à l'âge de soixante
+ans.
+
+Le pourcentage maximum fixé à l'article L 13 peut-être augmenté de cinq points du chef des bonifications prévues au présent
+article.
 
 **Liens relatifs à cet article**
 
@@ -631,13 +791,70 @@ huit ans.
 
 	**Modifié par**:
 
-	  - Loi n°75-1000 du 30 octobre 1975 - art. 3 () JORF 31 octobre 1975
-	  - Loi n°77-1466 1977-12-30 art. 15 I JORF 31 décembre 1977
-	  - Loi n°82-599 du 13 juillet 1982 - art. 24 () JORF 14 juillet 1982
+	  - Loi n°2003-775 du 21 août 2003 - art. 48 (V) JORF 22 août 2003 en vigueur le 1er janvier 2004
+
+	**Cite**:
+
+	  - Code des pensions civiles et militaires de retrait - art. L13 (M)
+	  - Code des pensions civiles et militaires de retrait - art. L18 (M)
+
+
+###### Article L12 bis
+
+Pour chacun de leurs enfants nés à compter du 1er janvier 2004, les femmes, fonctionnaires ou militaires, ayant accouché
+postérieurement à leur recrutement, bénéficient d'une majoration de durée d'assurance fixée à deux trimestres.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°68-382 du 5 avril 1968 - art. 12 (V)
+	  - Décret n°68-382 du 5 avril 1968 - art. 6 (V)
+	  - Décret n°90-1215 du 20 décembre 1990 - art. 92 (V)
+	  - Décret n°2012-1256 du 13 novembre 2012 - art. 10 (V)
+	  - Code des pensions civiles et militaires de retr... - art. D16-4 (VT)
+	  - Code des pensions civiles et militaires de retr... - art. L25 bis (V)
+	  - Code des pensions civiles et militaires de retrait - art. D21-1 (V)
+	  - Code des pensions civiles et militaires de retrait - art. L9 ter (V)
+	  - Code des pensions civiles et militaires de retrait - art. R*26 bis (V)
+
+	**Créé par**:
+
+	  - Loi n°2003-775 du 21 août 2003 - art. 49 () JORF 22 août 2003 en vigueur le 1er janvier 2004
+
+	**Codifié par**:
+
+	  - Loi n°64-1339 1964-12-29
+
+
+###### Article L12 ter
+
+Les fonctionnaires, élevant à leur domicile un enfant de moins de vingt ans atteint d'une invalidité égale ou supérieure à 80
+%, bénéficient d'une majoration de leur durée d'assurance d'un trimestre par période d'éducation de trente mois, dans la
+limite de quatre trimestres.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°68-382 du 5 avril 1968 - art. 14 (VD)
+	  - Code des pensions civiles et militaires de retr... - art. D13 (V)
+	  - Code des pensions civiles et militaires de retr... - art. L25 bis (V)
+	  - Code des pensions civiles et militaires de retrait - art. D21-1 (V)
+	  - Code des pensions civiles et militaires de retrait - art. D22-1 (V)
+	  - Code des pensions civiles et militaires de retrait - art. R*26 bis (V)
+
+	**Créé par**:
+
+	  - Loi n°2003-775 du 21 août 2003 - art. 49 () JORF 22 août 2003 en vigueur le 1er janvier 2004
 
 	**Cite**:
 
 	  - Code des pensions civiles et militaires de retrait - art. L18 (M)
+
+	**Codifié par**:
+
+	  - Loi n°64-1339 1964-12-29
 
 
 #### Chapitre II : Détermination du montant de la pension.
@@ -646,9 +863,16 @@ huit ans.
 
 ###### Article L13
 
-La durée des services et bonifications admissibles en liquidation s'exprime en annuités liquidables. Chaque annuité
-liquidable est rémunérée à raison de 2 % des émoluments de base afférents à l'indice de traitement déterminé à l'article L.
-15.
+I.-La durée des services et bonifications admissibles en liquidation s'exprime en trimestres. Le nombre de trimestres
+nécessaires pour obtenir le pourcentage maximum de la pension civile ou militaire est fixé à cent soixante trimestres. 
+
+Ce pourcentage maximum est fixé à 75 % du traitement ou de la solde mentionné à l'article L. 15. 
+
+Chaque trimestre est rémunéré en rapportant le pourcentage maximum défini au deuxième alinéa au nombre de trimestres
+mentionné au premier alinéa. 
+
+II.-Le nombre de trimestres mentionné au premier alinéa du I évolue dans les conditions définies, pour la durée d'assurance
+ou de services, à l'article 5 de la loi n° 2003-775 du 21 août 2003 portant réforme des retraites.
 
 **Liens relatifs à cet article**
 
@@ -731,6 +955,18 @@ liquidable est rémunérée à raison de 2 % des émoluments de base afférents 
 	  - Code des pensions civiles et militaires de retrait - art. L24 (M)
 	  - Code des pensions civiles et militaires de retrait - art. L26 bis (V)
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2003-775 2003-08-21 art. 66 : Réserves
+
+	**Cite**:
+
+	  - Loi n°2003-775 du 21 août 2003 - art. 5 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2003-775 du 21 août 2003 - art. 51 () JORF 22 août 2003 en vigueur le 1er janvier 2004
+
 	**Codifié par**:
 
 	  - Loi n°64-1339 1964-12-29
@@ -738,9 +974,69 @@ liquidable est rémunérée à raison de 2 % des émoluments de base afférents 
 
 ###### Article L14
 
-Le maximum des annuités liquidables dans la pension civile ou militaire est fixé à trente-sept annuités et demie.
+I. - La durée d'assurance totalise la durée des services et bonifications admissibles en liquidation prévue à l'article L.
+13, augmentée, le cas échéant, de la durée d'assurance et des périodes reconnues équivalentes validées dans un ou plusieurs
+autres régimes de retraite de base obligatoires.
 
-Il peut être porté à quarante annuités du chef des bonifications prévues à l'article L. 12.
+Lorsque la durée d'assurance est inférieure au nombre de trimestres nécessaire pour obtenir le pourcentage de la pension
+mentionné à l'article L. 13, un coefficient de minoration de 1,25 % par trimestre s'applique au montant de la pension
+liquidée en application des articles L. 13 et L. 15 dans la limite de vingt trimestres.
+
+Le nombre de trimestres pris en compte pour ce calcul est égal :
+
+1° Soit au nombre de trimestres correspondant à la durée qui sépare l'âge auquel la pension est liquidée de la limite d'âge
+du grade détenu par le pensionné ;
+
+2° Soit au nombre de trimestres supplémentaires qui serait nécessaire, à la date de liquidation de la pension, pour atteindre
+le nombre de trimestres permettant d'obtenir le pourcentage maximum mentionné à l'article L. 13.
+
+Le nombre de trimestres correspondant est arrondi à l'entier supérieur dans des conditions définies par décret. Le plus petit
+des deux nombres de trimestres résultant des dispositions du 1° et du 2° du présent I est pris en considération.
+
+Le coefficient de minoration n'est pas applicable aux fonctionnaires handicapés dont l'incapacité permanente est au moins
+égale à 80 % ou mis à la retraite pour invalidité.
+
+Le coefficient de minoration n'est pas applicable aux pensions de réversion lorsque la liquidation de la pension dont le
+fonctionnaire aurait pu bénéficier intervient après son décès.
+
+Pour le calcul de la durée d'assurance, les périodes de services accomplis à temps partiel telles que définies à l'article L.
+5 sont décomptées comme des périodes de services à temps complet.
+
+II. - Les dispositions du I sont applicables aux militaires dont la limite d'âge est supérieure ou égale à cinquante-cinq ans
+lorsqu'ils sont mis à la retraite à compter de l'âge de cinquante ans. Les dispositions suivantes s'appliquent aux militaires
+qui ne remplissent pas ces conditions.
+
+Lorsque la durée de services militaires effectifs est inférieure à la durée nécessaire pour pouvoir bénéficier d'une
+liquidation de la pension, définie au II de l'article L. 24, augmentée d'une durée de services effectifs de dix trimestres,
+un coefficient de minoration de 1,25 % s'applique au montant de la pension militaire liquidée en application des articles L.
+13 et L. 15 dans la limite de dix trimestres.
+
+Le nombre de trimestres pris en compte pour ce calcul est égal :
+
+1° Soit au nombre de trimestres manquants, à la date de liquidation de la pension militaire, pour atteindre un nombre de
+trimestres correspondant à la durée de services militaires effectifs nécessaire pour pouvoir bénéficier d'une liquidation de
+la pension, définie au II de l'article L. 24, augmentée d'une durée de services effectifs de dix trimestres ;
+
+2° Soit au nombre de trimestres supplémentaires qui serait nécessaire, à la date de liquidation de la pension, pour atteindre
+le nombre de trimestres permettant d'obtenir le pourcentage maximum de la pension mentionné à l'article L. 13 dans la limite
+de vingt trimestres.
+
+Le nombre de trimestres correspondant est arrondi à l'entier supérieur dans des conditions définies par décret. Le plus petit
+des deux nombres de trimestres résultant des dispositions du 1° et du 2° du présent II est pris en considération.
+
+Le coefficient de minoration n'est pas applicable aux militaires radiés des cadres par suite d'infirmité.
+
+III. - Lorsque la durée d'assurance, définie au premier alinéa du I, est supérieure au nombre de trimestres nécessaires pour
+obtenir le pourcentage maximum mentionné à l'article L. 13 et que le fonctionnaire civil a atteint l'âge de soixante ans, un
+coefficient de majoration s'applique au montant de la pension liquidée en application des articles L. 13 et L. 15.
+
+Le nombre de trimestres pris en compte pour ce calcul est égal, à la date de liquidation de la pension, au nombre de
+trimestres de services effectués après le 1er janvier 2004, au-delà de l'âge de soixante ans et en sus du nombre de
+trimestres nécessaires pour obtenir le pourcentage maximum mentionné à l'article L. 13.
+
+Le nombre de trimestres correspondant est arrondi à l'entier supérieur dans des conditions définies par décret.
+
+Le coefficient de majoration est de 0,75 % par trimestre supplémentaire, dans la limite de vingt trimestres.
 
 **Liens relatifs à cet article**
 
@@ -788,9 +1084,20 @@ Il peut être porté à quarante annuités du chef des bonifications prévues à
 	  - Code des pensions civiles et militaires de retrait - art. D21-1 (V)
 	  - Code des pensions civiles et militaires de retrait - art. R*26 bis (V)
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2003-775 2003-08-21 art. 66 : Réserves
+
+	**Modifié par**:
+
+	  - Loi n°2003-775 du 21 août 2003 - art. 51 () JORF 22 août 2003 en vigueur le 1er janvier 2004
+
 	**Cite**:
 
-	  - Code des pensions civiles et militaires de retrait - art. L12 (M)
+	  - Code des pensions civiles et militaires de retrait - art. L13 (M)
+	  - Code des pensions civiles et militaires de retrait - art. L15 (M)
+	  - Code des pensions civiles et militaires de retrait - art. L24 (M)
+	  - Code des pensions civiles et militaires de retrait - art. L5 (M)
 
 	**Codifié par**:
 
@@ -801,38 +1108,37 @@ Il peut être porté à quarante annuités du chef des bonifications prévues à
 
 ###### Article L15
 
-Les émoluments de base sont constitués par les derniers émoluments soumis à retenue afférents à l'indice correspondant à
-l'emploi, grade, classe et échelon effectivement détenus depuis six mois au moins par le fonctionnaire ou militaire au moment
-de la cessation des services valables pour la retraite ou, dans le cas contraire, sauf s'il y a eu rétrogradation par mesure
-disciplinaire, par les émoluments soumis à retenue afférents à l'emploi, grade, classe et échelon antérieurement occupés
-d'une manière effective.
+I.-Aux fins de liquidation de la pension, le montant de celle-ci est calculé en multipliant le pourcentage de liquidation tel
+qu'il résulte de l'application de l'article L. 13 par le traitement ou la solde soumis à retenue afférents à l'indice
+correspondant à l'emploi, grade, classe et échelon effectivement détenus depuis six mois au moins par le fonctionnaire ou
+militaire au moment de la cessation des services valables pour la retraite ou, à défaut, par le traitement ou la solde soumis
+à retenue afférents à l'emploi, grade, classe et échelon antérieurement occupés d'une manière effective, sauf s'il y a eu
+rétrogradation par mesure disciplinaire. 
 
-Pour les personnels radiés des cadres à l'issue d'une période de détachement auprès d'une administration ou d'un organisme
-implanté sur le territoire d'un Etat étranger ou auprès d'un organisme international, les émoluments de base sont constitués
-par les derniers émoluments afférents à l'indice correspondant aux grades, classes et échelons détenus depuis six mois au
-moins à la date de la radiation des cadres, qu'ils aient donné lieu ou non à retenue pour pension.
+La condition des six mois ne sera pas opposée en cas de décès ou bien lorsque l'agent n'est plus en service par suite, dans
+l'un et l'autre cas, d'un accident survenu en service ou à l'occasion du service. 
 
-Ce délai de six mois ne sera pas opposé lorsque la mise hors de service ou le décès d'un fonctionnaire ou militaire se sera
-produit par suite d'un accident survenu en service ou à l'occasion du service.
+Le traitement ou la solde des personnels qui accomplissent des services à temps partiel prévus à l'avant-dernier alinéa de
+l'article L. 5 sont ceux auxquels les intéressés pourraient prétendre s'ils accomplissaient des services à plein temps. 
 
-Les émoluments de base des personnels qui accomplissent des services à temps partiel prévus à l'article L. 5 (1°) ci-dessus
-sont ceux auxquels les intéressés pourraient prétendre s'ils accomplissaient des services à plein temps.
+II.-Aux fins de liquidation de la pension, le montant de celle-ci est calculé à partir des derniers traitements ou soldes
+soumis à retenues, afférents soit à un grade détenu pendant quatre ans au moins au cours des quinze dernières années
+d'activité lorsqu'ils sont supérieurs à ceux visés au premier alinéa du I, soit à l'un des emplois ci-après détenus au cours
+des quinze dernières années d'activité pendant au moins deux ans, dans des conditions fixées par un décret en Conseil
+d'Etat : 
 
-Un règlement d'administration publique fixe les conditions dans lesquelles la pension peut être calculée sur la base des
-émoluments soumis à retenue afférents, soit à un grade détenu pendant quatre ans au moins au cours des quinze dernières
-années d'activité lorsqu'ils sont supérieurs à ceux visés au premier alinéa ci-dessus, soit à l'un des emplois ci-après
-détenus au cours des quinze dernières années d'activité pendant deux ans au moins :
+1° Emplois supérieurs mentionnés au 1° de l'article 3 de la loi n° 84-16 du 11 janvier 1984 précitée ; 
 
-1° Emplois supérieurs visés au 1° de l'article 3 de la loi n° 84-16 du 11 janvier 1984 précitée ;
+2° Emplois de chef de service, de directeur adjoint ou de sous-directeur d'administration centrale ; 
 
-2° Emplois de chef de service, de directeur adjoint ou de sous-directeur d'administration centrale ;
+3° Emplois supérieurs occupés par des officiers généraux et supérieurs. 
 
-3° Emplois supérieurs occupés par des officiers généraux et supérieurs.
-
-Les dispositions qui précèdent sont applicables aux tributaires du présent code occupant en position de détachement un des
-emplois visés visés aux a, b, c du 2° du I de l'article 15 du décret modifié n° 65-773 du 9 septembre 1965. Dans cette
-hypothèse, les intéressés sont astreints au versement de la retenue pour pension sur les émoluments afférents à l'emploi de
-détachement.
+Ces dispositions sont applicables aux personnels relevant du présent code, occupant en position de détachement un des emplois
+visés aux a, b et c du 2° du I de l'article 15 du décret n° 65-773 du 9 septembre 1965 relatif au régime de retraite des
+fonctionnaires affiliés à la Caisse nationale de retraites des agents des collectivités locales, ainsi que les emplois
+fonctionnels relevant de la loi n° 84-53 du 26 janvier 1984 précitée ou de la loi n° 86-33 du 9 janvier 1986 précitée et dont
+la liste est fixée par décret en Conseil d'Etat. Dans ce cas, les intéressés sont astreints au versement de la retenue pour
+pension sur les traitements ou soldes afférents à l'emploi de détachement.
 
 **Liens relatifs à cet article**
 
@@ -1486,16 +1792,19 @@ détachement.
 
 	**Cite**:
 
-	  - Loi n°84-16 1984-01-11 art. 3
-	  - Code des pensions civiles et militaires de retrait - art. L5 (M)
+	  - Loi n°84-16 du 11 janvier 1984 - art. 3 (V)
+	  - Loi n°84-53 du 26 janvier 1984 (V)
+	  - Loi n°86-33 du 9 janvier 1986 (V)
+	  - Code des pensions civiles et militaires de retr... - art. L5 (V)
 
 	**Liens**:
 
 	  - TXT_SOURCE: Décret n°89-750 du 18 octobre 1989 - art. 20 (Ab)
+	  - SPEC_APPLI: Loi n°2003-775 2003-08-21 art. 66 : Réserves
 
 	**Modifié par**:
 
-	  - Loi n°2002-73 2002-01-17 art. 20 jorf 18 janvier 2002
+	  - Loi n°2003-775 du 21 août 2003 - art. 51 () JORF 22 août 2003 en vigueur le 1er janvier 2004
 
 	**Codifié par**:
 
@@ -1504,8 +1813,14 @@ détachement.
 
 ###### Article L16
 
-En cas de réforme statutaire, l'indice de traitement mentionné à l'article L. 15 sera fixé conformément à un tableau
-d'assimilation annexé au décret déterminant les modalités de cette réforme.
+Les pensions sont revalorisées chaque année par décret en Conseil d'Etat conformément à l'évolution prévisionnelle de
+l'indice des prix à la consommation hors du tabac prévue dans le rapport économique, social et financier annexé à la loi de
+finances pour l'année considérée.
+
+Si l'évolution constatée des prix à la consommation hors du tabac, telle que mentionnée dans le rapport économique, social et
+financier annexé à la loi de finances pour l'année suivante, est différente de celle qui avait été initialement prévue, il
+est procédé, dans des conditions fixées par décret en Conseil d'Etat, à un ajustement destiné à assurer, pour ladite année
+suivante, une revalorisation conforme à ce constat.
 
 **Liens relatifs à cet article**
 
@@ -2266,35 +2581,37 @@ d'assimilation annexé au décret déterminant les modalités de cette réforme.
 	  - TXT_SOURCE: Décret n°98-602 du 9 juillet 1998
 	  - TXT_SOURCE: Décret n°98-602 du 9 juillet 1998 - art. 1 (V)
 	  - TXT_SOURCE: Décret n°98-602 du 9 juillet 1998 - art. 2 (V)
-
-	**Cite**:
-
-	  - Code des pensions civiles et militaires de retrait - art. L15 (M)
+	  - SPEC_APPLI: Loi n°2003-775 2003-08-21 art. 66 IV : Réserves
 
 	**Codifié par**:
 
 	  - Loi n°64-1339 1964-12-29
+
+	**Modifié par**:
+
+	  - Loi n°2003-775 du 21 août 2003 - art. 51 () JORF 22 août 2003 en vigueur le 1er janvier 2004
 
 
 ##### Paragraphe III : Montant garanti.
 
 ###### Article L17
 
-Le montant de la pension ne peut être inférieur :
+Aux fins de liquidation de la pension, le montant de celle-ci ne peut être inférieur :
 
-a) Lorsque la pension rémunère vingt-cinq années au moins de services effectifs, au traitement brut afférent à l'indice 100
-prévu par l'article 1er du décret n° 48-1108 du 10 juillet 1948 et les textes subséquents ;
+a) Lorsque la pension rémunère au moins quarante années de services effectifs, à un montant correspondant à la valeur de
+l'indice majoré 227 au 1er janvier 2004 ;
 
-b) Lorsque la pension rémunère moins de vingt-cinq années de services effectifs, à 4 p. 100 du traitement brut afférent à
-l'indice 100 prévu par l'article 1er du décret n° 48-1108 du 10 juillet 1948 et les textes subséquents par année de services
-effectifs et de bonifications prévues à l'article L. 12 du présent code.
+b) Lorsque la pension rémunère quinze années, à 57,5 % du montant défini à l'alinéa précédent, ce taux étant augmenté de 2,5
+points par année supplémentaire de services effectifs de quinze à trente ans et de 0,5 point par année de services effectifs
+de trente à quarante ans. Aux services effectifs militaires s'ajoutent, pour le décompte de la période comprise entre quinze
+et trente ans, les bénéfices de campagne et les bonifications prévus au c et au d de l'article L. 12 ;
+
+c) Lorsque la pension rémunère moins de quinze années de services effectifs, à un quinzième du montant défini à l'alinéa
+précédent pour cette durée de quinze ans, par année de services effectifs.
+
+Le montant du minimum garanti est revalorisé dans les conditions prévues à l'article L. 16.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°48-1108 du 10 juillet 1948 - art. 1 (V)
-	  - Code des pensions civiles et militaires de retrait - art. L12 (M)
 
 	**Cité par**:
 
@@ -2320,9 +2637,18 @@ effectifs et de bonifications prévues à l'article L. 12 du présent code.
 	  - Code des pensions civiles et militaires de retr... - art. L56 (V)
 	  - Code des pensions civiles et militaires de retrait - art. L85 (V)
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2003-775 2003-08-21 art. 66 : Réserves
+
 	**Modifié par**:
 
-	  - Loi n°75-1242 1975-12-27 art. 15 JORF 28 décembre 1975
+	  - Loi n°2003-775 du 21 août 2003 - art. 51 () JORF 22 août 2003 en vigueur le 1er janvier 2004
+
+	**Cite**:
+
+	  - Code des pensions civiles et militaires de retrait - art. L12 (M)
+	  - Code des pensions civiles et militaires de retrait - art. L16 (M)
 
 	**Codifié par**:
 
@@ -2479,21 +2805,25 @@ ans de services effectifs.
 
 ###### Article L22
 
-La solde de réforme prévue en faveur des officiers et militaires non officiers visés à l'article L. 7 est fixée à 30 % des
-émoluments de base. Elle ne peut être inférieure à 60 % du traitement brut afférent à l'indice 100 prévu par l'article 1er du
-décret n° 48-1108 du 10 juillet 1948 et les textes subséquents.
+La solde de réforme prévue en faveur des officiers et militaires non officiers mentionnés à l'article L. 7 est fixée à 30 %
+de la solde soumise à retenue. Elle ne peut être inférieure à 60 % du montant correspondant à la valeur de l'indice majoré
+227 au 1er janvier 2004, revalorisé dans les conditions prévues à l'article L. 16.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°48-1108 du 10 juillet 1948 - art. 1 (V)
-	  - Code des pensions civiles et militaires de retrait - art. L7 (M)
 
 	**Cité par**:
 
 	  - Loi n°64-1339 du 26 décembre 1964 - art. 3 (V)
 	  - Décret n°85-1148 du 24 octobre 1985 - art. 7 (M)
+
+	**Modifié par**:
+
+	  - Loi n°2003-775 du 21 août 2003 - art. 52 () JORF 22 août 2003 en vigueur le 1er janvier 2004
+
+	**Cite**:
+
+	  - Code des pensions civiles et militaires de retrait - art. L16 (M)
+	  - Code des pensions civiles et militaires de retrait - art. L7 (M)
 
 	**Codifié par**:
 
@@ -2524,16 +2854,17 @@ services et de bonifications.
 
 ###### Article L24
 
-I. - La jouissance de la pension civile est immédiate :
+I. - La liquidation de la pension intervient :
 
-1° Pour les fonctionnaires civils radiés des cadres par limite d'âge ainsi que pour ceux qui ont atteint, à la date de
-radiation des cadres, l'âge de soixante ans ou, s'ils ont accompli au moins quinze ans de services actifs ou de la catégorie
-B, l'âge de cinquante-cinq ans.
+1° Lorsque le fonctionnaire civil est radié des cadres par limite d'âge, ou s'il a atteint, à la date de l'admission à la
+retraite, l'âge de soixante ans, ou de cinquante-cinq ans s'il a accompli au moins quinze ans de services dans des emplois
+classés dans la catégorie active.
 
-Sont rangés dans la catégorie B les emplois présentant un risque particulier ou des fatigues exceptionnelles. La nomenclature
-en est établie par décrets en Conseil d'Etat ;
+Sont classés dans la catégorie active les emplois présentant un risque particulier ou des fatigues exceptionnelles. La
+nomenclature en est établie par décret en Conseil d'Etat ;
 
-2° Pour les fonctionnaires civils mis à la retraite pour invalidité ;
+2° Lorsque le fonctionnaire est mis à la retraite pour invalidité et qu'il n'a pas pu être reclassé dans un emploi compatible
+avec son état de santé ;
 
 3° Pour les femmes fonctionnaires :
 
@@ -2543,23 +2874,26 @@ d'un an et atteint d'une invalidité égale ou supérieure à 80 %.
 Sont assimilés aux enfants visés à l'alinéa précédent les enfants énumérés au paragraphe II de l'article L. 18 que les
 intéressées ont élevés dans les conditions prévues au paragraphe III dudit article.
 
-b) Soit lorsqu'il est justifié, dans les formes prévues à l'article L. 31 :
+b) Abrogé.
 
-Qu'elles sont atteintes d'une infirmité ou d'une maladie incurable les plaçant dans l'impossibilité d'exercer leurs anciennes
-fonctions ;
+4° Lorsque le fonctionnaire ou son conjoint est atteint d'une infirmité ou d'une maladie incurable le plaçant dans
+l'impossibilité d'exercer une quelconque profession, dans les conditions prévues à l'article L. 31 et sous réserve que le
+fonctionnaire ait accompli au moins quinze ans de services.
 
-Ou que leur conjoint est atteint d'une infirmité ou d'une maladie incurable le plaçant dans l'impossibilité d'exercer une
-profession quelconque.
+II. - La liquidation de la pension militaire intervient :
 
-II. - La jouissance de la pension militaire est immédiate :
+1° Lorsqu'un officier est radié des cadres par limite d'âge ou par limite de durée de services, ou par suite d'infirmités, ou
+encore s'il réunit, à la date de son admission à la retraite, vingt-cinq ans de services effectifs ;
 
-1° Pour les officiers radiés des cadres par limite d'âge ainsi que pour ceux réunissant, à la date de leur radiation des
-cadres, vingt-cinq ans de services effectifs ou qui ont été radiés des cadres par suite d'infirmités ;
+2° Lorsqu'un militaire non officier est radié des cadres par limite d'âge ou par limite de durée de services, ou par suite
+d'infirmités, ou encore s'il réunit, à la date de son admission à la retraite, quinze ans de services effectifs ;
 
-2° Pour les militaires non officiers.
+3° Pour un militaire, lorsque son conjoint est atteint d'une infirmité ou d'une maladie incurable le plaçant dans
+l'impossibilité d'exercer une quelconque profession, et sous réserve que le militaire ait accompli au moins quinze ans de
+services.
 
-III. - La jouissance de la solde de réforme est immédiate. Toutefois, cette solde n'est perçue que pendant un temps égal à la
-durée des services effectivement accomplis par son bénéficiaire.
+III. - La liquidation de la solde de réforme intervient immédiatement. Toutefois, cette solde n'est perçue que pendant un
+temps égal à la durée des services effectivement accomplis par son bénéficiaire.
 
 **Liens relatifs à cet article**
 
@@ -2681,15 +3015,12 @@ durée des services effectivement accomplis par son bénéficiaire.
 
 	**Modifié par**:
 
-	  - Loi n°70-523 1970-06-19 art. 4 JORF 21 juin 1970 rectificatif JORF 10 juillet 1970
-	  - Loi n°70-1283 1970-12-31 art. 22 I JORF 31 décembre 1970
-	  - Loi n°72-662 du 13 juillet 1972 - art. 109 () JORF 14 juillet 1972
-	  - Loi n°77-1466 1977-12-30 art. 15 III JORF 31 décembre 1977
-	  - Ordonnance 82-296 1982-03-31 art. 5 JORF 2 avril 1982
+	  - Loi n°2003-775 du 21 août 2003 - art. 53 () JORF 22 août 2003 en vigueur le 1er janvier 2004
 
 	**Cite**:
 
-	  - Code des pensions civiles et militaires de retraite L18 et L31
+	  - Code des pensions civiles et militaires de retrait - art. L18 (M)
+	  - Code des pensions civiles et militaires de retrait - art. L31 (M)
 
 	**Codifié par**:
 
@@ -2698,23 +3029,35 @@ durée des services effectivement accomplis par son bénéficiaire.
 
 ###### Article L25
 
-La jouissance de la pension est différée :
+La liquidation de la pension ne peut intervenir :
 
-1° Pour les fonctionnaires civils autres que ceux visés à l'article L. 24, jusqu'à l'âge de soixante ans ou, s'ils ont
-accompli quinze ans  de services actifs ou de la catégorie B, jusqu'à l'âge de cinquante-cinq ans ;
+1° Pour les fonctionnaires civils autres que ceux mentionnés à l'article L. 24 avant l'âge de soixante ans, ou avant l'âge de
+cinquante-cinq ans s'ils ont accompli quinze ans de services dans des emplois classés dans la catégorie active ;
 
-2° Pour les officiers ne réunissant pas vingt-cinq ans de services effectifs autres que ceux visés à l'article L. 24, jusqu'à
-l'âge de cinquante ans ;
+2° Pour les officiers de carrière autres que ceux mentionnés à l'article L. 24 avant l'âge de cinquante ans ou, pour un
+officier radié des cadres par mesure disciplinaire avant d'avoir accompli vingt-cinq ans de services effectifs, avant la date
+à laquelle il aurait atteint la limite d'âge en vigueur à la date de cette radiation et sans que la liquidation puisse être
+antérieure à l'âge de cinquante ans ;
 
-3° Pour les officiers radiés des cadres par mesure disciplinaire avant d'avoir accompli vingt-cinq ans de services effectifs,
-jusqu'à la date à laquelle ils auraient atteint la limite d'âge en vigueur à la date de cette radiation, et sans que cette
-jouissance puisse être antérieure au cinquantième anniversaire.
+3° Pour les officiers sous contrat radiés des cadres sans avoir atteint les limites de durée de services, avant l'âge de
+cinquante ans.
+
+Pour l'application des dispositions du présent article, les règles de liquidation de la pension sont celles en vigueur au
+moment de sa mise en paiement.
+
+Le traitement ou la solde mentionnés à l'article L. 15 sont revalorisés pendant la période comprise entre la radiation des
+cadres et la mise en paiement de la pension, conformément aux dispositions de l'article L. 16.
+
+**Nota:**
+
+Loi n° 2010-1330 du 9 novembre 2010, article 118 II : Les dispositions de l'article 36 sont applicables aux pensions prenant
+effet à compter du 1er juillet 2011.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°72-662 du 13 juillet 1972 - art. 109 () JORF 14 juillet 1972
+	  - Loi n°2003-775 du 21 août 2003 - art. 54 () JORF 22 août 2003 en vigueur le 1er janvier 2004
 
 	**Cité par**:
 
@@ -2734,6 +3077,8 @@ jouissance puisse être antérieure au cinquantième anniversaire.
 
 	**Cite**:
 
+	  - Code des pensions civiles et militaires de retrait - art. L15 (M)
+	  - Code des pensions civiles et militaires de retrait - art. L16 (M)
 	  - Code des pensions civiles et militaires de retrait - art. L24 (M)
 
 	**Codifié par**:
@@ -2743,8 +3088,8 @@ jouissance puisse être antérieure au cinquantième anniversaire.
 
 ###### Article L26
 
-La jouissance de la pension de retraite ou de la solde de réforme ne peut être antérieure à la date de la décision de
-radiation des cadres du titulaire sauf dans les cas exceptionnels déterminés par règlement d'administration publique.
+La mise en paiement de la pension de retraite ou de la solde de réforme ne peut être antérieure à la date de la décision de
+radiation des cadres du titulaire sauf dans les cas exceptionnels déterminés par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -2756,13 +3101,17 @@ radiation des cadres du titulaire sauf dans les cas exceptionnels déterminés p
 
 	  - Loi n°64-1339 1964-12-29
 
+	**Modifié par**:
+
+	  - Loi n°2003-775 du 21 août 2003 - art. 54 () JORF 22 août 2003 en vigueur le 1er janvier 2004
+
 
 ###### Article L26 bis
 
 Le fonctionnaire maintenu en fonctions temporairement et dans l'intérêt du service et qui, au moment de sa radiation des
-cadres, occupe un emploi de l'Etat même en position de détachement, ne peut entrer en jouissance de sa pension qu'à compter
-du jour de la cessation effective du traitement. La période de maintien en fonctions ne donne pas droit à supplément de
-liquidation.
+cadres, occupe un emploi, même en position de détachement, ne peut percevoir sa pension qu'à compter du jour de la cessation
+effective du paiement de son traitement. La période de maintien en fonctions donne droit à supplément de liquidation dans la
+limite du nombre de trimestres nécessaires pour obtenir le pourcentage maximum de la pension mentionné à l'article L. 13.
 
 **Liens relatifs à cet article**
 
@@ -2778,6 +3127,14 @@ liquidation.
 	**Codifié par**:
 
 	  - Loi n°64-1339 1964-12-29
+
+	**Modifié par**:
+
+	  - Loi n°2003-775 du 21 août 2003 - art. 54 () JORF 22 août 2003 en vigueur le 1er janvier 2004
+
+	**Cite**:
+
+	  - Code des pensions civiles et militaires de retrait - art. L13 (M)
 
 
 ### Titre V : Invalidité.
@@ -2876,11 +3233,11 @@ demande de l'intéressé, sans pouvoir être antérieure à la date de publicati
 aux droits des citoyens dans leurs relations avec les administrations. Il en est également ainsi lorsque l'entrée en
 jouissance de la pension est différée en application de l'article L. 25 du présent code.
 
-Le montant de la rente d'invalidité est fixé à la fraction des émoluments de base visés à l'article L. 15 égale au
-pourcentage d'invalidité. Si le montant de ces émoluments de base dépasse le triple du traitement brut afférent à l'indice
-100 prévu par l'article 1er du décret n° 48-1108 du 10 juillet 1948 et les textes subséquents, la fraction dépassant cette
-limite n'est comptée que pour le tiers. Toutefois, il n'est pas tenu compte de la fraction excédant dix fois ce traitement
-brut.
+Le montant de la rente d'invalidité est fixé à la fraction du traitement ou de la solde de base définis à l'article L. 15
+égale au pourcentage d'invalidité. Si le montant de ce traitement ou de cette solde de base dépasse un montant correspondant
+à la valeur de l'indice majoré 681 au 1er janvier 2004, revalorisé dans les conditions prévues à l'article L. 16, la fraction
+dépassant cette limite n'est comptée que pour le tiers. Toutefois, il n'est pas tenu compte de la fraction excédant dix fois
+ce montant brut.
 
 Le taux d'invalidité est déterminé compte tenu d'un barème indicatif fixé par décret.
 
@@ -2893,16 +3250,7 @@ lorsque le fonctionnaire civil est mis à la retraite à la suite d'un attentat 
 ou d'un acte de dévouement dans un intérêt public ou pour avoir exposé ses jours pour sauver la vie d'une ou plusieurs
 personnes. Toutefois, le taux de l'invalidité rémunérable doit être au moins égal à 60 %.
 
-**Nota:**
-
-
-
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°48-1108 du 10 juillet 1948 - art. 1 (V)
-	  - Code des pensions civiles et militaires de retraite L15 et L27
 
 	**Cité par**:
 
@@ -2934,13 +3282,22 @@ personnes. Toutefois, le taux de l'invalidité rémunérable doit être au moins
 	  - Code des pensions civiles et militaires de retrait - art. R*101 (V)
 	  - Code des pensions civiles et militaires de retrait - art. R40 (V)
 
-	**Modifié par**:
+	**Cite**:
 
-	  - Loi n°2000-321 du 12 avril 2000 - art. 33 ()
+	  - Loi n°2000-321 2000-04-12
+	  - Code des pensions civiles et militaires de retrait - art. L15 (M)
+	  - Code des pensions civiles et militaires de retrait - art. L16 (M)
+	  - Code des pensions civiles et militaires de retrait - art. L25 (M)
+	  - Code des pensions civiles et militaires de retrait - art. L27 (M)
+	  - Code des pensions civiles et militaires de retrait - art. L31 (M)
 
 	**Liens**:
 
 	  - TXT_SOURCE: Décret n°2001-99 du 31 janvier 2001
+
+	**Modifié par**:
+
+	  - Loi n°2003-775 du 21 août 2003 - art. 55 () JORF 22 août 2003 en vigueur le 1er janvier 2004
 
 	**Codifié par**:
 
@@ -3320,62 +3677,33 @@ allouée au soldat atteint de la même invalidité.
 	  - Loi n°64-1339 1964-12-29
 
 
-#### Chapitre III : Dispositions communes aux fonctionnaires et militaires.
-
-###### Article L37 bis
-
-Lorsque le fonctionnaire ou le militaire est décédé à la suite d'un attentat ou d'une lutte dans l'exercice de ses fonctions
-ou d'un acte de dévouement dans un intérêt public ou pour sauver la vie d'une ou plusieurs personnes, la pension de réversion
-concédée à la veuve, augmentée soit de la moitié de la rente viagère d'invalidité dont aurait pu bénéficier le fonctionnaire,
-soit de la pension prévue par le code des pensions militaires d'invalidité, ne peut être inférieure à la moitié du traitement
-brut afférent à l'indice brut 515.
-
-La pension temporaire d'orphelin prévue au premier alinéa de l'article L. 40 ne peut être inférieure à 10 p. 100 du
-traitement brut afférent à l'indice brut 515, sans que le total des émoluments attribués à la veuve et aux orphelins puisse
-excéder le montant des émoluments afférents à l'indice brut 515.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des pensions civiles et militaires de retraite L40 al. 1
-
-	**Codifié par**:
-
-	  - Loi n°64-1339 1964-12-29
-
-	**Abrogé par**:
-
-	  - Loi n°2003-775 du 21 août 2003 - art. 65 (V) JORF 22 août 2003 en vigueur le 1er janvier 2004
-
-	**Cité par**:
-
-	  - Loi n°2003-775 du 21 août 2003 - art. 65 (V)
-
-
 ### Titre VI : Pensions des ayants cause.
 
 #### Chapitre Ier : Fonctionnaires civils.
 
 ###### Article L38
 
-Les veuves des fonctionnaires civils ont droit à une pension égale à 50 p. 100 de la pension obtenue par le mari ou qu'il
-aurait pu obtenir au jour de son décès, et augmentée, le cas échéant, de la moitié de la rente d'invalidité dont il
-bénéficiait ou aurait pu bénéficier.
+Les conjoints d'un fonctionnaire civil ont droit à une pension de réversion égale à 50 % de la pension obtenue par le
+fonctionnaire ou qu'il aurait pu obtenir au jour de son décès.
 
-A la pension de la veuve s'ajoute éventuellement la moitié de la majoration prévue à l'article L. 18 qu'a obtenue ou aurait
-obtenue le mari. Cet avantage n'est servi qu'aux veuves qui ont élevé, dans les conditions visées audit article L. 18, les
-enfants ouvrant droit à cette majoration.
+A la pension de réversion s'ajoutent, le cas échéant :
 
-Cette pension de réversion, compte tenu des ressources extérieures, ne pourra être inférieure à la somme totale formée par le
-cumul de l'allocation servie aux vieux travailleurs salariés augmentée de l'allocation supplémentaire mentionnée à l'article
-L. 815-2 ou L. 815-3 du code de la sécurité sociale, quelle que soit la date de sa liquidation.
+1° La moitié de la rente d'invalidité dont le fonctionnaire bénéficiait ou aurait pu bénéficier ;
+
+2° La moitié de la majoration prévue à l'article L. 18, obtenue ou qu'aurait pu obtenir le fonctionnaire, si le bénéficiaire
+de la pension de réversion a élevé, dans les conditions prévues audit article L. 18, les enfants ouvrant droit à cette
+majoration.
+
+Le total de la pension de réversion, quelle que soit la date de sa mise en paiement, et des autres ressources de son
+bénéficiaire ne peut être inférieur à celui de l'allocation servie aux vieux travailleurs salariés augmentée de l'allocation
+supplémentaire du Fonds de solidarité vieillesse institué par les articles L. 811-1 et L. 815-2 du code de la sécurité
+sociale.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°93-936 du 22 juillet 1993 - art. 12 (V) JORF 23 juillet 1993
+	  - Loi n°2003-775 du 21 août 2003 - art. 56 () JORF 22 août 2003 en vigueur le 1er janvier 2004
 
 	**Cité par**:
 
@@ -3389,8 +3717,8 @@ L. 815-2 ou L. 815-3 du code de la sécurité sociale, quelle que soit la date d
 	**Cite**:
 
 	  - Code des pensions civiles et militaires de retrait - art. L18 (M)
+	  - Code de la sécurité sociale. - art. L811-1 (M)
 	  - Code de la sécurité sociale. - art. L815-2 (M)
-	  - Code de la sécurité sociale. - art. L815-3 (M)
 
 	**Codifié par**:
 
@@ -3399,22 +3727,22 @@ L. 815-2 ou L. 815-3 du code de la sécurité sociale, quelle que soit la date d
 
 ###### Article L39
 
-Le droit à pension de veuve est subordonné à la condition :
+Le droit à pension de réversion est subordonné à la condition : 
 
-a) Si le mari a obtenu ou pouvait obtenir une pension accordée dans le cas prévu à l'article L. 4 (1°), que depuis la date du
-mariage jusqu'à celle de la cessation de l'activité du mari, celui-ci ait accompli deux années au moins [*durée*] de services
-valables pour la retraite, sauf si un ou plusieurs enfants sont issus du mariage antérieur à ladite cessation ;
+a) Si le fonctionnaire a obtenu ou pouvait obtenir une pension accordée dans le cas prévu à l'article L. 4 (1°), que depuis
+la date du mariage jusqu'à celle de la cessation de l'activité du fonctionnaire, celui-ci ait accompli deux années au moins
+de services valables pour la retraite, sauf si un ou plusieurs enfants sont issus du mariage antérieur à ladite cessation ; 
 
-b) Si le mari a obtenu ou pouvait obtenir une pension accordée dans le cas prévu à l'article L. 4 (2°), que le mariage soit
-antérieur à l'événement qui a amené la mise à la retraite ou la mort du mari.
+b) Si le fonctionnaire a obtenu ou pouvait obtenir une pension accordée dans le cas prévu à l'article L. 4 (2°), que le
+mariage soit antérieur à l'événement qui a amené la mise à la retraite ou la mort du fonctionnaire. 
 
 Toutefois, au cas de mise à la retraite d'office par suite de l'abaissement des limites d'âge, il suffit que le mariage soit
 antérieur à la mise à la retraite et ait été contracté deux ans et au moins avant soit la limite d'âge en vigueur au moment
-où il a été contracté, soit le décès du mari si ce décès survient antérieurement à ladite limite d'âge.
+où il a été contracté, soit le décès du fonctionnaire si ce décès survient antérieurement à ladite limite d'âge. 
 
-Nonobstant les conditions d'antériorité prévues ci-dessus, le droit à pension de veuve est reconnu :
+Nonobstant les conditions d'antériorité prévues ci-dessus, le droit à pension de réversion est reconnu : 
 
-1° Si un ou plusieurs enfants sont issus du mariage ;
+1° Si un ou plusieurs enfants sont issus du mariage ; 
 
 2° Ou si le mariage, antérieur ou postérieur à la cessation de l'activité, a duré au moins quatre années.
 
@@ -3431,9 +3759,13 @@ Nonobstant les conditions d'antériorité prévues ci-dessus, le droit à pensio
 	  - Code des pensions civiles et militaires de retrait - art. L50 (M)
 	  - Code des pensions civiles et militaires de retrait - art. R*54 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2003-775 du 21 août 2003 - art. 56 () JORF 22 août 2003 en vigueur le 1er janvier 2004
+
 	**Cite**:
 
-	  - Code des pensions civiles et militaires de retrait - art. L4 (V)
+	  - Code des pensions civiles et militaires de retr... - art. L4 (V)
 
 	**Codifié par**:
 
@@ -3442,15 +3774,15 @@ Nonobstant les conditions d'antériorité prévues ci-dessus, le droit à pensio
 
 ###### Article L40
 
-Chaque orphelin a droit jusqu'à l'âge de vingt et un ans à une pension égale à 10 % de la pension obtenue par le père ou
-qu'il aurait pu obtenir au jour de son décès, et augmentée, le cas échéant, de 10 % de la rente d'invalidité dont il
-bénéficiait ou aurait pu bénéficier, sans que le total des émoluments attribués à la mère et aux orphelins puisse excéder le
-montant de la pension et, éventuellement, de la rente d'invalidité attribuées ou qui auraient été attribuées au père. S'il y
-a excédent, il est procédé à la réduction temporaire des pensions des orphelins.
+Chaque orphelin a droit jusqu'à l'âge de vingt et un ans à une pension égale à 10 % de la pension obtenue par le
+fonctionnaire ou qu'il aurait pu obtenir au jour de son décès, et augmentée, le cas échéant, de 10 % de la rente d'invalidité
+dont il bénéficiait ou aurait pu bénéficier, sans que le total des émoluments attribués au conjoint survivant et aux
+orphelins puisse excéder le montant de la pension et, éventuellement, de la rente d'invalidité attribuées ou qui auraient été
+attribuées au fonctionnaire. S'il y a excédent, il est procédé à la réduction temporaire des pensions des orphelins.
 
-Au cas de décès de la mère ou si celle-ci est inhabile à obtenir une pension ou déchue de ses droits, les droits définis au
-premier alinéa de l'article L. 38 passent aux enfants âgés de moins de vingt et un ans et la pension de 10 % est maintenue à
-chaque enfant âgé de moins de vingt et un ans dans la limite du maximum fixé à l'alinéa précédent.
+En cas de décès du conjoint survivant, les droits définis au premier alinéa de l'article L. 38 passent aux enfants âgés de
+moins de vingt et un ans et la pension de 10 % est maintenue à chaque enfant âgé de moins de vingt et un ans dans la limite
+du maximum fixé à l'alinéa précédent.
 
 Pour l'application des dispositions qui précèdent, sont assimilés aux enfants âgés de moins de vingt et un ans les enfants
 qui, au jour du décès de leur auteur, se trouvaient à la charge effective de ce dernier par suite d'une infirmité permanente
@@ -3463,7 +3795,7 @@ mais avant leur vingt et unième année révolue, d'une infirmité permanente le
 vie.
 
 Les pensions de 10 % attribuées aux enfants ne peuvent pas, pour chacun d'eux, être inférieures au montant des avantages
-familiaux dont aurait bénéficié le père en exécution de l'article L. 19 s'il avait été retraité.
+familiaux dont aurait bénéficié le fonctionnaire en exécution de l'article L. 19 s'il avait été retraité.
 
 Les enfants naturels reconnus et les enfants adoptifs sont assimilés aux orphelins légitimes.
 
@@ -3479,18 +3811,18 @@ Les enfants naturels reconnus et les enfants adoptifs sont assimilés aux orphel
 	  - Code des pensions civiles et militaires de retrait - art. D24 (V)
 	  - Code des pensions civiles et militaires de retrait - art. L42 (Ab)
 
-	**Modifié par**:
-
-	  - Loi n°73-1128 1973-12-21 art. 12 JORF 23 décembre 1973
-	  - Loi n°75-1242 du 27 décembre 1975 - art. 16 () JORF 28 décembre 1975
-
-	**Cite**:
-
-	  - Code des pensions civiles et militaires de retraite L19 et L38 al. 1
-
 	**Codifié par**:
 
 	  - Loi n°64-1339 1964-12-29
+
+	**Modifié par**:
+
+	  - Loi n°2003-775 du 21 août 2003 - art. 57 () JORF 22 août 2003 en vigueur le 1er janvier 2004
+
+	**Cite**:
+
+	  - Code des pensions civiles et militaires de retrait - art. L19 (M)
+	  - Code des pensions civiles et militaires de retrait - art. L38 (M)
 
 
 ###### Article L41
@@ -3515,44 +3847,6 @@ adoptifs.
 	**Codifié par**:
 
 	  - Loi n°64-1339 1964-12-29
-
-
-###### Article L42
-
-Les orphelins âgés de moins de vingt et un ans d'une femme fonctionnaire décédée en jouissance d'une pension et,
-éventuellement, d'une rente d'invalidité ou en possession de droits à ces prestations ont droit au bénéfice des dispositions
-combinées du premier alinéa de l'article L. 38 et du second alinéa de l'article L. 40.
-
-Si le conjoint survivant peut prétendre à la pension prévue à l'article L. 50, les orphelins âgés de moins de vingt et un ans
-de la femme fonctionnaire ont droit à une pension réglée pour chacun d'eux à raison de 10 p. 100 du montant de la pension et,
-éventuellement, de la rente d'invalidité attribuées ou qui auraient été attribuées à la mère.
-
-Il peut être fait, en l'espèce, application des dispositions des troisième, quatrième, cinquième et dernier alinéas de
-l'article L. 40 et de l'article L. 41.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°64-1339 1964-12-29
-
-	**Modifié par**:
-
-	  - Loi n°73-1128 1973-12-21 art. 12 JORF 23 décembre 1973
-	  - Loi n°75-1242 du 27 décembre 1975 - art. 16 () JORF 28 décembre 1975
-
-	**Abrogé par**:
-
-	  - Loi n°2003-775 du 21 août 2003 - art. 65 (V) JORF 22 août 2003 en vigueur le 1er janvier 2004
-
-	**Cité par**:
-
-	  - Loi n°2003-775 du 21 août 2003 - art. 65 (V)
-
-	**Cite**:
-
-	  - Code des pensions civiles et militaires de retrait - art. L40 (M)
-	  - Code des pensions civiles et militaires de retraite L38 al. 1, L40, L41 et L50
 
 
 ###### Article L43
@@ -3623,26 +3917,22 @@ autre ayant cause.
 
 ###### Article L45
 
-Lorsque, au décès du mari, il existe plusieurs conjoints, divorcés ou survivants, ayant droit à la pension définie au premier
-alinéa de l'article L. 38, la pension est répartie entre ces conjoints au prorata de la durée respective de chaque mariage.
+Lorsque, au décès du fonctionnaire, il existe plusieurs conjoints, divorcés ou survivants, ayant droit à la pension définie
+au premier alinéa de l'article L. 38, la pension est répartie entre ces conjoints au prorata de la durée respective de chaque
+mariage.
 
-Au décès de l'une des bénéficiaires, sa part accroîtra la part de l'autre, sauf réversion du droit au profit des enfants de
-moins de vingt et un ans.
-
-Les deux alinéas qui précèdent s'appliquent dans les mêmes conditions à la pension de réversion prévue par l'article L. 50.
+En cas de décès de l'un des bénéficiaires, sa part passe le cas échéant aux orphelins de moins de vingt et un ans, légitimes
+ou naturels, issus de son union avec le fonctionnaire ou le titulaire de la pension, ou adoptés au cours de cette union.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°64-1339 1964-12-29
-
 	**Modifié par**:
 
-	  - Loi n°75-617 1975-07-11 art. 14 JORF 12 juillet 1975
-	  - Loi n°75-1242 du 27 décembre 1975 - art. 16 () JORF 28 décembre 1975
-	  - Loi n°78-753 1978-07-17 art. 43 II JORF 18 juillet 1978
-	  - Loi n°78-753 du 17 juillet 1978 - art. 43
+	  - Loi n°2003-775 du 21 août 2003 - art. 58 () JORF 22 août 2003 en vigueur le 1er janvier 2004
+
+	**Abrogé par**:
+
+	  - Loi n°2011-1977 du 28 décembre 2011 - art. 162 (V)
 
 	**Cité par**:
 
@@ -3650,7 +3940,11 @@ Les deux alinéas qui précèdent s'appliquent dans les mêmes conditions à la 
 
 	**Cite**:
 
-	  - Code des pensions civiles et militaires de retraite L38 al. 1 et L50
+	  - Code des pensions civiles et militaires de retraite - art. L38
+
+	**Codifié par**:
+
+	  - Loi n°64-1339 1964-12-29
 
 
 ###### Article L46
@@ -3693,27 +3987,21 @@ pu être faite des dispositions du premier alinéa du présent article.
 
 ###### Article L47
 
-Sont applicables aux ayants cause des militaires dont les droits se trouvent régis par le présent code les dispositions du
-chapitre Ier du présent titre, à l'exception de celles visées au premier alinéa, a et b, de l'article L. 39, qui sont
-remplacées par les dispositions suivantes :
-
-Le droit à pension de veuve est subordonné à la condition :
-
-a) Que depuis la date du mariage jusqu'à celle de la cessation de l'activité du mari, celui-ci ait accompli deux années au
-moins de services valables pour la retraite, sauf si un ou plusieurs enfants sont issus du mariage antérieur à ladite
-cessation, lorsque le mari a obtenu ou pouvait obtenir la pension prévue à l'article L. 6 (1°) ;
-
-b) Que le mariage ait été contracté avant l'événement qui a amené la radiation des cadres ou la mort du mari lorsque celui-ci
-a obtenu ou pouvait obtenir la pension prévue à l'article L. 6 (2°, 3° et 4°).
+Les dispositions du chapitre Ier du présent titre sont applicables aux ayants cause des militaires mentionnés à l'article L.
+6.
 
 La pension des veuves de maréchaux de France et amiraux de France est fixée à 75 % des émoluments de base servant au calcul
 de la solde de réserve d'un général de division au taux le plus élevé.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Loi n°2003-775 du 21 août 2003 - art. 59 () JORF 22 août 2003 en vigueur le 1er janvier 2004
+
 	**Cite**:
 
-	  - Code des pensions civiles et militaires de retraite L6 et L39
+	  - Code des pensions civiles et militaires de retrait - art. L6 (M)
 
 	**Codifié par**:
 
@@ -3724,8 +4012,8 @@ de la solde de réserve d'un général de division au taux le plus élevé.
 
 Les ayants cause de militaires visés à l'article L. 6 et décédés titulaires d'une pension militaire d'invalidité ou décédés
 en activité des suites d'infirmités imputables au service bénéficient de la pension prévue par le code des pensions
-militaires d'invalidité correspondant au grade du mari à laquelle s'ajoute, s'il y a lieu, la pension accordée en application
-de l'article L. 47.
+militaires d'invalidité correspondant au grade du militaire à laquelle s'ajoute, s'il y a lieu, la pension accordée en
+application de l'article L. 47.
 
 La pension attribuée aux ayants cause des militaires visés à l'article L. 6 ne peut être inférieure à la moitié de la pension
 garantie prévue à l'article L. 35, lorsque le militaire est décédé en activité ou, dans le cas contraire, lorsqu'il avait
@@ -3741,6 +4029,10 @@ obtenu ou était en droit d'obtenir le bénéfice de cet article.
 	**Codifié par**:
 
 	  - Loi n°64-1339 1964-12-29
+
+	**Modifié par**:
+
+	  - Loi n°2003-775 du 21 août 2003 - art. 59 () JORF 22 août 2003 en vigueur le 1er janvier 2004
 
 
 ###### Article L49
@@ -3774,32 +4066,48 @@ liquidable.
 
 ###### Article L50
 
-Le conjoint survivant non séparé de corps d'une femme fonctionnaire ou d'une femme appartenant au personnel militaire féminin
-peut, sous les réserves et dans les conditions fixées par le présent article, prétendre à 50 % de la pension obtenue par elle
-ou qu'elle aurait pu obtenir au jour de son décès et augmentée, le cas échéant, de la moitié de la rente d'invalidité dont
-elle bénéficiait ou aurait pu bénéficier, si se trouve remplie la condition d'antériorité de mariage prévue à l'article L. 39
-(a ou b) ou L. 47 (a ou b).
+I. - En cas de décès d'un fonctionnaire civil ou militaire par suite d'un attentat, d'une lutte dans l'exercice de ses
+fonctions, d'un acte de dévouement dans un intérêt public ou pour sauver la vie d'une ou plusieurs personnes, une pension de
+réversion est concédée aux conjoints. A cette pension de réversion s'ajoute soit la moitié de la rente viagère d'invalidité
+dont aurait pu bénéficier le fonctionnaire, soit la pension prévue au code des pensions militaires d'invalidité, de manière à
+ce que le total ne soit pas inférieur à un montant correspondant à la valeur de l'indice majoré 227 au 1er janvier 2004,
+revalorisé dans les conditions de l'article L. 16.
 
-La jouissance de cette pension est suspendue tant que subsiste un orphelin bénéficiaire des dispositions de l'article L. 42
-(premier alinéa) et différée jusqu'au jour où le conjoint survivant atteint l'âge minimal d'entrée en jouissance des pensions
-fixé par l'article L. 24-1er (1°) pour les fonctionnaires n'ayant pas occupé des emplois classés en catégorie B. Toutefois,
-lorsque le conjoint survivant est reconnu, dans les formes fixées à l'article L. 31, atteint d'une infirmité ou maladie
-incurable le rendant définitivement incapable de travailler, l'entrée en jouissance est fixée à la date où la constatation en
-a été faite.
+II. - Le total des pensions et, selon les cas, de la rente viagère d'invalidité ou de la pension militaire d'invalidité
+attribuables aux conjoints survivants et aux orphelins ne peut être inférieur à celui de la pension et de la rente viagère
+d'invalidité ou de la pension militaire d'invalidité dont le fonctionnaire ou le militaire aurait pu bénéficier, si le décès
+intervient dans les conditions suivantes :
 
-Le montant de la pension de réversion concédée dans les conditions fixées par le présent article ne peut excéder 37,50 % du
-traitement brut afférent à l'indice brut 550 prévu par l'article 1er du décret n° 48-1108 du 10 juillet 1948 et les textes
-subséquents.
+1° Lorsqu'un fonctionnaire des douanes de la branche de la surveillance est tué au cours d'une opération douanière ;
+
+2° Lorsqu'un fonctionnaire de la police nationale est tué au cours d'une opération de police ou décède en service et est cité
+à l'ordre de la Nation ;
+
+3° Lorsqu'un militaire de la gendarmerie nationale est tué au cours d'une opération de police ou décède en service et est
+cité à l'ordre de la Nation ou à l'ordre de la gendarmerie ;
+
+4° Lorsqu'un fonctionnaire appartenant au personnel de l'administration pénitentiaire décède à la suite d'un acte de violence
+dans le cadre de l'exercice de ses fonctions ;
+
+5° Lorsqu'un sapeur-pompier de la brigade des sapeurs-pompiers de Paris ou du bataillon des marins-pompiers de Marseille est
+tué dans l'exercice de ses fonctions et est cité à l'ordre de la Nation ;
+
+6° Lorsqu'un agent d'exploitation des travaux publics de l'Etat ou un chef d'équipe des travaux publics de l'Etat est tué en
+service dans le cadre d'une intervention sur voirie circulée ;
+
+7° Lorsqu'un contrôleur des transports terrestres est tué en service dans le cadre de l'exercice de ses missions de contrôle
+sur route ;
+
+8° Lorsqu'un inspecteur des affaires maritimes ou un contrôleur des affaires maritimes ou un syndic des gens de mer de la
+spécialité navigation et sécurité est tué en service au cours d'une mission de contrôle ou de surveillance.
+
+III. - Le total des pensions et, selon les cas, de la rente viagère ou de la pension militaire d'invalidité attribuables aux
+conjoints survivants et aux orphelins est porté à 100 % du traitement ou de la solde de base détenu par le fonctionnaire ou
+le militaire au jour de son décès lorsqu'un fonctionnaire, un militaire de carrière ou un militaire servant sous contrat est
+tué dans un attentat alors qu'il se trouvait en service sur le territoire national ou à l'étranger ou au cours d'une
+opération militaire, alors qu'il se trouvait en service ou en mission à l'étranger.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°48-1108 du 10 juillet 1948 - art. 1 (V)
-	  - Code des pensions civiles et militaires de retrait - art. L24 (M)
-	  - Code des pensions civiles et militaires de retrait - art. L31 (M)
-	  - Code des pensions civiles et militaires de retrait - art. L39 (M)
-	  - Code des pensions civiles et militaires de retraite L24, L31, L39, L42 al. 1 et L47
 
 	**Cité par**:
 
@@ -3810,15 +4118,11 @@ subséquents.
 
 	**Modifié par**:
 
-	  - Loi n°73-1128 1973-12-21 art. 12 III JORF 23 décembre 1973
-	  - Loi n°78-753 1978-07-17 art. 43 III JORF 18 juillet 1978
-	  - Loi n°78-753 du 17 juillet 1978 - art. 43
-	  - Loi n°82-599 du 13 juillet 1982 - art. 15 () JORF 14 juillet 1982
+	  - Loi n°2003-775 du 21 août 2003 - art. 61 () JORF 22 août 2003 en vigueur le 1er janvier 2004
 
-	**Liens**:
+	**Cite**:
 
-	  - SPEC_APPLI: Loi n°78-753 du 17 juillet 1978 - art. 44 (V)
-	  - SPEC_APPLI: Loi n°82-599 1982-07-13 art. 31
+	  - Code des pensions civiles et militaires de retrait - art. L16 (M)
 
 	**Codifié par**:
 
@@ -3981,13 +4285,10 @@ ou complicité de crime contre l'humanité.
 
 Lorsqu'un bénéficiaire du présent code, titulaire d'une pension ou d'une rente viagère d'invalidité, a disparu de son
 domicile et que plus d'un an s'est écoulé sans qu'il ait réclamé les arrérages de sa pension ou de sa rente viagère
-d'invalidité, sa femme et les enfants âgés de moins de vingt et un ans qu'il a laissés peuvent obtenir, à titre provisoire,
-la liquidation des droits à la pension qui leur seraient ouverts en cas de décès.
+d'invalidité, son conjoint et les enfants âgés de moins de vingt et un ans qu'il a laissés peuvent obtenir, à titre
+provisoire, la liquidation des droits à la pension qui leur seraient ouverts en cas de décès.
 
-La même règle peut être suivie à l'égard des orphelins lorsque la mère, bénéficiaire d'une pension ou d'une rente viagère
-d'invalidité ou en possession de droits à une telle pension ou rente, a disparu depuis plus d'un an.
-
-Une pension peut être également attribuée, à titre provisoire, à la femme et aux enfants âgés de moins de vingt et un ans
+Une pension peut être également attribuée, à titre provisoire, au conjoint et aux enfants âgés de moins de vingt et un ans
 d'un bénéficiaire du présent code disparu lorsque celui-ci satisfaisait au jour de sa disparition aux conditions exigées à
 l'article L. 4 (1°) ou à l'article L. 6 (1°) et qu'il s'est écoulé au moins un an depuis ce jour.
 
@@ -4003,105 +4304,17 @@ passé en force de chose jugée et une pension définitive est alors attribuée 
 	  - Décret n°2009-1261 du 19 octobre 2009 - art. 3 (V)
 	  - Code des pensions civiles et militaires de retrait - art. R*67 (V)
 
+	**Codifié par**:
+
+	  - Loi n°64-1339 1964-12-29
+
 	**Modifié par**:
 
-	  - Loi n°75-1242 du 27 décembre 1975 - art. 16 () JORF 28 décembre 1975
+	  - Loi n°2003-775 du 21 août 2003 - art. 60 () JORF 22 août 2003 en vigueur le 1er janvier 2004
 
 	**Cite**:
 
 	  - Code des pensions civiles et militaires de retraite L4 et L6
-
-	**Codifié par**:
-
-	  - Loi n°64-1339 1964-12-29
-
-
-###### Article L58
-
-Le droit à l'obtention ou à la jouissance de la pension et de la rente viagère d'invalidité est suspendu :
-
-Par la révocation avec suspension des droits à pension ;
-
-Par la condamnation à la destitution prononcée par application du code de justice militaire ou maritime ;
-
-Par la condamnation à une peine afflictive ou infamante pendant la durée de la peine ;
-
-Par les circonstances qui font perdre la qualité de Français durant la privation de cette qualité, à l'exclusion de la perte
-de cette qualité en raison de l'accession à l'indépendance d'un territoire antérieurement français ;
-
-Par la déchéance totale ou partielle de l'autorité parentale pour les veuves et les femmes divorcées.
-
-S'il y a lieu, par la suite, à la liquidation ou au rétablissement de la pension ou de la rente d'invalidité, aucun rappel
-n'est dû pour les périodes d'application de la suspension.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°60-1089 du 6 octobre 1960 - art. 4 (V)
-	  - Décret n°67-711 du 18 août 1967 - art. 30 (Ab)
-	  - Loi n°2003-775 du 21 août 2003 - art. 65 (V)
-
-	**Modifié par**:
-
-	  - Loi n°2002-1576 2002-12-30 art. 68 VII jorf 31 décembre 2002
-
-	**Codifié par**:
-
-	  - Loi n°64-1339 1964-12-29
-
-	**Abrogé par**:
-
-	  - Loi n°2003-775 du 21 août 2003 - art. 65 (V) JORF 22 août 2003 en vigueur le 1er janvier 2004
-
-
-###### Article L59
-
-Le droit à l'obtention ou à la jouissance de la pension et de la rente viagère d'invalidité est également suspendu à l'égard
-de tout bénéficiaire du présent code qui aura été révoqué ou mis à la retraite d'office :
-
-Pour avoir été reconnu coupable de détournement soit de deniers de l'Etat, des départements, des communes ou établissements
-publics, soit de dépôts de fonds particuliers versés à sa caisse ou de matières reçues et dont il doit compte ;
-
-Ou convaincu de malversations relatives à son service ;
-
-Ou pour s'être démis de ses fonctions à prix d'argent ou à des conditions équivalant à une rémunération en argent ou s'être
-rendu complice d'une telle démission,
-
-lors même que la pension ou la rente viagère aurait été concédée.
-
-La même disposition est applicable, pour des faits qui auraient été de nature à entraîner la révocation ou la mise à la
-retraite d'office, lorsque les faits sont révélés ou qualifiés après la cessation de l'activité.
-
-Dans tous les cas, l'organisme disciplinaire compétent est appelé à donner son avis sur l'existence et la qualification des
-faits.
-
-Un arrêté conjoint du ministre compétent, du ministre des finances et, pour les fonctionnaires civils, du ministre chargé de
-la fonction publique peut relever l'intéressé de la suspension encourue.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°60-1089 du 6 octobre 1960 - art. 4 (V)
-	  - Décret n°67-711 du 18 août 1967 - art. 30 (Ab)
-	  - Décret n°74-385 du 22 avril 1974 - art. 1 (Ab)
-	  - Décret n°74-385 du 22 avril 1974 - art. 18 (Ab)
-	  - Décret n°74-385 du 22 avril 1974 - art. 2 (Ab)
-	  - Décret n°74-385 du 22 avril 1974 - art. 20 (Ab)
-	  - Décret n°74-385 du 22 avril 1974 - art. 26 (Ab)
-	  - Décret n°74-385 du 22 avril 1974 - art. 7 (Ab)
-	  - Loi n°2003-775 du 21 août 2003 - art. 65 (V)
-	  - Code des pensions civiles et militaires de retrait - art. D27 (M)
-	  - Code des pensions civiles et militaires de retrait - art. R*69 (Ab)
-
-	**Abrogé par**:
-
-	  - Loi n°2003-775 du 21 août 2003 - art. 65 (V) JORF 22 août 2003 en vigueur le 1er janvier 2004
-
-	**Codifié par**:
-
-	  - Loi n°64-1339 1964-12-29
 
 
 ### Titre IX : Retenues pour pensions.
@@ -4346,156 +4559,6 @@ La jouissance de la pension est fixée dans les conditions prévues à l'article
 
 ## Livre II : Dispositions particulières du régime général des retraites.
 
-### Titre Ier : Droits spéciaux aux fonctionnaires civils anciens combattants et victimes de la guerre et à leurs ayants cause.
-
-#### Chapitre Ier : Droits à pension d'invalidité des fonctionnaires invalides par faits de guerre et de leurs ayants cause.
-
-##### Paragraphe Ier : Droits des fonctionnaires.
-
-###### Article L68
-
-Les fonctionnaires civils de l'Etat régis, pour la retraite, par les dispositions du présent code qui, accomplissant en temps
-de guerre un service militaire ou de défense passive, sont atteints, dans l'exécution de ce service, d'infirmités résultant
-de blessures ou de maladies qui ouvrent droit à une pension militaire, peuvent, en renonçant à demander cette pension,
-réclamer le bénéfice de leur régime normal de retraites. Dans ce cas, ces infirmités sont considérées comme reçues ou
-contractées dans l'exercice des fonctions civiles.
-
-Les mêmes dispositions sont applicables aux personnels des catégories ci-dessous visées, qui, victimes d'événements de guerre
-auxquels ils auraient été exposés par les obligations de leur service civil, se trouveraient hors d'état de continuer
-l'exercice de leurs fonctions s'ils renoncent à se prévaloir des dispositions générales applicables aux victimes civiles de
-la guerre.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°64-1339 1964-12-29
-
-	**Abrogé par**:
-
-	  - Loi n°2003-775 du 21 août 2003 - art. 65 (V) JORF 22 août 2003 en vigueur le 1er janvier 2004
-
-	**Cité par**:
-
-	  - Loi n°2003-775 du 21 août 2003 - art. 65 (V)
-	  - Code des pensions civiles et militaires de retrait - art. L71 (Ab)
-
-
-###### Article L69
-
-Pour la détermination des droits à pension du régime général des retraites, les blessures ou le décès résultant d'événements
-de guerre sont assimilés aux blessures reçues ou au décès survenu dans les circonstances définies au dernier alinéa de
-l'article L. 28.
-
-Les personnels visés par le présent chapitre ou leurs ayants cause qui auront demandé le bénéfice de la législation des
-pensions militaires ou de victime civile pourront, en cas d'incapacité de continuer leurs fonctions ou en cas de décès,
-obtenir par ailleurs, s'ils réunissent les conditions exigées par le présent code, le bénéfice de la pension accordée aux
-agents ou à leurs ayants cause en cas d'invalidité ou de décès ne résultant pas du service.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°64-1339 1964-12-29
-
-	**Cité par**:
-
-	  - Loi n°64-1339 du 26 décembre 1964 - art. 3 (V)
-	  - Loi n°2003-775 du 21 août 2003 - art. 65 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2003-775 du 21 août 2003 - art. 65 (V) JORF 22 août 2003 en vigueur le 1er janvier 2004
-
-	**Cite**:
-
-	  - Code des pensions civiles et militaires de retraite L28 al. 5
-
-
-###### Article L70
-
-Les fonctionnaires internés ou déportés de la Résistance, contraints par leur état de santé à demander la retraite anticipée
-pour infirmités contractées ou aggravées pendant l'internement ou la déportation, peuvent, même s'ils ont repris leur
-service, bénéficier des dispositions prévues aux articles L. 27 et L. 28
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°64-1339 1964-12-29
-
-	**Cité par**:
-
-	  - Loi n°64-1339 du 26 décembre 1964 - art. 3 (V)
-	  - Loi n°2003-775 du 21 août 2003 - art. 65 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2003-775 du 21 août 2003 - art. 65 (V) JORF 22 août 2003 en vigueur le 1er janvier 2004
-
-	**Cite**:
-
-	  - Code des pensions civiles et militaires de retraite L27 et L28
-
-
-##### Paragraphe II : Droits des ayants cause des fonctionnaires décédés par faits de guerre.
-
-###### Article L71
-
-Les veuves ou orphelins des personnels visés à l'article L. 68 qui ont été tués par faits de guerre dans l'accomplissement
-d'un service militaire, de défense passive ou civil en temps de guerre ou qui, avant d'avoir usé de la faculté ouverte par
-l'article susvisé, sont morts des suites de blessures ou de maladies, peuvent opter pour le régime de pension afférent à
-l'emploi civil.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Loi n°2003-775 du 21 août 2003 - art. 65 (V) JORF 22 août 2003 en vigueur le 1er janvier 2004
-
-	**Cité par**:
-
-	  - Loi n°2003-775 du 21 août 2003 - art. 65 (V)
-	  - Code des pensions civiles et militaires de retrait - art. R*73 (Ab)
-
-	**Cite**:
-
-	  - Code des pensions civiles et militaires de retrait - art. L68 (Ab)
-
-	**Codifié par**:
-
-	  - Loi n°64-1339 1964-12-29
-
-
-##### Paragraphe III : Dispositions communes.
-
-###### Article L72
-
-Les bénéficiaires des articles L. 68 à L. 71 peuvent obtenir, à compter du jour de leur demande, la révision de leur
-situation de façon qu'ils bénéficient des émoluments les plus avantageux, sans que l'administration puisse leur opposer
-l'option signée par eux, par leur conjoint ou leur père.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°64-1339 1964-12-29
-
-	**Cité par**:
-
-	  - Loi n°52-432 du 28 avril 1952 - art. 65 bis (V)
-	  - Loi n°2003-775 du 21 août 2003 - art. 65 (V)
-	  - Code des pensions civiles et militaires de retrait - art. R*3 (M)
-
-	**Abrogé par**:
-
-	  - Loi n°2003-775 du 21 août 2003 - art. 65 (V) JORF 22 août 2003 en vigueur le 1er janvier 2004
-
-	**Cite**:
-
-	  - Code des pensions civiles et militaires de retraite L68 à L71
-
-
 ### Titre II : Dispositions particulières relatives à certaines catégories de retraites civiles et militaires.
 
 #### Chapitre Ier : Agents en service détaché.
@@ -4504,28 +4567,33 @@ l'option signée par eux, par leur conjoint ou leur père.
 
 Les avantages spéciaux prévus à l'article L.12, a, sont accordés aux fonctionnaires et magistrats détachés hors d'Europe.
 
-Les avantages spéciaux attachés à l'accomplissement de services actifs ou de la catégorie B sont maintenus en faveur des
-fonctionnaires détachés dans un emploi classé dans cette catégorie pour exercer des fonctions de même nature que celles
-assumées dans le cadre d'origine ainsi qu'en faveur des fonctionnaires détachés pour exercer des fonctions de membre du
-Gouvernement, un mandat électif ou syndical, qui n'ont pas changé de catégorie durant leur position de détachement. Ces mêmes
-avantages sont maintenus en faveur des fonctionnaires détachés hors d'Europe, soit dans les administrations des territoires
-d'outre-mer, soit auprès d'un service français de coopération technique ou culturelle, soit auprès d'Etats étrangers ou
-d'organisations internationales.
+Les avantages spéciaux attachés à l'accomplissement de services dans des emplois classés dans la catégorie active, définie à
+l'article L. 24, sont maintenus en faveur des fonctionnaires détachés dans un emploi classé dans cette catégorie pour exercer
+des fonctions de même nature que celles assumées dans le cadre d'origine ainsi qu'en faveur des fonctionnaires détachés pour
+exercer des fonctions de membre du Gouvernement, un mandat électif ou syndical, qui n'ont pas changé de catégorie durant leur
+position de détachement. Ces mêmes avantages sont maintenus en faveur des fonctionnaires détachés hors d'Europe, soit dans
+les administrations des territoires d'outre-mer, soit auprès d'un service français de coopération technique ou culturelle,
+soit auprès d'Etats étrangers ou d'organisations internationales.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code des pensions civiles et militaires de retrait - art. L12 (M)
-
-	**Codifié par**:
-
-	  - Loi n°64-1339 1964-12-29
 
 	**Cité par**:
 
 	  - Loi n°57-871 du 1 août 1957 - art. 1 (V)
 	  - Loi n°64-1339 du 26 décembre 1964 - art. 3 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2003-775 du 21 août 2003 - art. 50 () JORF 22 août 2003 en vigueur le 1er janvier 2004
+
+	**Cite**:
+
+	  - Code des pensions civiles et militaires de retrait - art. L12 (M)
+	  - Code des pensions civiles et militaires de retrait - art. L24 (M)
+
+	**Codifié par**:
+
+	  - Loi n°64-1339 1964-12-29
 
 
 ###### Article L74
@@ -4760,20 +4828,11 @@ le montant et les modalités d'attribution seront déterminés par un règlement
 
 ###### Article L84
 
-Les dispositions du présent titre sont applicables aux personnels civils et militaires des collectivités suivantes :
+L'article L. 161-22 du code de la sécurité sociale n'est pas applicable aux personnes régies par le présent code.
 
-1° Administrations de l'Etat, des départements et des communes, des départements et territoires d'outre-mer, des offices et
-établissements publics de ces collectivités à caractère administratif ;
-
-2° Offices, établissements publics ou entreprises publiques à caractère industriel ou commercial et dont la liste est fixée
-par décret contresigné par le ministre des finances dans des conditions déterminées par décret en Conseil d'Etat ;
-
-3° Organismes publics ou privés dont le budget de fonctionnement est alimenté en permanence et pour plus de 50 p. 100 de son
-montant, soit par des taxes fiscales ou parafiscales, soit par des cotisations rendues obligatoires en vertu d'un texte légal
-ou réglementaire, soit par des subventions allouées par l'une des collectivités visées au présent article, 1° et 2°.
-
-Ces dispositions sont de même applicables aux retraités régis par la législation locale en vigueur dans les départements du
-Haut-Rhin, du Bas-Rhin et de la Moselle.
+Si, à compter de la mise en paiement d'une pension civile ou militaire, son titulaire perçoit des revenus d'activité de l'un
+des employeurs mentionnés à l'article L. 86-1, il peut cumuler sa pension dans les conditions fixées aux articles L. 85, L.
+86 et L. 86-1.
 
 **Liens relatifs à cet article**
 
@@ -4803,6 +4862,14 @@ Haut-Rhin, du Bas-Rhin et de la Moselle.
 	  - Code des pensions civiles et militaires de retrait - art. R*92 (V)
 	  - Code des pensions civiles et militaires de retrait - art. R*93 (M)
 
+	**Modifié par**:
+
+	  - Loi n°2003-775 du 21 août 2003 - art. 64 () JORF 22 août 2003 en vigueur le 1er janvier 2004
+
+	**Cite**:
+
+	  - Code de la sécurité sociale. - art. L161-22 (M)
+
 	**Codifié par**:
 
 	  - Loi n°64-1339 1964-12-29
@@ -4810,11 +4877,21 @@ Haut-Rhin, du Bas-Rhin et de la Moselle.
 
 ###### Article L85
 
-Tout pensionné qui, par une fausse déclaration relative au cumul ou de quelque manière que ce soit, aurait usurpé plusieurs
-pensions ou un traitement avec une pension, sera rayé du grand-livre de la Dette publique. Il sera, en outre, poursuivi en
-restitution des sommes indûment perçues.
+Le montant brut des revenus d'activité mentionnés au deuxième alinéa de l'article L. 84 ne peut, par année civile, excéder le
+tiers du montant brut de la pension pour l'année considérée.
+
+Lorsqu'un excédent est constaté, il est déduit de la pension après application d'un abattement égal à la moitié du minimum
+fixé au a de l'article L. 17, dans des conditions fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°2003-775 2003-08-21 art. 66 VI : Dérogations
+
+	**Modifié par**:
+
+	  - Loi n°2003-775 du 21 août 2003 - art. 64 () JORF 22 août 2003 en vigueur le 1er janvier 2004
 
 	**Cité par**:
 
@@ -4823,6 +4900,10 @@ restitution des sommes indûment perçues.
 	  - Code des pensions civiles et militaires de retr... - art. L86 (VD)
 	  - Code des pensions civiles et militaires de retrait - art. L84 (V)
 	  - Code des pensions civiles et militaires de retrait - art. L92 (V)
+
+	**Cite**:
+
+	  - Code des pensions civiles et militaires de retrait - art. L17 (M)
 
 	**Codifié par**:
 
@@ -4833,60 +4914,80 @@ restitution des sommes indûment perçues.
 
 ###### Article L86
 
-Les titulaires de pension qui ont été rayés des cadres soit sur leur demande, soit d'office par mesure de discipline, avant
-d'avoir atteint la limite d'âge qui leur était applicable dans leur ancien emploi, et qui perçoivent une rémunération
-d'activité servie par l'une des collectivités énumérées à l'article L. 84, ne peuvent bénéficier de leur pension avant
-d'avoir atteint l'âge correspondant à cette limite d'âge, sauf à percevoir, si la pension est supérieure à la nouvelle
-rémunération d'activité, une somme égale à l'excédent de la pension sur le montant de cette rémunération.
+I. - Par dérogation aux dispositions du deuxième alinéa de l'article L. 84 et de l'article L. 85, les revenus perçus à
+l'occasion de l'exercice des activités suivantes peuvent être entièrement cumulés avec la pension :
 
-Toutefois, peuvent cumuler intégralement le montant de leur pension avec celui des émoluments correspondant à l'emploi qui
-leur est confié :
+1° Activités entraînant affiliation au régime général de la sécurité sociale en application du 15° de l'article L. 311-3 et
+de l'article L. 382-1 du code de la sécurité sociale ainsi que les activités exercées par les artistes interprètes rattachés
+au régime mentionné au premier alinéa de l'article L. 622-5 du même code ;
+
+2° Activités entraînant la production d'oeuvres de l'esprit au sens des articles L. 112-2 et L. 112-3 du code de la propriété
+intellectuelle ;
+
+3° Participation aux activités juridictionnelles ou assimilées, ou à des instances consultatives ou délibératives réunies en
+vertu d'un texte législatif ou réglementaire.
+
+II. - En outre, par dérogation aux mêmes dispositions, peuvent cumuler intégralement le montant de leur pension avec des
+revenus d'activité :
 
 1° Les titulaires de pensions civiles et militaires ou d'une solde de réforme allouées pour invalidité ;
 
-2° Les titulaires de pensions de sous-officiers rémunérant moins de vingt-cinq ans de services même dans le cas où ces
-dernières se trouveraient modifiées à la suite de services nouveaux effectués pendant un rappel à l'activité donnant lieu à
-promotion de grade ;
+2° Les titulaires de pensions militaires non officiers rémunérant moins de vingt-cinq ans de services et les titulaires de
+pensions militaires atteignant la limite d'âge du grade qu'ils détenaient en activité ou la limite de durée de services qui
+leur était applicable en activité, même dans le cas où ces pensions se trouveraient modifiées à la suite de services nouveaux
+effectués pendant un rappel à l'activité donnant lieu à promotion de grade ;
 
-3° Les titulaires de pensions, dont la rémunération annuelle d'activité n'excède pas le quart du montant de la pension ou le
-montant du traitement afférent à l'indice 100 fixé par l'article 1er du décret n° 48-1108 du 10 juillet 1948 et les textes
-subséquents.
+3° Les titulaires de pensions ayant atteint, avant le 1er janvier 2004, la limite d'âge qui leur était applicable dans leur
+ancien emploi.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°48-1108 du 10 juillet 1948 - art. 1 (V)
 
 	**Cité par**:
 
 	  - Décret n°85-1148 du 24 octobre 1985 - art. 7 (M)
-	  - Code des pensions civiles et militaires de retrait - art. L84 (V)
-	  - Code des pensions civiles et militaires de retrait - art. R*92 (M)
 	  - Loi n°89-1007 du 31 décembre 1989 - art. 6-1 (V)
 	  - Loi n°91-1241 du 13 décembre 1991 - art. 8 (V)
+	  - Code des pensions civiles et militaires de retrait - art. L84 (V)
+	  - Code des pensions civiles et militaires de retrait - art. R*92 (M)
+
+	**Modifié par**:
+
+	  - Loi n°2003-775 du 21 août 2003 - art. 64 () JORF 22 août 2003 en vigueur le 1er janvier 2004
+
+	**Cite**:
+
+	  - Code de la propriété intellectuelle - art. L112-2 (M)
+	  - Code de la propriété intellectuelle - art. L112-3 (M)
+	  - Code des pensions civiles et militaires de retrait - art. L85 (M)
+	  - Code des pensions civiles et militaires de retraite L84, L85, L311-3
+	  - Code de la sécurité sociale. - art. L382-1 (M)
+	  - Code de la sécurité sociale. - art. L622-5 (M)
 
 	**Codifié par**:
 
 	  - Loi n°64-1339 1964-12-29
 
-	**Modifié par**:
-
-	  - Loi n°70-1283 1970-12-31 art. 22 II JORF 31 décembre 1970
-
 
 ###### Article L86-1
 
-Le paiement d'une pension civile ou militaire de retraite concédée à compter de l'âge de soixante ans ou plus, et
-postérieurement au 31 mars 1983, est subordonné, pour le bénéficiaire, à la cessation définitive de toute activité dans la
-collectivité publique, au sens de l'article L. 84, auprès de laquelle il était affecté en dernier lieu, antérieurement à la
-date d'entrée en jouissance de sa pension.
+Les employeurs mentionnés au deuxième alinéa de l'article L. 84 sont les suivants :
+
+1° Les administrations de l'Etat et leurs établissements publics ne présentant pas un caractère industriel ou commercial ;
+
+2° Les collectivités territoriales et les établissements publics ne présentant pas un caractère industriel ou commercial qui
+leur sont rattachés ;
+
+3° Les établissements énumérés à l'article 2 de la loi n° 86-33 du 9 janvier 1986 portant dispositions statutaires relatives
+à la fonction publique hospitalière.
+
+Les employeurs mentionnés aux alinéas précédents qui accordent un revenu d'activité au titulaire d'une pension civile ou
+militaire, ainsi que le titulaire de la pension, en font la déclaration dans des conditions définies par un décret en Conseil
+d'Etat.
+
+Ces dispositions sont de même applicables aux retraités régis par la législation locale applicable dans les départements du
+Haut-Rhin, du Bas-Rhin et de la Moselle.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance n°82-290 du 30 mars 1982 - art. 6 (T)
 
 	**Cité par**:
 
@@ -4916,6 +5017,14 @@ date d'entrée en jouissance de sa pension.
 	  - Code des pensions civiles et militaires de retrait - art. R*91 (V)
 	  - Code des pensions civiles et militaires de retrait - art. R*93 (V)
 
+	**Cite**:
+
+	  - Loi n°86-33 1986-01-09 art. 2
+
+	**Modifié par**:
+
+	  - Loi n°2003-775 du 21 août 2003 - art. 64 () JORF 22 août 2003 en vigueur le 1er janvier 2004
+
 	**Codifié par**:
 
 	  - Loi n°64-1339 1964-12-29
@@ -4924,10 +5033,6 @@ date d'entrée en jouissance de sa pension.
 #### Chapitre III : Cumul de plusieurs pensions.
 
 ###### Article L87
-
-En aucun cas, le temps décompté dans la liquidation d'une pension acquise au titre du présent code ou de l'un des régimes de
-retraite des collectivités visées à l'article L. 84 ne peut intervenir dans la liquidation d'une autre pension rémunérant des
-services accomplis à l'Etat.
 
 Dans le cas où le fonctionnaire ou le militaire détaché dans une administration ou un organisme implanté sur le territoire
 d'un Etat étranger ou auprès d'un organisme international au cours de sa carrière a opté pour la poursuite de la retenue
@@ -4940,19 +5045,7 @@ Le pensionné visé à l'alinéa précédent a l'obligation de communiquer annue
 du budget les éléments de nature à apprécier le montant de sa pension étrangère. A défaut, ce service liquidateur opère une
 réduction du montant de la pension à concurrence du temps passé dans cette position de détachement.
 
-Le cumul de deux ou plusieurs pensions acquises au titre de services rendus dans des emplois successifs est autorisé.
-
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°72-662 du 13 juillet 1972 - art. 56 (M)
-	  - Loi n°84-16 du 11 janvier 1984 - art. 46 (M)
-	  - Loi n°84-53 1984-01-26 art. 65
-	  - Loi n°86-33 1986-01-09 art. 53
-	  - Code des pensions civiles et militaires de retrait - art. L61 (M)
-	  - Code des pensions civiles et militaires de retrait - art. L64 (V)
-	  - Code des pensions civiles et militaires de retrait - art. L84 (M)
 
 	**Cité par**:
 
@@ -4968,7 +5061,11 @@ Le cumul de deux ou plusieurs pensions acquises au titre de services rendus dans
 
 	**Modifié par**:
 
-	  - Loi n°2002-73 2002-01-17 art. 20 jorf 18 janvier 2002  en vigueur le 1er janvier 2002
+	  - Loi n°2003-775 du 21 août 2003 - art. 65 (V) JORF 22 août 2003 en vigueur le 1er janvier 2004
+
+	**Cite**:
+
+	  - Code des pensions civiles et militaires de retrait - art. L61 (M)
 
 	**Codifié par**:
 
@@ -5237,76 +5334,16 @@ déterminé par décret en Conseil d'Etat.
 
 ### Titre Ier : Généralités.
 
-###### Article R*1
-
-Outre les fonctionnaires civils visés à l'article L. 2, 1°, ont droit au bénéfice des dispositions du présent code :
-
-1° Les fonctionnaires civils auxquels ne s'applique pas l'ordonnance n° 59-244 du 4 février 1959, mais qui se trouvaient au
-23 septembre 1948 régulièrement affiliés à la loi du 14 avril 1924 portant réforme du régime des pensions civiles et
-militaires ;
-
-2° Les fonctionnaires civils de l'Etat non soumis au statut général des fonctionnaires qui sont cependant affiliés au régime
-général des retraites en vertu de leur statut particulier.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Ordonnance 59-244 1959-02-04
-	  - Code des pensions civiles et militaires de retrait - art. L2 (M)
-	  - Loi n°1924-04-14
-
-	**Codifié par**:
-
-	  - Décret n°66-809 1966-10-28
-
-
-###### Article R*2
-
-Les fonctionnaires régis par la législation locale en vigueur dans les départements du Haut-Rhin, du Bas-Rhin et de la
-Moselle, qui n'ont pas exercé l'option visée à l'article 67 (§ IV) de la loi n° 48-1450 du 20 septembre 1948 ou à l'article
-1er du décret n° 66-808 du 28 octobre 1966 conservent le bénéfice de cette législation.
-
-Les fonctionnaires provenant des anciens cadres de la France d'outre-mer qui étaient régulièrement affiliés au régime de
-retraites du décret n° 50-461 du 21 avril 1950 à la date d'entrée en vigueur de l'ordonnance n° 58-1036 du 29 octobre 1958
-conservent le bénéfice de cette affiliation si, conformément à l'article 41 du décret n° 59-1379 du 8 décembre 1959, ils en
-ont fait la demande expresse dans un délai de six mois suivant leur intégration dans un corps autonome ou latéral et s'ils
-n'ont pas exercé l'option prévue à l'article 2 du décret n° 66-808 du 28 octobre 1966.
-
-Ceux des fonctionnaires qui sont ainsi demeurés affiliés au régime du décret du 21 avril 1950 et qui sont ultérieurement
-intégrés dans un corps métropolitain homologue ou correspondant disposent d'un nouveau délai de six mois à compter de la date
-de cette intégration pour obtenir leur maintien sous ce même régime.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°50-461 1950-04-21
-	  - Loi n°48-1450 1948-09-20 art. 67 IV
-	  - Ordonnance 58-1036 1958-10-29
-	  - Décret n°59-1379 1959-12-08 art. 41
-	  - Décret n°66-808 1966-10-28 art. 1 et 2
-	  - Loi n°75-1278 1975-12-30
-
-	**Codifié par**:
-
-	  - Décret n°66-809 1966-10-28
-
-	**Abrogé par**:
-
-	  - Décret n°2003-1305 du 26 décembre 2003 - art. 47 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
-
-
 ###### Article R*3
 
 Lorsque les bénéficiaires du présent code ou leurs ayants cause ont à exercer une option, ils doivent, à peine de forclusion,
 faire connaître leur décision au ministre dont ils relèvent dans un délai d'un an à dater du jour où s'ouvre leur droit
 d'option.
 
-Sous réserve des dispositions de l'article L. 72 l'option ainsi exercée est irrévocable.
+L'option ainsi exercée est irrévocable.
 
-Celle-ci doit être formulée par lettre dont il est accusé réception et qui doit figurer au dossier de la proposition de
-pension.
+Celle-ci doit être formulée par lettre ou par courriel dont il est accusé réception et qui doit figurer au dossier de la
+proposition de pension.
 
 **Liens relatifs à cet article**
 
@@ -5314,14 +5351,14 @@ pension.
 
 	  - Décret n°66-809 1966-10-28
 
+	**Modifié par**:
+
+	  - Décret n°2003-1305 du 26 décembre 2003 - art. 2 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
+
 	**Cité par**:
 
 	  - Code des pensions civiles et militaires de retr... - art. R*76 (V)
 	  - Code des pensions civiles et militaires de retr... - art. R*76 bis (V)
-
-	**Cite**:
-
-	  - Code des pensions civiles et militaires de retrait - art. L72 (Ab)
 
 
 ###### Article R*4
@@ -5339,60 +5376,42 @@ la pension, ces dernières n'étant déterminées que par l'arrêté de concessi
 	  - Décret n°66-809 1966-10-28
 
 
+###### Article R1
+
+Outre les fonctionnaires mentionnés au 1° de l'article L. 2, ont droit au bénéfice des dispositions du présent code les
+fonctionnaires non soumis aux dispositions de la loi n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à
+la fonction publique de l'Etat qui sont affiliés au régime des retraites des fonctionnaires de l'Etat en vertu de leur statut
+particulier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°66-809 1966-10-28
+
+	**Cite**:
+
+	  - Loi n°84-16 1984-01-11
+	  - Code des pensions civiles et militaires de retrait - art. L2 (M)
+
+	**Modifié par**:
+
+	  - Décret n°2003-1305 du 26 décembre 2003 - art. 1 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
+
+
 ### Titre II : Constitution du droit à la pension ou à la solde de réforme.
 
 #### Chapitre Ier : Fonctionnaires civils.
 
 ##### Paragraphe II : Eléments constitutifs.
 
-###### Article R*5
+###### Article R5
 
-Lorsque, avant son affiliation au régime du présent code, un agent a accompli des services auxiliaires de nature à être
-validés pour la retraite dans les cadres des administrations mentionnées à l'article L. 5 (3°, 4° et 5°) l'administration de
-l'Etat dont il relève procède sur sa demande à la validation desdits services dans les conditions prévues par le présent
-code.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°66-809 1966-10-28
-
-	**Cite**:
-
-	  - Code des pensions civiles et militaires de retrait - art. L5 (M)
-
-
-###### Article R*7
-
-Les périodes de congé régulier pour longue maladie susceptibles d'être validées pour la retraite en vertu du dernier alinéa
-de l'article L. 5 ne peuvent excéder la durée des congés avec traitement accordés aux fonctionnaires titulaires atteints des
-mêmes affections dans les mêmes circonstances.
-
-Dans chaque ministère, des arrêtés conjoints du ministre intéressé et du ministre des finances déterminent la nature et le
-point de départ des services susceptibles d'être validés pour la retraite en application de l'article L. 5 (dernier alinéa).
-
-Ces arrêtés ainsi que les autres textes qui autorisent la validation de ces services figurent au tableau annexé au présent
-code.
-
-La validation demandée dans le délai d'un an suivant la nomination à un emploi comportant affiliation au présent régime ou,
-pour les services dont la validation ne sera autorisée que postérieurement à cette date, dans le délai d'un an suivant la
-publication de l'arrêté prévu au second alinéa, est subordonnée au versement rétroactif de la retenue légale calculée sur les
-émoluments attachés au premier emploi ou grade, classe, échelon et chevron effectivement occupés par le fonctionnaire
-titulaire ou le militaire.
-
-La validation demandée après expiration du délai d'un an visé à l'alinéa qui précède est subordonnée au versement rétroactif
-de la retenue légale calculée sur les émoluments de l'emploi ou grade, classe, échelon et chevron occupés à la date de la
-demande.
-
-Les retenues rétroactives sont versées par l'agent au Trésor public. L'annulation des sommes acquittées pendant la durée des
-services à valider, au titre de l'assurance vieillesse du régime général des assurances sociales, est effectuée au profit du
-Trésor public.
-
-Les modalités de versement des retenues rétroactives afférentes à la validation sont définies aux articles D. 3 et D. 4.
-
-La demande de validation doit être adressée à l'administration dont relève le fonctionnaire ou le militaire ; il en est
-accusé réception.
+Lorsque, avant son affiliation au régime du présent code, un fonctionnaire ou un militaire a accompli des services de non-
+titulaires susceptibles d'être validés pour la retraite au titre du régime de la Caisse nationale de retraites des agents des
+collectivités locales ou du régime applicable au personnel titulaire des administrations ou établissements mentionnés aux 3°
+et 5° de l'article L. 5, le service de l'Etat dont il relève procède sur sa demande à leur validation dans les conditions
+prévues par le présent code.
 
 **Liens relatifs à cet article**
 
@@ -5400,10 +5419,13 @@ accusé réception.
 
 	  - Décret n°66-809 1966-10-28
 
+	**Modifié par**:
+
+	  - Décret n°2003-1305 du 26 décembre 2003 - art. 3 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
+
 	**Cite**:
 
 	  - Code des pensions civiles et militaires de retrait - art. L5 (M)
-	  - Code des pensions civiles et militaires de retraite L5, D3 et D4
 
 
 ###### Article R6
@@ -5414,14 +5436,69 @@ mesure où ils ont été accomplis :
 1° Pour l'Algérie, pour Madagascar et dépendances, pour les pays de l'ancienne Afrique occidentale française et de l'ancienne
 Afrique équatoriale française, pour le Togo et le Cameroun, avant la date de leur accession à l'indépendance ;
 
-2° Pour l'ex-Indochine française et les anciens établissements français de l'Inde, avant la date du transfert des
-administrations aux nouveaux Etats du Viet-Nam, du Cambodge et du Laos ou à l'Union indienne ;
+2° Abrogé ;
 
-3° Pour la Tunisie avant le 1er avril 1957 [*date*] ;
+3° Pour la Tunisie avant le 1er avril 1957 ;
 
-4° Pour le Maroc, s'il s'agit de services de fonctionnaire titulaire : [*date*] avant le 1er janvier 1963 et s'il s'agit de
-services auxiliaires validés : avant le 1er octobre 1957 pour les magistrats et les personnels enseignants et avant le 1er
-juillet 1957 pour les autres personnels.
+4° Pour le Maroc, s'il s'agit de services de fonctionnaire titulaire : avant le 1er janvier 1963 et s'il s'agit de services
+auxiliaires validés : avant le 1er octobre 1957 pour les magistrats et les personnels enseignants et avant le 1er juillet
+1957 pour les autres personnels.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°66-809 1966-10-28
+
+	**Modifié par**:
+
+	  - Décret n°2003-1305 du 26 décembre 2003 - art. 47 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
+
+	**Cite**:
+
+	  - Code des pensions civiles et militaires de retrait - art. L5 (M)
+
+
+###### Article R7
+
+Les périodes de congé régulier pour maladie susceptibles d'être validées pour la retraite en vertu de l'avant-dernier alinéa
+de l'article L. 5 ne peuvent excéder la durée des congés avec traitement accordés aux fonctionnaires titulaires atteints des
+mêmes affections dans les mêmes circonstances.
+
+Dans chaque ministère, des arrêtés conjoints du ministre intéressé, du ministre chargé de la fonction publique et du ministre
+chargé des finances déterminent la nature et le point de départ des services susceptibles d'être validés pour la retraite en
+application de l'avant-dernier alinéa de l'article L. 5.
+
+Ces arrêtés ainsi que les autres textes qui autorisent la validation de ces services figurent au tableau annexé au présent
+code (1).
+
+La validation est subordonnée au versement rétroactif de la retenue légale calculée sur le traitement ou la solde afférent à
+l'indice détenu par le fonctionnaire titulaire ou le militaire à la date de la demande.
+
+Les retenues rétroactives sont versées par l'agent au Trésor public. L'annulation des sommes acquittées pendant la durée des
+services à valider, au titre du régime général de l'assurance vieillesse et de l'institution de retraite complémentaire des
+agents non titulaires de l'Etat et des collectivités publiques, est effectuée au profit du Trésor public.
+
+Les modalités de versement des retenues rétroactives afférentes à la validation sont définies au articles D. 3 et D. 4.
+
+La demande de validation doit être adressée à l'administration dont relève le fonctionnaire ou le militaire ; il en est
+accusé réception.
+
+Est admise à validation toute période de services effectués - de façon continue ou discontinue, sur un emploi à temps complet
+ou incomplet, occupé à temps plein ou à temps partiel - quelle qu'en soit la durée, en qualité d'agent non titulaire de l'un
+des employeurs mentionnés aux 1°, 2° et 3° de l'article L. 86-1. La durée des périodes de services validés s'exprime en
+trimestres. Le nombre de trimestres validés est égal à la durée totale des services effectivement accomplis divisée par le
+quart de la durée légale annuelle du travail prévue à l'article 1er du décret n° 2000-815 du 25 août 2000 relatif à
+l'aménagement et à la réduction du temps de travail dans la fonction publique de l'Etat.
+
+Toutefois, lorsque les services admis à validation relèvent d'un régime d'obligations de service défini par un texte
+législatif ou réglementaire, la durée légale annuelle du travail mentionnée à l'alinéa précédent prise en compte est la durée
+annuelle, exprimée en heures, requises pour ces services à temps complet.
+
+Dans le décompte final des trimestres admis à validation, la fraction de trimestre égale ou supérieure à quarante-cinq jours
+est comptée pour un trimestre, la fraction de trimestre inférieure à quarante-cinq jours est négligée.
+
+(1) Le tableau a été publié en annexe du décret n° 69-123 du 24 janvier 1969. Consulter le fac-similé de ce texte.
 
 **Liens relatifs à cet article**
 
@@ -5431,7 +5508,16 @@ juillet 1957 pour les autres personnels.
 
 	**Cite**:
 
+	  - Décret n°2000-815 du 25 août 2000 - art. 1 (M)
+	  - Code des pensions civiles et militaires de retrait - art. D3 (M)
+	  - Code des pensions civiles et militaires de retrait - art. D4 (M)
 	  - Code des pensions civiles et militaires de retrait - art. L5 (M)
+	  - Code des pensions civiles et militaires de retrait - art. L86-1 (M)
+	  - Code des pensions civiles et militaires de retraite L5, annexe, D3, D4, L86-1
+
+	**Modifié par**:
+
+	  - Décret n°2003-1305 du 26 décembre 2003 - art. 4 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
 
 
 #### Chapitre II : Militaires.
@@ -5592,9 +5678,13 @@ missions successives, si leur durée totale au cours d'une période de douze moi
 
 ###### Article R13
 
-La bonification prévue à l'article L. 12, b, en faveur des femmes fonctionnaires est d'une année pour chacun de leurs enfants
-légitimes, naturels reconnus ainsi que pour chacun des autres enfants qui, à la date de la radiation des cadres, ont été
-élevés dans les conditions et pendant la durée prévues audit article.
+Le bénéfice des dispositions du b de l'article L. 12 est subordonné à une interruption d'activité d'une durée continue au
+moins égale à deux mois dans le cadre d'un congé pour maternité, d'un congé pour adoption, d'un congé parental ou d'un congé
+de présence parentale, prévus par les articles 34 (5°), 54 et 54 bis de la loi n° 84-16 du 11 janvier 1984 portant
+dispositions statutaires relatives à la fonction publique de l'Etat et les articles 53 (2°), 65-1 et 65-3 de la loi n° 72-662
+du 13 juillet 1972 portant statut général des militaires, ou d'une disponibilité pour élever un enfant de moins de huit ans
+prévue par l'article 47 du décret n° 85-986 du 16 septembre 1985 relatif au régime particulier de certaines positions des
+fonctionnaires de l'Etat et à certaines modalités de cessation définitive de fonctions.
 
 **Liens relatifs à cet article**
 
@@ -5612,7 +5702,16 @@ légitimes, naturels reconnus ainsi que pour chacun des autres enfants qui, à l
 
 	**Cite**:
 
+	  - Loi n°72-662 1972-07-13 art. 53, art. 65-1, art. 65-3
+	  - Loi n°72-662 du 13 juillet 1972 - art. 65-1 (M)
+	  - Loi n°72-662 du 13 juillet 1972 - art. 65-3 (Ab)
+	  - Loi n°84-16 1984-01-11 art. 34, art. 54, art. 54 bis
+	  - Décret n°85-986 du 16 septembre 1985 - art. 47 (M)
 	  - Code des pensions civiles et militaires de retrait - art. L12 (M)
+
+	**Modifié par**:
+
+	  - Décret n°2003-1305 du 26 décembre 2003 - art. 6 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
 
 
 ###### Article R14
@@ -5928,85 +6027,6 @@ bonification puisse jamais dépasser le double de la durée effective du service
 	  - Code des pensions civiles et militaires de retraite R14 et R20
 
 
-###### Article R22
-
-La bonification prévue à l'article L. 12, e, est accordée aux fonctionnaires qui, par ordre, sont restés à leur poste pendant
-l'occupation ennemie au cours de la guerre 1914-1918 ainsi qu'aux fonctionnaires qui, au cours de la même guerre, ont été
-tenus de résider en permanence ou d'exercer continuellement leurs fonctions dans les localités ayant bénéficié de l'indemnité
-de bombardement. Elle est égale à une année par année de service ainsi accompli.
-
-Les périodes pendant lesquelles les localités ayant bénéficié de l'indemnité de bombardement et énumérées par des décisions
-ministérielles doivent être considérées comme ayant été tenues sous le feu de l'ennemi sont déterminées par arrêté conjoint
-du ministre des armées et du ministre des finances.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°66-809 1966-10-28
-
-	**Cité par**:
-
-	  - Décret n°67-711 du 18 août 1967 - art. 9 (Ab)
-
-	**Abrogé par**:
-
-	  - Décret n°2003-1305 du 26 décembre 2003 - art. 47 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
-
-	**Cite**:
-
-	  - Code des pensions civiles et militaires de retrait - art. L12 (M)
-
-
-###### Article R23
-
-La bonification prévue à l'article L. 12, f, en faveur des agents des postes et télécommunications ayant servi en temps de
-guerre à bord de navires câbliers est égale à la durée des périodes pendant lesquelles ils ont effectivement navigué.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°66-809 1966-10-28
-
-	**Abrogé par**:
-
-	  - Décret n°2003-1305 du 26 décembre 2003 - art. 47 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
-
-	**Cite**:
-
-	  - Code des pensions civiles et militaires de retrait - art. L12 (M)
-
-
-###### Article R24
-
-La bonification prévue à l'article L. 12, g, en faveur des tributaires du présent code auxquels a été attribué le titre de
-déporté politique défini à l'article L. 286 du code des pensions militaires d'invalidité est égale à la durée de la période
-passée en déportation.
-
-Toutefois, cette bonification n'est accordée que dans la mesure où les intéressés ne pourraient pas bénéficier d'un avantage
-équivalent en vertu d'autres dispositions.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°66-809 1966-10-28
-
-	**Cité par**:
-
-	  - Décret n°67-711 du 18 août 1967 - art. 9 (Ab)
-
-	**Abrogé par**:
-
-	  - Décret n°2003-1305 du 26 décembre 2003 - art. 47 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
-
-	**Cite**:
-
-	  - Code des pensions civiles et militaires de retrait - art. L12 (M)
-	  - Code des pensions militaires d'invalidité et des v - art. L286 (V)
-
-
 ###### Article R25
 
 La bonification prévue à l'article L. 12, h, est égale, dans la limite de cinq années, à la durée de l'activité
@@ -6026,24 +6046,22 @@ au concours de recrutement dans les conditions exigées par le statut particulie
 
 ###### Article R25-1
 
-La bonification prévue par l'article L. 12, i, attribuée dans la limite de cinq annuités, est calculée en fonction des
+La bonification prévue au i de l'article L. 12 attribuée dans la limite de vingt trimestres est calculée en fonction des
 services militaires effectivement accomplis.
 
 La bonification est diminuée :
 
-D'une annuité pour les militaires radiés des cadres au plus tôt à compter du jour de leur cinquante-sixième anniversaire et
-au plus tard à compter de la veille de leur cinquante-septième anniversaire ;
+De quatre trimestres pour les militaires radiés des cadres au plus tôt à compter du jour de leur cinquante-huitième
+anniversaire et au plus tard à compter de la veille de leur cinquante-neuvième anniversaire.
 
-De deux annuités pour les militaires radiés des cadres au plus tôt à compter du jour de leur cinquante-septième anniversaire
-et au plus tard la veille de leur cinquante-huitième anniversaire ;
+De huit trimestres pour les militaires radiés des cadres au plus tôt à compter du jour de leur cinquante-neuvième
+anniversaire et au plus tard la veille de leur soixantième anniversaire.
 
-De trois annuités pour les militaires radiés des cadres à compter du jour de leur cinquante-huitième anniversaire ou, en cas
-de radiation par limite d'âge, du lendemain de ce jour.
+De douze trimestres pour les militaires radiés des cadres à compter du jour de leur soixantième anniversaire ou, en cas de
+radiation par limite d'âge, du lendemain de ce jour.
 
-En cas de radiation des cadres prononcée après le jour du cinquante-huitième anniversaire ou en cas de radiation des cadres
-par limite d'âge après le lendemain de cette date, aucune bonification n'est accordée.
-
-Ces dispositions sont applicables aux militaires rayés des cadres avec effet d'une date postérieure au 31 décembre 1975.
+En cas de radiation des cadres prononcée après le jour du soixantième anniversaire ou en cas de radiation des cadres par
+limite d'âge après le lendemain de cette date, aucune bonification n'est accordée.
 
 **Liens relatifs à cet article**
 
@@ -6053,7 +6071,7 @@ Ces dispositions sont applicables aux militaires rayés des cadres avec effet d'
 
 	**Modifié par**:
 
-	  - Décret n°77-1268 1977-11-09 art. 1 JORF 20 novembre 1977
+	  - Décret n°2003-1305 du 26 décembre 2003 - art. 7 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
 
 	**Cite**:
 
@@ -6066,8 +6084,8 @@ Ces dispositions sont applicables aux militaires rayés des cadres avec effet d'
 
 ###### Article R26
 
-Dans le décompte final des annuités liquidables, la fraction de semestre égale ou supérieure à trois mois est comptée pour
-six mois. La fraction de semestre inférieure à trois mois est négligée.
+Dans le décompte final des trimestres liquidables, la fraction de trimestre égale ou supérieure à quarante-cinq jours est
+comptée pour un trimestre. La fraction de trimestre inférieure à quarante-cinq jours est négligée.
 
 **Liens relatifs à cet article**
 
@@ -6075,38 +6093,83 @@ six mois. La fraction de semestre inférieure à trois mois est négligée.
 
 	  - Décret n°66-809 1966-10-28
 
+	**Modifié par**:
+
+	  - Décret n°2003-1305 du 26 décembre 2003 - art. 8 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
+
+
+###### Article R26 bis
+
+Pour le calcul de la durée d'assurance définie à l'article L. 14, une année civile ne peut compter plus de quatre trimestres,
+sous réserve des bonifications mentionnées à l'article L. 12 et des majorations de cette durée prévues aux articles L. 12 bis
+et L. 12 ter du présent code et 78 de la loi n° 2003-775 du 21 août 2003 portant réforme des retraites.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°66-809 1966-10-28
+
+	**Cite**:
+
+	  - Loi n°2003-775 2003-08-21
+	  - Code des pensions civiles et militaires de retrait - art. L12 (M)
+	  - Code des pensions civiles et militaires de retrait - art. L12 bis (V)
+	  - Code des pensions civiles et militaires de retrait - art. L12 ter (V)
+	  - Code des pensions civiles et militaires de retrait - art. L14 (M)
+
+	**Créé par**:
+
+	  - Décret n°2003-1305 du 26 décembre 2003 - art. 9 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
+
 
 ##### Paragraphe II : Emoluments de base.
 
 ###### Article R27
 
-L'application des dispositions de l'article L. 15 (4e alinéa) est subordonnée :
+L'application des dispositions du II de l'article L. 15 est subordonnée :
 
-Soit à l'occupation continue pendant quatre ans au moins d'un même emploi dont les émoluments de base définis à l'article R.
-30 sont supérieurs à ceux qui résulteraient de l'application des dispositions des 1er et 2e alinéas de l'article L. 15 ;
+Soit à l'occupation continue pendant quatre ans au moins d'un même emploi dont le traitement ou solde défini à l'article R.
+30 est supérieur à celui qui résulterait de l'application des dispositions de l'article L. 15 ;
 
 Soit à l'occupation continue pendant deux ans au moins de l'un ou de plusieurs des emplois supérieurs visés par le décret n°
-59-442 du 21 mars 1959, des emplois de chef de service, directeur adjoint ou sous-directeur d'administration centrale ou
+85-779 du 24 juillet 1985, des emplois de chef de service, directeur adjoint ou sous-directeur d'administration centrale ou
 assimilés, des emplois d'officier général classés dans les groupes hors échelle E, F et G prévus par l'arrêté du 29 août
 1957.
 
 La période de quatre ou deux ans doit être entièrement comprise dans les quinze dernières années d'activité valables pour la
 retraite.
 
-Les dispositions de l'article L. 15 (4e alinéa) ne sont pas applicables lorsque la cessation des fonctions mentionnées ci-
-dessus résulte d'une sanction disciplinaire ou est motivée par une insuffisance professionnelle.
+Les dispositions du II de l'article L. 15 ne sont pas applicables lorsque la cessation des fonctions mentionnées ci-dessus
+résulte d'une sanction disciplinaire ou est motivée par une insuffisance professionnelle.
 
 Les fonctionnaires civils et les militaires ayant renoncé au bénéfice de leur pension pour acquérir de nouveaux droits à
 pension au titre d'un nouvel emploi ou dont la pension a été annulée en vertu des dispositions de l'article L. 77 ne peuvent
 demander le bénéfice des dispositions ci-dessus au titre d'un emploi occupé antérieurement.
 
+La liste des emplois fonctionnels mentionnée dans le II de l'article L. 15 est la suivante :
+
+1° Pour les emplois relevant de la loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction
+publique territoriale :
+
+- directeur général des services des départements et des régions et directeur général adjoint des services des régions ;
+
+- directeur général des services des communes de plus de 150 000 habitants ;
+
+- directeur général des établissements publics de coopération intercommunale à fiscalité propre concernant une population de
+plus de 150 000 habitants ;
+
+- directeur des établissements publics locaux assimilés à l'un des emplois de directeurs des collectivités territoriales
+précités.
+
+2° Pour les emplois relevant de la loi n° 86-33 du 9 janvier 1986 portant dispositions statutaires relatives à la fonction
+publique hospitalière :
+
+- directeur général de centre hospitalier régional ;
+
+- secrétaire général et directeur général adjoint des hospices civils de Lyon et de l'assistance publique de Marseille.
+
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Arrêté 1957-08-29
-	  - Décret n°59-442 1959-03-21
-	  - Code des pensions civiles et militaires de retraite L15 al. 1, 2 et 4, L77 et R30
 
 	**Codifié par**:
 
@@ -6123,6 +6186,10 @@ demander le bénéfice des dispositions ci-dessus au titre d'un emploi occupé a
 	  - Décret n°2015-984 du 31 juillet 2015 - art. 30 (V)
 	  - Décret n°2015-1043 du 20 août 2015 - art. 3 (V)
 	  - Code des pensions civiles et militaires de retrait - art. R28 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2003-1305 du 26 décembre 2003 - art. 10 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
 
 
 ###### Article R28
@@ -6149,8 +6216,8 @@ demande, sous peine de forclusion, dans le délai d'un an prévu à l'article R.
 l'emploi supérieur a cessé d'être occupé.
 
 La demande prévue à l'alinéa précédent est définitive et irrévocable. Elle entraîne l'obligation de supporter les retenues
-pour pension à compter du jour de la cessation des fonctions dans l'emploi dont il s'agit sur la base des émoluments fixés à
-l'article R. 30 au titre de tous les services accomplis postérieurement à cette date, sauf dans le cas où l'intéressé
+pour pension à compter du jour de la cessation des fonctions dans l'emploi dont il s'agit sur la base du traitement ou solde
+fixé à l'article R. 30 au titre de tous les services accomplis postérieurement à cette date, sauf dans le cas où l'intéressé
 occuperait un emploi plus élevé.
 
 **Liens relatifs à cet article**
@@ -6158,6 +6225,10 @@ occuperait un emploi plus élevé.
 	**Codifié par**:
 
 	  - Décret n°66-809 1966-10-28
+
+	**Modifié par**:
+
+	  - Décret n°2003-1305 du 26 décembre 2003 - art. 11 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
 
 	**Cité par**:
 
@@ -6170,10 +6241,10 @@ occuperait un emploi plus élevé.
 
 ###### Article R30
 
-La pension concédée au fonctionnaire civil ou militaire satisfaisant aux conditions requises est liquidée sur les derniers
-émoluments soumis à retenue afférents aux grade, classe, échelon, chevron que l'intéressé détenait effectivement depuis six
-mois au moins au moment où il a cessé d'occuper l'emploi mentionné à l'article R. 27 ou, dans le cas contraire, sur les
-émoluments soumis à retenue afférents aux grade, classe, échelon, chevron antérieurement occupés.
+La pension concédée au fonctionnaire civil ou militaire satisfaisant aux conditions requises est liquidée sur le dernier
+traitement ou solde soumis à retenue afférent aux grade, classe, échelon, chevron que l'intéressé détenait effectivement
+depuis six mois au moins au moment où il a cessé d'occuper l'emploi mentionné à l'article R. 27 ou, dans le cas contraire,
+sur le traitement ou solde soumis à retenue afférent aux grade, classe, échelon, chevron antérieurement occupés.
 
 En cas de réforme statutaire affectant l'emploi supérieur, les émoluments soumis à retenue sont fixés dans les conditions
 prévues à l'article L. 16.
@@ -6184,9 +6255,9 @@ prévues à l'article L. 16.
 
 	  - Décret n°66-809 1966-10-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°66-809 1966-10-28 JORF 3 novembre 1966 rectificatif JORF 3 décembre 1966 en vigueur le 1er décembre 1964
+	  - Décret n°2003-1305 du 26 décembre 2003 - art. 12 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
 
 	**Cité par**:
 
@@ -6199,9 +6270,11 @@ prévues à l'article L. 16.
 
 ###### Article R31
 
-Dans le cas où, avant l'expiration du délai d'un an fixé à l'article R. 29, le fonctionnaire civil ou le militaire intéressé
-décède sans avoir formulé la demande prévue à cet article, ses ayants cause peuvent, pendant la période restant à courir sur
-ce délai, formuler ladite demande en son lieu et place.
+Pour les personnels radiés des cadres à l'issue d'une période de détachement auprès d'une administration ou d'un organisme
+implanté sur le territoire d'un Etat étranger ou auprès d'un organisme international, le traitement ou la solde à retenir
+pour la liquidation de la pension est constitué par le dernier traitement ou solde afférent à l'indice correspondant aux
+grade, classe et échelon détenus depuis six mois au moins à la date de la radiation des cadres, qu'il ait donné lieu ou non à
+retenues pour pension.
 
 **Liens relatifs à cet article**
 
@@ -6209,16 +6282,16 @@ ce délai, formuler ladite demande en son lieu et place.
 
 	  - Décret n°66-809 1966-10-28
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code des pensions civiles et militaires de retrait - art. R29 (M)
+	  - Décret n°2003-1305 du 26 décembre 2003 - art. 13 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
 
 
 ##### Paragraphe IV : Avantages de pension à caractère familial.
 
 ###### Article R*32
 
-Pour l'application des règles de cumul prévues aux articles L. 86 à L. 88, la majoration pour enfants s'ajoute à la pension.
+Pour l'application des règles de cumul prévues aux articles L. 84 à L. 88, la majoration pour enfants s'ajoute à la pension.
 
 Les règles de prescription, de suspension et de paiement applicables à la pension sont également applicables à la majoration
 pour enfants.
@@ -6229,9 +6302,13 @@ pour enfants.
 
 	  - Décret n°66-809 1966-10-28
 
+	**Modifié par**:
+
+	  - Décret n°2003-1305 du 26 décembre 2003 - art. 14 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
+
 	**Cite**:
 
-	  - Code des pensions civiles et militaires de retraite L86 à L88
+	  - Code des pensions civiles et militaires de retraite L84 à L88
 
 
 ###### Article R*32 bis
@@ -6256,28 +6333,23 @@ supplément familial de traitement ou pour le calcul de l'impôt sur le revenu.
 
 Les titulaires de pensions concédées au titre du présent code bénéficient, le cas échéant, pour leurs enfants :
 
-- s'ils résident dans la métropole ou dans les départements d'outre-mer, des prestations familiales allouées aux
-fonctionnaires en activité dans la même résidence ;
+- s'ils résident dans la métropole, des prestations familiales qui leur sont servies par les caisses d'allocations
+familiales ;
 
-- s'ils résident dans un territoire d'outre-mer de la République, du régime d'avantages familiaux institué en application de
-l'article 5 de la loi n° 50-772 du 30 juin 1950 et de l'article 12 du décret n° 51-511 du 5 mai 1951, auxquels peuvent
+- s'ils résident dans les départements d'outre-mer, des prestations familiales allouées aux fonctionnaires en activité dans
+la même résidence ;
+
+- s'ils résident en Nouvelle-Calédonie, en Polynésie française, à Wallis et Futuna, dans la collectivité territoriale de
+Saint-Pierre-et-Miquelon ou dans la collectivité territoriale de Mayotte, du régime d'avantages familiaux auxquels peuvent
 prétendre les personnels civils en activité dans le territoire considéré et originaires de ce territoire.
 
 Les avantages familiaux attribués au titre du présent article sont payés mensuellement et à terme échu sur des crédits
 ouverts à cet effet. Ils sont exclusifs des suppléments de caractère familial rattachés tant aux traitements ou soldes qu'à
 l'indemnité de résidence.
 
-Lorsque le droit à pension prend effet ou cesse dans le cours d'un mois, les avantages familiaux qui s'y rattachent sont
-servis pour le mois considéré.
-
 Le montant de ces avantages familiaux ne fait pas partie intégrante de la pension.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°50-772 du 30 juin 1950 - art. 5, v. init.
-	  - Décret n°51-511 1951-05-05 art. 12
 
 	**Codifié par**:
 
@@ -6288,60 +6360,59 @@ Le montant de ces avantages familiaux ne fait pas partie intégrante de la pensi
 	  - Décret n°67-711 du 18 août 1967 - art. 17 (Ab)
 	  - Code des pensions civiles et militaires de retrait - art. R*103 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2003-1305 du 26 décembre 2003 - art. 15 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
+
 
 ### Titre IV : Jouissance de la pension ou de la solde de réforme.
 
 ###### Article R*34
 
-Les textes de classement des emplois dans la partie active ou la catégorie B figurent au tableau annexé au présent code.
-
-**Nota:**
-
-
+Les textes de classement des emplois dans la partie active figurent au tableau annexé au présent code.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°66-809 1966-10-28
+
+	**Modifié par**:
+
+	  - Décret n°2003-1305 du 26 décembre 2003 - art. 16 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
 
 
 ###### Article R35
 
-Les services rendus par les agents qui, terminant leur carrière au service de l'Etat, ont été auparavant tributaires de l'un
-des régimes de retraites des administrations visées à l'article L. 5 (3°, 4° et 5°) sont toujours réputés accomplis dans la
-catégorie A.
+Les services rendus par les agents qui, terminant leur carrière au service de l'Etat, ont auparavant relevé du régime de la
+Caisse nationale de retraites des agents des collectivités locales et des administrations mentionnées aux 3° et 5° de
+l'article L. 5 sont toujours réputés accomplis dans la catégorie sédentaire.
 
 Toutefois, pour les agents qui ont été intégrés d'office dans les cadres de l'Etat, sont assimilés à des services de la
-catégorie B ou de la partie active rendus à l'Etat, les services accomplis sous le régime de la caisse nationale de retraite
-des agents des collectivités locales ou un régime départemental ou communal de retraites régulièrement approuvé, de la caisse
-générale des retraites de l'Algérie, de la caisse marocaine de retraites et de la société de prévoyance des fonctionnaires et
-employés tunisiens et classés dans la catégorie B ou dans la partie active au titre de ces régimes, ainsi que les services
-accomplis sous le régime de la caisse de retraites de la France d'outre-mer dans les territoires classés dans la catégorie B
-au regard de ce régime.
-
-Sont également classés dans la catégorie B les services accomplis au titre de la coopération technique française [*période*]
-du 1er novembre 1958 au 3 mai 1961 et au titre du décret n° 61-421 du 2 mai 1961 par les fonctionnaires occupant dans leur
-corps d'origine un emploi classé dans la catégorie B.
+catégorie active les services accomplis sous le régime de la Caisse nationale de retraites des agents des collectivités
+locales, et classés dans la catégorie active au titre de ce régime.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°61-421 1961-05-02
-	  - Code des pensions civiles et militaires de retrait - art. L5 (M)
 
 	**Codifié par**:
 
 	  - Décret n°66-809 1966-10-28
 
+	**Modifié par**:
+
+	  - Décret n°2003-1305 du 26 décembre 2003 - art. 17 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
+
+	**Cite**:
+
+	  - Code des pensions civiles et militaires de retrait - art. L5 (M)
+
 
 ###### Article R36
 
-La jouissance de la pension de retraite ou de la solde de réforme peut être antérieure à la date de la décision de radiation
-des cadres lorsque cette décision doit nécessairement avoir un effet rétroactif en vue soit d'appliquer des dispositions
-statutaires obligeant à placer l'intéressé dans une position administrative régulière, soit de tenir compte de la survenance
-de la limite d'âge, soit de redresser une illégalité.
+La mise en paiement de la pension de retraite ou de la solde de réforme peut être antérieure à la date de la décision de
+radiation des cadres lorsque cette décision doit nécessairement avoir un effet rétroactif en vue soit d'appliquer des
+dispositions statutaires obligeant à placer l'intéressé dans une position administrative régulière, soit de tenir compte de
+la survenance de la limite d'âge, soit de redresser une illégalité.
 
 **Liens relatifs à cet article**
 
@@ -6353,6 +6424,10 @@ de la limite d'âge, soit de redresser une illégalité.
 	**Codifié par**:
 
 	  - Décret n°66-809 1966-10-28
+
+	**Modifié par**:
+
+	  - Décret n°2003-1305 du 26 décembre 2003 - art. 18 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
 
 
 ### Titre V : Invalidité.
@@ -6844,67 +6919,31 @@ la base de ce montant garanti.
 
 #### Chapitre III : Dispositions communes.
 
-###### Article R*53
+###### Article R53
 
-La date d'entrée en jouissance de la pension des ayants cause est fixée au lendemain de la date du décès du fonctionnaire ou
-du militaire, sous réserve des dispositions des articles R. 96 à R. 98.
+Le droit à pension de réversion est ouvert le lendemain de la date du décès du fonctionnaire ou du militaire, sous réserve
+des dispositions des articles R. 96 à R. 98.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°66-809 1966-10-28
+
+	**Modifié par**:
+
+	  - Décret n°2003-1305 du 26 décembre 2003 - art. 19 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
 
 	**Cite**:
 
 	  - Code des pensions civiles et militaires de retraite R96 à R98
 
 
-###### Article R*54
+###### Article R54
 
-Dans les cas prévus aux articles L. 39 (1er alinéa, b) et L. 47 (2e alinéa, b), la veuve peut également prétendre à la
-pension si, postérieurement au mariage, le fonctionnaire ou le militaire a accompli deux années au moins de services valables
-pour la retraite.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°66-809 1966-10-28
-
-	**Cite**:
-
-	  - Code des pensions civiles et militaires de retraite L39 al. 1 et L47 al. 2
-
-
-###### Article R*55
-
-Lorsqu'il existe une femme divorcée à son profit exclusif et des orphelins d'un autre lit, les dispositions de l'article L.
-43 sont applicables.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°66-809 1966-10-28
-
-	**Abrogé par**:
-
-	  - Décret n°2003-1305 du 26 décembre 2003 - art. 47 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
-
-	**Cite**:
-
-	  - Code des pensions civiles et militaires de retrait - art. L43 (V)
-
-
-###### Article R*56
-
-La jouissance de la part de pension qui, en application de l'article L. 45 (1er alinéa), vient accroître celle de la veuve
-par suite de la renonciation volontaire de la femme divorcée est immédiate si cette dernière n'a pas d'enfants âgés de moins
-de vingt et un ans.
-
-Dans le cas contraire, l'entrée en jouissance est différée jusqu'à la date d'expiration des droits à pension des enfants
-bénéficiant des dispositions de l'article L. 40 (2e, 3e et 4e alinéas).
+Dans le cas prévu à l'article L. 39 (1er alinéa, b), le conjoint survivant peut également prétendre à la pension si,
+postérieurement au mariage, le fonctionnaire ou le militaire a accompli deux années au moins de services valables pour la
+retraite.
 
 **Liens relatifs à cet article**
 
@@ -6914,23 +6953,21 @@ bénéficiant des dispositions de l'article L. 40 (2e, 3e et 4e alinéas).
 
 	**Modifié par**:
 
-	  - Loi n°75-1242 du 27 décembre 1975 - art. 16 () JORF 28 décembre 1975
-
-	**Abrogé par**:
-
-	  - Décret n°2003-1305 du 26 décembre 2003 - art. 47 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
+	  - Décret n°2003-1305 du 26 décembre 2003 - art. 20 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
 
 	**Cite**:
 
-	  - Code des pensions civiles et militaires de retraite L40 al. 2, 3 et 4 et L45 al. 1
+	  - Code des pensions civiles et militaires de retrait - art. L39 (M)
 
 
-###### Article R*57
+###### Article R57
 
-Lorsque la veuve demande le rétablissement de son droit à pension en vertu du dernier alinéa de l'article L. 46, ce droit
-prend nécessairement effet à compter de la date du nouveau veuvage, du divorce, de la séparation de corps ou de la cessation
-du concubinage notoire et la pension éventuellement attribuée aux enfants âgés de moins de vingt et un ans est annulée à
-compter de cette même date.
+Lorsque le conjoint survivant ou divorcé demande le rétablissement de son droit à pension en vertu du dernier alinéa de
+l'article L. 46, ce droit prend effet à compter de la date du nouveau veuvage, du divorce ou de la cessation du concubinage
+notoire.
+
+La pension éventuellement attribuée aux enfants âgés de moins de vingt et un ans est annulée à compter de la demande de
+rétablissement.
 
 **Liens relatifs à cet article**
 
@@ -6940,11 +6977,31 @@ compter de cette même date.
 
 	**Modifié par**:
 
-	  - Loi n°75-1242 du 27 décembre 1975 - art. 16 () JORF 28 décembre 1975
+	  - Décret n°2003-1305 du 26 décembre 2003 - art. 21 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
 
 	**Cite**:
 
 	  - Code des pensions civiles et militaires de retrait - art. L46 (V)
+
+
+###### Article R57 bis
+
+Pour l'application de l'article L. 45, la durée de chaque mariage, déterminée de date à date, est arrondie au nombre de mois
+inférieur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°66-809 1966-10-28
+
+	**Créé par**:
+
+	  - Décret n°2003-1305 du 26 décembre 2003 - art. 22 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
+
+	**Cite**:
+
+	  - Code des pensions civiles et militaires de retr... - art. L45 (Ab)
 
 
 ### Titre VII : Dispositions spéciales.
@@ -7015,12 +7072,14 @@ l'article L. 56 ou sur la solde de réforme dans les conditions fixées par le r
 
 ###### Article R*61
 
-Le pécule attribué aux officiers de réserve ou assimilés visés à l'article R. 83 est exclusif de tous droits ultérieurs à
-pension.
+Le pécule attribué aux officiers sous contrat mentionnés à l'article 82 de la loi n° 72-662 du 13 juillet 1972 portant statut
+général des militaires est exclusif de tous droits ultérieurs à pension.
 
 En cas d'admission dans les emplois civils permettant d'acquérir des droits à l'attribution éventuelle d'une pension de
-l'Etat ou des collectivités visées à l'article L. 5 (4° et 5°), l'officier qui aurait déjà perçu le pécule doit le reverser
-dans le délai de trois ans à compter de la date de la nomination ou de la réintégration dans l'emploi civil.
+l'Etat ou du régime de la Caisse nationale de retraites des agents des collectivités locales ou du régime applicable au
+personnel titulaire des administrations ou établissements mentionnés au 5° de l'article L. 5, l'officier qui aurait déjà
+perçu le pécule doit le reverser dans le délai de trois ans à compter de la date de la nomination ou de la réintégration dans
+l'emploi civil.
 
 **Liens relatifs à cet article**
 
@@ -7030,17 +7089,24 @@ dans le délai de trois ans à compter de la date de la nomination ou de la réi
 
 	**Cite**:
 
-	  - Code des pensions civiles et militaires de retraite L5 et R83
+	  - Loi n°72-662 du 13 juillet 1972 - art. 82 (M)
+	  - Code des pensions civiles et militaires de retrait - art. L5 (M)
+
+	**Modifié par**:
+
+	  - Décret n°2003-1305 du 26 décembre 2003 - art. 23 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
 
 
 #### Chapitre III : Droits des ayants cause des fonctionnaires et des militaires originaires des territoires d'outre-mer non mariés sous le régime du code civil.
 
-###### Article R*62
+###### Article R62
 
-La pension des ayants cause des fonctionnaires et des militaires originaires des territoires d'outre-mer non mariés sous le
-régime du code civil est allouée à la famille et divisée par parts égales entre chaque lit représenté, au décès de l'auteur,
-par une veuve ou, éventuellement, par un ou plusieurs orphelins de moins de vingt et un ans. Au cas où un lit cesse d'être
-représenté, la part qui lui était attribuée est partagée entre les autres lits.
+La pension des ayants cause des fonctionnaires et des militaires originaires de la Nouvelle-Calédonie, de la Polynésie
+française, de Wallis-et-Futuna ou de la collectivité territoriale de Mayotte non mariés sous le régime du code civil est
+allouée à la famille et divisée par parts égales entre chaque lit représenté, au décès de l'auteur du droit, par un conjoint
+survivant ou, éventuellement, par un ou plusieurs orphelins de moins de vingt et un ans. En cas de décès de l'un des
+bénéficiaires, sa part passe, le cas échéant, aux orphelins de moins de vingt et un ans issus de son union avec le
+fonctionnaire ou militaire ou le titulaire de la pension.
 
 La preuve du mariage est faite par la production d'actes établis suivant les prescriptions des textes régissant l'état civil
 des intéressés.
@@ -7051,27 +7117,13 @@ des intéressés.
 
 	  - Décret n°66-809 1966-10-28
 
+	**Modifié par**:
+
+	  - Décret n°2003-1305 du 26 décembre 2003 - art. 24 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
+
 	**Cité par**:
 
 	  - Décret n°2012-1256 du 13 novembre 2012 - art. 16 (V)
-
-
-#### Chapitre IV : Militaires servant à titre étranger.
-
-###### Article R*63
-
-La participation à un acte d'hostilité contre la France d'un militaire servant ou ayant servi à titre étranger entraîne la
-perte du droit à l'obtention ou à la jouissance de la pension.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°66-809 1966-10-28
-
-	**Abrogé par**:
-
-	  - Décret n°2003-1305 du 26 décembre 2003 - art. 47 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
 
 
 #### Chapitre V : Droits des personnels militaires féminins, officiers ou assimilés, aux avantages accordés aux femmes fonctionnaires.
@@ -7082,10 +7134,7 @@ Pour les personnels militaires féminins, officiers ou assimilés, admis à fair
 de l'article L. 6 (1°), la jouissance de la pension est immédiate :
 
 a) Soit lorsque les intéressées sont mères de trois enfants vivants ou décédés par faits de guerre ou d'un enfant vivant âgé
-de plus d'un an et atteint d'une invalidité égale ou supérieure à 80 p. 100 ;
-
-b) Soit lorsque leur conjoint est atteint d'une infirmité ou d'une maladie incurable le plaçant dans l'impossibilité
-d'exercer une profession quelconque.
+de plus d'un an et atteint d'une invalidité égale ou supérieure à 80 p. 100.
 
 **Liens relatifs à cet article**
 
@@ -7095,7 +7144,11 @@ d'exercer une profession quelconque.
 
 	**Modifié par**:
 
-	  - Décret n°72-980 1972-10-23 art. 2 JORF 29 octobre 1972
+	  - Décret n°2003-1305 du 26 décembre 2003 - art. 47 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2006-748 du 28 juin 2006 - art. 2 () JORF 30 juin 2006
 
 	**Cite**:
 
@@ -7118,8 +7171,7 @@ retraite sont adressés directement au ministre du budget. Si les droits des int
 liquidation et à la concession de la pension. Dans le cas contraire, le dossier est transmis au ministre dont relevait
 l'auteur du droit en vue de l'application de la procédure prévue à l'alinéa précédent.
 
-Le décompte détaillé de la liquidation est obligatoirement notifié à chaque intéressé en même temps que la décision portant
-concession de la pension.
+Le décompte détaillé de la liquidation est adressé à chaque intéressé en même temps que son titre de pension.
 
 **Liens relatifs à cet article**
 
@@ -7129,7 +7181,7 @@ concession de la pension.
 
 	**Modifié par**:
 
-	  - Décret n°79-81 1979-01-15 art. 3 JORF 30 janvier 1979
+	  - Décret n°2003-1305 du 26 décembre 2003 - art. 25 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
 
 	**Cité par**:
 
@@ -7169,8 +7221,8 @@ code.
 
 ###### Article R*67
 
-Peut prétendre à la pension provisoire prévue à l'article L. 57 la femme séparée de corps lorsque le jugement a été prononcé
-à son profit exclusif.
+Peut prétendre à la pension provisoire prévue à l'article L. 57 le conjoint séparé de corps lorsque le jugement n'a pas été
+prononcé contre lui.
 
 Le délai d'un an prévu en cas de disparition par l'article L. 57 court à dater de la première échéance non acquittée, lorsque
 le disparu était titulaire d'une pension.
@@ -7187,6 +7239,10 @@ circonstances de la disparition.
 
 	  - Décret n°66-809 1966-10-28
 
+	**Modifié par**:
+
+	  - Décret n°2003-1305 du 26 décembre 2003 - art. 26 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
+
 	**Cite**:
 
 	  - Code des pensions civiles et militaires de retrait - art. L57 (M)
@@ -7198,49 +7254,8 @@ La suppression de la pension provisoire prévue au quatrième alinéa de l'artic
 décès officiellement établi ou de la date à laquelle l'absence a été déclarée par jugement et la pension définitive est
 accordée à compter de la même date.
 
-En cas de réapparition, la pension provisoire est annulée à compter de sa date d'entrée en jouissance et les arrérages perçus
-doivent être reversés au Trésor public.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°66-809 1966-10-28
-
-	**Cite**:
-
-	  - Code des pensions civiles et militaires de retraite L57 al. 4
-
-
-###### Article R*69
-
-L'arrêté prévu par le dernier alinéa de l'article L. 59 ne peut intervenir lorsqu'il a été procédé à la notification de la
-suspension du droit à l'obtention ou à la jouissance de la pension.
-
-En cas d'acquisition de droits à pension au titre d'un nouvel emploi, le droit à l'obtention ou à la jouissance de la pension
-ou de la rente viagère d'invalidité afférent aux services rendus avant la reprise d'activité demeure suspendu en application
-de l'article L. 59.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°66-809 1966-10-28
-
-	**Abrogé par**:
-
-	  - Décret n°2003-1305 du 26 décembre 2003 - art. 47 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
-
-	**Cite**:
-
-	  - Code des pensions civiles et militaires de retrait - art. L59 (Ab)
-
-
-###### Article R*70
-
-En cas de divorce ou en cas de séparation de corps non prononcée au profit exclusif de la femme, cette dernière cesse de
-bénéficier des dispositions de l'article L. 60. Ses droits sont transférés, le cas échéant, sur la tête des enfants âgés de
-moins de vingt et un ans.
+En cas de réapparition, la pension provisoire est annulée à compter de sa date d'effet et les arrérages perçus doivent être
+reversés au Trésor public.
 
 **Liens relatifs à cet article**
 
@@ -7250,115 +7265,14 @@ moins de vingt et un ans.
 
 	**Modifié par**:
 
-	  - Loi n°75-1242 du 27 décembre 1975 - art. 16 () JORF 28 décembre 1975
-
-	**Abrogé par**:
-
-	  - Décret n°2003-1305 du 26 décembre 2003 - art. 47 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
+	  - Décret n°2003-1305 du 26 décembre 2003 - art. 27 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
 
 	**Cite**:
 
-	  - Code des pensions civiles et militaires de retrait - art. L60 (Ab)
+	  - Code des pensions civiles et militaires de retraite L57 al. 4
 
 
 ## Livre II : Dispositions particulières du régime général des retraites.
-
-### Titre Ier : Droits spéciaux aux fonctionnaires civils anciens combattants et victimes de la guerre et à leurs ayants cause.
-
-#### Chapitre Ier : Fonctionnaires civils anciens combattants.
-
-###### Article R*71
-
-Les militaires réformés n° 1 à titre définitif ou temporaire ou retraités pour infirmités résultant de blessures reçues ou de
-maladies contractées dans une unité combattante au cours de la guerre 1914-1918, s'ils ont été admis dans les administrations
-publiques à la suite soit d'un concours, soit d'un examen, soit de l'un des examens professionnels institués par les lois des
-17 avril 1916 et 30 janvier 1923, soit d'un examen universitaire, soit au titre des candidatures exceptionnelles visées par
-les décrets des 8 juillet 1916 et 25 février 1921 bénéficient, en sus du temps de mobilisation, du temps qui s'est écoulé
-depuis la cessation de leur service militaire jusqu'au premier jour de la période fixée pour le renvoi dans ses foyers de
-l'échelon de démobilisation dont ils auraient normalement fait partie, ou jusqu'à la date de leur entrée en fonctions si elle
-est antérieure.
-
-Ce bénéfice est étendu aux fonctionnaires anciens combattants qui, au cours de la guerre 1914-1918, ont été classés dans les
-services auxiliaires (sous-officiers et hommes de troupe) ou déclarés inaptes définitifs à faire campagne (officiers) pour
-blessures ou maladies contractées dans une unité combattante.
-
-Pour les jeunes gens restés sous la domination ennemie pendant la même guerre et entrés, après l'armistice, dans une
-administration, il sera tenu compte, pour le calcul de l'ancienneté de services exigée pour la retraite et pour l'avancement,
-du temps légal de service militaire effectué par leur classe.
-
-Nonobstant toutes dispositions contraires de leur régime de retraites et quelle qu'ait été la situation faite par le service
-public intéressé à son personnel, la période pendant laquelle les fonctionnaires et agents ont été mis dans l'impossibilité
-d'exercer leurs fonctions en raison de l'une des situations énumérées à l'article 2 de l'ordonnance n° 45-1283 du 15 juin
-1945, complété par la loi n° 48-838 du 19 mai 1948, entre en compte pour la constitution du droit à pension et pour la
-liquidation.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°1916-07-08
-	  - Décret n°1921-02-25
-	  - Loi n°1916-04-17
-	  - Loi n°1923-01-30
-	  - Ordonnance 45-1283 1945-06-15 art. 2
-	  - Loi n°48-838 1948-05-19
-
-	**Codifié par**:
-
-	  - Décret n°66-809 1966-10-28
-
-	**Abrogé par**:
-
-	  - Décret n°2003-1305 du 26 décembre 2003 - art. 47 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
-
-
-#### Chapitre II : Droits à pension d'invalidité des fonctionnaires invalides par faits de guerre et de leurs ayants cause.
-
-##### Paragraphe Ier : Droits des fonctionnaires.
-
-###### Article R*72
-
-Pour l'application des articles L. 68 à L. 71, la cause du décès, l'origine et la gravité des infirmités sont, même en cas
-d'option pour le régime des pensions civiles, constatées dans les formes prescrites pour la liquidation des pensions
-militaires.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°66-809 1966-10-28
-
-	**Abrogé par**:
-
-	  - Décret n°2003-1305 du 26 décembre 2003 - art. 47 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
-
-	**Cite**:
-
-	  - Code des pensions civiles et militaires de retraite L68 à L71
-
-
-##### Paragraphe II : Droits des ayants cause des fonctionnaires décédés par faits de guerre.
-
-###### Article R*73
-
-Pour l'application de l'article L. 71, si la veuve est en concours avec des enfants d'un autre lit, et en cas de désaccord,
-le tribunal de grande instance du lieu de la succession siégeant en chambre du conseil, sur citation délivrée à la requête de
-la partie diligente, désignera la personne attributaire du droit d'option.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°66-809 1966-10-28
-
-	**Abrogé par**:
-
-	  - Décret n°2003-1305 du 26 décembre 2003 - art. 47 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
-
-	**Cite**:
-
-	  - Code des pensions civiles et militaires de retrait - art. L71 (Ab)
-
 
 ### Titre II : Dispositions particulières relatives à certaines catégories de retraités civils et militaires.
 
@@ -7369,7 +7283,8 @@ la partie diligente, désignera la personne attributaire du droit d'option.
 Lorsqu'un fonctionnaire qui a été placé en position de détachement au cours de sa carrière n'a pas acquitté à la date de sa
 radiation des cadres les retenues pour pension dont il était redevable dans cette position, la pension est néanmoins
 concédée, mais il est procédé, avant la mise en paiement de cette pension, au précompte intégral sur les premiers arrérages
-des retenues non versées.
+des retenues non versées, majorées des intérêts de retard au taux légal dans les conditions prévues à l'article 2 du décret-
+loi du 30 octobre 1935.
 
 Ces dispositions sont applicables aux personnels militaires et assimilés placés ou qui auraient été placés en service
 détaché.
@@ -7382,8 +7297,11 @@ détaché.
 
 	**Modifié par**:
 
-	  - Décret n°71-74 1971-01-21 art. 4 JORF 28 janvier 1971
-	  - Loi n°72-662 du 13 juillet 1972 - art. 109 () JORF 14 juillet 1972
+	  - Décret n°2003-1305 du 26 décembre 2003 - art. 29 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
+
+	**Cite**:
+
+	  - Décret-loi 1935-10-30 art. 2
 
 
 ###### Article R*74-1
@@ -7456,14 +7374,14 @@ des fonctions de même nature.
 
 ###### Article R*76
 
-Lorsque le fonctionnaire ou le militaire détaché ou mis en situation hors cadre dans un emploi conduisant à pension du
-présent code a acquitté jusqu'à la date de sa radiation des cadres la retenue pour pension sur le traitement afférent à cet
-emploi en vertu de l'article L. 63, la liquidation de la pension est effectuée sur proposition du ministre dont relève
-l'emploi considéré et sur la base des émoluments correspondants déterminés conformément à l'article L. 15.
+Lorsque le fonctionnaire ou le militaire détaché dans un emploi conduisant à pension du présent code a acquitté jusqu'à la
+date de sa radiation des cadres la retenue pour pension sur le traitement afférent à cet emploi en vertu de l'article L. 63,
+la liquidation de la pension est effectuée sur proposition du ministre dont relève l'emploi considéré et sur la base des
+traitement ou solde correspondants déterminés conformément à l'article L. 15.
 
 Toutefois, si l'intéressé le demande dans le délai fixé à l'article R. 3 et qui court à compter de la date de la décision de
-radiation des cadres, la liquidation de la pension est effectuée sur la base des émoluments afférents à l'emploi ou grade
-détenu dans le corps d'origine sur proposition du ministre dont relève cet emploi ou grade.
+radiation des cadres, la liquidation de la pension est effectuée sur la base des traitement ou solde afférents à l'emploi ou
+grade détenu dans le corps d'origine sur proposition du ministre dont relève cet emploi ou grade.
 
 **Liens relatifs à cet article**
 
@@ -7471,10 +7389,48 @@ détenu dans le corps d'origine sur proposition du ministre dont relève cet emp
 
 	  - Décret n°66-809 1966-10-28
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code des pensions civiles et militaires de retrait - art. L15 (M)
-	  - Code des pensions civiles et militaires de retraite L15, L63 et R3
+	  - Décret n°2003-1305 du 26 décembre 2003 - art. 30 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
+
+
+###### Article R*76 bis
+
+Lorsque le fonctionnaire ou le militaire détaché dans un emploi conduisant à pension du régime de retraite des fonctionnaires
+affiliés à la Caisse nationale de retraites des agents des collectivités locales a acquitté jusqu'à la date de la cessation
+des services valables pour la retraite la retenue pour pension sur le traitement ou solde afférent aux emplois prévus au II
+de l'article L. 15, la liquidation de la pension est effectuée sur la base du traitement ou solde correspondant.
+
+Toutefois, si l'intéressé le demande dans le délai fixé à l'article R. 3 et qui court à compter de la date de la décision de
+radiation des cadres, la liquidation de la pension est effectuée sur la base  du traitement ou solde afférent à l'emploi ou
+grade détenu dans le corps d'origine sur proposition du ministre dont relève cet emploi ou grade.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°66-809 1966-10-28
+
+	**Créé par**:
+
+	  - Décret n°2003-1305 du 26 décembre 2003 - art. 31 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
+
+
+###### Article R*76 ter
+
+Lorsque le fonctionnaire ou le militaire est détaché dans un emploi conduisant à pension du présent code ou du régime de
+retraite des fonctionnaires affiliés à la Caisse nationale de retraites des agents des collectivités locales, la retenue pour
+pension prévue à l'article L. 61 fait l'objet d'un précompte mensuel par l'administration ou la collectivité qui l'emploie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°66-809 1966-10-28
+
+	**Créé par**:
+
+	  - Décret n°2003-1305 du 26 décembre 2003 - art. 32 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
 
 
 ###### Article R74-2
@@ -7497,83 +7453,77 @@ l'intéressé a souscrite.
 	  - Décret n°2003-1306 du 26 décembre 2003 - art. 54 (V)
 
 
+###### Article R74-3
+
+Les dispositions des articles R. 74-1, R. 74-2, R. 95-1, R. 95-2 et R. 95-3 sont applicables aux militaires détachés en
+application des articles 56, 56-1 et 56-2 de la loi n° 72-662 du 13 juillet 1972 portant statut général des militaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°66-809 1966-10-28
+
+	**Cite**:
+
+	  - Loi n°72-662 du 13 juillet 1972 - art. 56 (M)
+	  - Loi n°72-662 du 13 juillet 1972 - art. 56-1 (Ab)
+	  - Loi n°72-662 du 13 juillet 1972 - art. 56-2 (Ab)
+	  - Code des pensions civiles et militaires de retraite R74-1, R74-2, R95-1, R95-2, R95-3
+
+	**Créé par**:
+
+	  - Décret n°2003-1305 du 26 décembre 2003 - art. 28 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
+
+
 #### Chapitre III : Reprise de service par les fonctionnaires civils et militaires retraités.
 
 ###### Article R*77
 
 Pour l'application de l'article L. 77, est regardé comme nouvel emploi tout emploi civil ou militaire conduisant à pension du
-régime du présent code, du régime de retraites de la loi du 21 mars 1928, modifiée par la loi n° 49-1097 du 2 août 1949, du
-régime de retraites prévu en faveur des personnels de l'imprimerie nationale par la loi du 29 juin 1927 modifiée ou du régime
-de la caisse nationale de retraites des agents des collectivités locales.
+régime du présent code, du régime de retraites de la loi du 21 mars 1928, modifiée par la loi n° 49-1097 du 2 août 1949 ou du
+régime de la caisse nationale de retraites des agents des collectivités locales.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi du 21 mars 1928, v. init.
+	  - Loi n°49-1097 du 2 août 1949, v. init.
 
 	**Codifié par**:
 
 	  - Décret n°66-809 1966-10-28
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code des pensions civiles et militaires de retrait - art. L77 (V)
-	  - Loi n°1927-06-29
-	  - Loi n°1928-03-21
-	  - Loi n°49-1097 1949-08-02
+	  - Décret n°2003-1305 du 26 décembre 2003 - art. 33 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
 
 
 #### Chapitre IV : Gendarmes et sapeurs-pompiers de Paris.
 
-###### Article R78
-
-La pension attribuée aux militaires non officiers de la gendarmerie qui ont soit servi dans cette arme pendant au moins
-quinze années consécutives ou non, soit été mis à la retraite pour infirmités contractées en service est augmentée d'une
-majoration spéciale forfaitaire dont le montant annuel est fixé à :
-
-27 F pour l'adjudant-chef et l'adjudant ;
-
-22 F pour le maréchal des logis chef ;
-
-17 F pour le gendarme.
-
-La pension ainsi majorée ne peut excéder en aucun cas le montant des émoluments de base visés à l'article L. 15.
-
-La majoration spéciale est réversible au profit des ayants cause comme la pension militaire elle-même.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°66-809 1966-10-28
-
-	**Abrogé par**:
-
-	  - Décret n°2003-1305 du 26 décembre 2003 - art. 47 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
-
-	**Cite**:
-
-	  - Code des pensions civiles et militaires de retrait - art. L15 (M)
-
-
 ###### Article R79
 
-La pension attribuée aux militaires officiers et non officiers du régiment de sapeurs-pompiers de Paris, à l'exclusion des
-médecins, dont les services dans ce régiment, consécutifs ou non, atteignent quinze années au moins pour les officiers et
+La pension attribuée aux militaires officiers et non officiers de la brigade de sapeurs-pompiers de Paris, à l'exclusion des
+médecins, dont les services dans cette brigade, consécutifs ou non, atteignent quinze années au moins pour les officiers et
 sous-officiers et dix années au moins pour les caporaux-chefs, caporaux et sapeurs, ou dont la mise à la retraite résulte
 d'infirmités contractées en service, est augmentée d'un supplément de 0,50 p. 100 de la solde de base pour chaque année
-d'activité accomplie dans ledit régiment.
+d'activité accomplie dans ladite brigade.
 
-La pension ainsi majorée ne peut excéder en aucun cas le montant des émoluments de base visés à l'article L. 15.
+La pension ainsi majorée ne peut excéder en aucun cas le montant du traitement ou de la solde mentionné à l'article L. 15.
 
 Le supplément de pension est réversible au profit des ayants cause comme la pension militaire elle-même.
 
-L'allocation annuelle et viagère servie par la ville de Paris peut être attribuée aux militaires qui ont fait partie du
-régiment de sapeurs-pompiers antérieurement au 31 janvier 1945 et qui ne remplissent pas les conditions exigées pour
-prétendre au supplément susvisé.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°66-809 1966-10-28
+
+	**Modifié par**:
+
+	  - Décret n°2003-1305 du 26 décembre 2003 - art. 34 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
+	  - Décret n°2003-1305 du 26 décembre 2003 - art. 47 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
 
 	**Cité par**:
 
@@ -7582,26 +7532,6 @@ prétendre au supplément susvisé.
 	**Cite**:
 
 	  - Code des pensions civiles et militaires de retrait - art. L15 (M)
-
-
-#### Chapitre V : Inspecteurs des affaires d'outre-mer et surveillants des services pénitentiaires de la Guyane.
-
-###### Article R*80
-
-Les inspecteurs des affaires d'outre-mer ainsi que leurs ayants cause sont soumis à l'application des règles définies par le
-présent code pour les militaires.
-
-Il en est de même pour les surveillants des services pénitentiaires de la Guyane et pour leurs ayants cause.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°66-809 1966-10-28
-
-	**Abrogé par**:
-
-	  - Décret n°2003-1305 du 26 décembre 2003 - art. 47 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
 
 
 #### Chapitre VI : Agents des offices ou établissements de l'Etat dotés de l'autonomie financière.
@@ -7615,8 +7545,7 @@ Les offices et établissements autonomes sont astreints, en contrepartie, à ver
 
 1° Le montant de la retenue effectuée sur le traitement de l'agent en exécution de l'article L. 61 ;
 
-2° Une contribution aux charges résultant pour l'Etat de la constitution de la pension dont le taux est fixé forfaitairement
-à 33 p. 100 du montant des émoluments soumis à retenues.
+2° Une contribution aux charges résultant pour l'Etat de la constitution de la pension dont le taux est fixé par décret.
 
 **Liens relatifs à cet article**
 
@@ -7633,228 +7562,18 @@ Les offices et établissements autonomes sont astreints, en contrepartie, à ver
 
 	  - Décret n°66-809 1966-10-28
 
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°89-225 1989-04-12 art. 2
-
 	**Modifié par**:
 
-	  - Décret n°92-265 1992-03-24 art. 3 JORF 26 mars 1992
+	  - Décret n°2003-1305 du 26 décembre 2003 - art. 35 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
 
 	**Cite**:
 
 	  - Code des pensions civiles et militaires de retrait - art. L61 (M)
 
 
-#### Chapitre VII : Anciens officiers de carrière ayant repris du service au cours des hostilités.
-
-###### Article R*82
-
-Les officiers ayant servi comme tels dans l'armée active avant le 2 août 1914, ayant également servi pendant les hostilités
-1914-1918 et totalisant, y compris les services de guerre, au moins quinze ans de services militaires effectifs au moment de
-leur démobilisation bénéficient d'une pension proportionnée à la durée de leurs services conformément à la législation
-régissant l'arme ou le service auquel ils appartenaient quand leurs services de guerre ont pris fin.
-
-La jouissance de cette pension est différée jusqu'au jour où l'ayant droit aurait eu droit à la pension d'ancienneté prévue
-par le régime de retraites antérieur à l'entrée en vigueur du présent code, ou aurait atteint la limite d'âge s'il était
-resté en service.
-
-Le bénéfice de ces dispositions est étendu à compter du jour de leur mobilisation :
-
-1° Aux officiers ayant servi comme tels dans l'armée active avant le 2 août 1914 et rappelés à l'activité au cours des
-guerres de 1914-1918 et 1939-1945 ;
-
-2° Aux officiers ayant servi comme tels dans l'armée active avant le 2 septembre 1939 et rappelés à l'activité au cours de la
-guerre 1939-1945.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°66-809 1966-10-28
-
-	**Abrogé par**:
-
-	  - Décret n°2003-1305 du 26 décembre 2003 - art. 47 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
-
-
-#### Chapitre VIII : Officiers de réserve servant en situation d'activité.
-
-###### Article R*83
-
-Le droit d'option prévu par l'article 2 de l'ordonnance n° 59-116 du 7 janvier 1959 s'applique, en vertu de l'article L. 6,
-aux officiers de réserve qui totalisent quinze ans de services civils et militaires effectifs.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Ordonnance 59-116 1959-01-07 art. 2
-	  - Code des pensions civiles et militaires de retrait - art. L6 (M)
-
-	**Codifié par**:
-
-	  - Décret n°66-809 1966-10-28
-
-	**Abrogé par**:
-
-	  - Décret n°2003-1305 du 26 décembre 2003 - art. 47 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
-
-
-#### Chapitre IX : Personnel navigant de l'armée de l'air.
-
-###### Article R*84
-
-La pension des officiers en congé du personnel navigant à un titre quelconque, rappelés à l'activité en temps de guerre et
-ayant effectivement servi pendant ce rappel avec un grade à titre définitif supérieur à celui qu'ils détenaient dans les
-cadres actifs au moment de leur admission en congé, ne pourra être inférieure à celle qu'ils auraient obtenue s'ils avaient
-été admis à la retraite lors de la cessation de leur nouvelle période d'activité.
-
-La même mesure est applicable aux officiers du cadre navigant actif qui ont atteint la limite d'âge de leur grade au cours de
-la guerre et qui, postérieurement à la date à laquelle ils ont atteint cette limite, ont bénéficié d'une promotion à un grade
-supérieur à titre définitif.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°66-809 1966-10-28
-
-	**Abrogé par**:
-
-	  - Décret n°2003-1305 du 26 décembre 2003 - art. 47 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
-
-
-###### Article R*85
-
-La pension des sous-officiers du corps du personnel navigant de l'armée de l'air qui ont atteint la limite d'âge de leurs
-corps et ont été admis à servir dans un autre corps de personnel de cette armée en vertu des dispositions de l'article 8 de
-l'ordonnance du 19 juillet 1943 relative à l'application de nouvelles limites d'âge pour le personnel navigant de l'armée de
-l'air, ne pourra être inférieure à celle à laquelle ils auraient pu prétendre s'ils avaient été admis à la retraite à la date
-à laquelle ils ont atteint ladite limite d'âge.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°66-809 1966-10-28
-
-	**Abrogé par**:
-
-	  - Décret n°2003-1305 du 26 décembre 2003 - art. 47 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
-
-	**Cite**:
-
-	  - Ordonnance 1943-07-19 art. 8
-
-
-#### Chapitre X : Ayants cause des militaires rengagés sous l'empire de la loi du 7 août 1913.
-
-###### Article R*86
-
-La pension civile concédée à la veuve ou aux orphelins d'un fonctionnaire civil admis dans une administration de l'Etat au
-titre de la législation sur les emplois réservés qui, ayant souscrit un engagement ou un rengagement entre le 10 août 1913 et
-le 6 avril 1923, est décédé titulaire d'une pension militaire proportionnelle prévue par le régime de retraites antérieur à
-l'entrée en vigueur du présent code ne pouvant faire l'objet d'une réversion distincte, sera décomptée sur la totalité des
-services tant militaires que civils du mari ou du père.
-
-La carrière militaire sera rémunérée conformément aux règles fixées pour la liquidation des pensions militaires par le régime
-de retraites antérieur à l'entrée en vigueur du présent code.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°66-809 1966-10-28
-
-	**Abrogé par**:
-
-	  - Décret n°2003-1305 du 26 décembre 2003 - art. 47 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
-
-	**Cite**:
-
-	  - Loi n°1913-08-07
-
-
-#### Chapitre XI : Ayants cause des ex-officiers de carrière ayant repris du service au cours des hostilités.
-
-###### Article R*87
-
-Le droit à pension de réversion est ouvert aux veuves non remariées et aux orphelins d'officiers qui auraient pu, s'ils
-n'étaient décédés, bénéficier des dispositions de l'article R. 82, sous réserve que ledit décès soit postérieur au 16 avril
-1924.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°66-809 1966-10-28
-
-	**Abrogé par**:
-
-	  - Décret n°2003-1305 du 26 décembre 2003 - art. 47 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
-
-	**Cite**:
-
-	  - Code des pensions civiles et militaires de retraite R82
-
-
-#### Chapitre XII : Ayants cause des officiers de réserve ayant servi en situation d'activité.
-
-###### Article R*88
-
-Lorsque des officiers de réserve ou assimilés visés à l'article R. 83 décèdent en service commandé ou des suites de blessures
-ou de maladie aggravées ou contractées en service avant d'avoir accompli quinze ans de services civils et militaires
-effectifs, leurs ayants cause reçoivent application des dispositions de l'article L. 48.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°66-809 1966-10-28
-
-	**Abrogé par**:
-
-	  - Décret n°2003-1305 du 26 décembre 2003 - art. 47 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
-
-	**Cite**:
-
-	  - Code des pensions civiles et militaires de retraite L48 et R83
-
-
 ### Titre III : Cumul de pensions avec des rémunérations d'activité ou d'autres pensions.
 
 #### Chapitre Ier : Dispositions générales.
-
-###### Article R*89
-
-Peuvent être soumis aux dispositions du titre III du livre II du présent code (partie législative), les personnels des
-offices, établissements publics ou entreprises publiques à caractère industriel et commercial qui sont soumis à l'un des
-contrôles prévus par la loi n° 48-24 du 6 janvier 1948 et par le décret n° 55-733 du 26 mai 1955 ou dont les statuts sont
-conformes au statut type édicté par le décret n° 60-553 du 1er juin 1960, ou dont les comptes font l'objet d'une approbation
-par l'Etat ou par l'une des collectivités énumérées au 1° de l'article L. 84.
-
-Les organismes dont les personnels sont effectivement soumis à la réglementation des cumuls en application de l'alinéa ci-
-dessus sont nommément désignés, pour chaque département ministériel, par décrets contresignés par le ministre d'Etat chargé
-de la réforme administrative, le ministre des finances et le ministre intéressé.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°48-24 1948-01-06
-	  - Décret n°55-733 1955-05-26
-	  - Décret n°60-553 1960-06-01
-	  - Code des pensions civiles et militaires de retrait - art. L84 (M)
-
-	**Codifié par**:
-
-	  - Décret n°66-809 1966-10-28
-
-	**Abrogé par**:
-
-	  - Décret n°2003-1305 du 26 décembre 2003 - art. 47 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
-
 
 ###### Article R*90
 
@@ -7872,15 +7591,11 @@ Elles ne sont également pas applicables aux traitements des membres de l'Instit
 	  - Décret n°66-809 1966-10-28
 
 
-###### Article R*91
+###### Article R91
 
-Toute collectivité ou organisme mentionné à l'article L. 84 qui rémunère à un titre quelconque un pensionné de l'Etat devra,
-dans le mois d'entrée en service, en faire la déclaration au ministère des finances.
-
-Tout pensionné qui n'a pas atteint la limite d'âge afférente, au moment de son admission à la retraite, à l'emploi ou au
-grade occupé, ne pourra recevoir les arrérages de sa pension s'il ne souscrit annuellement à la caisse du comptable
-assignataire une déclaration faisant connaître qu'il est ou qu'il n'est pas au service d'une des collectivités ou organismes
-mentionnés à l'article L. 84.
+Toute collectivité ou organisme mentionné à l'article L. 86-1 qui rémunère à un titre quelconque un pensionné de l'Etat doit,
+annuellement, faire la déclaration des revenus d'activité de l'année précédente au service des pensions du ministère du
+budget.
 
 **Liens relatifs à cet article**
 
@@ -7888,40 +7603,23 @@ mentionnés à l'article L. 84.
 
 	  - Décret n°66-809 1966-10-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°66-809 1966-10-28 JORF 3 novembre 1966 rectificatif JORF 3 décembre 1966 en vigueur le 1er décembre 1964
+	  - Décret n°2003-1305 du 26 décembre 2003 - art. 36 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
 
 	**Cite**:
 
-	  - Code des pensions civiles et militaires de retrait - art. L84 (M)
+	  - Code des pensions civiles et militaires de retrait - art. L86-1 (M)
 
 
 #### Chapitre II : Cumul de pensions et de rémunérations d'activité.
-
-###### Article R*92
-
-Pour l'application des règles tracées à l'article L. 86, sont considérées comme émoluments les sommes allouées sous quelque
-dénomination que ce soit à raison de services rémunérés à la journée, au mois ou à l'année ou forfaitairement, sous la forme
-d'une indemnité ou d'une allocation quelconque.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°66-809 1966-10-28
-
-	**Cite**:
-
-	  - Code des pensions civiles et militaires de retrait - art. L86 (M)
-
 
 ###### Article R*93
 
 Les titulaires d'une pension civile de l'Etat ou d'une rente viagère d'invalidité venant à servir à titre militaire pendant
 une guerre peuvent cumuler cette pension ou cette rente avec la solde militaire, même mensuelle, afférente à leur grade dans
-les armées. La même disposition est applicable aux retraités bénéficiaires d'une pension concédée par l'une des collectivités
-ou entreprises énumérées à l'article L. 84.
+les armées. La même disposition est applicable aux retraités bénéficiaires d'une pension concédée au titre d'une activité
+exercée pour le compte de l'un des employeurs mentionnés à l'article L. 86-1.
 
 **Liens relatifs à cet article**
 
@@ -7929,9 +7627,13 @@ ou entreprises énumérées à l'article L. 84.
 
 	  - Décret n°66-809 1966-10-28
 
+	**Modifié par**:
+
+	  - Décret n°2003-1305 du 26 décembre 2003 - art. 38 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
+
 	**Cite**:
 
-	  - Code des pensions civiles et militaires de retrait - art. L84 (M)
+	  - Code des pensions civiles et militaires de retrait - art. L86-1 (M)
 
 
 ###### Article R*94
@@ -7947,10 +7649,18 @@ révision d'une telle pension.
 	  - Décret n°66-809 1966-10-28
 
 
-###### Article R*95
+###### Article R92
 
-Dans tous les cas où il y a lieu à suspension de la pension, cette suspension est opérée ou régularisée au vu d'un certificat
-délivré par le ministre des finances.
+Pour l'application des règles prévues à l'article L. 84, sont considérées comme revenus d'activité par année civile :
+
+1° S'agissant des activités salariées : les sommes allouées pour leur montant brut, sous quelque dénomination que ce soit, à
+raison de services rémunérés à la journée, au mois ou à l'année ou forfaitairement, sous la forme d'une indemnité ou d'une
+allocation quelconque, à l'exception de l'indemnité de résidence, des prestations à caractère familial, des indemnités
+représentatives de frais correspondant à des dépenses réelles et des indemnités perçues en qualité d'élu, quelle que soit la
+nature du mandat électif ;
+
+2° S'agissant des activités non salariés : les sommes encaissées diminuées des dépenses payées pendant la même année pour
+l'accomplissement des prestations.
 
 **Liens relatifs à cet article**
 
@@ -7958,12 +7668,36 @@ délivré par le ministre des finances.
 
 	  - Décret n°66-809 1966-10-28
 
+	**Modifié par**:
+
+	  - Décret n°2003-1305 du 26 décembre 2003 - art. 37 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
+
+	**Cite**:
+
+	  - Code des pensions civiles et militaires de retrait - art. L84 (M)
+
+
+###### Article R95
+
+Dans tous les cas où il y a lieu à suspension ou réduction de la pension, cette mesure est opérée ou régularisée au vu d'un
+certificat délivré par le ministre chargé du budget.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°66-809 1966-10-28
+
+	**Modifié par**:
+
+	  - Décret n°2003-1305 du 26 décembre 2003 - art. 39 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
+
 
 #### Chapitre III : Cumul de plusieurs pensions.
 
 ###### Article R95-1
 
-Le pensionné mentionné au troisième alinéa de l'article L. 87 déclare au service des pensions du ministère du budget, dans un
+Le pensionné mentionné au deuxième alinéa de l'article L. 87 déclare au service des pensions du ministère du budget, dans un
 délai de deux mois à compter de la date de sa radiation des cadres, le montant annuel brut des pensions versées par les
 organismes étrangers de retraite dont il relevait pendant son détachement ainsi que la période d'affiliation au régime
 étranger concerné. Il joint à cette déclaration les copies des pièces justificatives correspondantes délivrées par ces
@@ -7981,9 +7715,9 @@ la date de mise en paiement de ces pensions.
 
 	  - Décret n°66-809 1966-10-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-1391 du 21 novembre 2002 - art. 6 ()
+	  - Décret n°2003-1305 du 26 décembre 2003 - art. 40 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
 
 	**Cité par**:
 
@@ -8024,13 +7758,13 @@ l'article 6.
 En cas d'inobservation des obligations fixées aux articles R. 95-1 et R. 95-2, à l'expiration d'un délai de quatre mois après
 réception par le pensionné ou ses ayants cause de la lettre de rappel adressée par le service des pensions du ministère du
 budget, la pension attribuée au titre du code des pensions civiles et militaires de retraite peut être suspendue, à titre
-conservatoire, à concurrence du montant correspondant aux annuités liquidables relatives à la période de détachement à
+conservatoire, à concurrence du montant correspondant aux trimestres liquidables relatifs à la période de détachement à
 l'étranger et, le cas échéant, aux bonifications afférentes.
 
 Il est mis fin à cette mesure de suspension conservatoire lorsque le fonctionnaire ou ses ayants cause satisfont aux
 obligations fixées aux articles R. 95-1 et R. 95-2. Le rappel éventuel des arrérages non versés pendant la période
 d'application de la suspension sera effectué, sans intérêts, sous réserve de la réduction du montant de la pension prévue au
-troisième alinéa de l'article L. 87.
+deuxième alinéa de l'article L. 87.
 
 **Liens relatifs à cet article**
 
@@ -8038,9 +7772,9 @@ troisième alinéa de l'article L. 87.
 
 	  - Décret n°66-809 1966-10-28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2002-1391 du 21 novembre 2002 - art. 8 ()
+	  - Décret n°2003-1305 du 26 décembre 2003 - art. 41 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
 
 	**Cité par**:
 
@@ -8065,8 +7799,6 @@ traitement ou solde, à l'exclusion de toutes autres indemnités ou allocations,
 cours duquel le fonctionnaire ou militaire est, soit admis à la retraite ou radié des cadres, soit décédé en activité. Le
 paiement de la pension de l'intéressé ou de celle de ses ayants droit commence au premier jour du mois suivant.
 
-Le paiement d'une pension à jouissance différée prend effet à la date prévue pour l'entrée en jouissance.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -8077,6 +7809,10 @@ Le paiement d'une pension à jouissance différée prend effet à la date prévu
 
 	  - Décret n°2002-788 du 3 mai 2002 - art. 12-1 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2003-1305 du 26 décembre 2003 - art. 47 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
+
 
 ###### Article R97
 
@@ -8084,20 +7820,22 @@ En cas de décès d'un fonctionnaire ou d'un militaire retraité, la pension ou 
 la fin du mois civil au cours duquel le fonctionnaire ou militaire est décédé. Le paiement de la pension des ayants cause
 commence au premier jour du mois suivant.
 
-En cas de décès d'un fonctionnaire ou d'un militaire titulaire d'une pension à jouissance différée, le paiement de la pension
-de veuve ou d'orphelin prend effet au lendemain du jour du décès.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°66-809 1966-10-28
 
+	**Modifié par**:
+
+	  - Décret n°2003-1305 du 26 décembre 2003 - art. 47 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
+
 
 ###### Article R98
 
-En cas de décès de la veuve d'un fonctionnaire ou d'un militaire bénéficiaire d'une pension ou d'une rente d'invalidité de
-réversion, ladite pension ou rente est payée jusqu'à la fin du mois civil au cours duquel la veuve est décédée.
+En cas de décès du conjoint survivant d'un fonctionnaire ou d'un militaire bénéficiaire d'une pension ou d'une rente
+d'invalidité de réversion, ladite pension ou rente est payée jusqu'à la fin du mois civil au cours duquel le conjoint
+survivant est décédé.
 
 Le paiement de la pension des orphelins prend effet du premier jour civil suivant celui du décès.
 
@@ -8107,20 +7845,28 @@ Le paiement de la pension des orphelins prend effet du premier jour civil suivan
 
 	  - Décret n°66-809 1966-10-28
 
+	**Modifié par**:
+
+	  - Décret n°2003-1305 du 26 décembre 2003 - art. 42 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
+
 
 #### Paragraphe II : Contexture des titres de paiement.
 
 ###### Article R99
 
 Les titulaires de pensions inscrites au grand-livre de la Dette publique reçoivent un certificat d'inscription sur lequel
-sont notamment mentionnés l'état civil du retraité, le numéro et la nature de la pension, le décompte détaillé de la
-liquidation prévu par l'article R. 65 ainsi que la date de chaque échéance.
+sont notamment mentionnés l'état civil du retraité, le numéro et la nature de la pension, ainsi que le décompte détaillé de
+la liquidation prévu par l'article R. 65.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°66-809 1966-10-28
+
+	**Modifié par**:
+
+	  - Décret n°2003-1305 du 26 décembre 2003 - art. 43 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
 
 	**Cité par**:
 
@@ -8163,7 +7909,7 @@ A l'étranger, la pension est payée dans les conditions prévues par décret.
 Lorsque les dispositions de l'article L. 90 (2e alinéa) ne peuvent être satisfaites, les fonctionnaires civils et les
 militaires admis à faire valoir leurs droits à pension reçoivent, à compter du premier jour du mois civil qui suit la
 cessation de leur activité ou de leur radiation des cadres, à titre d'avance sur pension, une allocation provisoire égale au
-montant arrondi au franc inférieur de la somme à laquelle une liquidation sommaire, établie dès leur mise à la retraite et
+montant arrondi à l'euro inférieur de la somme à laquelle une liquidation sommaire, établie dès leur mise à la retraite et
 éventuellement révisée, permet d'évaluer leur pension.
 
 Les fonctionnaires civils retraités pour invalidité au titre des articles L. 27, L. 28 et L. 29 peuvent également prétendre
@@ -8180,6 +7926,10 @@ selon les règles sus-énoncées.
 
 	  - Décret n°66-809 1966-10-28
 
+	**Modifié par**:
+
+	  - Décret n°2003-1305 du 26 décembre 2003 - art. 44 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
+
 	**Cité par**:
 
 	  - Code des pensions civiles et militaires de retr... - art. D58 (V)
@@ -8193,16 +7943,12 @@ selon les règles sus-énoncées.
 
 ###### Article R*102
 
-Lorsque les dispositions de l'article L. 90 (2e alinéa) ne peuvent être satisfaites, les veuves et orphelins des
-fonctionnaires civils et des militaires en possession de droits à pension de réversion fondée sur la durée des services
-reçoivent, à titre d'avance, en attendant le règlement définitif de leur pension, à compter du premier jour du mois civil qui
-suit celui du décès de leur auteur, une allocation provisoire égale au montant arrondi au franc inférieur de la somme à
+Lorsque les dispositions de l'article L. 90 (2e alinéa) ne peuvent être satisfaites, les ayants cause des fonctionnaires
+civils et des militaires en possession de droits à pension de réversion fondée sur la durée des services reçoivent, à titre
+d'avance, en attendant le règlement définitif de leur pension, à compter du premier jour du mois civil qui suit celui du
+décès du fonctionnaire ou militaire, une allocation provisoire égale au montant arrondi à l'euro inférieur de la somme à
 laquelle une liquidation sommaire permet d'évaluer la pension à laquelle ils ont droit, à l'exclusion de la fraction de la
 rente d'invalidité éventuellement réversible.
-
-Lorsque dans le cas prévu au deuxième alinéa de l'article R. 65, l'impossibilité d'évaluer avec exactitude la quotité de la
-pension de réversion fait obstacle à ce que celle-ci soit immédiatement concédée, une avance est attribuée sans délai aux
-ayants cause par le ministre du budget. Cette avance est calculée comme prévu à l'alinéa précédent.
 
 **Liens relatifs à cet article**
 
@@ -8212,11 +7958,12 @@ ayants cause par le ministre du budget. Cette avance est calculée comme prévu 
 
 	**Modifié par**:
 
-	  - Décret n°79-81 1979-01-15 art. 4 JORF 30 janvier 1979
+	  - Décret n°2003-1305 du 26 décembre 2003 - art. 45 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
+	  - Décret n°2003-1305 du 26 décembre 2003 - art. 47 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
 
 	**Cite**:
 
-	  - Code des pensions civiles et militaires de retraite L90 al. 2 et R65 al. 2
+	  - Code des pensions civiles et militaires de retrait - art. L90 (M)
 
 
 ###### Article R*103
@@ -8242,11 +7989,10 @@ aux articles L. 19 et R. 33 ainsi que des pensions temporaires d'orphelins et de
 
 ###### Article R*104
 
-Les avances prévues à l'article R. 101 et au premier alinéa de l'article R. 102 qui sont attribuées par le département
-ministériel dont dépendait le fonctionnaire ou le militaire lors de sa radiation des cadres ou de son décès et les avances
-prévues au deuxième alinéa de l'article R. 102 accordées par le ministre du budget sont payées mensuellement et à terme échu.
-Leur mise en paiement [*délai*] doit intervenir au profit des intéressés dans le mois qui suit la cessation de l'activité ou
-le décès de l'auteur du droit.
+Les avances prévues aux articles R. 101 et R. 102 qui sont attribuées par le département ministériel dont dépendait le
+fonctionnaire ou le militaire lors de sa radiation des cadres ou de son décès sont payées mensuellement et à terme échu. Leur
+mise en paiement doit intervenir au profit des intéressés dans le mois qui suit la cessation de l'activité ou le décès de
+l'auteur du droit.
 
 Les avances ainsi consenties sont récupérées par voie de précompte sur les premiers arrérages de la pension à laquelle les
 intéressés auront été reconnus avoir droit et, s'il y a lieu, au moyen d'une retenue du cinquième des arrérages postérieurs.
@@ -8259,86 +8005,11 @@ intéressés auront été reconnus avoir droit et, s'il y a lieu, au moyen d'une
 
 	**Modifié par**:
 
-	  - Décret n°79-81 1979-01-15 art. 5 JORF 30 janvier 1979
+	  - Décret n°2003-1305 du 26 décembre 2003 - art. 46 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
 
 	**Cite**:
 
-	  - Code des pensions civiles et militaires de retraite R101 et R102 al. 1 et 2
-
-
-### CHAPITRE III : Avances mensuelles sur pensions concédées en paiement.
-
-###### Article R*105
-
-Les avances prévues à l'article L. 96 consenties au titulaire d'une pension inscrite au grand-livre de la Dette publique sont
-payées par les bureaux de postes agissant pour le compte de la caisse nationale d'épargne ou par les caisses de crédit
-municipal suivant des modalités fixées par décret.
-
-Sur le montant de chaque avance, il est retenu, pour intérêts et frais, une commission fixée uniformément à 1 p. 100 quelle
-que soit la durée de l'avance.
-
-Aucune avance ne peut être consentie sur les premiers arrérages d'une pension nouvellement concédée ou rétablie sur le grand-
-livre de la Dette publique avant que le décompte de ces arrérages ait été arrêté par le comptable supérieur du Trésor
-assignataire.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°66-809 1966-10-28
-
-	**Abrogé par**:
-
-	  - Décret n°2003-1305 du 26 décembre 2003 - art. 47 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
-
-	**Cite**:
-
-	  - Code des pensions civiles et militaires de retrait - art. L96 (M)
-
-
-###### Article R*107
-
-En cas de retenues pratiquées dans les circonstances prévues à l'article L. 56, la portion saisissable est calculée sur la
-totalité des arrérages du trimestre en cours et le montant de la retenue est imputé proportionnellement sur les mensualités
-restant à payer sur ce trimestre.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°66-809 1966-10-28
-
-	**Abrogé par**:
-
-	  - Décret n°2003-1305 du 26 décembre 2003 - art. 47 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
-
-	**Cite**:
-
-	  - Code des pensions civiles et militaires de retrait - art. L56 (M)
-
-
-###### Article R106
-
-Le montant des avances et des paiements pour solde afférents à des pensions auxquelles le mode de paiement prévu à l'article
-R. 100 (4°) est applicable est remboursé à l'échéance, par voie de virement, au profit des établissements qui les ont
-consenties.
-
-Dans les autres cas, ce remboursement est effectué aux établissements par les comptables du Trésor contre remise des acquits
-justifiant du paiement de la pension, conformément aux règles propres à chaque catégorie d'établissement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°66-809 1966-10-28
-
-	**Abrogé par**:
-
-	  - Décret n°2003-1305 du 26 décembre 2003 - art. 47 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
-
-	**Cite**:
-
-	  - Code des pensions civiles et militaires de retrait - art. R100 (V)
+	  - Code des pensions civiles et militaires de retraite R101, R102
 
 
 # Partie réglementaire - Décrets simples
@@ -8349,11 +8020,14 @@ justifiant du paiement de la pension, conformément aux règles propres à chaqu
 
 ###### Article D1
 
-La demande de radiation des cadres doit être adressée au ministre ou à son délégué par la voie hiérarchique.
-
-Il en est accusé réception.
+La demande d'admission à la retraite du fonctionnaire ou du militaire doit être adressée au ministre ou à son délégué par la
+voie hiérarchique, au moins six mois avant la date à laquelle il souhaite cesser son activité. Il en est accusé réception.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2003-1309 du 26 décembre 2003 - art. 1 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
 
 	**Cité par**:
 
@@ -8379,14 +8053,18 @@ Il en est accusé réception.
 
 ###### Article D2
 
-La demande de validation des services d'auxiliaire, de temporaire, d'aide ou de contractuel visés à l'article L. 5 porte
-obligatoirement sur la totalité desdits services, continus ou discontinus, que l'intéressé a accomplis antérieurement à son
-affiliation au régime du présent code.
+La demande de validation des services mentionnés à l'avant-dernier alinéa de l'article L. 5 porte obligatoirement sur la
+totalité desdits services que l'intéressé a accomplis antérieurement à son affiliation au régime du présent code.
 
-Toutefois, sont exclues de la validation les périodes correspondant à l'accomplissement d'une fraction desdits services et
-déjà rémunérées dans une pension de l'Etat ou des collectivités visées à l'article L. 84.
+Le silence gardé par le fonctionnaire ou le militaire pendant le délai prévu au dernier alinéa de l'article L. 5 vaut refus.
+L'acceptation ou le refus sont irrévocables. Lorsque le fonctionnaire ou le militaire décède avant l'expiration de ce délai,
+sans avoir accepté ou refusé la notification de la validation, la procédure est définitivement interrompue.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2003-1309 du 26 décembre 2003 - art. 2 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
 
 	**Cité par**:
 
@@ -8394,7 +8072,7 @@ déjà rémunérées dans une pension de l'Etat ou des collectivités visées à
 
 	**Cite**:
 
-	  - Code des pensions civiles et militaires de retraite L5 et L84
+	  - Code des pensions civiles et militaires de retrait - art. L5 (M)
 
 	**Codifié par**:
 
@@ -8403,35 +8081,30 @@ déjà rémunérées dans une pension de l'Etat ou des collectivités visées à
 
 ###### Article D3
 
-Les retenues rétroactives visées à l'article R. 7 sont calculées à raison des émoluments visés au quatrième ou au cinquième
-alinéa dudit article R. 7 et au taux de la retenue en vigueur au moment de l'accomplissement des services à valider.
+Les retenues rétroactives sont calculées à raison du traitement ou de la solde mentionnés au quatrième alinéa de l'article R.
+7 et au taux de la retenue en vigueur au moment de l'accomplissement des services à valider.
 
 Toutefois, est déduite des retenues à verser la part correspondant aux contributions personnelles et obligatoires versées par
 les intéressés au titre de leur régime antérieur de retraites.
 
-La pension ou la rente viagère acquise du chef de ces contributions tant au profit des agents qu'à celui de leurs conjoints
-et non annulée ou rachetée est déduite du montant de la pension.
+Les sommes acquittées du chef des périodes de services validés au titre du régime général de l'assurance vieillesse sont
+annulées et versées au Trésor ; cette opération est effectuée par la caisse du régime général de la sécurité sociale chargée
+de la gestion du risque vieillesse dont l'intéressé relevait en dernier lieu à la date de la demande d'annulation.
 
-Les sommes acquittées du chef des périodes de services validés au titre de l'assurance vieillesse prévue par la législation
-sur les retraites ouvrières et paysannes et les assurances sociales sont annulées et versées au Trésor ; cette opération est
-effectuée par la direction régionale de la sécurité sociale.
-
-Il en est de même lorsque les services validés ont donné lieu aux cotisations ou versements prévus par les décrets n° 51-1445
-du 12 décembre 1951 et n° 59-1569 du 31 décembre 1959, lesquels sont annulés et reversés au budget général. Dans ce cas
-particulier, les versements personnels de l'intéressé qui excèdent les sommes dues en application du premier alinéa du
-présent article lui sont remboursés.
+Il en est de même lorsque les services validés ont donné lieu aux cotisations ou versements prévus par le décret n° 70-1277
+du 23 décembre 1970, lesquels sont annulés et reversés au budget général. Dans ce cas particulier, les versements personnels
+de l'intéressé qui excèdent les sommes dues en application du premier alinéa du présent article lui sont remboursés.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°51-1445 1951-12-12
-	  - Décret n°59-1569 1959-12-31
-	  - Code des pensions civiles et militaires de retraite R7 al. 4 et 5
+	  - Décret n°70-1277 1970-12-23
+	  - Code des pensions civiles et militaires de retraite R7
 
 	**Modifié par**:
 
-	  - Décret n°86-1028 du 9 septembre 1986 - art. 1 () JORF 13 septembre 1986
+	  - Décret n°2003-1309 du 26 décembre 2003 - art. 3 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
 
 	**Cité par**:
 
@@ -8447,7 +8120,7 @@ présent article lui sont remboursés.
 
 Les retenues rétroactives font l'objet de précomptes mensuels calculés à raison de 5 p. 100 du traitement budgétaire net
 ordonnancé au profit des intéressés, sauf le dernier précompte à effectuer pour solde. La première retenue est opérée sur le
-traitement du troisième mois qui suit celui au cours duquel est présentée la demande visée à l'article R. 7.
+traitement du deuxième mois qui suit celui au cours duquel le fonctionnaire a accepté la notification de validation.
 
 Les versements mensuels à effectuer par les fonctionnaires placés dans une position où ils ne perçoivent pas de traitement ou
 l'intégralité de leur traitement sont calculés à raison de 5 p. 100 du traitement budgétaire net d'activité afférent à leur
@@ -8471,78 +8144,9 @@ des émoluments d'activité ou des arrérages de pension payables au décès.
 	  - Décret n°83-916 du 13 octobre 1983 - art. 1 (V)
 	  - Code des pensions civiles et militaires de retrait - art. R*7 (V)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code des pensions civiles et militaires de retraite R7
-
-	**Codifié par**:
-
-	  - Décret n°66-810 1966-10-28
-
-	**Créé par**:
-
-	  - Décret n°66-810 1966-10-28 JORF 3 novembre 1966 rectificatif JORF 3 décembre 1966 en vigueur le 1er décembre 1964
-
-
-###### Article D5
-
-La rente viagère servie par la caisse nationale de prévoyance et non rachetée par elle est déductible du montant de la
-pension conformément aux dispositions de l'article D. 3 ; elle est calculée, pour les agents qui ont effectué des versements
-à capital réservé, comme si ces versements avaient été faits à capital aliéné.
-
-Lorsque la jouissance intervient antérieurement à l'admission à la retraite de l'intéressé, cette rente viagère est ajournée,
-le cas échéant, dans les conditions prévues par le règlement de retraite qui le régissait précédemment.
-
-La pension civile n'est réduite du montant de la rente viagère qu'à dater du jour de l'entrée en jouissance de cette rente.
-
-En cas de prédécès du conjoint, la part de pension correspondant à la rente viagère acquise par lui est rétablie au profit de
-l'agent.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Décret n°2003-1309 du 26 décembre 2003 - art. 27 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
-
-	**Cite**:
-
-	  - Code des pensions civiles et militaires de retrait - art. D3 (M)
-
-	**Codifié par**:
-
-	  - Décret n°66-810 1966-10-28
-
-
-###### Article D6
-
-Au cas où une pension ou rente est acquise soit à l'agent, soit à son conjoint, antérieurement à l'entrée en jouissance de la
-pension allouée au titre du présent code, l'administration dont relève l'agent conserve les titres de paiement et en perçoit
-les arrérages lors de chaque échéance.
-
-Si les arrérages de la pension ou rente ont déjà été perçus, l'intéressé a la faculté de se libérer soit par le versement en
-capital des arrérages échus, soit par le précompte dudit capital sur la pension allouée au titre du présent code.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Décret n°2003-1309 du 26 décembre 2003 - art. 27 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
-
-	**Codifié par**:
-
-	  - Décret n°66-810 1966-10-28
-
-
-###### Article D7
-
-Dans le cas où la veuve ou la femme divorcée étant titulaire d'une pension ou rente vient à bénéficier, en cette qualité,
-d'une pension allouée au titre du présent code, celle-ci est réduite du montant de ladite pension ou rente.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Décret n°2003-1309 du 26 décembre 2003 - art. 27 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
+	  - Décret n°2003-1309 du 26 décembre 2003 - art. 4 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
 
 	**Codifié par**:
 
@@ -8661,55 +8265,15 @@ ni à ceux embarqués sur les bâtiments non navigants affectés à la surveilla
 
 ###### Article D12
 
-Les bonifications prévues par l'article R. 20 sont allouées pour les services aériens exécutés par les personnels militaires,
-dans les conditions déterminées audit article, en dehors des opérations de guerre, c'est-à-dire en toutes situations ne
-comportant pas le bénéfice de la campagne double par application des dispositions de l'article R. 14, A.
+Les bonifications prévues par l'article R. 20 sont allouées pour les services aériens ou sous-marins exécutés par les
+personnels militaires, dans les conditions déterminées audit article, en dehors des opérations de guerre, c'est-à-dire en
+toutes situations ne comportant pas le bénéfice de la campagne double par application des dispositions de l'article R. 14, A.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°79-82 1979-01-15 art. 1 JORF 30 janvier 1979
-
-	**Cite**:
-
-	  - Code des pensions civiles et militaires de retraite R14 et R20
-
-	**Codifié par**:
-
-	  - Décret n°66-810 1966-10-28
-
-
-###### Article D13
-
-Les personnels titulaires de brevets ou certificats de spécialité aériens obtenus antérieurement au 1er décembre 1964
-conservent de ce chef le bénéfice des bonifications de services fixes prévues par le tableau annexé au code des pensions
-civiles et militaires de retraite en vigueur avant la date susvisée.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Décret n°2003-1309 du 26 décembre 2003 - art. 27 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
-
-	**Codifié par**:
-
-	  - Décret n°66-810 1966-10-28
-
-
-###### Article D14
-
-Les bonifications prévues par l'article R. 20 sont allouées pour les services sous-marins exécutés, dans les conditions
-déterminées audit article, en dehors des opérations de guerre, c'est-à-dire en toutes situations ne comportant pas le
-bénéfice de campagne double par application des dispositions de l'article R. 14, A.
-
-Ces dispositions sont applicables à compter du 1er juillet 1952.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Décret n°2003-1309 du 26 décembre 2003 - art. 27 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
+	  - Décret n°2003-1309 du 26 décembre 2003 - art. 5 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
 
 	**Cite**:
 
@@ -8726,21 +8290,16 @@ Ces dispositions sont applicables à compter du 1er juillet 1952.
 
 ###### Article D15
 
-Les fonctionnaires nommés soit à l'un des emplois énumérés à l'article L. 15 (4e alinéa), soit à l'un des emplois permanents
-de l'Etat ne correspondant pas à un grade et figurant sur une liste établie par arrêté conjoint du ministre d'Etat chargé de
-la réforme administrative, du ministre des finances et du ou des ministres intéressés, et détachés en application de
-l'article 1er (3° à 7°) du décret n° 59-309 du 14 février 1959 peuvent, sur demande formulée dans un délai d'un an à compter
-de la date de la décision du détachement, continuer à acquitter la retenue pour pension sur la base des émoluments afférents
-auxdits emplois.
+Les fonctionnaires nommés soit à l'un des emplois énumérés au II de l'article L. 15, soit à l'un des emplois permanents de
+l'Etat ne correspondant pas à un grade et figurant sur une liste établie par arrêté conjoint du ministre chargé de la
+fonction publique, du ministre chargé du budget et du ou des ministres intéressés, et détachés en application de l'article 14
+du décret n° 85-986 du 16 septembre 1985 dans un emploi ne conduisant pas à pension du présent code peuvent, sur demande
+formulée dans un délai d'un an à compter de la date de la décision du détachement, continuer à acquitter la retenue pour
+pension sur la base des traitements ou soldes afférents auxdits emplois.
 
 La contribution complémentaire de 12 p. 100, lorsqu'elle est exigible, est calculée sur les mêmes bases.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°59-309 1959-02-14 art. 1
-	  - Code des pensions civiles et militaires de retraite L15 al. 4
 
 	**Liens**:
 
@@ -8760,6 +8319,15 @@ La contribution complémentaire de 12 p. 100, lorsqu'elle est exigible, est calc
 	  - Décret n°93-707 du 27 mars 1993 - art. 8 (V)
 	  - Décret n°98-844 du 22 septembre 1998 - art. 24 (V)
 
+	**Cite**:
+
+	  - Décret n°85-986 du 16 septembre 1985 - art. 14 (M)
+	  - Code des pensions civiles et militaires de retrait - art. L15 (M)
+
+	**Modifié par**:
+
+	  - Décret n°2003-1309 du 26 décembre 2003 - art. 6 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
+
 	**Codifié par**:
 
 	  - Décret n°66-810 1966-10-28
@@ -8771,12 +8339,16 @@ La contribution complémentaire de 12 p. 100, lorsqu'elle est exigible, est calc
 
 Lorsque la période de neuf ans pendant laquelle les enfants doivent avoir été élevés au sens de l'article L. 18, III, n'est
 pas parfaite avant le seizième anniversaire desdits enfants, la preuve de la date à laquelle ces derniers ont cessé d'être à
-charge au sens et dans les limites de l'article L. 527 du code de la sécurité sociale et des textes pris pour son application
-sera apportée par la production soit d'une pièce attestant que les enfants ont ouvert droit jusqu'à cette date aux avantages
-familiaux prévus à l'époque pour les enfants à charge, soit de certificats de scolarité, de contrats d'apprentissage ou de
-certificats médicaux.
+charge au sens et dans les limites de l'article L. 512-3 du code de la sécurité sociale et des textes pris pour son
+application sera apportée par la production soit d'une pièce attestant que les enfants ont ouvert droit jusqu'à cette date
+aux avantages familiaux prévus à l'époque pour les enfants à charge, soit de certificats de scolarité, de contrats
+d'apprentissage ou de certificats médicaux.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2003-1309 du 26 décembre 2003 - art. 7 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
 
 	**Cité par**:
 
@@ -8785,7 +8357,7 @@ certificats médicaux.
 	**Cite**:
 
 	  - Code des pensions civiles et militaires de retrait - art. L18 (M)
-	  - Code de la sécurité sociale L527
+	  - Code de la sécurité sociale. - art. L512-3 (M)
 
 	**Codifié par**:
 
@@ -8848,7 +8420,7 @@ puissent être inférieures au montant de la pension rémunérant les services v
 ###### Article D19
 
 Lorsque les militaires visés à l'article L. 36 (2e alinéa) ont obtenu, du chef de l'invalidité contractée dans l'emploi
-occupé en situation hors cadre, un avantage de caractère viager servi par le régime d'assurance qui leur est appliqué par
+occupé en service détaché, un avantage de caractère viager servi par le régime d'assurance qui leur est appliqué par
 l'organisme employeur, le total des pensions prévues par les articles L. 34 et L. 35 et liquidées en leur faveur est diminué
 du montant de cet avantage viager sans que les sommes qui leur sont servies au titre du présent code puissent être
 inférieures au montant de la pension rémunérant les services visée à l'article L. 6.
@@ -8860,6 +8432,10 @@ les sommes qui sont servies aux intéressés au titre du présent code puissent 
 rémunérant les services visée à l'article L. 6.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2003-1309 du 26 décembre 2003 - art. 8 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
 
 	**Cite**:
 
@@ -8875,18 +8451,13 @@ rémunérant les services visée à l'article L. 6.
 
 	  - Décret n°66-810 1966-10-28
 
-	**Créé par**:
-
-	  - Décret n°66-810 1966-10-28 JORF 3 novembre 1966 rectificatif JORF 3 décembre 1966 en vigueur le 1er décembre 1964
-
 
 ### Titre VI : Pensions des ayants cause.
 
 ###### Article D19-1
 
 Peuvent être élevées au minimum de pension prévu au troisième alinéa de l'article L. 38 du présent code les pensions de
-réversion au taux de 50 p. 100 allouées aux veuves, aux femmes divorcées ou séparées ainsi qu'aux orphelins de fonctionnaires
-ou de militaires.
+réversion au taux de 50 p. 100 allouées aux ayants cause de fonctionnaires ou de militaires. 
 
 Lorsque la pension est partagée entre plusieurs ayants cause, la part du minimum de pension pouvant être attribuée à chaque
 bénéficiaire en fonction de ses ressources propres est calculée au prorata de la fraction de pension qui lui est
@@ -8894,12 +8465,13 @@ personnellement allouée.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°81-179 1981-02-25 art. 1 JORF 27 février 1981 en vigueur le 21 janvier 1980
+	  - Décret n°2003-1309 du 26 décembre 2003 - art. 9 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
 
 	**Cite**:
 
+	  - Code des pensions civiles et militaires de retr... - art. L38 (V)
 	  - Code des pensions civiles et militaires de retraite L38 al. 3
 
 	**Codifié par**:
@@ -8999,29 +8571,25 @@ et, éventuellement, régulariser sa situation au titre de la période antérieu
 ###### Article D19-5
 
 L'appréciation des ressources des intéressés et leur évaluation sont effectuées dans les conditions prévues par les articles
-2, 3, 4, 5, 6 et 9 du décret n° 64-300 du 1er avril 1964 pour l'ouverture du droit à l'allocation supplémentaire du fonds de
-solidarité vieillesse institué par l'article L. 135-1 du code de la sécurité sociale et à l'allocation aux vieux travailleurs
-salariés.
+R. 815-22 et R. 815-25 à R. 815-30 du code de la sécurité sociale pour l'ouverture du droit à l'allocation supplémentaire
+mentionnée du fonds de solidarité vieillesse institué par l'article L. 135-1 du code précité et à l'allocation aux vieux
+travailleurs salariés.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Décret n°64-300 du 1 avril 1964 - art. 2 (Ab)
-	  - Décret n°64-300 du 1 avril 1964 - art. 3 (Ab)
-	  - Décret n°64-300 du 1 avril 1964 - art. 4 (Ab)
-	  - Décret n°64-300 du 1 avril 1964 - art. 5 (Ab)
-	  - Décret n°64-300 du 1 avril 1964 - art. 6 (Ab)
-	  - Décret n°64-300 du 1 avril 1964 - art. 9 (Ab)
-	  - Code de la sécurité sociale. - art. L135-1 (M)
-
 	**Modifié par**:
 
-	  - Loi n°93-936 du 22 juillet 1993 - art. 12 (V) JORF 23 juillet 1993
+	  - Décret n°2003-1309 du 26 décembre 2003 - art. 10 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
 
 	**Codifié par**:
 
 	  - Décret n°66-810 1966-10-28
+
+	**Cite**:
+
+	  - Code de la sécurité sociale. - art. L135-1 (V)
+	  - Code de la sécurité sociale. - art. R815-22 (M)
+	  - Code de la sécurité sociale. - art. R815-25 (V)
 
 
 ###### Article D19-6
@@ -9088,74 +8656,18 @@ La date du dépôt de la demande de liquidation est apposée sur ladite demande.
 
 ###### Article D21
 
-Le fonctionnaire ou le militaire prétendant à pension doit produire une déclaration relative à l'élection de domicile et au
-cumul. En outre, doivent être fournis, si ces pièces ne se trouvent pas déjà dans le dossier administratif, un extrait de son
-acte de naissance et, pour l'agent féminin, s'il y a lieu, un extrait de son acte de mariage portant, le cas échéant, mention
-de l'arrêt ou du jugement de divorce ainsi qu'éventuellement une copie de l'acte de décès de son mari.
+Le fonctionnaire ou le militaire prétendant à pension fournit :
 
-En outre, sont exigés :
+1° Une demande d'admission à la retraite comportant une déclaration relative à l'élection de domicile ;
 
-A. - Pour le fonctionnaire civil :
-
-1° Une ampliation de la décision de radiation des cadres ;
-
-2° Pour la justification des services civils :
-
-Un état des services dûment certifié, extrait des registres et sommiers de l'administration à laquelle il a appartenu,
-énonçant ses nom et prénoms, sa qualité, la date et le lieu de sa naissance, les dates de nomination à un emploi permanent et
-d'entrée en fonctions ou d'installation, les emplois, grades, classes et échelons successivement détenus, le détail des
-positions valables ou non pour la retraite successivement occupées, la durée et le lieu d'accomplissement des services civils
-rendus hors d'Europe, la nature, la durée et le lieu des congés correspondant à ces services, et l'indice du ou des
-traitements dont il a joui pendant les six derniers mois de son activité.
-
-Les services civils rendus dans les cadres des administrations mentionnées à l'article L. 5 (3°, 4° et 5°) sont constatés,
-dans la même forme, par un état des services distinct délivré par les administrations intéressées.
-
-Les pièces relatives à la validation des services et au versement des retenues rétroactives ainsi qu'au reversement des
-retenues qui auraient été remboursées doivent, le cas échéant, être jointes à l'état des services.
-
-Lorsqu'il n'aura pas existé de registre ou que tous les services administratifs ne se trouveront pas inscrits sur les
-registres existants, il y sera suppléé par un certificat du chef ou des chefs compétents des administrations où l'agent aura
-servi, relatant les indications ci-dessus énoncées.
-
-A défaut de ces justifications, et lorsque, pour cause de destruction des archives dont on aurait pu les extraire ou du décès
-des fonctionnaires supérieurs, l'impossibilité de les produire aura été prouvée, les services pourront être constatés par
-acte de notoriété.
-
-3° Pour la justification des services militaires :
-
-Un état des services militaires et des campagnes dressé par les services compétents des administrations militaires. Lorsque
-d'autres pièces sont produites pour justifier de ces services, elles sont renvoyées aux services susvisés qui les remplacent,
-s'il y a lieu, par un certificat authentique.
-
-4° Pour la justification de l'invalidité des fonctionnaires civils :
-
-Le procès-verbal de la commission de réforme accompagné des pièces justificatives médicales et administratives produites à
-cet organisme.
-
-B. - Pour les militaires :
-
-1° Une ampliation de la décision de radiation des cadres chaque
-
-fois qu'elle est nécessaire ;
-
-2° Un état des services militaires énonçant :
-
-L'état civil du militaire ; le détail des services militaires accomplis et des différentes positions occupées, les bénéfices
-d'études préliminaires reconnus, les grades obtenus, les bénéfices de campagne acquis ainsi que les bonifications accordées
-pour services aériens ou sous-marins ;
-
-3° Un relevé des services civils admissibles pour la retraite, éventuellement accompagné des pièces justificatives prévues
-ci-dessus pour les fonctionnaires civils, établi par l'administration auprès de laquelle lesdits services ont été rendus ;
-
-4° Un certificat indiquant l'indice de la ou des soldes dont a joui le militaire pendant les six derniers mois de son
-activité.
+2° Une photocopie du livret de famille régulièrement tenu à jour ou un extrait d'acte de naissance si ce document ne se
+trouve pas déjà dans le dossier administratif.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°79-82 1979-01-15 art. 3 JORF 30 janvier 1979
+	  - Décret n°2003-1309 du 26 décembre 2003 - art. 11 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
 
 	**Cité par**:
 
@@ -9167,242 +8679,106 @@ activité.
 	  - Arrêté du 4 mai 2016 - art. 1 (V)
 	  - Arrêté du 11 août 2016 - art. 1 (V)
 
-	**Cite**:
-
-	  - Code des pensions civiles et militaires de retrait - art. L5 (M)
-
 	**Codifié par**:
 
 	  - Décret n°66-810 1966-10-28
+
+
+###### Article D21-1
+
+Le dossier constitué par l'administration dont relevait le fonctionnaire ou le militaire comprend :
+
+I. - Un état des services dûment certifié, énonçant :
+
+1° Les nom et prénoms du fonctionnaire ou du militaire, sa qualité ou son grade, la date et le lieu de sa naissance ;
+
+2° Les dates de nomination à un emploi permanent et d'entrée en fonctions ou d'installation ;
+
+3° Les dates d'effet de sa radiation des cadres et de son admission à la retraite et la date de signature de la décision ;
+
+4° Les emplois, grades et classes successivement détenus ainsi que les échelons détenus au cours des dix dernières années, le
+détail des positions valables ou non pour la retraite successivement occupées ;
+
+5° Les périodes de service national ;
+
+6° L'indice du ou des traitements ou soldes dont le fonctionnaire ou le militaire a bénéficié pendant les six derniers mois
+de son activité ;
+
+7° En cas d'exercice de fonctions à temps partiel, les périodes concernées et les quotités utilisées. Pour les périodes
+effectuées à temps partiel à partir du 1er janvier 2004, celles qui, le cas échéant, ont donné lieu à la retenue pour pension
+prévue à l'article L. 11 bis et permettant qu'elles soient décomptées comme des périodes de travail à temps plein ainsi que
+les quotités utilisées ;
+
+8° En cas de cessation progressive d'activité, la période concernée, la ou les quotités de temps de travail utilisées et, le
+cas échéant, le décompte de la cotisation sur la base d'un temps plein ;
+
+9° En cas de validation de services auxiliaires, les périodes validées, les modalités de décompte des sommes mises à la
+charge du fonctionnaire ou du militaire, la référence du titre de perception constatant l'extinction de la dette et, le cas
+échéant, les sommes restant à la charge du fonctionnaire ou du militaire au jour de la cessation définitive d'activité ;
+
+10° Le décompte des bonifications prévues au b de l'article L. 12 et la mention des interruptions d'activité mentionnées à
+l'article R. 13, les nom, prénoms et date de naissance de l'enfant ;
+
+11° Le décompte des bonifications prévues au b bis de l'article L. 12, les nom, prénoms et date de naissance de l'enfant ;
+
+12° Le décompte des périodes et les modalités de réduction ou d'interruption d'activité mentionnées à l'article R. 9, les
+nom, prénoms et date de naissance de l'enfant et, en cas de temps partiel de droit pour raisons familiales, la ou les
+quotités utilisées ;
+
+13° En cas de majoration de durée d'assurance prévue à l'article L. 12 bis, les nom, prénoms et date de naissance de
+l'enfant ;
+
+14° En cas de majoration de durée d'assurance prévue à l'article L. 12 ter, les nom et prénoms de l'enfant, la date de la
+décision lui reconnaissant une invalidité égale ou supérieure à 80 % et les périodes pendant lesquelles le fonctionnaire ou
+le militaire a élevé l'enfant à son domicile ;
+
+15° La durée et le lieu d'accomplissement des services civils rendus hors d'Europe, la nature, la durée et le lieu des congés
+correspondant à ces services ;
+
+16° La durée des services ouvrant droit à la bonification du cinquième du temps de service accordée à certains fonctionnaires
+ou militaires ;
+
+17° Le cas échéant, les bonifications accordées pour services aériens ou sous-marins ;
+
+18° Pour les militaires, le décompte des bénéfices d'études préliminaires reconnus ;
+
+19° Le décompte de la bonification prévue au h de l'article L. 12.
+
+II. - Le cas échéant, un état dûment certifié détaillant le nombre de trimestres pris en compte, le type de prise en compte
+de chacun de ces trimestres défini par les deuxième, troisième et quatrième alinéas de l'article L. 9 bis, ainsi que le
+décompte des cotisations dues et des cotisations effectivement versées par le fonctionnaire ou le militaire.
+
+III. - Le cas échéant, un état récapitulatif des durées d'assurance obtenues dans les autres régimes de base obligatoires
+mentionnées aux I et II de l'article L. 14 détaillant les périodes concernées et les trimestres correspondants.
+
+IV. - Le cas échéant, un état dûment certifié conforme détaillant les bénéfices de campagne.
+
+V. - Pour la justification de l'invalidité, la photocopie de la carte d'invalidité prévue à l'article L. 241-3 du code de
+l'action sociale et des familles et le procès-verbal de la commission de réforme accompagné des pièces justificatives
+médicales et administratives produites à cet organisme.
+
+Les services civils accomplis dans les cadres des administrations relevant du régime de la Caisse nationale de retraite des
+agents des collectivités locales ou mentionnées aux 3°, 5° et 6° de l'article L. 5 sont constatés par un état de services
+distinct délivré par les administrations intéressées.
+
+Les états dûment certifiés mentionnés aux paragraphes I à V ci-dessus peuvent être transmis sous forme dématérialisée.
+
+**Nota:**
+
+Décret 2003-1309 art. 29 : Les dispositions du présent décret entrent en vigueur le 1er janvier 2004. Toutefois les
+dispositions des articles D. 21-1 et D. 21-2 du code des pensions civiles et militaires de retraite issus de l'article 12
+s'appliquent aux demandes d'admission à la retraite déposées à compter du 1er janvier 2004.
+
+**Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Décret n°66-810 1966-10-28 JORF 3 novembre 1966 rectificatif JORF 3 décembre 1966 en vigueur le 1er décembre 1964
-
-
-###### Article D22
-
-Pour bénéficier de la bonification pour enfants [*conditions*] prévue à l'article L. 12 (b), l'agent féminin doit souscrire
-une déclaration par laquelle il désigne nominativement les enfants au titre desquels il sollicite la bonification et atteste
-les avoir élevés dans les conditions fixées par ce texte ; il produit, en outre :
-
-1° Pour les enfants adoptifs, une copie de l'acte ou du jugement d'adoption ou du jugement de légitimation adoptive ou du
-jugement d'adoption plénière ;
-
-2° Pour les enfants ayant fait l'objet d'une délégation des droits de puissance paternelle ou de l'autorité parentale, une
-copie du jugement de délégation.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°79-82 1979-01-15 art. 4 JORF 30 janvier 1979
-
-	**Cite**:
-
-	  - Code des pensions civiles et militaires de retrait - art. L12 (M)
-
-	**Codifié par**:
-
-	  - Décret n°66-810 1966-10-28
-
-
-###### Article D23
-
-La veuve prétendant à pension fournit, indépendamment des pièces que son mari aurait été tenu de produire :
-
-1° Une copie de l'acte de naissance de son mari ;
-
-2° Un extrait de son acte de naissance ;
-
-3° Une copie de l'acte de décès de son mari ;
-
-4° Un extrait de l'acte de mariage ;
-
-5° Une déclaration par laquelle la veuve atteste si une séparation de corps a été ou non prononcée judiciairement entre elle
-et son époux, si elle est en jouissance de ses droits civils et si, à sa connaissance, son mari avait ou non contracté un
-précédent mariage et a laissé ou non des enfants âgés de moins de vingt et un ans issus d'un précédent mariage ou naturels
-reconnus ;
-
-6° Dans le cas où il y aurait eu divorce ou séparation de corps, la femme divorcée ou la veuve doit produire un extrait du
-jugement.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°75-1242 du 27 décembre 1975 - art. 16 () JORF 28 décembre 1975
-	  - Décret n°79-82 1979-01-15 art. 5 JORF 30 janvier 1979
-
-	**Codifié par**:
-
-	  - Décret n°66-810 1966-10-28
-
-
-###### Article D24
-
-Le représentant légal des orphelins prétendant à pension du chef des services de leur père fournit, indépendamment des pièces
-que leur auteur aurait été tenu de produire :
-
-1° Une copie de l'acte de naissance de leur père ;
-
-2° Un extrait de l'acte de naissance de chacun des enfants et, s'il s'agit d'enfants adoptifs, une copie de l'acte ou du
-jugement d'adoption ou du jugement de légitimation adoptive ou du jugement d'adoption plénière ;
-
-3° Une copie de l'acte de décès du père ;
-
-4° Un extrait de l'acte de mariage des père et mère ;
-
-5° Une copie de l'acte de décès de la mère ou les pièces établissant qu'elle est inhabile à obtenir une pension ou déchue de
-ses droits lorsque la pension est demandée en application de l'article L. 40 (2e alinéa) ;
-
-6° Une déclaration par laquelle le représentant légal atteste si, à sa connaissance, le fonctionnaire ou le militaire avait
-ou non contracté un mariage antérieur à celui dont sont issus les orphelins qu'il représente et s'il a laissé ou non d'autres
-enfants âgés de moins de vingt et un ans issus d'un précédent mariage ou naturels reconnus ;
-
-7° [*(Abrogé par l'article 6-II du décret n° 79-82 du 15 janvier 1979)*] ;
-
-8° Le cas échéant, une expédition ou un extrait de l'acte de tutelle.
-
-Lorsque les orphelins prétendent à pension du chef des services de leur mère, les pièces à produire sont, outre celles que
-l'auteur aurait été tenu de fournir :
-
-1° Un extrait de l'acte de naissance de chacun des enfants et, s'il s'agit d'enfants adoptifs, une copie de l'acte ou du
-jugement d'adoption ou du jugement de légitimation adoptive ou du jugement d'adoption plénière ;
-
-2° Une copie de l'acte de décès de la mère ;
-
-3° Un extrait de l'acte de mariage des père et mère ;
-
-4° Le cas échéant, une copie de l'acte de décès du père ;
-
-5° Une déclaration par laquelle le représentant légal indique si, à sa connaissance, la mère avait ou non contracté un
-mariage antérieur à celui dont sont issus les orphelins et si elle a laissé ou non d'autres enfants âgés de moins de vingt et
-un ans issus d'un précédent mariage ou enfants naturels dont la filiation est légalement établie ;
-
-6° [*(Abrogé par l'article 6-IV du décret n° 79-82 du 15 janvier 1979)*] ;
-
-7° Le cas échéant, une expédition ou un extrait de l'acte de tutelle.
-
-En outre, lorsque la pension est demandée au titre de l'article L. 40(3e ou 4e alinéa), est exigé le procès-verbal de la
-commission de réforme ou de la commission consultative médicale accompagné des pièces médicales et administratives produites
-à cet organisme établissant que l'orphelin était atteint, au jour du décès de son auteur ou avant sa vingt et unième année
-révolue, d'une infirmité permanente le mettant dans l'impossibilité de gagner sa vie.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°75-1242 du 27 décembre 1975 - art. 16 () JORF 28 décembre 1975
-	  - Décret n°79-82 1979-01-15 art. 6 JORF 30 janvier 1979
-
-	**Cite**:
-
-	  - Code des pensions civiles et militaires de retraite L40 al. 2, 3 et 4
-
-	**Codifié par**:
-
-	  - Décret n°66-810 1966-10-28
-
-	**Créé par**:
-
-	  - Décret n°66-810 1966-10-28 JORF 3 novembre 1966 rectificatif JORF 3 décembre 1966 en vigueur le 1er décembre 1964
-
-
-###### Article D25
-
-Le veuf prétendant à pension fournit, indépendamment des pièces que son épouse aurait été tenue de produire :
-
-1° Un extrait de son acte de naissance ;
-
-2° Une copie de l'acte de naissance de son conjoint ;
-
-3° Une copie de l'acte de décès du conjoint ;
-
-4° Un extrait de l'acte de mariage ;
-
-5° Une déclaration par laquelle il indique si une séparation de corps a été ou non prononcée judiciairement entre lui et son
-épouse, s'il est en jouissance de ses droits civils et si, à sa connaissance, son épouse a laissé ou non des enfants âgés de
-moins de vingt et un ans issus d'un précédent mariage ou enfants naturels dont la filiation est légalement établie ;
-
-6° Dans le cas où il y aurait eu divorce ou séparation de corps, l'ancien conjoint ou le veuf doit produire un extrait du
-jugement.
-
-Lorsque le demandeur fait état d'une infirmité ou maladie incurable le rendant définitivement incapable de travailler, le
-procès-verbal de la commission de réforme appelée à émettre un avis sur cette incapacité est exigé.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°79-82 1979-01-15 art. 7 JORF 30 janvier 1979
-
-	**Codifié par**:
-
-	  - Décret n°66-810 1966-10-28
-
-
-###### Article D26
-
-En vue d'obtenir la liquidation de la majoration pour enfants visée à l'article L. 18, le postulant doit souscrire une
-déclaration par laquelle il désigne nominativement les enfants au titre desquels il sollicite la majoration et atteste les
-avoir élevés dans les conditions fixées par ce texte. Indépendamment des justifications prévues à l'article D. 16, sont
-exigées en outre, si elles n'ont pas déjà été produites :
-
-1° Pour les enfants adoptifs, une copie de l'acte ou du jugement d'adoption ou du jugement de légitimation adoptive ou du
-jugement d'adoption plénière ;
-
-2° Pour les enfants ayant fait l'objet d'une délégation des droits de puissance paternelle ou de l'autorité parentale, une
-copie du jugement de délégation ;
-
-3° Pour les enfants sous tutelle, une expédition de l'acte de tutelle ;
-
-4° Pour les enfants décédés par faits de guerre, une copie de l'acte de décès.
-
-Sont considérés comme décédés par faits de guerre ceux dont l'acte de décès porte la mention "Mort pour la France" ainsi que
-ceux décédés dans des circonstances qualifiées faits de guerre, conformément aux dispositions des articles L. 193 et suivants
-du code des pensions militaires d'invalidité.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°79-82 1979-01-15 art. 8 JORF 30 janvier 1979
-
-	**Cite**:
-
-	  - Code des pensions civiles et militaires de retrait - art. L18 (M)
-	  - Code des pensions civiles et militaires de retraite L18, L193 et D16
-
-	**Codifié par**:
-
-	  - Décret n°66-810 1966-10-28
-
-
-#### Paragraphe II : Dispositions diverses.
-
-###### Article D27
-
-Si le fonctionnaire a été justiciable direct de la Cour des comptes, soit en deniers, soit en matières, il doit produire un
-certificat, soit du directeur de la comptabilité publique, soit du ministre compétent constatant, sauf justification
-ultérieure du quitus de la Cour des comptes, que la vérification provisoire de sa gestion ne révèle aucun débet à sa charge.
-
-Si le prétendant à pension n'est pas justiciable direct de la Cour des comptes, sa situation, en fin de gestion, est
-constatée par un certificat du comptable supérieur duquel il relève.
-
-S'il est constaté dans la gestion un déficit qui ne soit pas de nature à entraîner à l'encontre du comptable la suspension du
-droit à pension édictée par l'article L. 59, la proposition de pension est appuyée d'un rapport détaillé établissant qu'aucun
-détournement de deniers ou de matières n'a été relevé à la charge de l'intéressé et qu'aucune malversation n'a été constatée
-dans sa gestion. Les conclusions de ce rapport doivent être approuvées par le ministre des finances.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Décret n°2003-1309 du 26 décembre 2003 - art. 27 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
+	  - Décret n°2003-1309 du 26 décembre 2003 - art. 12 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
 
 	**Cité par**:
 
+	  - Décret n°2003-1309 du 26 décembre 2003 - art. 29 (V)
+	  - Décret n°2011-616 du 30 mai 2011 - art. 6 (V)
 	  - Arrêté du 7 décembre 2012 - art. 1 (V)
 	  - Arrêté du 12 décembre 2012 - art. 1 (V)
 	  - Arrêté du 18 décembre 2012 - art. 1 (V)
@@ -9413,67 +8789,263 @@ dans sa gestion. Les conclusions de ce rapport doivent être approuvées par le 
 	  - Arrêté du 3 octobre 2014 - art. 1 (V)
 	  - Arrêté du 7 novembre 2014 - art. 1 (V)
 	  - Arrêté du 21 août 2015 - art. 1 (V)
+	  - Code des pensions civiles et militaires de retr... - art. D21-2 (VD)
 
 	**Cite**:
 
-	  - Code des pensions civiles et militaires de retrait - art. L59 (Ab)
+	  - Code des pensions civiles et militaires de retrait - art. L11 bis (V)
+	  - Code des pensions civiles et militaires de retrait - art. L12 (M)
+	  - Code des pensions civiles et militaires de retrait - art. L12 bis (V)
+	  - Code des pensions civiles et militaires de retrait - art. L12 ter (V)
+	  - Code des pensions civiles et militaires de retrait - art. L14 (M)
+	  - Code des pensions civiles et militaires de retrait - art. L5 (M)
+	  - Code des pensions civiles et militaires de retrait - art. L9 bis (V)
+	  - Code des pensions civiles et militaires de retrait - art. R13 (M)
+	  - Code des pensions civiles et militaires de retrait - art. R9 (M)
+	  - Code de l'action sociale et des familles - art. L241-3 (M)
 
 	**Codifié par**:
 
 	  - Décret n°66-810 1966-10-28
 
+
+###### Article D21-2
+
+Pour assurer sa mission de contrôle, ou en cas de difficulté dans la liquidation de la pension, le service des pensions du
+ministère chargé du budget peut demander communication de tout ou partie des pièces justificatives ayant permis au ministre
+dont relevait le fonctionnaire ou le militaire d'établir les états mentionnés à l'article D. 21-1. Le cas échéant, ces pièces
+peuvent être demandées après la concession de la pension.
+
+**Nota:**
+
+Décret 2003-1309 art. 29 : Les dispositions du présent décret entrent en vigueur le 1er janvier 2004. Toutefois les
+dispositions des articles D. 21-1 et D. 21-2 du code des pensions civiles et militaires de retraite issus de l'article 12
+s'appliquent aux demandes d'admission à la retraite déposées à compter du 1er janvier 2004.
+
+**Liens relatifs à cet article**
+
 	**Créé par**:
 
-	  - Décret n°66-810 1966-10-28 JORF 3 novembre 1966 rectificatif JORF 3 décembre 1966 en vigueur le 1er décembre 1964
+	  - Décret n°2003-1309 du 26 décembre 2003 - art. 12 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
+
+	**Cité par**:
+
+	  - Décret n°2003-1309 du 26 décembre 2003 - art. 29 (V)
+	  - Arrêté du 7 décembre 2012 - art. 1 (V)
+	  - Arrêté du 7 décembre 2012 - art. 3 (V)
+	  - Arrêté du 7 décembre 2012 - art. 2 (V)
+	  - Arrêté du 12 décembre 2012 - art. 1 (V)
+	  - Arrêté du 12 décembre 2012 - art. 2 (V)
+	  - Arrêté du 12 décembre 2012 - art. 3 (V)
+	  - Arrêté du 17 décembre 2012 - art. 1 (V)
+	  - Arrêté du 17 décembre 2012 - art. 2 (V)
+	  - Arrêté du 17 décembre 2012 - art. 3 (V)
+	  - Arrêté du 18 décembre 2012 - art. 1 (V)
+	  - Arrêté du 18 décembre 2012 - art. 2 (V)
+	  - Arrêté du 18 décembre 2012 - art. 3 (V)
+	  - Arrêté du 19 décembre 2012 - art. 1 (V)
+	  - Arrêté du 19 décembre 2012 - art. 2 (V)
+	  - Arrêté du 19 décembre 2012 - art. 3 (V)
+	  - Arrêté du 21 décembre 2012 - art. 1 (V)
+	  - Arrêté du 21 décembre 2012 - art. 2 (V)
+	  - Arrêté du 21 décembre 2012 - art. 3 (V)
+	  - Arrêté du 14 décembre 2012 - art. 2 (V)
+	  - Arrêté du 14 décembre 2012 - art. 3 (V)
+	  - Arrêté du 26 décembre 2012 - art. 1 (V)
+	  - Arrêté du 26 décembre 2012 - art. 2 (V)
+	  - Arrêté du 26 décembre 2012 - art. 3 (V)
+	  - Arrêté du 3 octobre 2014 - art. 2 (V)
+	  - Arrêté du 3 octobre 2014 - art. 3 (V)
+	  - Arrêté du 7 novembre 2014 - art. 1 (V)
+	  - Arrêté du 7 novembre 2014 - art. 2 (V)
+	  - Arrêté du 7 novembre 2014 - art. 3 (V)
+	  - Arrêté du 21 août 2015 - art. 3 (V)
+
+	**Cite**:
+
+	  - Code des pensions civiles et militaires de retrait - art. D21-1 (V)
+
+	**Codifié par**:
+
+	  - Décret n°66-810 1966-10-28
 
 
-###### Article D28
+###### Article D22
 
-Par dérogation aux dispositions de l'article précédent, les comptables des administrations financières sont seulement soumis
-à l'obligation, pour obtenir la liquidation de leurs droits à pension, de produire un certificat attestant que la
-vérification sommaire de leur comptabilité ne révèle aucun déficit à leur charge.
+Pour bénéficier de la bonification prévue au b de l'article L. 12, le fonctionnaire ou le militaire doit fournir, si ces
+éléments ne figurent pas déjà sur la photocopie du livret de famille ou dans le dossier administratif :
 
-Le rapport détaillé visé au dernier alinéa de l'article D. 27 dont la production est requise en cas d'existence d'un déficit
-non susceptible d'entraîner la suspension du droit à pension édictée par l'article L. 59 doit, pour chacune des catégories de
-comptables des administrations financières énoncées ci-après, comporter les visas suivants :
+1° Une attestation comportant les nom, prénoms et date de naissance du ou des enfants mentionnés au II de l'article L. 18
+autres que les enfants légitimes, naturels ou adoptifs, indiquant les avoir élevés pendant neuf ans au moins avant leur 21e
+anniversaire ;
 
-a) Pour les comptables qui ont cessé leurs fonctions dans un département :
+2° Pour les enfants adoptifs, une photocopie de l'acte ou du jugement d'adoption ou du jugement de légitimation adoptive ou
+du jugement d'adoption plénière ;
 
-1° Comptables ne gérant que des deniers : visas du directeur départemental ou régional ;
+3° Pour les enfants ayant fait l'objet d'une délégation de l'autorité parentale, une photocopie du jugement de délégation.
 
-2° Comptables ne gérant que des matières : visa du directeur départemental ou régional ;
-
-3° Comptables gérant à la fois des deniers et des matières et qui, comptables principaux en matières, produisent, pour les
-opérations en matières des comptables subordonnés et éventuellement pour leurs propres opérations en matières, un compte de
-gestion destiné à être annexé à celui du trésorier-payeur général : visas du directeur départemental ou régional ;
-
-4° Comptables gérant à la fois des deniers et des matières et qui justifient de leurs opérations en matières à un comptable
-principal de leur administration : visas du comptable principal en matières, du directeur départemental ou régional et du
-trésorier-payeur général ;
-
-5° Receveurs locaux : visas du receveur de rattachement et du directeur des services fiscaux dont ils relèvent.
-
-b) Pour les comptables ayant cessé leurs fonctions à Paris :
-
-1° En ce qui concerne les comptables particuliers, les mêmes visas que ci-dessus, le visa du trésorier-payeur général étant
-toutefois remplacé par celui du comptable principal de l'administration financière chargé de centraliser leurs opérations ;
-
-2° En ce qui concerne les comptables principaux chargés de centraliser les opérations des comptables particuliers, le visa du
-directeur dont ils relèvent et du directeur de la comptabilité publique.
+La femme fonctionnaire ou militaire susceptible de bénéficier de la bonification au titre du b bis de l'article L. 12
+fournit, si cette pièce ne se trouve pas déjà dans le dossier administratif, une photocopie du diplôme nécessaire pour se
+présenter au concours par lequel elle a été recrutée.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°88-1026 1988-11-03 art. 1 JORF 9 novembre 1988
-
-	**Abrogé par**:
-
-	  - Décret n°2003-1309 du 26 décembre 2003 - art. 27 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
+	  - Décret n°2003-1309 du 26 décembre 2003 - art. 13 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
 
 	**Cite**:
 
-	  - Code des pensions civiles et militaires de retraite L59 et D27
+	  - Code des pensions civiles et militaires de retrait - art. L12 (M)
+	  - Code des pensions civiles et militaires de retrait - art. L18 (M)
+
+	**Codifié par**:
+
+	  - Décret n°66-810 1966-10-28
+
+
+###### Article D22-1
+
+Le fonctionnaire ou le militaire susceptible de bénéficier d'une majoration de sa durée d'assurance en application de
+l'article L. 12 ter fournit :
+
+1° Une copie de l'attestation de la commission départementale d'éducation spécialisée de l'enfant handicapé ou tout document
+administratif ou médical établissant que l'enfant concerné était atteint d'une invalidité égale ou supérieure à 80 % ;
+
+2° Une déclaration par laquelle il atteste avoir élevé cet enfant à son domicile et indique la ou les périodes concernées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2003-1309 du 26 décembre 2003 - art. 14 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
+
+	**Cite**:
+
+	  - Code des pensions civiles et militaires de retrait - art. L12 ter (V)
+
+	**Codifié par**:
+
+	  - Décret n°66-810 1966-10-28
+
+
+###### Article D23
+
+Le conjoint survivant ou divorcé prétendant à une pension de réversion fournit :
+
+1° Une photocopie de son livret de famille régulièrement tenu à jour ou, à défaut, un extrait de son acte de naissance et de
+l'acte de mariage ;
+
+2° Un bulletin de décès ou une copie de l'acte de décès du fonctionnaire ou du militaire ou du titulaire de la pension, si la
+mention du décès ne figure pas sur le livret de famille ;
+
+3° Une copie de l'acte de naissance du défunt.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2003-1309 du 26 décembre 2003 - art. 15 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
+
+	**Codifié par**:
+
+	  - Décret n°66-810 1966-10-28
+
+
+###### Article D24
+
+Le représentant légal des orphelins prétendant à pension de réversion fournit :
+
+1° Un bulletin de décès ou une copie de l'acte de décès de leur parent décédé, si la mention du décès ne figure pas sur le
+livret de famille ;
+
+2° Une photocopie du livret de famille régulièrement tenu à jour ou, à défaut, un extrait de l'acte de naissance de chacun
+des enfants ;
+
+3° Une copie de l'acte de naissance de leur parent décédé ;
+
+4° S'il s'agit d'enfants adoptifs, une photocopie de l'acte ou du jugement d'adoption ou du jugement de légitimation adoptive
+ou du jugement d'adoption plénière ;
+
+5° Un bulletin de décès ou une copie de l'acte de décès de leur second parent lorsque la pension est demandée en application
+du 2e alinéa de l'article L. 40 ;
+
+6° Le cas échéant, une photocopie ou un extrait de l'acte de tutelle.
+
+En outre, lorsque la pension est demandée au titre des troisième et quatrième alinéas de l'article L. 40, est exigé le
+procès-verbal de la commission de réforme ou de la commission consultative médicale accompagné des pièces médicales et
+administratives produites à cet organisme établissant que l'orphelin était atteint, au jour du décès de son parent ou avant
+sa vingt et unième année révolue, d'une infirmité permanente le mettant dans l'impossibilité de gagner sa vie.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2003-1309 du 26 décembre 2003 - art. 16 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
+
+	**Cite**:
+
+	  - Code des pensions civiles et militaires de retrait - art. L40 (M)
+
+	**Codifié par**:
+
+	  - Décret n°66-810 1966-10-28
+
+
+###### Article D25
+
+Par dérogation aux dispositions des articles 9 et 11 du décret n° 62-921 du 3 août 1962, les services de pensions des
+administrations de l'Etat sont habilités à se faire délivrer une copie intégrale des actes de naissance ou des extraits
+d'actes de naissance comportant la filiation et toutes les mentions marginales relatives à la situation de la personne.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°62-921 du 3 août 1962 - art. 11 (M)
+	  - Décret n°62-921 du 3 août 1962 - art. 9 (M)
+
+	**Modifié par**:
+
+	  - Décret n°2003-1309 du 26 décembre 2003 - art. 17 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
+
+	**Codifié par**:
+
+	  - Décret n°66-810 1966-10-28
+
+
+###### Article D26
+
+Pour bénéficier de la majoration pour enfants mentionnée à l'article L. 18, le demandeur doit souscrire une déclaration par
+laquelle il désigne nominativement les enfants au titre desquels il sollicite la majoration et atteste les avoir élevés dans
+les conditions fixées par ce texte. Indépendamment des justifications prévues à l'article D. 16, sont exigées, si elles n'ont
+pas déjà été produites :
+
+1° Pour les enfants adoptifs, une photocopie de l'acte ou du jugement d'adoption ou du jugement de légitimation adoptive ou
+du jugement d'adoption plénière ;
+
+2° Pour les enfants ayant fait l'objet d'une délégation de l'autorité parentale, une photocopie du jugement de délégation ;
+
+3° Pour les enfants sous tutelle, une photocopie de l'acte de tutelle ;
+
+4° Pour les enfants décédés par faits de guerre, une photocopie du livret de famille comportant la mention par les services
+de l'état civil du décès de l'enfant ou une copie de l'acte de décès ;
+
+Sont considérés comme décédés par faits de guerre ceux dont l'acte de décès porte la mention Mort pour la France ainsi que
+ceux décédés dans des circonstances qualifiées faits de guerre, conformément aux dispositions des articles L. 193 et suivants
+du code des pensions militaires d'invalidité.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2003-1309 du 26 décembre 2003 - art. 18 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
+
+	**Cite**:
+
+	  - Code des pensions civiles et militaires de retrait - art. D16 (M)
+	  - Code des pensions civiles et militaires de retrait - art. L18 (M)
+	  - Code des pensions militaires d'invalidité et des v - art. L193 (V)
 
 	**Codifié par**:
 
@@ -9484,105 +9056,18 @@ directeur dont ils relèvent et du directeur de la comptabilité publique.
 
 ###### Article D30
 
-Lorsqu'un bénéficiaire du présent code vient à quitter le service pour quelque cause que ce soit sans avoir droit à une
-pension à jouissance immédiate ou différée et sans devenir tributaire d'un des régimes de retraite des administrations
-mentionnées à l'article L. 5 (3°, 4° et 5°), ses droits sont rétablis, en ce qui concerne l'assurance vieillesse, dans la
-situation dont il aurait bénéficié sous le régime général des assurances sociales si ce régime lui avait été applicable
-durant la période où il a été soumis au présent régime postérieurement au 30 juin 1930. Cette période entre en compte, quel
-qu'ait été le montant de sa rémunération, pour la détermination de ses droits aux avantages prévus par le régime général des
-assurances sociales en matière d'assurance vieillesse.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Code des pensions civiles et militaires de retrait - art. D31 (Ab)
-
-	**Cite**:
-
-	  - Code des pensions civiles et militaires de retrait - art. L5 (M)
-
-	**Codifié par**:
-
-	  - Décret n°66-810 1966-10-28
-
-
-###### Article D31
-
-A cet effet, il est opéré à la charge de l'Etat un versement égal au montant des cotisations qui auraient été acquittées pour
-le compte de l'intéressé au titre de l'assurance vieillesse sous le régime général des assurances sociales pendant la période
-indiquée à l'article D. 30. Ce versement est calculé sur la base des derniers émoluments soumis à retenue pour pension au
-titre du présent code, compte tenu du ou des plafonds prévus pour le calcul des cotisations de sécurité sociale au cours de
-la période susindiquée. Il doit être effectué à la caisse primaire de sécurité sociale du dernier lieu de travail du
-bénéficiaire, dans un délai d'un an à compter de la radiation des cadres.
-
-Toutefois, en ce qui concerne les militaires tributaires du présent code, il est effectué chaque année au profit de la caisse
-nationale de sécurité sociale un versement forfaitaire pour l'ensemble des militaires ayant quitté l'armée sans droit à
-pension au cours de l'année civile précédente. Le montant de ce versement est fixé annuellement par décision concertée du
-ministre du travail, du ministre des armées et du ministre des finances, compte tenu du montant moyen de la solde des
-militaires quittant l'armée sans droit à pension.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Décret n°2003-1309 du 26 décembre 2003 - art. 27 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
-
-	**Cite**:
-
-	  - Code des pensions civiles et militaires de retrait - art. D30 (M)
-
-	**Codifié par**:
-
-	  - Décret n°66-810 1966-10-28
-
-
-###### Article D32
-
-Le bénéficiaire d'une pension à jouissance immédiate ou différée allouée au titre du présent code peut prétendre, s'il a en
-outre été affilié au régime général des assurances sociales, aux avantages de vieillesse prévus par ledit régime.
+Les modalités d'application du premier alinéa de l'article L. 65 sont fixées par les articles D. 173-16 et D. 173-17 du code
+de la sécurité sociale.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°79-82 1979-01-15 art. 9 JORF 30 janvier 1979
-
-	**Codifié par**:
-
-	  - Décret n°66-810 1966-10-28
-
-
-###### Article D33
-
-Les titulaires d'une pension acquise au titre du présent code ont droit ou ouvrent droit aux avantages prévus par le titre
-Ier du livre VII du code de la sécurité sociale dans les conditions ci-après fixées :
-
-S'ils sont titulaires :
-
-a) Soit d'une pension acquise pour une durée de services au moins égale à quinze années ;
-
-b) Soit d'une pension acquise pour des services accomplis après l'âge de cinquante ans et d'une durée au moins égale à celle
-fixée par les articles L. 614 et L. 615 du code de la sécurité sociale ;
-
-c) Soit d'une pension acquise au titre de l'invalidité,
-
-ils reçoivent à l'âge de soixante-cinq ans (ou de soixante ans s'ils sont reconnus inaptes au travail dans les conditions
-fixées à l'article L. 623 du code de la sécurité sociale) l'allocation et les avantages complémentaires prévus aux articles
-L. 624 et L. 625 du même code.
-
-Cette allocation est réversible au profit de la veuve à charge dans les conditions prévues par l'article L. 628 du code de la
-sécurité sociale.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Décret n°2003-1309 du 26 décembre 2003 - art. 27 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
+	  - Décret n°2003-1309 du 26 décembre 2003 - art. 19 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
 
 	**Cité par**:
 
-	  - Code des pensions civiles et militaires de retrait - art. D34 (Ab)
+	  - Code des pensions civiles et militaires de retrait - art. D31 (Ab)
 
 	**Codifié par**:
 
@@ -9590,123 +9075,20 @@ sécurité sociale.
 
 	**Cite**:
 
-	  - Code de la sécurité sociale L614, L615, L623, L624, L625 et L628
+	  - Code de la sécurité sociale. - art. D173-16 (M)
+	  - Code de la sécurité sociale. - art. D173-17 (V)
 
 
-###### Article D34
+###### Article D32
 
-Les intéressés qui ne satisfont pas aux prescriptions de l'article D. 33 ne peuvent prétendre à l'allocation aux vieux
-travailleurs que s'ils remplissent les conditions fixées aux articles L. 614, L. 615 et L. 630 du code de la sécurité
-sociale.
-
-A cet effet, les années de services accomplies sous le régime du présent code sont assimilées à des années ayant donné lieu
-au versement de la double contribution des assurances sociales.
-
-Le taux de l'allocation attribuée aux intéressés est fixé conformément aux dispositions des articles L. 624 et L. 625 du code
-précité.
-
-En cas de décès du titulaire d'une allocation liquidée en application du présent article, la veuve à charge reçoit un secours
-viager dans les conditions prévues par l'article L. 628 du même code.
+Le bénéficiaire d'une pension allouée au titre du présent code peut prétendre, s'il a en outre été affilié au régime général
+des assurances sociales, aux avantages de vieillesse prévus par ledit régime.
 
 **Liens relatifs à cet article**
 
-	**Abrogé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-1309 du 26 décembre 2003 - art. 27 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
-
-	**Cite**:
-
-	  - Code des pensions civiles et militaires de retrait - art. D33 (Ab)
-	  - Code de la sécurité sociale L614, L615, L624, L625, L628 et L630
-
-	**Codifié par**:
-
-	  - Décret n°66-810 1966-10-28
-
-
-###### Article D35
-
-Le montant total de la pension accordée à un vieux travailleur au titre du présent code est imputé sur le montant de
-l'allocation et des avantages complémentaires auxquels il peut prétendre en application des dispositions des articles D. 33
-et D. 34.
-
-Le montant de la pension de réversion à laquelle la veuve peut prétendre au titre du présent code est imputé sur le montant
-de l'allocation ou du secours viager et des avantages complémentaires auxquels elle peut prétendre en application des mêmes
-dispositions.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Décret n°2003-1309 du 26 décembre 2003 - art. 27 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
-
-	**Cite**:
-
-	  - Code des pensions civiles et militaires de retraite D33 et D34
-
-	**Codifié par**:
-
-	  - Décret n°66-810 1966-10-28
-
-
-###### Article D36
-
-La charge de l'allocation et des avantages complémentaires dus dans les conditions fixées par l'article D. 33 (2e alinéa)
-incombe au Trésor, sauf s'il s'agit d'un ancien assuré du régime général ou d'un ancien assuré des retraites ouvrières et
-paysannes, auquel cas l'allocation est à la charge du régime général de la sécurité sociale.
-
-Les charges résultant de l'application de l'article D. 34 incombent au régime général de la sécurité sociale.
-
-La charge de l'allocation et des avantages complémentaires dus, le cas échéant, à la veuve de l'intéressé en application des
-articles D. 33 et D. 34 incombe au régime qui était responsable de l'allocation allouée au défunt.
-
-Toutefois, dans le cas où la veuve ne peut prétendre à pension au titre du régime du présent code, la charge est couverte
-dans les conditions prévues au deuxième alinéa du présent article.
-
-Lorsque la charge de l'allocation incombe au Trésor, la détermination des droits du requérant est effectuée par la caisse
-régionale d'assurance vieillesse des travailleurs salariés dans la circonscription de laquelle réside l'intéressé.
-Notification en est faite au comptable supérieur du Trésor assignataire de la pension, qui assure le paiement des avantages
-auxquels l'intéressé peut prétendre en application des articles D. 33 à D. 35.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Décret n°2003-1309 du 26 décembre 2003 - art. 27 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
-
-	**Cite**:
-
-	  - Code des pensions civiles et militaires de retraite D33 al. 2, D34 et D35
-
-	**Codifié par**:
-
-	  - Décret n°66-810 1966-10-28
-
-
-## Livre II : Dispositions particulières du régime général des retraites.
-
-### Titre Ier : Droits spéciaux aux fonctionnaires civils anciens combattants et victimes de la guerre et à leurs ayants cause.
-
-#### Chapitre Ier : Fonctionnaires civils anciens combattants.
-
-###### Article D37
-
-Pour la constitution du droit à pension et pour la liquidation, sont assimilées au temps de présence effectué dans le grade
-ou emploi dans les territoires et pays d'outre-mer les périodes de services militaires accomplies par les fonctionnaires
-tributaires du présent code et relevant de l'ancien ministère de la France d'outre-mer lorsque, en temps de guerre, ils ont
-été rappelés sous les drapeaux ou se sont engagés pour la durée de la guerre. Il en est de même du temps durant lequel ils
-auraient été prisonniers de guerre.
-
-La même règle est applicable aux veuves et orphelins desdits fonctionnaires.
-
-Le mode exceptionnel de décompte prévu au premier alinéa du présent article cesse toutefois d'être appliqué si les intéressés
-ont obtenu une pension à l'occasion desdits services militaires.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Décret n°2003-1309 du 26 décembre 2003 - art. 27 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
+	  - Décret n°2003-1309 du 26 décembre 2003 - art. 20 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
 
 	**Codifié par**:
 
@@ -9721,9 +9103,13 @@ ont obtenu une pension à l'occasion desdits services militaires.
 
 ###### Article D39
 
-La solde de réserve visée à l'article L. 51 est payée mensuellement par le ministre des armées.
+La solde de réserve visée à l'article L. 51 est payée mensuellement par le ministre de la défense.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2003-1309 du 26 décembre 2003 - art. 21 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
 
 	**Cite**:
 
@@ -9767,14 +9153,13 @@ remet au comptable assignataire :
 seing privé, il doit être signé, désigner le mandataire par ses nom, prénoms et adresse et indiquer expressément qu'il a pour
 effet d'autoriser la perception par le mandataire des arrérages de la pension dont la nature et le numéro sont précisés ;
 
-- soit un certificat d'un modèle fixé par arrêté du ministre de l'économie, des finances et du budget délivré sans frais par
-le maire de la commune où réside le mandant et constatant que ce dernier donne procuration à l'effet d'encaisser les
-arrérages ; ce certificat peut être délivré par un notaire.
+- soit un certificat d'un modèle fixé par arrêté du ministre chargé du budget délivré sans frais par le maire de la commune
+où réside le mandant et constatant que ce dernier donne procuration à l'effet d'encaisser les arrérages ; ce certificat peut
+être délivré par un notaire.
 
 Le mandataire doit, lorsque le comptable lui en fait la demande, justifier de l'existence du mandant soit par une fiche
 d'état civil, soit par un certificat de vie délivré par un notaire ou, à l'étranger, par une autorité consulaire française,
-soit par la présentation du livret de famille du pensionné ou de son représentant légal, soit enfin par toute autre pièce de
-nature à prouver cette existence.
+soit enfin par toute autre pièce de nature à prouver cette existence.
 
 Il doit signaler immédiatement au comptable le décès de son mandant.
 
@@ -9782,7 +9167,7 @@ Il doit signaler immédiatement au comptable le décès de son mandant.
 
 	**Modifié par**:
 
-	  - Décret n°86-112 1986-01-23 art. 4 JORF 26 janvier 1986
+	  - Décret n°2003-1309 du 26 décembre 2003 - art. 22 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
 
 	**Cité par**:
 
@@ -9811,7 +9196,7 @@ légal par le comptable français chargé du paiement ou par un consul de France
 
 ###### Article D47
 
-Des arrêtés du ministre de l'économie, des finances et du budget déterminent notamment :
+Le ministre chargé du budget détermine :
 
 1° Les comptables publics qui participent au paiement des pensions ;
 
@@ -9826,7 +9211,7 @@ pension, comme en cas de perte, destruction ou soustraction des titres de paieme
 
 	**Modifié par**:
 
-	  - Décret n°86-112 1986-01-23 art. 6 JORF 26 janvier 1986
+	  - Décret n°2003-1309 du 26 décembre 2003 - art. 23 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
 
 	**Codifié par**:
 
@@ -9837,17 +9222,15 @@ pension, comme en cas de perte, destruction ou soustraction des titres de paieme
 
 ###### Article D53
 
-La cotisation de sécurité sociale à la charge des fonctionnaires et militaires retraités ou de leurs veuves titulaires d'une
-pension de réversion, bénéficiaires du régime de sécurité sociale institué par le décret n° 46-2971 du 31 décembre 1946 ou du
-régime de sécurité sociale institué par la loi n° 49-489 du 12 avril 1949, est précomptée sur les arrérages des pensions
-servies aux intéressés, qui sont payés pour le net.
+Les sommes dues par les fonctionnaires et militaires retraités ou les titulaires d'une pension de réversion au titre de la
+contribution sociale généralisée, de la contribution pour le remboursement de la dette sociale et de la cotisation
+d'assurance maladie, sont précomptées sur les arrérages des pensions servies aux intéressés, qui sont payés pour le net.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Décret n°46-2971 1946-12-31
-	  - Loi n°49-489 1949-04-12
+	  - Décret n°2003-1309 du 26 décembre 2003 - art. 24 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
 
 	**Cité par**:
 
@@ -9860,25 +9243,15 @@ servies aux intéressés, qui sont payés pour le net.
 
 ###### Article D54
 
-Le produit de la cotisation de sécurité sociale visée à l'article précédent et de la cotisation à la charge de l'Etat est
-ordonnancé en fin de trimestre par le ministre des finances au profit de la caisse nationale de sécurité sociale ou de la
-caisse nationale militaire de sécurité sociale, suivant le cas, par imputation sur les crédits des chapitres de la dette
-viagère. Ce produit est calculé globalement en appliquant le taux de la cotisation de sécurité sociale en vigueur au premier
-jour du trimestre considéré au montant des crédits destinés à faire face, pendant ledit trimestre, au paiement des arrérages
-de pensions passibles de la retenue.
-
-Ce montant est préalablement réduit pour tenir compte du fait que certaines pensions sont en tout ou partie exemptes de la
-cotisation, notamment par l'effet du plafond d'assujettissement à la sécurité sociale. 
-
-Les sommes versées dans les conditions prévues à l'alinéa précédent au titre d'une année déterminée pourront faire l'objet
-d'une révision lors de la publication du compte général de l'administration des finances concernant ladite année, d'après les
-paiements d'arrérages réellement constatés en dépense.
+Les sommes précomptées en application de l'article D. 53 sont versées mensuellement par le ministre chargé du budget à
+l'Agence centrale des organismes de sécurité sociale ou à la Caisse nationale militaire de sécurité sociale, selon le cas,
+par imputation sur les crédits du chapitre relatif aux pensions.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°79-82 1979-01-15 art. 10 JORF 30 janvier 1979
+	  - Décret n°2003-1309 du 26 décembre 2003 - art. 25 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
 
 	**Cite**:
 
@@ -9887,27 +9260,6 @@ paiements d'arrérages réellement constatés en dépense.
 	**Cité par**:
 
 	  - Code des pensions civiles et militaires de retrait - art. D55 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°66-810 1966-10-28
-
-
-###### Article D55
-
-Le montant des cotisations de sécurité sociale versé à la caisse nationale de sécurité sociale, dans les conditions précisées
-à l'article précédent, est réparti entre les caisses primaires de sécurité sociale selon des modalités qui sont fixées par
-arrêté du ministre des affaires sociales et du ministre des finances.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Décret n°2003-1309 du 26 décembre 2003 - art. 27 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
-
-	**Cite**:
-
-	  - Code des pensions civiles et militaires de retrait - art. D54 (M)
 
 	**Codifié par**:
 
@@ -9942,498 +9294,18 @@ Les avances visées aux articles R. 101 à R. 104 sont payées sans ordonnanceme
 financier par les comptables du Trésor assignataires ; les dépenses correspondantes sont imputées par ces comptables aux
 chapitres ouverts au budget pour le service des pensions auxquelles elles se rapportent.
 
+Lorsqu'il attribue des avances, le département ministériel compétent adresse immédiatement une copie de sa décision au
+service des pensions du ministère chargé du budget.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°86-112 1986-01-23 art. 8 JORF 26 janvier 1986
+	  - Décret n°2003-1309 du 26 décembre 2003 - art. 26 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
 
 	**Cite**:
 
 	  - Code des pensions civiles et militaires de retraite R101 à R104
-
-	**Codifié par**:
-
-	  - Décret n°66-810 1966-10-28
-
-
-### Chapitre III : Avances mensuelles sur pensions concédées en paiement.
-
-#### Paragraphe Ier : Demande et autorisation de paiement d'avances.
-
-###### Article D59
-
-Le pensionné qui veut obtenir de l'un des établissements visés à l'article R. 105 des avances sur les arrérages de la pension
-dont il est titulaire doit y déposer une demande contenant ses nom et prénoms, son adresse, la nature et le numéro de sa
-pension, les dates d'échéance et le lieu d'assignation de paiement. Il indique en outre s'il entend recevoir des avances au
-cours de chaque trimestre ou seulement sur les arrérages du trimestre en cours.
-
-Lors du dépôt de la demande, le certificat d'inscription doit être présenté au préposé de l'établissement pour lui permettre
-tout rapprochement ou vérification utile.
-
-Lorsque la partie déclare qu'elle ne sait ou ne peut signer, il en est fait mention sur la demande par le préposé de
-l'établissement.
-
-Si le pensionné ou son représentant légal se trouve dans l'impossibilité de se déplacer, la demande peut être présentée par
-un tiers muni du certificat d'inscription et porteur d'une autorisation signée par l'intéressé ; si celui-ci ne sait ou ne
-peut signer, l'autorisation doit être certifiée par le maire ou le commissaire de police de la commune de sa résidence. Il
-est fait mention sur la demande des motifs qui empêchent l'intéressé de se présenter lui-même. La personne autorisée à se
-présenter doit indiquer ses nom et prénoms, sa profession et son adresse et, si elle n'est pas connue, justifier de son
-identité.
-
-La demande est transmise au comptable supérieur du Trésor assignataire de la pension.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Décret n°2003-1309 du 26 décembre 2003 - art. 27 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
-
-	**Cité par**:
-
-	  - Code des pensions civiles et militaires de retrait - art. D64 (Ab)
-	  - Code des pensions civiles et militaires de retrait - art. D65 (Ab)
-
-	**Cite**:
-
-	  - Code des pensions civiles et militaires de retraite R105
-
-	**Codifié par**:
-
-	  - Décret n°66-810 1966-10-28
-
-
-###### Article D60
-
-Dès réception de la demande, le comptable supérieur du Trésor assignataire vérifie les indications qui y sont contenues et,
-si rien ne s'y oppose, envoie immédiatement à l'établissement qui en a reçu le dépôt une fiche spéciale portant autorisation
-de paiement d'avances égales chacune à un mois entier d'arrérages arrondis au franc inférieur et dont est déduit le montant
-de la commission fixée à l'article R. 105 (2e alinéa).
-
-A partir de ce moment le comptable supérieur du Trésor assignataire ne peut effectuer le paiement de la pension ni l'assigner
-sur une autre caisse qu'après le renvoi, par l'établissement, de la fiche spéciale portant une mention d'annulation.
-
-En cas d'opposition, retenue, suspension de paiement, radiation, réunion, majoration ou modification quelconque du titre de
-paiement, le comptable supérieur du Trésor assignataire réclame immédiatement le renvoi de la fiche spéciale. Il adresse,
-s'il y a lieu, à l'établissement, soit la fiche rectifiée, soit une nouvelle fiche sur laquelle sont rappelées, le cas
-échéant, les avances faites sur les arrérages du trimestre en cours.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Décret n°2003-1309 du 26 décembre 2003 - art. 27 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
-
-	**Cite**:
-
-	  - Code des pensions civiles et militaires de retraite R105 al. 2
-
-	**Codifié par**:
-
-	  - Décret n°66-810 1966-10-28
-
-
-###### Article D61
-
-Lorsqu'un pensionné ne doit pas continuer à recevoir des avances, soit que sa demande ait été limitée à un trimestre, soit
-qu'il ait déclaré renoncer à la faculté de recevoir des avances, le préposé de l'établissement attend le paiement du solde du
-trimestre pour envoyer la fiche spéciale, annotée en conséquence, au comptable supérieur du Trésor assignataire qui l'a
-délivrée.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Décret n°2003-1309 du 26 décembre 2003 - art. 27 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
-
-	**Codifié par**:
-
-	  - Décret n°66-810 1966-10-28
-
-
-#### Paragraphe II : Paiement des avances.
-
-###### Article D62
-
-Le pensionné qui se présente pour toucher une avance doit être porteur de son certificat d'inscription et, s'il y a lieu, des
-autres documents nécessaires au paiement.
-
-Lors du paiement de la première avance, il doit apposer sa signature sur la fiche spéciale à son nom. S'il ne sait ou ne peut
-signer, il en est fait mention sur cette fiche.
-
-Pour chaque paiement, le pensionné souscrit une quittance du montant de la somme versée, augmentée de la commission dont la
-retenue est opérée par application de l'article R. 105. Le préposé s'assure que la signature de la partie prenante est
-conforme à celle dont est revêtue la fiche spéciale correspondante ; il fait mention du paiement sur la fiche spéciale.
-Aucune indication n'est portée sur le certificat d'inscription.
-
-Lorsque le titulaire de la pension ne sait ou ne peut signer, il en est fait mention sur la quittance ; le paiement est
-effectué, quel qu'en soit le montant, en présence de deux témoins connus ou justifiant de leur identité, qui indiquent leurs
-nom, prénoms, profession et domicile.
-
-Dans tous les cas où le titulaire de la pension ne peut se présenter en personne, il doit remettre une autorisation
-d'encaisser signée de lui à une tierce personne chargée de donner quittance en son lieu et place. S'il ne sait ou ne peut
-signer, l'autorisation d'encaisser doit être certifiée par le maire ou le commissaire de police de la commune de sa
-résidence.
-
-Les quittances afférentes aux avances successives sont dispensées du timbre, conformément à l'article 1269 du code général
-des impôts.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - CGI 1269
-	  - Code des pensions civiles et militaires de retraite R105
-
-	**Modifié par**:
-
-	  - Décret n°86-112 1986-01-23 art. 9 JORF 26 janvier 1986
-
-	**Abrogé par**:
-
-	  - Décret n°2003-1309 du 26 décembre 2003 - art. 27 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
-
-	**Codifié par**:
-
-	  - Décret n°66-810 1966-10-28
-
-
-#### Paragraphe III : Paiement du solde du trimestre.
-
-###### Article D63
-
-L'établissement qui a fait une ou deux avances à un pensionné sur les arrérages d'un trimestre paie le solde de ce trimestre,
-à l'échéance, au vu du certificat d'inscription et, s'il y a lieu, des autres documents nécessaires au paiement.
-
-Le préposé de l'établissement détermine la somme restant à payer au pensionné sur le trimestre échu, après déduction des
-avances faites. L'acquit est donné pour le montant total des arrérages du trimestre.
-
-Le paiement du solde ne donne lieu à la perception d'aucun droit de commission.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°86-112 1986-01-23 art. 10 JORF 26 janvier 1986
-
-	**Abrogé par**:
-
-	  - Décret n°2003-1309 du 26 décembre 2003 - art. 27 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
-
-	**Cité par**:
-
-	  - Code des pensions civiles et militaires de retrait - art. D76 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°66-810 1966-10-28
-
-
-###### Article D64
-
-Lorsque le pensionné admis à recevoir des avances n'en a touché aucune au cours d'un trimestre, l'établissement lui paie
-néanmoins, dans les conditions indiquées ci-dessus, l'intégralité des arrérages du trimestre s'il se présente avant
-l'expiration du mois qui suit celui de l'échéance du trimestre. Passé ce délai, la fiche spéciale est renvoyée dûment annotée
-au comptable supérieur du Trésor assignataire.
-
-Dans le cas où un pensionné s'abstiendrait, pendant deux trimestres consécutifs, de toucher des avances, la fiche spéciale
-serait renvoyée au comptable supérieur du Trésor assignataire dès la fin du deuxième trimestre et ce pensionné ne pourrait
-obtenir de nouvelles avances qu'après l'accomplissement des formalités prévues à l'article D. 59.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Décret n°2003-1309 du 26 décembre 2003 - art. 27 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
-
-	**Cite**:
-
-	  - Code des pensions civiles et militaires de retrait - art. D59 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°66-810 1966-10-28
-
-
-###### Article D65
-
-Si le pensionné qui a touché des avances dans un établissement ne se présente pas pour retirer le solde des arrérages
-[*délai*] avant l'expiration du mois qui suit celui de l'échéance du trimestre, la fiche spéciale, dûment annotée, est
-renvoyée au comptable supérieur assignataire, qui a seul qualité pour autoriser le paiement dudit solde.
-
-Les quittances relatives aux avances restées en suspens sont versées à ce comptable qui en rembourse le montant à
-l'établissement.
-
-Si le pensionné veut obtenir ultérieurement d'autres avances, il doit formuler une nouvelle demande dans les conditions
-prévues à l'article D. 59.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°86-112 1986-01-23 art. 11 JORF 26 janvier 1986
-
-	**Abrogé par**:
-
-	  - Décret n°2003-1309 du 26 décembre 2003 - art. 27 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
-
-	**Cite**:
-
-	  - Code des pensions civiles et militaires de retrait - art. D59 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°66-810 1966-10-28
-
-
-###### Article D66
-
-Lorsque le titulaire de la pension est décédé, le paiement des sommes restant dues aux héritiers ne peut être effectué que
-sur ordre du comptable supérieur assignataire ; la fiche spéciale est renvoyée à ce comptable alors même que des avances
-auraient été faites au cours du trimestre.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Décret n°2003-1309 du 26 décembre 2003 - art. 27 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
-
-	**Codifié par**:
-
-	  - Décret n°66-810 1966-10-28
-
-
-###### Article D67
-
-Les dépenses afférentes aux remboursements faits à l'administration des postes et télécommunications et aux caisses de crédit
-municipal sont supportées par les crédits ouverts au budget de l'Etat pour le service des pensions auxquelles elles se
-rapportent. Il en est de même du montant des avances qu'il y a lieu de rembourser aux établissements, lorsque, sans qu'il y
-ait eu faute de leur part, ils ont consenti des avances sur une pension dont les arrérages n'étaient pas payables à
-l'échéance.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Décret n°2003-1309 du 26 décembre 2003 - art. 27 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
-
-	**Codifié par**:
-
-	  - Décret n°66-810 1966-10-28
-
-
-#### Paragraphe IV : Dispositions particulières à la Caisse nationale d'épargne.
-
-###### Article D68
-
-Les bureaux de poste effectuent pour le compte de la caisse nationale d'épargne les avances mensuelles et pour le compte du
-Trésor le paiement du solde des arrérages trimestriels échus.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Décret n°2003-1309 du 26 décembre 2003 - art. 27 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
-
-	**Codifié par**:
-
-	  - Décret n°66-810 1966-10-28
-
-
-###### Article D69
-
-Les pièces de dépense afférentes aux pensions ayant donné lieu à avance, portant l'acquit des pensionnés, sont versées par le
-chef du centre régional de comptabilité des postes et télécommunications au comptable du Trésor assignataire. Il en est de
-même des quittances d'avances afférentes à des pensions dont le solde trimestriel n'a pas été payé.
-
-**Nota:**
-
-[* Les mots " chef d'établissement " sont substitués à ceux de : " receveur " ou " chef de centre ", par l'article 1er du
-décret n° 91-70 du 17 janvier 1991. *]
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°86-112 1986-01-23 art. 12 JORF 26 janvier 1986
-
-	**Abrogé par**:
-
-	  - Décret n°2003-1309 du 26 décembre 2003 - art. 27 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
-
-	**Codifié par**:
-
-	  - Décret n°66-810 1966-10-28
-
-
-###### Article D70
-
-Les opérations relatives aux avances sur pensions effectuées par les bureaux de poste sont centralisées par l'agent comptable
-de la caisse nationale d'épargne, qui retrace dans des comptes distincts, d'une part, le montant des avances faites et des
-avances remboursées et, d'autre part, le montant des commissions acquises au budget des postes et télécommunications.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Décret n°2003-1309 du 26 décembre 2003 - art. 27 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
-
-	**Codifié par**:
-
-	  - Décret n°66-810 1966-10-28
-
-
-###### Article D71
-
-Il est établi chaque mois, par l'agent comptable de la caisse nationale d'épargne, un état récapitulatif des avances faites
-et des avances remboursées. Cet état fait ressortir séparément le montant des commissions perçues.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Décret n°2003-1309 du 26 décembre 2003 - art. 27 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
-
-	**Codifié par**:
-
-	  - Décret n°66-810 1966-10-28
-
-
-###### Article D72
-
-La caisse nationale d'épargne produit mensuellement à la caisse des dépôts et consignations les relevés de son compte
-concernant les avances sur pensions faites, les avances sur pensions remboursées et les droits perçus.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Décret n°2003-1309 du 26 décembre 2003 - art. 27 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
-
-	**Codifié par**:
-
-	  - Décret n°66-810 1966-10-28
-
-
-#### Paragraphe V : Dispositions particulières aux caisses de crédit municipal.
-
-###### Article D73
-
-Le service des avances sur pensions est effectué par les caisses de crédit municipal conformément aux règles qui leur sont
-propres, dans la mesure où elles ne sont pas contraires aux dispositions du présent code.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Décret n°2003-1309 du 26 décembre 2003 - art. 27 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
-
-	**Codifié par**:
-
-	  - Décret n°66-810 1966-10-28
-
-
-###### Article D74
-
-Lorsqu'une caisse de crédit municipal a l'intention de faire des avances sur pensions, le directeur en informe le comptable
-supérieur du Trésor chargé du service des pensions payables dans le ressort de la caisse, en lui adressant une copie de la
-délibération du conseil d'administration.
-
-Si la caisse de crédit municipal décide, par la suite, de ne plus assurer ce service, le directeur le fait savoir, dans les
-mêmes conditions, au comptable supérieur du Trésor ; la caisse de crédit municipal avise les pensionnés intéressés que, pour
-les trimestres suivants, elle cessera de leur consentir des avances, mais elle reste tenue de liquider les opérations en
-cours.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Décret n°2003-1309 du 26 décembre 2003 - art. 27 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
-
-	**Codifié par**:
-
-	  - Décret n°66-810 1966-10-28
-
-
-###### Article D75
-
-Les caisses de crédit municipal font face, au moyen de l'ensemble des fonds dont elles disposent :
-
-- pour leur propre compte, au paiement des avances sur pensions ;
-
-- pour le compte du Trésor, au paiement du solde des arrérages de pensions.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Décret n°2003-1309 du 26 décembre 2003 - art. 27 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
-
-	**Codifié par**:
-
-	  - Décret n°66-810 1966-10-28
-
-
-###### Article D76
-
-Le solde des arrérages trimestriels est payé dans les conditions prévues à l'article D. 63.
-
-Les caisses du crédit municipal versent au comptable du Trésor assignataire les pièces de dépense portant l'acquit des
-pensionnés, y compris les quittances d'avances afférentes à des avances sur pensions dont ils n'ont pas payé le solde, après
-les avoir récapitulées sur un bordereau spécial.
-
-Sur le vu des justifications et après vérification, les sommes payées par les caisses de crédit municipal, à titre d'avances
-ou de solde, leur sont remboursées par le comptable assignataire, qui crédite leur compte et leur en donne avis.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°86-112 1986-01-23 art. 13 JORF 26 janvier 1986
-
-	**Abrogé par**:
-
-	  - Décret n°2003-1309 du 26 décembre 2003 - art. 27 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
-
-	**Cite**:
-
-	  - Code des pensions civiles et militaires de retrait - art. D63 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°66-810 1966-10-28
-
-
-###### Article D77
-
-Dans le cas prévu à l'article D. 62 (4e alinéa), les caisses de crédit municipal ont la faculté d'appliquer leurs règlements
-spéciaux.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Décret n°2003-1309 du 26 décembre 2003 - art. 27 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
-
-	**Cite**:
-
-	  - Code des pensions civiles et militaires de retraite D62 al. 4
-
-	**Codifié par**:
-
-	  - Décret n°66-810 1966-10-28
-
-
-###### Article D78
-
-Les caisses de crédit municipal jouissent de la franchise postale dans leurs rapports avec les comptables du Trésor pour ce
-qui concerne le service des avances sur pensions.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Décret n°2003-1309 du 26 décembre 2003 - art. 27 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
 
 	**Codifié par**:
 
