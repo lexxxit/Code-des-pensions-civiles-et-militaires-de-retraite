@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 1982-07-14
+Version Consolidée au 1983-04-01
 
 # Partie législative
 
@@ -4782,6 +4782,52 @@ subséquents.
 	**Modifié par**:
 
 	  - Loi n°70-1283 1970-12-31 art. 22 II JORF 31 décembre 1970
+
+
+###### Article L86-1
+
+Le paiement d'une pension civile ou militaire de retraite concédée à compter de l'âge de soixante ans ou plus, et
+postérieurement au 31 mars 1983, est subordonné, pour le bénéficiaire, à la cessation définitive de toute activité dans la
+collectivité publique, au sens de l'article L. 84, auprès de laquelle il était affecté en dernier lieu, antérieurement à la
+date d'entrée en jouissance de sa pension.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance n°82-290 du 30 mars 1982 - art. 6 (T)
+
+	**Cité par**:
+
+	  - Loi n°83-634 du 13 juillet 1983 - art. 20 (V)
+	  - Loi n°84-834 du 13 septembre 1984 - art. 4 (Ab)
+	  - Loi n°85-1376 du 23 décembre 1985 - art. 11 (V)
+	  - Décret n°2003-1306 du 26 décembre 2003 - art. 58 (V)
+	  - Décret n°2003-1306 du 26 décembre 2003 - art. 8 (V)
+	  - Décret n°2004-1056 du 5 octobre 2004 - art. 4 (V)
+	  - Décret n°2004-1056 du 5 octobre 2004 - art. 48 (V)
+	  - Décret n°2005-764 du 8 juillet 2005 - art. 5 (V)
+	  - Décret n°2005-1525 du 8 décembre 2005 - art. 7 (V)
+	  - Décret n°2006-933 du 28 juillet 2006 - art. 12 (V)
+	  - Décret n°2007-1807 du 21 décembre 2007 - art. 5 (V)
+	  - Décret n°2008-939 du 12 septembre 2008 - art. 13 (VD)
+	  - Décret n°2011-634 du 8 juin 2011 - art. 5 (V)
+	  - Loi n°2013-1168 du 18 décembre 2013 - art. 36 (V)
+	  - Arrêté du 21 août 2015 - art. 1 (V)
+	  - Décret n°2016-1101 du 11 août 2016 (V)
+	  - Code de l'éducation - art. L914-1-1 (V)
+	  - Code de l'éducation - art. L952-11 (V)
+	  - Code de l'éducation - art. R914-131 (V)
+	  - Code de la défense. - art. R4138-29 (V)
+	  - Code des pensions civiles et militaires de retr... - art. L84 (V)
+	  - Code des pensions civiles et militaires de retr... - art. L88 (V)
+	  - Code des pensions civiles et militaires de retrait - art. R*7 (V)
+	  - Code des pensions civiles et militaires de retrait - art. R*91 (V)
+	  - Code des pensions civiles et militaires de retrait - art. R*93 (V)
+
+	**Codifié par**:
+
+	  - Loi n°64-1339 1964-12-29
 
 
 #### Chapitre III : Cumul de plusieurs pensions.
