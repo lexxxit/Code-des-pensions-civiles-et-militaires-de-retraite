@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 1993-07-23
+Version Consolidée au 1994-03-01
 
 # Partie législative
 
@@ -5065,20 +5065,24 @@ ou de la communauté.
 
 Quiconque aura touché ou tenté de toucher les arrérages d'une pension dont il n'est pas titulaire ou pour l'encaissement de
 laquelle il n'a pas une procuration du véritable titulaire ou un mandat légal, quiconque aura fait une fausse déclaration
-pour obtenir la concession ou le paiement d'une pension, sera puni d'un emprisonnement de deux ans au moins et de cinq ans au
-plus et d'une amende qui ne pourra excéder le montant des arrérages d'une année ni être inférieure à trois cent soixante
-francs (360 F), le tout sans préjudice du remboursement des arrérages indûment touchés et de l'action civile des intéressés,
-et sans préjudice soit des peines plus graves en cas de faux ou d'autres crimes prévus et punis par les lois en vigueur, soit
-de la perte de la pension édictée par l'article L. 85 en cas de fausse déclaration relative au cumul.
+pour obtenir la concession ou le paiement d'une pension, sera puni d'un emprisonnement de cinq ans au plus et d'une amende
+qui ne pourra excéder le montant des arrérages d'une année, le tout sans préjudice du remboursement des arrérages indûment
+touchés et de l'action civile des intéressés, et sans préjudice soit des peines plus graves en cas de faux ou d'autres crimes
+prévus et punis par les lois en vigueur, soit de la perte de la pension édictée par l'article L. 85 en cas de fausse
+déclaration relative au cumul.
 
 Si le coupable est un fonctionnaire ou un officier public en activité de service au moment où la fraude a été commise, ou un
-employé travaillant dans les bureaux d'un comptable public, d'un notaire ou d'une mairie, la peine sera celle de la réclusion
-criminelle à temps de cinq à dix ans sans préjudice de l'amende.
+employé travaillant dans les bureaux d'un comptable public, d'un notaire ou d'une mairie, la peine sera celle de dix ans
+d'emprisonnement sans préjudice de l'amende.
 
-Les coupables pourront, en outre, être privés des droits mentionnés en l'article 42 du code pénal, du jour où ils auraient
-subi leur peine.
+Les coupables pourront, en outre, être privés des droits mentionnés en l'article 131-26 du code pénal, du jour où ils
+auraient subi leur peine.
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 	**Cité par**:
 
@@ -5088,7 +5092,7 @@ subi leur peine.
 	**Cite**:
 
 	  - Code des pensions civiles et militaires de retrait - art. L85 (M)
-	  - Code pénal 42
+	  - Code pénal - art. 131-26 (V)
 
 	**Codifié par**:
 
@@ -5129,13 +5133,17 @@ l'affichage du jugement et son insertion par extrait dans un ou plusieurs journa
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Code des pensions civiles et militaires de retrait - art. L96 (M)
-
 	**Codifié par**:
 
 	  - Loi n°64-1339 1964-12-29
+
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Cite**:
+
+	  - Code des pensions civiles et militaires de retrait - art. L96 (M)
 
 
 ###### Article L95
@@ -5143,8 +5151,9 @@ l'affichage du jugement et son insertion par extrait dans un ou plusieurs journa
 Sont nulles de plein droit et de nul effet les obligations contractées envers les intermédiaires qui se chargent, moyennant
 stipulation d'émoluments, d'assurer aux pensionnaires de l'Etat le bénéfice du présent code.
 
-Est passible d'une amende de 3000 F à 6000 F et, en cas de récidive d'une amende de 6000 F à 12000 F  tout intermédiaire
-convaincu d'avoir offert les services spécifiés à l'alinéa précédent.
+Est passible de l'amende prévue pour les contraventions de la 5° classe et, en cas de récidive de l'amende prévue pour les
+contraventions de la 5° classe commises en récidive, tout intermédiaire convaincu d'avoir offert les services spécifiés à
+l'alinéa précédent.
 
 **Liens relatifs à cet article**
 
@@ -5158,7 +5167,7 @@ convaincu d'avoir offert les services spécifiés à l'alinéa précédent.
 
 	**Modifié par**:
 
-	  - Loi n°89-469 du 10 juillet 1989 - art. 6 (V) JORF 11 juillet 1989 en vigueur le 1er janvier 1990
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 326 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 
 ###### Article L96
