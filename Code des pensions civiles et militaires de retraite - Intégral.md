@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 1978-03-05
+Version Consolidée au 1978-07-18
 
 # Partie législative
 
@@ -2163,6 +2163,38 @@ l'article L. 40 et de l'article L. 41.
 	  - Code des pensions civiles et militaires de retraite L38 al. 1, L40, L41 et L50
 
 
+###### Article L45
+
+Lorsque, au décès du mari, il existe plusieurs conjoints, divorcés ou survivants, ayant droit à la pension définie au premier
+alinéa de l'article L. 38, la pension est répartie entre ces conjoints au prorata de la durée respective de chaque mariage.
+
+Au décès de l'une des bénéficiaires, sa part accroîtra la part de l'autre, sauf réversion du droit au profit des enfants de
+moins de vingt et un ans.
+
+Les deux alinéas qui précèdent s'appliquent dans les mêmes conditions à la pension de réversion prévue par l'article L. 50.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°64-1339 1964-12-29
+
+	**Modifié par**:
+
+	  - Loi n°75-617 1975-07-11 art. 14 JORF 12 juillet 1975
+	  - Loi n°75-1242 du 27 décembre 1975 - art. 16 () JORF 28 décembre 1975
+	  - Loi n°78-753 1978-07-17 art. 43 II JORF 18 juillet 1978
+	  - Loi n°78-753 du 17 juillet 1978 - art. 43
+
+	**Cité par**:
+
+	  - Code des pensions civiles et militaires de retr... - art. R57 bis (V)
+
+	**Cite**:
+
+	  - Code des pensions civiles et militaires de retraite L38 al. 1 et L50
+
+
 #### Chapitre II : Militaires.
 
 ###### Article L47
@@ -3304,6 +3336,43 @@ Le cumul de deux ou plusieurs pensions acquises au titre de services rendus dans
 	**Codifié par**:
 
 	  - Loi n°64-1339 1964-12-29
+
+
+###### Article L88
+
+Le cumul par un conjoint survivant de plusieurs pensions obtenues du chef d'agents différents, au titre des régimes de
+retraites des collectivités énumérées à l'article L. 84, est interdit.
+
+Un orphelin peut cumuler les deux pensions de réversion obtenues du chef de son père et de sa mère au titre des régimes de
+retraites énumérés à l'article L. 84.
+
+Il ne peut cumuler les pensions de réversion obtenues du chef de son père légitime ou naturel et celles obtenues d'un père
+adoptif ; il ne peut cumuler les pensions de réversion obtenues du chef de sa mère légitime ou naturelle et celles obtenues
+du chef d'une mère adoptive. Toutefois, il peut opter pour la pension de réversion la plus favorable.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°50-1348 du 27 octobre 1950 - art. 17 (V)
+
+	**Codifié par**:
+
+	  - Loi n°64-1339 1964-12-29
+
+	**Modifié par**:
+
+	  - Loi n°73-1128 1973-12-21 art. 12 IV JORF 23 décembre 1973
+	  - Loi n°78-753 1978-07-17 art. 43 IV JORF JORF 18 juillet 1978
+	  - Loi n°78-753 du 17 juillet 1978 - art. 43
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°78-753 du 17 juillet 1978 - art. 44 (V)
+
+	**Cite**:
+
+	  - Code des pensions civiles et militaires de retrait - art. L84 (M)
 
 
 #### Chapitre IV : Cumul d'accessoires de pension.
