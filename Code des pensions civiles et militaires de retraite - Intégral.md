@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 1980-01-21
+Version Consolidée au 1980-06-29
 
 # Partie législative
 
@@ -7691,23 +7691,6 @@ arrêté du ministre des affaires sociales et du ministre des finances.
 	**Cite**:
 
 	  - Code des pensions civiles et militaires de retrait - art. D54 (M)
-
-	**Codifié par**:
-
-	  - Décret n°66-810 1966-10-28
-
-
-###### Article D56
-
-**Nota:**
-
-[*(Abrogé par décret n° 80-475 du 27 juin 1980, art. 2)*]
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Décret n°80-475 1980-06-27 art. 2 JORF 29 juin 1979
 
 	**Codifié par**:
 
