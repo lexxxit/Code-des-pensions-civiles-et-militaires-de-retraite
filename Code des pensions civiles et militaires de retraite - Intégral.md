@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 1999-10-23
+Version Consolidée au 2000-04-13
 
 # Partie législative
 
@@ -2864,6 +2864,13 @@ accordé en application du 4° du même article.
 Le fonctionnaire civil radié des cadres dans les conditions prévues à l'article L. 27 a droit à une rente viagère
 d'invalidité cumulable avec la pension rémunérant les services.
 
+Le droit à cette rente est également ouvert au fonctionnaire retraité qui est atteint d'une maladie professionnelle dont
+l'imputabilité au service est reconnue par la commission de réforme postérieurement à la date de la radiation des cadres,
+dans les conditions définies à l'article L. 31. Dans ce cas, la jouissance de la rente prend effet à la date du dépôt de la
+demande de l'intéressé, sans pouvoir être antérieure à la date de publication de la loi n° 2000-321 du 12 avril 2000 relative
+aux droits des citoyens dans leurs relations avec les administrations. Il en est également ainsi lorsque l'entrée en
+jouissance de la pension est différée en application de l'article L. 25 du présent code.
+
 Le montant de la rente d'invalidité est fixé à la fraction des émoluments de base visés à l'article L. 15 égale au
 pourcentage d'invalidité. Si le montant de ces émoluments de base dépasse le triple du traitement brut afférent à l'indice
 100 prévu par l'article 1er du décret n° 48-1108 du 10 juillet 1948 et les textes subséquents, la fraction dépassant cette
@@ -2880,6 +2887,10 @@ Le total de la pension et de la rente d'invalidité est élevé au montant de la
 lorsque le fonctionnaire civil est mis à la retraite à la suite d'un attentat ou d'une lutte dans l'exercice de ses fonctions
 ou d'un acte de dévouement dans un intérêt public ou pour avoir exposé ses jours pour sauver la vie d'une ou plusieurs
 personnes. Toutefois, le taux de l'invalidité rémunérable doit être au moins égal à 60 %.
+
+**Nota:**
+
+
 
 **Liens relatifs à cet article**
 
@@ -2917,6 +2928,10 @@ personnes. Toutefois, le taux de l'invalidité rémunérable doit être au moins
 	  - Code des pensions civiles et militaires de retrait - art. L33 bis (V)
 	  - Code des pensions civiles et militaires de retrait - art. R*101 (V)
 	  - Code des pensions civiles et militaires de retrait - art. R40 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2000-321 du 12 avril 2000 - art. 33 ()
 
 	**Liens**:
 
@@ -2974,13 +2989,21 @@ articles L. 28 et L. 29 ne peut être inférieur à 50 % des émoluments de base
 
 En outre, si le fonctionnaire est dans l'obligation d'avoir recours d'une manière constante à l'assistance d'une tierce
 personne pour accomplir les actes ordinaires de la vie, il a droit à une majoration spéciale dont le montant est égal au
-traitement brut afférent à l'indice réel correspondant à l'indice brut 125.
+traitement brut afférent à l'indice brut afférent à l'indice 100 prévu par l'article 1er du décret n° 48-1108 du 10 juillet
+1948. Le droit à cette majoration est également ouvert au fonctionnaire relevant du deuxième alinéa de l'article L. 28.
 
 En aucun cas, le montant total des prestations accordées au fonctionnaire invalide ne peut excéder le montant des émoluments
 de base visés à l'article L. 15. Exception est faite pour la majoration spéciale au titre de l'assistance d'une tierce
 personne qui est perçue en toutes circonstances indépendamment de ce plafond.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°48-1108 du 10 juillet 1948 - art. 1 (V)
+	  - Code des pensions civiles et militaires de retrait - art. L15 (M)
+	  - Code des pensions civiles et militaires de retrait - art. L28 (M)
+	  - Code des pensions civiles et militaires de retrait - art. L29 (M)
 
 	**Cité par**:
 
@@ -2998,10 +3021,9 @@ personne qui est perçue en toutes circonstances indépendamment de ce plafond.
 	  - Code des pensions civiles et militaires de retr... - art. L56 (V)
 	  - Code des pensions civiles et militaires de retrait - art. R41 (V)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code des pensions civiles et militaires de retrait - art. L15 (M)
-	  - Code des pensions civiles et militaires de retraite L15, L28 et L29
+	  - Loi n°2000-321 du 12 avril 2000 - art. 33 ()
 
 	**Codifié par**:
 
