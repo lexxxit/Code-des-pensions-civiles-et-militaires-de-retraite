@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 1967-09-16
+Version Consolidée au 1968-05-19
 
 # Partie législative
 
@@ -5420,27 +5420,6 @@ dans sa gestion. Les conclusions de ce rapport doivent être approuvées par le 
 	**Créé par**:
 
 	  - Décret n°66-810 1966-10-28 JORF 3 novembre 1966 rectificatif JORF 3 décembre 1966 en vigueur le 1er décembre 1964
-
-
-###### Article D29
-
-**Nota:**
-
-[*(Abrogé par l'article 6 du décret n° 68-445 du 13 mai 1968)*]
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Décret n°68-445 du 13 mai 1968 - art. 6 (Ab) JORF 19 mai 1968
-
-	**Cité par**:
-
-	  - Décret n°68-445 du 13 mai 1968 - art. 6 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°66-810 1966-10-28
 
 
 ### Titre X : Cessation ou reprise de service - Coordination avec le régime de sécurité sociale.
