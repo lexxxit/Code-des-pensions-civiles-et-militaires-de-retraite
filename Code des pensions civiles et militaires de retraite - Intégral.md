@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 1979-12-22
+Version Consolidée au 1980-01-19
 
 # Partie législative
 
@@ -2037,6 +2037,44 @@ excéder le montant des émoluments afférents à l'indice brut 515.
 ### Titre VI : Pensions des ayants cause.
 
 #### Chapitre Ier : Fonctionnaires civils.
+
+###### Article L38
+
+Les veuves des fonctionnaires civils ont droit à une pension égale à 50 p. 100 de la pension obtenue par le mari ou qu'il
+aurait pu obtenir au jour de son décès, et augmentée, le cas échéant, de la moitié de la rente d'invalidité dont il
+bénéficiait ou aurait pu bénéficier.
+
+A la pension de la veuve s'ajoute éventuellement la moitié de la majoration prévue à l'article L. 18 qu'a obtenue ou aurait
+obtenue le mari. Cet avantage n'est servi qu'aux veuves qui ont élevé, dans les conditions visées audit article L. 18, les
+enfants ouvrant droit à cette majoration.
+
+Cette pension de réversion, compte tenu des ressources extérieures, ne pourra être inférieure à la somme totale formée par le
+cumul de l'allocation servie aux vieux travailleurs salariés augmentée de l'allocation supplémentaire du fonds national de
+solidarité, quelle que soit la date de sa liquidation.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°80-30 1980-01-18 art. 85 JORF 19 janvier 1980
+
+	**Cité par**:
+
+	  - Code de l'éducation - art. R914-142 (V)
+	  - Code des pensions civiles et militaires de retr... - art. D19-1 (V)
+	  - Code des pensions civiles et militaires de retr... - art. D19-2 (V)
+	  - Code des pensions civiles et militaires de retr... - art. L40 (V)
+	  - Code des pensions civiles et militaires de retr... - art. L45 (Ab)
+	  - Code des pensions civiles et militaires de retrait - art. R*103 (V)
+
+	**Cite**:
+
+	  - Code des pensions civiles et militaires de retrait - art. L18 (M)
+
+	**Codifié par**:
+
+	  - Loi n°64-1339 1964-12-29
+
 
 ###### Article L39
 
