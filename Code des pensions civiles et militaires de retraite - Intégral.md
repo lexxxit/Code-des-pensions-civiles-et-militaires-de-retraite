@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 1994-03-01
+Version Consolidée au 1996-12-20
 
 # Partie législative
 
@@ -332,7 +332,9 @@ service militaire obligatoire.
 Le droit à la solde de réforme est acquis :
 
 1° S'ils sont réformés définitivement pour infirmités, aux militaires non officiers servant par contrat au-delà de la durée
-légale et qui ne peuvent prétendre au bénéfice des dispositions de l'article L. 6 (3° et 4°) ;
+légale et qui ne peuvent prétendre au bénéfice des dispositions de l'article L. 6 (3° et 4°) .Toutefois, ils ont la faculté
+de renoncer à la solde de réforme afin de bénéficier des dispositions de l'article L. 65. L'option formulée par ces
+militaires le jour de la radiation des cadres est définitive.
 
 2° Aux officiers et aux sous-officiers de carrière comptant moins de quinze ans de services civils et militaires radiés des
 cadres par mesure disciplinaire.
@@ -349,17 +351,17 @@ cadres par mesure disciplinaire.
 	  - Code des pensions civiles et militaires de retrait - art. L47 (V)
 	  - Code des pensions civiles et militaires de retrait - art. L65 (M)
 
-	**Codifié par**:
-
-	  - Loi n°64-1339 1964-12-29
-
 	**Modifié par**:
 
-	  - Loi n°72-662 du 13 juillet 1972 - art. 109 () JORF 14 juillet 1972
+	  - Loi n°96-1111 du 19 décembre 1996 - art. 10 ()
 
 	**Cite**:
 
 	  - Code des pensions civiles et militaires de retrait - art. L6 (M)
+
+	**Codifié par**:
+
+	  - Loi n°64-1339 1964-12-29
 
 
 ##### Paragraphe II : Eléments constitutifs.
@@ -3893,6 +3895,8 @@ La restitution des sommes payées indûment au titre de la pension ou de la rent
 exigible lorsque l'intéressé était de mauvaise foi. Cette restitution est, en tant que de besoin, poursuivie par l'agent
 judiciaire du Trésor.
 
+La pension des militaires n'est pas assimilée à un avantage vieillesse avant l'âge de soixante ans.
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -3901,13 +3905,13 @@ judiciaire du Trésor.
 	  - Décret n°2003-1306 du 26 décembre 2003 - art. 62 (V)
 	  - Décret n°2012-1256 du 13 novembre 2012 - art. 7 (V)
 
-	**Modifié par**:
-
-	  - Loi n°77-574 1977-06-07 art. 22 JORF 8 juin 1977 rectificatif JORF 21 juin 1977
-
 	**Codifié par**:
 
 	  - Loi n°64-1339 1964-12-29
+
+	**Modifié par**:
+
+	  - Loi n°96-1111 1996-12-16 art. 9 jorf 20 décembre 1996
 
 
 #### Paragraphe II : Dispositions diverses.
@@ -4226,9 +4230,10 @@ Les retenues légalement perçues ne peuvent être répétées. Celles qui ont �
 ###### Article L65
 
 Le fonctionnaire civil ou le militaire qui vient à quitter le service, pour quelque cause que ce soit, sans pouvoir obtenir
-une pension ou une solde de réforme est rétabli, en ce qui concerne l'assurance vieillesse, dans la situation qu'il aurait
-eue s'il avait été affilié au régime général des assurances sociales et à l'institution de retraite complémentaire des agents
-non titulaires de l'Etat et des collectivités locales (Ircantec) pendant la période où il a été soumis au présent régime.
+une pension ou une solde de réforme ou qui a renoncé à cette dernière dans les conditions prévues au 1° de l'article L. 7,
+est rétabli, en ce qui concerne l'assurance vieillesse, dans la situation qu'il aurait eue s'il avait été affilié au régime
+général des assurances sociales et à l'institution de retraite complémentaire des agents non titulaires de l'Etat et des
+collectivités locales (Ircantec) pendant la période où il a été soumis au présent régime.
 
 L'agent non susceptible de bénéficier de l'affiliation rétroactive au régime général des assurances sociales pour tout ou
 partie de sa carrière peut prétendre, au titre des mêmes périodes, au remboursement direct et immédiat des retenues subies
@@ -4236,25 +4241,25 @@ d'une manière effective sur son traitement ou sa solde.
 
 Les mêmes dispositions sont applicables au fonctionnaire civil ou militaire qui, après avoir quitté le service, reprend un
 emploi relevant du régime institué par le présent code, sans pouvoir obtenir une pension ou une solde de réforme au titre
-dudit emploi.
+dudit emploi ou qui a renoncé à cette dernière dans les conditions prévues au 1° de l'article L. 7 .
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Loi n°91-715 du 26 juillet 1991 - art. 6 () JORF 27 juillet 1991
-
 	**Cité par**:
 
-	  - Loi n°96-1111 du 19 décembre 1996 - art. 12 (V)
 	  - Décret n°2000-511 du 8 juin 2000 - art. 22 (VT)
 	  - Décret n°2004-1056 du 5 octobre 2004 - art. 46 (V)
 	  - Code des pensions civiles et militaires de retrait - art. L7 (V)
 	  - Code des pensions civiles et militaires de retrait - art. R*59 (V)
+	  - Loi n°96-1111 du 19 décembre 1996 - art. 12 (V)
 
 	**Codifié par**:
 
 	  - Loi n°64-1339 1964-12-29
+
+	**Modifié par**:
+
+	  - Loi n°96-1111 1996-12-16 art. 11 jorf 20 décembre 1996
 
 
 ###### Article L66
