@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 1991-02-01
+Version Consolidée au 1991-07-27
 
 # Partie législative
 
@@ -27,8 +27,9 @@ carrière à son bénéficiaire des conditions matérielles d'existence en rappo
 
 Ont droit au bénéfice des dispositions du présent code :
 
-1° Les fonctionnaires civils auxquels s'applique l'ordonnance n° 59-244 du 4 février 1959 relative au statut général des
-fonctionnaires ;
+1° Les fonctionnaires civils auxquels s'appliquent les lois n° 83-634 du 13 juillet 1983 portant droits et obligations des
+fonctionnaires et n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'Etat,
+relatives aux titres Ier et II du statut général des fonctionnaires ;
 
 2° Les magistrats de l'ordre judiciaire ;
 
@@ -41,7 +42,12 @@ d'un contrat ;
 
 	**Cite**:
 
-	  - Ordonnance 59-244 1959-02-04
+	  - Loi n°83-634 1983-07-13
+	  - Loi n°84-16 1984-01-11
+
+	**Modifié par**:
+
+	  - Loi n°91-715 du 26 juillet 1991 - art. 6 () JORF 27 juillet 1991
 
 	**Cité par**:
 
@@ -126,8 +132,8 @@ des fonctions.
 Les services pris en compte dans la constitution du droit à pension sont :
 
 1° Les services accomplis en qualité de fonctionnaire titulaire, la période pendant laquelle les intéressés ont été autorisés
-à accomplir un service à temps partiel dans les conditions prévues au dernier alinéa de l'article 34 du statut général des
-fonctionnaires étant comptée pour la totalité de sa durée ;
+à accomplir un service à temps partiel dans les conditions prévues à l'article 37 de la loi n° 84-16 du 11 janvier 1984
+précitée étant comptée pour la totalité de sa durée ;
 
 2° Les services militaires, à l'exclusion de ceux effectués en temps de paix avant l'âge de seize ans ;
 
@@ -162,7 +168,7 @@ cadres.
 
 	  - Loi n°46-451 1946-03-19
 	  - Loi n°49-1097 1949-08-02
-	  - Ordonnance 59-244 1959-02-04 art. 34
+	  - Loi n°84-16 1984-01-11 art. 37
 	  - Loi n°1928-03-21
 
 	**Cité par**:
@@ -242,12 +248,6 @@ cadres.
 	  - Code des pensions civiles et militaires de retrait - art. R35 (V)
 	  - Code des pensions civiles et militaires de retrait - art. R6 (V)
 
-	**Modifié par**:
-
-	  - Loi n°70-523 1970-06-19 art. 1 JORF 21 juin 1970 rectificatif JORF 10 juillet 1970
-	  - Ordonnance n°82-297 du 31 mars 1982 - art. 1 (Ab) JORF 2 avril 1982
-	  - Ordonnance 82-296 1982-03-31 art. 3 JORF 2 avril 1982
-
 	**Liens**:
 
 	  - TXT_SOURCE: Arrêté du 22 juin 1987
@@ -258,6 +258,10 @@ cadres.
 	  - TXT_SOURCE: Arrêté du 2 juin 1989 - art. 1 (V)
 	  - TXT_SOURCE: Arrêté du 15 avril 1996
 	  - TXT_SOURCE: Arrêté du 15 avril 1996 - art. 1 (V)
+
+	**Modifié par**:
+
+	  - Loi n°91-715 du 26 juillet 1991 - art. 6 () JORF 27 juillet 1991
 
 	**Codifié par**:
 
@@ -394,17 +398,13 @@ tout engagement militaire, lesdits services se décomptant du jour de l'entrée 
 Le temps passé dans toutes positions statutaires ne comportant pas l'accomplissement de services effectifs ne peut entrer en
 compte dans la constitution du droit à pension, sauf, d'une part, dans le cas où le fonctionnaire ou le militaire se trouve
 placé en position régulière d'absence pour cause de maladie et, d'autre part, dans les cas exceptionnels prévus par une loi
-ou par un règlement d'administration publique (1).
+ou par un règlement d'administration publique.
 
-En ce qui concerne les fonctionnaires civils, et hormis les positions prévues aux articles 36 et 38 de l'ordonnance du 4
-février 1959 relative au statut général des fonctionnaires, le temps passé dans toute position ne comportant pas
-l'accomplissement de services effectifs et prévue par les textes visés à l'alinéa précédent n'est compté comme service
-effectif que dans la limite maximum de cinq ans et sous réserve que les bénéficiaires subissent pendant ce temps, sur leur
-dernier traitement d'activité, les retenues prescrites par le présent code.
-
-**Nota:**
-
-[*(1) Voir décret d'application n° 69-1011 du 17 octobre 1969 (Journal officiel du 11 novembre 1969), tome II du code.*]
+En ce qui concerne les fonctionnaires civils, et hormis les positions prévues aux articles 34 et 45 de la loi n° 84-16 du 11
+janvier 1984 précitée, le temps passé dans toute position ne comportant pas l'accomplissement de services effectifs et prévue
+par les textes visés à l'alinéa précédent n'est compté comme service effectif que dans la limite maximum de cinq ans et sous
+réserve que les bénéficiaires subissent pendant ce temps, sur leur dernier traitement d'activité, les retenues prescrites par
+le présent code.
 
 **Liens relatifs à cet article**
 
@@ -456,7 +456,11 @@ dernier traitement d'activité, les retenues prescrites par le présent code.
 
 	**Cite**:
 
-	  - Ordonnance 59-244 1959-02-04 art. 36 et 38
+	  - Loi n°84-16 1984-01-11 art. 34, art. 45
+
+	**Modifié par**:
+
+	  - Loi n°91-715 du 26 juillet 1991 - art. 6 () JORF 27 juillet 1991
 
 	**Codifié par**:
 
@@ -490,22 +494,15 @@ Les services pris en compte dans la liquidation de la pension sont :
 
 1° Pour les fonctionnaires civils, les services énumérés à l'article L. 5, exception faite des services militaires visés au
 2° s'ils ont été rémunérés soit par une pension, soit par une solde de réforme, sous réserve de la renonciation prévue à
-l'article L. 77, ainsi que les périodes ayant donné lieu au versement des allocations d'enseignement dans des conditions
-déterminées par décret en Conseil d'Etat. La période pendant laquelle les intéressés ont été autorisés à accomplir un service
-à temps partiel dans les conditions prévues au dernier alinéa de l'article 34 du statut général des fonctionnaires est
-comptée pour la fraction de sa durée égale au rapport entre la durée hebdomadaire du service effectué et les obligations
-hebdomadaires de service réglementairement fixées pour les agents de même grade exerçant à temps plein les mêmes fonctions ;
+l'article L. 77. La période pendant laquelle les intéressés ont été autorisés à accomplir un service à temps partiel dans les
+conditions prévues à l'article 37 de la loi n° 84-16 du 11 janvier 1984 précitée est comptée pour la fraction de sa durée
+égale au rapport entre la durée hebdomadaire du service effectué et les obligations hebdomadaires de service
+réglementairement fixées pour les agents de même grade exerçant à temps plein les mêmes fonctions ;
 
 2° Pour les militaires, les services énumérés aux articles L. 5 et L. 8 ainsi que les bénéfices d'études préliminaires
 attribués aux militaires et assimilés dans les conditions déterminées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Ordonnance 59-244 1959-02-04 art. 34
-	  - Code des pensions civiles et militaires de retrait - art. L5 (M)
-	  - Code des pensions civiles et militaires de retraite L5, L8 et L77
 
 	**Cité par**:
 
@@ -514,9 +511,16 @@ attribués aux militaires et assimilés dans les conditions déterminées par d�
 	  - Loi n°2013-1168 du 18 décembre 2013 - art. 36 (V)
 	  - Code des pensions civiles et militaires de retrait - art. L11 bis (V)
 
+	**Cite**:
+
+	  - Loi n°84-16 1984-01-11 art. 37
+	  - Code des pensions civiles et militaires de retrait - art. L5 (M)
+	  - Code des pensions civiles et militaires de retrait - art. L77 (V)
+	  - Code des pensions civiles et militaires de retrait - art. L8 (V)
+
 	**Modifié par**:
 
-	  - Loi n°90-587 du 4 juillet 1990 - art. 33 () JORF 11 juillet 1990
+	  - Loi n°91-715 du 26 juillet 1991 - art. 6 () JORF 27 juillet 1991
 
 	**Codifié par**:
 
@@ -811,16 +815,16 @@ Un règlement d'administration publique fixe les conditions dans lesquelles la p
 années d'activité lorsqu'ils sont supérieurs à ceux visés au premier alinéa ci-dessus, soit à l'un des emplois ci-après
 détenus au cours des quinze dernières années d'activité pendant deux ans au moins :
 
-1° Emplois supérieurs visés au second alinéa de l'article 3 de l'ordonnance du 4 février 1959 relative au statut général des
-fonctionnaires ;
+1° Emplois supérieurs visés au 1° de l'article 3 de la loi n° 84-16 du 11 janvier 1984 précitée ;
 
 2° Emplois de chef de service, de directeur adjoint ou de sous-directeur d'administration centrale ;
 
 3° Emplois supérieurs occupés par des officiers généraux et supérieurs.
 
 Les dispositions qui précèdent sont applicables aux tributaires du présent code occupant en position de détachement un des
-emplois visés à l'article 15-I (1°, 2°, 3° et 4°) du décret modifié n° 65-773 du 9 septembre 1965. Dans cette hypothèse, les
-intéressés sont astreints au versement de la retenue pour pension sur les émoluments afférents à l'emploi de détachement.
+emplois visés visés aux a, b, c du 2° du I de l'article 15 du décret modifié n° 65-773 du 9 septembre 1965. Dans cette
+hypothèse, les intéressés sont astreints au versement de la retenue pour pension sur les émoluments afférents à l'emploi de
+détachement.
 
 **Liens relatifs à cet article**
 
@@ -1474,20 +1478,16 @@ intéressés sont astreints au versement de la retenue pour pension sur les émo
 
 	**Cite**:
 
-	  - Ordonnance 59-244 1959-02-04 art. 3
-	  - Décret n°65-773 1965-09-09 art. 15 I
+	  - Loi n°84-16 1984-01-11 art. 3
 	  - Code des pensions civiles et militaires de retrait - art. L5 (M)
-
-	**Modifié par**:
-
-	  - Loi n°70-523 1970-06-19 art. 3 JORF 21 juin 1970 rectificatif JORF 10 juillet 1970
-	  - Loi n°75-1280 du 30 décembre 1975 - art. 6 (V) JORF 31 décembre 1975
-	  - Loi n°77-574 1977-06-07 art. 25 I JORF 8 juin 1977 rectificatif JORF 21 juin 1977
-	  - Ordonnance 82-296 1982-03-31 art. 4 JORF 2 avril 1982
 
 	**Liens**:
 
 	  - TXT_SOURCE: Décret n°89-750 du 18 octobre 1989 - art. 20 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°91-715 du 26 juillet 1991 - art. 6 () JORF 27 juillet 1991
 
 	**Codifié par**:
 
@@ -2345,8 +2345,8 @@ Les enfants recueillis à son foyer par le titulaire de la pension ou son conjoi
 par décret en Conseil d'Etat, en avoir assumé la charge effective et permanente.
 
 III. - A l'exception des enfants décédés par faits de guerre, les enfants devront avoir été élevés pendant au moins neuf ans,
-soit avant leurseizième anniversaire, soit avant l'âge où ils ont cessé d'être à charge au sens de l'article L. 527 du code
-de la sécurité sociale.
+soit avant leurseizième anniversaire, soit avant l'âge où ils ont cessé d'être à charge au sens des articles L. 512-3 et R.
+512-2 à R. 512-3 du code de la sécurité sociale.
 
 Pour satisfaire la condition de durée ci-dessus, il sera tenu compte, le cas échéant, du temps pendant lequel les enfants
 auront été élevés par le conjoint après le décès du titulaire.
@@ -2362,10 +2362,6 @@ enfant au-delà du troisième, sans que le montant de la pension majorée puisse
 déterminés à l'article L. 15.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°64-1339 1964-12-26 JORF 30 décembre 1964 rectificatif JORF 10 janvier 1965 en vigueur le 1er décembre 1964
 
 	**Cité par**:
 
@@ -2393,9 +2389,7 @@ déterminés à l'article L. 15.
 
 	**Modifié par**:
 
-	  - Loi n°74-1114 1974-12-27 art. 18 JORF 28 décembre 1974
-	  - Loi n°77-1466 1977-12-30 art. 15 II JORF 31 décembre 1977
-	  - Loi n°82-599 du 13 juillet 1982 - art. 24 () JORF 14 juillet 1982
+	  - Loi n°91-715 du 26 juillet 1991 - art. 6 () JORF 27 juillet 1991
 
 	**Cite**:
 
@@ -2432,7 +2426,8 @@ A la pension s'ajoutent, le cas échéant, les avantages familiaux dans les cond
 ###### Article L20
 
 En aucun cas, la pension allouée au titre de la durée des services ne peut être inférieure à celle qu'aurait obtenue le
-titulaire s'il n'avait pas été promu à un emploi ou grade supérieur.
+titulaire s'il n'avait pas été promu à un emploi ou à un grade supérieur ou reclassé en vertu des dispositions de l'article
+63 de la loi n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'Etat.
 
 **Liens relatifs à cet article**
 
@@ -2443,6 +2438,14 @@ titulaire s'il n'avait pas été promu à un emploi ou grade supérieur.
 	**Cité par**:
 
 	  - Loi n°64-1339 du 26 décembre 1964 - art. 3 (V)
+
+	**Cite**:
+
+	  - Loi n°84-16 du 11 janvier 1984 - art. 63 (V)
+
+	**Modifié par**:
+
+	  - Loi n°91-715 du 26 juillet 1991 - art. 6 () JORF 27 juillet 1991
 
 
 ###### Article L21
@@ -2778,18 +2781,14 @@ liquidation.
 ###### Article L27
 
 Le fonctionnaire civil qui se trouve dans l'incapacité permanente de continuer ses fonctions en raison d'infirmités résultant
-de blessures ou de maladies contractées ou aggravées, soit en service, soit en accomplissant un acte de dévouement dans un
-intérêt public, soit en exposant ses jours pour sauver la vie d'une ou plusieurs personnes, peut être radié des cadres par
-anticipation, soit sur sa demande, soit d'office à l'expiration d'un délai de douze mois à compter de sa mise en congé si
-cette dernière a été prononcée en application de l'article 36 (2°) de l'ordonnance du 4 février 1959 relative au statut
-général des fonctionnaires ou à la fin du congé qui lui a été accordé en application de l'article 36 (3°) de ladite
-ordonnance.
+de blessures ou de maladie contractées ou aggravées soit en service, soit en accomplissant un acte de dévouement dans un
+intérêt public, soit en exposant ses jours pour sauver la vie d'une ou plusieurs personnes et qui n'a pu être reclassé dans
+un autre corps en application de l'article 63 de la loi n° 84-16 du 11 janvier 1984 précitée peut être radié des cadres par
+anticipation soit sur sa demande, soit d'office à l'expiration d'un délai de douze mois à compter de sa mise en congé si
+cette dernière a été prononcée en application des 2° et 3° de l'article 34 de la même loi ou à la fin du congé qui lui a été
+accordé en application du 4° du même article.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Ordonnance 59-244 1959-02-04 art. 36
 
 	**Cité par**:
 
@@ -2842,6 +2841,15 @@ ordonnance.
 	  - Code des pensions civiles et militaires de retrait - art. L33 (V)
 	  - Code des pensions civiles et militaires de retrait - art. R*101 (V)
 	  - Code des pensions civiles et militaires de retrait - art. R39 (V)
+
+	**Cite**:
+
+	  - Loi n°84-16 1984-01-11 art. 63, art. 34
+	  - Loi n°84-16 du 11 janvier 1984 - art. 63 (V)
+
+	**Modifié par**:
+
+	  - Loi n°91-715 du 26 juillet 1991 - art. 6 () JORF 27 juillet 1991
 
 	**Codifié par**:
 
@@ -2921,7 +2929,8 @@ personnes. Toutefois, le taux de l'invalidité rémunérable doit être au moins
 ###### Article L29
 
 Le fonctionnaire civil qui se trouve dans l'incapacité permanente de continuer ses fonctions en raison d'une invalidité ne
-résultant pas du service peut être radié des cadres par anticipation soit sur sa demande, soit d'office ; dans ce dernier
+résultant pas du service et qui n'a pu être reclassé dans un autre corps en application de l'article 63 de la loi n° 84-16 du
+11 janvier 1984 précitée peut être radié des cadres par anticipation soit sur sa demande, soit d'office ; dans ce dernier
 cas, la radiation des cadres est prononcée sans délai si l'inaptitude résulte d'une maladie ou d'une infirmité que son
 caractère définitif et stabilisé ne rend pas susceptible de traitement, ou à l'expiration d'un délai de douze mois à compter
 de sa mise en congé si celle-ci a été prononcée en application de l'article 36 (2°) de l'ordonnance du 4 février 1959
@@ -2934,10 +2943,7 @@ aient été contractées ou aggravées au cours d'une période durant laquelle i
 	**Cite**:
 
 	  - Ordonnance 59-244 1959-02-04 art. 36
-
-	**Créé par**:
-
-	  - Loi n°64-1339 1964-12-26 JORF 30 décembre 1964 rectificatif JORF 10 28 janvier 1965 en vigueur le 1er décembre 1964
+	  - Loi n°84-16 du 11 janvier 1984 - art. 63 (V)
 
 	**Cité par**:
 
@@ -2946,6 +2952,10 @@ aient été contractées ou aggravées au cours d'une période durant laquelle i
 	  - Code des pensions civiles et militaires de retr... - art. L30 (V)
 	  - Code des pensions civiles et militaires de retrait - art. D18 (V)
 	  - Code des pensions civiles et militaires de retrait - art. L33 bis (V)
+
+	**Modifié par**:
+
+	  - Loi n°91-715 du 26 juillet 1991 - art. 5 () JORF 27 juillet 1991
 
 	**Codifié par**:
 
@@ -3144,6 +3154,30 @@ l'article L. 28 sont annulées à compter de la date d'effet de la réintégrati
 	**Codifié par**:
 
 	  - Loi n°64-1339 1964-12-29
+
+
+###### Article L33 bis
+
+La pension du fonctionnaire qui a été reclassé dans un autre corps en application de l'article 63 de la loi n° 84-16 du 11
+janvier 1984 ne peut être inférieure au montant de la pension rémunérant les services prévus aux articles L. 28 et L. 29 et,
+le cas échéant, de la rente viagère d'invalidité mentionnée à l'article L. 28 qui lui aurait été attribuée s'il n'avait pas
+été reclassé.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des pensions civiles et militaires de retrait - art. L28 (M)
+	  - Code des pensions civiles et militaires de retrait - art. L29 (M)
+	  - Loi n°84-16 du 11 janvier 1984 - art. 63 (V)
+
+	**Codifié par**:
+
+	  - Loi n°64-1339 1964-12-29
+
+	**Créé par**:
+
+	  - Loi n°91-715 du 26 juillet 1991 - art. 6 () JORF 27 juillet 1991
 
 
 #### Chapitre II : Militaires.
@@ -4035,48 +4069,6 @@ la fonction publique peut relever l'intéressé de la suspension encourue.
 	  - Loi n°64-1339 1964-12-29
 
 
-###### Article L60
-
-La suspension prévue aux articles L. 58 et L. 59 n'est que partielle si le titulaire a une femme ou des enfants âgés de moins
-de vingt et un ans ; en ce cas, la femme ou les enfants âgés de moins de vingt et un ans reçoivent pendant la durée de la
-suspension, une pension fixée à 50 % de la pension et de la rente d'invalidité dont bénéficiait ou aurait bénéficié
-effectivement le mari.
-
-Dans le cas où le fonctionnaire ou militaire n'est pas effectivement en jouissance d'une pension ou d'une rente d'invalidité
-au moment où doit jouer la suspension, la femme et les enfants âgés de moins de vingt et un ans ne peuvent obtenir la pension
-définie à l'alinéa précédent que si leur auteur satisfaisait à ce moment aux conditions exigées à l'article L. 4 (1°) ou à
-l'article L. 6 (1°).
-
-Les frais de justice résultant de la condamnation du titulaire ne peuvent être prélevés sur la portion des arrérages ainsi
-réservés au profit de la femme et des enfants.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°67-711 du 18 août 1967 - art. 30 (Ab)
-	  - Code des pensions civiles et militaires de retrait - art. L65 (M)
-	  - Code des pensions civiles et militaires de retrait - art. R*70 (Ab)
-
-	**Modifié par**:
-
-	  - Loi n°75-1242 du 27 décembre 1975 - art. 16 () JORF 28 décembre 1975
-
-	**Abrogé par**:
-
-	  - Loi n°91-715 du 26 juillet 1991 - art. 6 () JORF 27 juillet 1991
-
-	**Cite**:
-
-	  - Code des pensions civiles et militaires de retrait - art. L4 (V)
-	  - Code des pensions civiles et militaires de retrait - art. L6 (M)
-	  - Code des pensions civiles et militaires de retraite L4, L6, L58 et L59
-
-	**Codifié par**:
-
-	  - Loi n°64-1339 1964-12-29
-
-
 ### Titre IX : Retenues pour pensions.
 
 ###### Article L61
@@ -4231,14 +4223,14 @@ Les retenues légalement perçues ne peuvent être répétées. Celles qui ont �
 
 ###### Article L65
 
-Sous réserve que les dispositions de l'article L. 60 ne soient pas applicables, le fonctionnaire civil ou le militaire qui
-vient à quitter le service, pour quelque cause que ce soit, sans pouvoir obtenir une pension ou une solde de réforme, est
-rétabli, en ce qui concerne l'assurance vieillesse, dans la situation qu'il aurait eue s'il avait été affilié au régime
-général des assurances sociales pendant la période où il a été soumis au présent régime.
+Le fonctionnaire civil ou le militaire qui vient à quitter le service, pour quelque cause que ce soit, sans pouvoir obtenir
+une pension ou une solde de réforme est rétabli, en ce qui concerne l'assurance vieillesse, dans la situation qu'il aurait
+eue s'il avait été affilié au régime général des assurances sociales et à l'institution de retraite complémentaire des agents
+non titulaires de l'Etat et des collectivités locales (Ircantec) pendant la période où il a été soumis au présent régime.
 
-Sous la même réserve que celle prévue à l'alinéa précédent, l'agent non susceptible de bénéficier de l'affiliation
-rétroactive au régime général des assurances sociales pour tout ou partie de sa carrière peut prétendre, au titre des mêmes
-périodes, au remboursement direct et immédiat des retenues subies d'une manière effective sur son traitement ou sa solde.
+L'agent non susceptible de bénéficier de l'affiliation rétroactive au régime général des assurances sociales pour tout ou
+partie de sa carrière peut prétendre, au titre des mêmes périodes, au remboursement direct et immédiat des retenues subies
+d'une manière effective sur son traitement ou sa solde.
 
 Les mêmes dispositions sont applicables au fonctionnaire civil ou militaire qui, après avoir quitté le service, reprend un
 emploi relevant du régime institué par le présent code, sans pouvoir obtenir une pension ou une solde de réforme au titre
@@ -4246,9 +4238,9 @@ dudit emploi.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°64-1339 1964-12-26 JORF 30 décembre 1964 rectificatif JORF 10 janvier 1965 en vigueur le 1er décembre 1964
+	  - Loi n°91-715 du 26 juillet 1991 - art. 6 () JORF 27 juillet 1991
 
 	**Cité par**:
 
@@ -4257,10 +4249,6 @@ dudit emploi.
 	  - Décret n°2004-1056 du 5 octobre 2004 - art. 46 (V)
 	  - Code des pensions civiles et militaires de retrait - art. L7 (V)
 	  - Code des pensions civiles et militaires de retrait - art. R*59 (V)
-
-	**Cite**:
-
-	  - Code des pensions civiles et militaires de retrait - art. L60 (Ab)
 
 	**Codifié par**:
 
@@ -4996,8 +4984,8 @@ du chef d'une mère adoptive. Toutefois, il peut opter pour la pension de réver
 
 Est interdit du chef d'un même enfant le cumul de plusieurs accessoires de traitement, solde, salaire et pension servis par
 l'Etat, les collectivités publiques et les organismes de prévoyance collectifs ou obligatoires, aux intéressés ou à leur
-conjoint, dans les conditions prévues à l'article L. 555 du code de la sécurité sociale. Cette interdiction ne s'applique pas
-à la majoration de pension prévue à l'article L. 18.
+conjoint, dans les conditions prévues à l'article L. 553-3 du code de la sécurité sociale. Cette interdiction ne s'applique
+pas à la majoration de pension prévue à l'article L. 18.
 
 En outre, le cumul de la majoration de pension prévue à l'article L. 18 et des prestations familiales afférentes aux enfants
 ouvrant droit à ladite majoration est autorisé.
@@ -5006,12 +4994,12 @@ ouvrant droit à ladite majoration est autorisé.
 
 	**Modifié par**:
 
-	  - Loi n°77-574 1977-06-07 art. 23 JORF 8 juin 1977 rectificatif JORF 21 juin 1977
+	  - Loi n°91-715 du 26 juillet 1991 - art. 6 () JORF 27 juillet 1991
 
 	**Cite**:
 
 	  - Code des pensions civiles et militaires de retrait - art. L18 (M)
-	  - Code de la sécurité sociale L555
+	  - Code de la sécurité sociale. - art. L553-3 (V)
 
 	**Codifié par**:
 
