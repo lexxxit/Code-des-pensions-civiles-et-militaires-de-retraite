@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 1974-12-31
+Version Consolidée au 1975-12-28
 
 # Partie législative
 
@@ -1270,6 +1270,59 @@ d'assimilation annexé au décret déterminant les modalités de cette réforme.
 	  - Loi n°64-1339 1964-12-29
 
 
+##### Paragraphe III : Montant garanti.
+
+###### Article L17
+
+Le montant de la pension ne peut être inférieur :
+
+a) Lorsque la pension rémunère vingt-cinq années au moins de services effectifs, au traitement brut afférent à l'indice 100
+prévu par l'article 1er du décret n° 48-1108 du 10 juillet 1948 et les textes subséquents ;
+
+b) Lorsque la pension rémunère moins de vingt-cinq années de services effectifs, à 4 p. 100 du traitement brut afférent à
+l'indice 100 prévu par l'article 1er du décret n° 48-1108 du 10 juillet 1948 et les textes subséquents par année de services
+effectifs et de bonifications prévues à l'article L. 12 du présent code.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°48-1108 du 10 juillet 1948 - art. 1 (V)
+	  - Code des pensions civiles et militaires de retrait - art. L12 (M)
+
+	**Cité par**:
+
+	  - Décret n°68-382 du 5 avril 1968 - art. 16 (VD)
+	  - Décret n°68-960 du 11 octobre 1968 - art. 14 (VD)
+	  - Décret n°68-960 du 11 octobre 1968 - art. 51 (VD)
+	  - Décret n°73-934 du 25 septembre 1973 - art. 2 (Ab)
+	  - Arrêté du 24 mai 1974 - art. 9 (Ab)
+	  - Décret n°82-579 du 5 juillet 1982 - art. 4 (V)
+	  - Décret n°85-1148 du 24 octobre 1985 - art. 7 (M)
+	  - Arrêté du 3 juin 1988 - art. 4 (V)
+	  - Décret n°2003-1306 du 26 décembre 2003 - art. 22 (V)
+	  - Décret n°2004-1056 du 5 octobre 2004 - art. 18 (V)
+	  - Décret n°2008-637 du 30 juin 2008 - art. 27 (VD)
+	  - Décret n°2008-639 du 30 juin 2008 - art. 15 (VD)
+	  - Loi n°2010-1330 du 9 novembre 2010 - art. 45 (V)
+	  - Décret n°2011-705 du 21 juin 2011 - art. 2 (V)
+	  - Décret n°2012-1256 du 13 novembre 2012 - art. 9 (V)
+	  - Arrêté du 11 août 2015 - art. 10 (V)
+	  - Code de la défense. - art. D4123-4 (V)
+	  - Code de la défense. - art. R4123-21 (V)
+	  - Code de la sécurité sociale. - art. L173-2-0-1 A (V)
+	  - Code des pensions civiles et militaires de retr... - art. L56 (V)
+	  - Code des pensions civiles et militaires de retrait - art. L85 (V)
+
+	**Modifié par**:
+
+	  - Loi n°75-1242 1975-12-27 art. 15 JORF 28 décembre 1975
+
+	**Codifié par**:
+
+	  - Loi n°64-1339 1964-12-29
+
+
 ##### Paragraphe IV : Avantages de pension de caractère familial.
 
 ###### Article L19
@@ -1995,6 +2048,97 @@ Nonobstant les conditions d'antériorité prévues ci-dessus, le droit à pensio
 	  - Loi n°64-1339 1964-12-29
 
 
+###### Article L40
+
+Chaque orphelin a droit jusqu'à l'âge de vingt et un ans à une pension égale à 10 % de la pension obtenue par le père ou
+qu'il aurait pu obtenir au jour de son décès, et augmentée, le cas échéant, de 10 % de la rente d'invalidité dont il
+bénéficiait ou aurait pu bénéficier, sans que le total des émoluments attribués à la mère et aux orphelins puisse excéder le
+montant de la pension et, éventuellement, de la rente d'invalidité attribuées ou qui auraient été attribuées au père. S'il y
+a excédent, il est procédé à la réduction temporaire des pensions des orphelins.
+
+Au cas de décès de la mère ou si celle-ci est inhabile à obtenir une pension ou déchue de ses droits, les droits définis au
+premier alinéa de l'article L. 38 passent aux enfants âgés de moins de vingt et un ans et la pension de 10 % est maintenue à
+chaque enfant âgé de moins de vingt et un ans dans la limite du maximum fixé à l'alinéa précédent.
+
+Pour l'application des dispositions qui précèdent, sont assimilés aux enfants âgés de moins de vingt et un ans les enfants
+qui, au jour du décès de leur auteur, se trouvaient à la charge effective de ce dernier par suite d'une infirmité permanente
+les mettant dans l'impossibilité de gagner leur vie. La pension accordée à ces enfants n'est pas cumulable avec toute autre
+pension ou rente d'un régime général, attribuée au titre de la vieillesse ou de l'invalidité, à concurrence du montant de ces
+avantages. Elle est suspendue si l'enfant cesse d'être dans l'impossibilité de gagner sa vie.
+
+Les dispositions prévues à l'alinéa précédent sont également applicables aux enfants atteints, après le décès de leur auteur
+mais avant leur vingt et unième année révolue, d'une infirmité permanente les mettant dans l'impossibilité de gagner leur
+vie.
+
+Les pensions de 10 % attribuées aux enfants ne peuvent pas, pour chacun d'eux, être inférieures au montant des avantages
+familiaux dont aurait bénéficié le père en exécution de l'article L. 19 s'il avait été retraité.
+
+Les enfants naturels reconnus et les enfants adoptifs sont assimilés aux orphelins légitimes.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°66-809 du 28 octobre 1966 - art. 12 (V)
+	  - Décret n°85-1148 du 24 octobre 1985 - art. 7 (M)
+	  - Décret n°90-1215 du 20 décembre 1990 - art. 113 (V)
+	  - Décret n°90-1215 du 20 décembre 1990 - art. 137 (V)
+	  - Code des pensions civiles et militaires de retr... - art. L46 (V)
+	  - Code des pensions civiles et militaires de retrait - art. D24 (V)
+	  - Code des pensions civiles et militaires de retrait - art. L42 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°73-1128 1973-12-21 art. 12 JORF 23 décembre 1973
+	  - Loi n°75-1242 du 27 décembre 1975 - art. 16 () JORF 28 décembre 1975
+
+	**Cite**:
+
+	  - Code des pensions civiles et militaires de retraite L19 et L38 al. 1
+
+	**Codifié par**:
+
+	  - Loi n°64-1339 1964-12-29
+
+
+###### Article L42
+
+Les orphelins âgés de moins de vingt et un ans d'une femme fonctionnaire décédée en jouissance d'une pension et,
+éventuellement, d'une rente d'invalidité ou en possession de droits à ces prestations ont droit au bénéfice des dispositions
+combinées du premier alinéa de l'article L. 38 et du second alinéa de l'article L. 40.
+
+Si le conjoint survivant peut prétendre à la pension prévue à l'article L. 50, les orphelins âgés de moins de vingt et un ans
+de la femme fonctionnaire ont droit à une pension réglée pour chacun d'eux à raison de 10 p. 100 du montant de la pension et,
+éventuellement, de la rente d'invalidité attribuées ou qui auraient été attribuées à la mère.
+
+Il peut être fait, en l'espèce, application des dispositions des troisième, quatrième, cinquième et dernier alinéas de
+l'article L. 40 et de l'article L. 41.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°64-1339 1964-12-29
+
+	**Modifié par**:
+
+	  - Loi n°73-1128 1973-12-21 art. 12 JORF 23 décembre 1973
+	  - Loi n°75-1242 du 27 décembre 1975 - art. 16 () JORF 28 décembre 1975
+
+	**Abrogé par**:
+
+	  - Loi n°2003-775 du 21 août 2003 - art. 65 (V) JORF 22 août 2003 en vigueur le 1er janvier 2004
+
+	**Cité par**:
+
+	  - Loi n°2003-775 du 21 août 2003 - art. 65 (V)
+
+	**Cite**:
+
+	  - Code des pensions civiles et militaires de retrait - art. L40 (M)
+	  - Code des pensions civiles et militaires de retraite L38 al. 1, L40, L41 et L50
+
+
 #### Chapitre II : Militaires.
 
 ###### Article L47
@@ -2171,6 +2315,45 @@ lieu au profit de l'Etat.
 	  - Code civil - art. 2101 (M)
 
 
+###### Article L57
+
+Lorsqu'un bénéficiaire du présent code, titulaire d'une pension ou d'une rente viagère d'invalidité, a disparu de son
+domicile et que plus d'un an s'est écoulé sans qu'il ait réclamé les arrérages de sa pension ou de sa rente viagère
+d'invalidité, sa femme et les enfants âgés de moins de vingt et un ans qu'il a laissés peuvent obtenir, à titre provisoire,
+la liquidation des droits à la pension qui leur seraient ouverts en cas de décès.
+
+La même règle peut être suivie à l'égard des orphelins lorsque la mère, bénéficiaire d'une pension ou d'une rente viagère
+d'invalidité ou en possession de droits à une telle pension ou rente, a disparu depuis plus d'un an.
+
+Une pension peut être également attribuée, à titre provisoire, à la femme et aux enfants âgés de moins de vingt et un ans
+d'un bénéficiaire du présent code disparu lorsque celui-ci satisfaisait au jour de sa disparition aux conditions exigées à
+l'article L. 4 (1°) ou à l'article L. 6 (1°) et qu'il s'est écoulé au moins un an depuis ce jour.
+
+La pension provisoire est supprimée lorsque le décès est officiellement établi ou que l'absence a été déclarée par jugement
+passé en force de chose jugée et une pension définitive est alors attribuée aux ayants cause.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°67-711 du 18 août 1967 - art. 30 (Ab)
+	  - Décret n°2008-1151 du 6 novembre 2008 - art. 3 (V)
+	  - Décret n°2009-1261 du 19 octobre 2009 - art. 3 (V)
+	  - Code des pensions civiles et militaires de retrait - art. R*67 (V)
+
+	**Modifié par**:
+
+	  - Loi n°75-1242 du 27 décembre 1975 - art. 16 () JORF 28 décembre 1975
+
+	**Cite**:
+
+	  - Code des pensions civiles et militaires de retraite L4 et L6
+
+	**Codifié par**:
+
+	  - Loi n°64-1339 1964-12-29
+
+
 ###### Article L58
 
 Le droit à l'obtention ou à la jouissance de la pension et de la rente viagère d'invalidité est suspendu :
@@ -2248,6 +2431,48 @@ la fonction publique peut relever l'intéressé de la suspension encourue.
 	**Abrogé par**:
 
 	  - Loi n°2003-775 du 21 août 2003 - art. 65 (V) JORF 22 août 2003 en vigueur le 1er janvier 2004
+
+	**Codifié par**:
+
+	  - Loi n°64-1339 1964-12-29
+
+
+###### Article L60
+
+La suspension prévue aux articles L. 58 et L. 59 n'est que partielle si le titulaire a une femme ou des enfants âgés de moins
+de vingt et un ans ; en ce cas, la femme ou les enfants âgés de moins de vingt et un ans reçoivent pendant la durée de la
+suspension, une pension fixée à 50 % de la pension et de la rente d'invalidité dont bénéficiait ou aurait bénéficié
+effectivement le mari.
+
+Dans le cas où le fonctionnaire ou militaire n'est pas effectivement en jouissance d'une pension ou d'une rente d'invalidité
+au moment où doit jouer la suspension, la femme et les enfants âgés de moins de vingt et un ans ne peuvent obtenir la pension
+définie à l'alinéa précédent que si leur auteur satisfaisait à ce moment aux conditions exigées à l'article L. 4 (1°) ou à
+l'article L. 6 (1°).
+
+Les frais de justice résultant de la condamnation du titulaire ne peuvent être prélevés sur la portion des arrérages ainsi
+réservés au profit de la femme et des enfants.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°67-711 du 18 août 1967 - art. 30 (Ab)
+	  - Code des pensions civiles et militaires de retrait - art. L65 (M)
+	  - Code des pensions civiles et militaires de retrait - art. R*70 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°75-1242 du 27 décembre 1975 - art. 16 () JORF 28 décembre 1975
+
+	**Abrogé par**:
+
+	  - Loi n°91-715 du 26 juillet 1991 - art. 6 () JORF 27 juillet 1991
+
+	**Cite**:
+
+	  - Code des pensions civiles et militaires de retrait - art. L4 (V)
+	  - Code des pensions civiles et militaires de retrait - art. L6 (M)
+	  - Code des pensions civiles et militaires de retraite L4, L6, L58 et L59
 
 	**Codifié par**:
 
@@ -4388,6 +4613,56 @@ Lorsqu'il existe une femme divorcée à son profit exclusif et des orphelins d'u
 	  - Code des pensions civiles et militaires de retrait - art. L43 (V)
 
 
+###### Article R*56
+
+La jouissance de la part de pension qui, en application de l'article L. 45 (1er alinéa), vient accroître celle de la veuve
+par suite de la renonciation volontaire de la femme divorcée est immédiate si cette dernière n'a pas d'enfants âgés de moins
+de vingt et un ans.
+
+Dans le cas contraire, l'entrée en jouissance est différée jusqu'à la date d'expiration des droits à pension des enfants
+bénéficiant des dispositions de l'article L. 40 (2e, 3e et 4e alinéas).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°66-809 1966-10-28
+
+	**Modifié par**:
+
+	  - Loi n°75-1242 du 27 décembre 1975 - art. 16 () JORF 28 décembre 1975
+
+	**Abrogé par**:
+
+	  - Décret n°2003-1305 du 26 décembre 2003 - art. 47 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
+
+	**Cite**:
+
+	  - Code des pensions civiles et militaires de retraite L40 al. 2, 3 et 4 et L45 al. 1
+
+
+###### Article R*57
+
+Lorsque la veuve demande le rétablissement de son droit à pension en vertu du dernier alinéa de l'article L. 46, ce droit
+prend nécessairement effet à compter de la date du nouveau veuvage, du divorce, de la séparation de corps ou de la cessation
+du concubinage notoire et la pension éventuellement attribuée aux enfants âgés de moins de vingt et un ans est annulée à
+compter de cette même date.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°66-809 1966-10-28
+
+	**Modifié par**:
+
+	  - Loi n°75-1242 du 27 décembre 1975 - art. 16 () JORF 28 décembre 1975
+
+	**Cite**:
+
+	  - Code des pensions civiles et militaires de retrait - art. L46 (V)
+
+
 ### Titre VII : Dispositions spéciales.
 
 #### Chapitre Ier : Solde de réserve des officiers généraux.
@@ -4628,6 +4903,31 @@ de l'article L. 59.
 	**Cite**:
 
 	  - Code des pensions civiles et militaires de retrait - art. L59 (Ab)
+
+
+###### Article R*70
+
+En cas de divorce ou en cas de séparation de corps non prononcée au profit exclusif de la femme, cette dernière cesse de
+bénéficier des dispositions de l'article L. 60. Ses droits sont transférés, le cas échéant, sur la tête des enfants âgés de
+moins de vingt et un ans.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°66-809 1966-10-28
+
+	**Modifié par**:
+
+	  - Loi n°75-1242 du 27 décembre 1975 - art. 16 () JORF 28 décembre 1975
+
+	**Abrogé par**:
+
+	  - Décret n°2003-1305 du 26 décembre 2003 - art. 47 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
+
+	**Cite**:
+
+	  - Code des pensions civiles et militaires de retrait - art. L60 (Ab)
 
 
 ## Livre II : Dispositions particulières du régime général des retraites.
