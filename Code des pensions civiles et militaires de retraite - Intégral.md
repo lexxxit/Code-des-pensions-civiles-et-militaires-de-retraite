@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 1982-04-02
+Version Consolidée au 1982-07-14
 
 # Partie législative
 
@@ -521,6 +521,116 @@ attribués aux militaires et assimilés dans les conditions déterminées par d�
 	**Codifié par**:
 
 	  - Loi n°64-1339 1964-12-29
+
+
+###### Article L12
+
+Aux services effectifs s'ajoutent, dans les conditions déterminées par règlement d'administration publique, les bonifications
+ci-après :
+
+a) Bonification de dépaysement pour les services civils rendus hors d'Europe ;
+
+b) Bonification accordée aux femmes fonctionnaires pour chacun de leurs enfants légitimes, de leurs enfants naturels dont la
+filiation est établie ou de leurs enfants adoptifs et, sous réserve qu'ils aient été élevés pendant neuf ans au moins avant
+leur vingt et unième année révolue, pour chacun des autres enfants énumérés au paragraphe II de l'article L. 18.
+
+c) Bénéfices de campagne, notamment en temps de guerre et pour services à la mer et outre-mer.
+
+Les fonctionnaires et agents féminins ayant servi en qualité d'infirmières ou d'ambulancières pendant les guerres 1914-1918
+et 1939-1945, les campagnes d'Indochine et de Corée bénéficient des avantages réservés aux fonctionnaires anciens
+combattants.
+
+Cette disposition est étendue aux agents féminins dont la pension a déjà été liquidée ou a fait l'objet d'une péréquation ;
+
+d) Bonification pour l'exécution d'un service aérien ou sous-marin commandé. Le décompte des coefficients applicables aux
+heures de vol ou à la durée des services sous-marins est effectué conformément aux dispositions en vigueur au moment où s'est
+ouvert le droit à ces bonifications ;
+
+e) Bonification accordée aux fonctionnaires demeurés dans les régions envahies ou les localités bombardées au cours de la
+guerre 1914-1918 ;
+
+f) Bonification accordée aux agents des postes et télécommunications ayant servi en temps de guerre à bord des navires
+câbliers ;
+
+g) Bonification accordée aux déportés politiques ;
+
+h) Bonification accordée aux professeurs d'enseignement technique au titre du stage professionnel exigé pour avoir le droit
+de se présenter au concours par lequel ils ont été recrutés ;
+
+i) Une bonification du cinquième du temps de service accompli est accordée dans la limite de cinq annuités à tous les
+militaires à la condition qu'ils aient accompli au moins quinze ans de services militaires effectifs ou qu'ils aient été
+rayés des cadres pour invalidité ; le maximum de bonifications est donné aux militaires qui quittent le service à cinquante-
+cinq ans ; la bonification est diminuée d'une annuité pour chaque année supplémentaire de service jusqu'à l'âge de cinquante-
+huit ans.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°46-1541 du 22 juin 1946 - art. Annexe 3 (VT)
+	  - Loi n°57-871 du 1 août 1957 - art. 1 (V)
+	  - Décret n°68-382 du 5 avril 1968 - art. 12 (V)
+	  - Décret n°68-382 du 5 avril 1968 - art. 6 (V)
+	  - Décret n°68-960 du 11 octobre 1968 - art. 11 bis (V)
+	  - Décret n°75-1206 du 22 décembre 1975 - art. 22 (M)
+	  - Décret n°75-1207 du 22 décembre 1975 - art. 22 (M)
+	  - Décret n°75-1208 du 22 décembre 1975 - art. 20 (M)
+	  - Décret n°75-1209 du 22 décembre 1975 - art. 18 (M)
+	  - Ordonnance n°82-297 du 31 mars 1982 - art. 6 (Ab)
+	  - Décret n°86-999 du 27 août 1986 - art. 5 (V)
+	  - Arrêté du 3 juin 1988 - art. 4 (V)
+	  - Décret n°90-1215 du 20 décembre 1990 - art. 92 (V)
+	  - Décret n°93-468 du 25 mars 1993 - art. 5 (AbD)
+	  - Loi n°96-1093 du 16 décembre 1996 - art. 13 (V)
+	  - Loi n°2002-1094 du 29 août 2002 - art. 4 (V)
+	  - Loi n°2003-775 du 21 août 2003 - art. 48 (V)
+	  - Loi n°2003-775 du 21 août 2003 - art. 74 (V)
+	  - Décret n°2004-1056 du 5 octobre 2004 - art. 50 (VD)
+	  - Loi n°2004-1370 du 20 décembre 2004 - art. 57 (Ab)
+	  - Décret n°2008-935 du 12 septembre 2008 - art. 38 (Ab)
+	  - Décret n°2008-1113 du 29 octobre 2008 - art. 1 (VD)
+	  - Décret n°2009-922 du 27 juillet 2009 (V)
+	  - Décret n°2009-923 du 27 juillet 2009 (V)
+	  - Loi n°2013-1168 du 18 décembre 2013 - art. 36 (V)
+	  - Loi n°2015-1785 du 29 décembre 2015 - art. 132 (V)
+	  - Loi n°2016-1827 du 23 décembre 2016 - art. 52 (V)
+	  - Code de la défense. - art. L4139-4 (V)
+	  - Code de la sécurité sociale. - art. D173-21-0-2 (VT)
+	  - Code de la sécurité sociale. - art. L351-4 (V)
+	  - Code des pensions civiles et militaires de retr... - art. D16-4 (VT)
+	  - Code des pensions civiles et militaires de retr... - art. L17 (V)
+	  - Code des pensions civiles et militaires de retr... - art. L25 bis (V)
+	  - Code des pensions civiles et militaires de retr... - art. R*76 (V)
+	  - Code des pensions civiles et militaires de retr... - art. R*76 bis (V)
+	  - Code des pensions civiles et militaires de retr... - art. R*76 ter (V)
+	  - Code des pensions civiles et militaires de retr... - art. R13 (V)
+	  - Code des pensions civiles et militaires de retr... - art. R14 (V)
+	  - Code des pensions civiles et militaires de retr... - art. R25-1 (V)
+	  - Code des pensions civiles et militaires de retrait - art. D21-1 (V)
+	  - Code des pensions civiles et militaires de retrait - art. D22 (V)
+	  - Code des pensions civiles et militaires de retrait - art. L14 (M)
+	  - Code des pensions civiles et militaires de retrait - art. L73 (V)
+	  - Code des pensions civiles et militaires de retrait - art. R*25 (V)
+	  - Code des pensions civiles et militaires de retrait - art. R*26 bis (V)
+	  - Code des pensions civiles et militaires de retrait - art. R11 (V)
+	  - Code des pensions civiles et militaires de retrait - art. R20 (V)
+	  - Code des pensions civiles et militaires de retrait - art. R22 (Ab)
+	  - Code des pensions civiles et militaires de retrait - art. R23 (Ab)
+	  - Code des pensions civiles et militaires de retrait - art. R24 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°64-1339 1964-12-29
+
+	**Modifié par**:
+
+	  - Loi n°75-1000 du 30 octobre 1975 - art. 3 () JORF 31 octobre 1975
+	  - Loi n°77-1466 1977-12-30 art. 15 I JORF 31 décembre 1977
+	  - Loi n°82-599 du 13 juillet 1982 - art. 24 () JORF 14 juillet 1982
+
+	**Cite**:
+
+	  - Code des pensions civiles et militaires de retrait - art. L18 (M)
 
 
 #### Chapitre II : Détermination du montant de la pension.
@@ -2213,6 +2323,90 @@ effectifs et de bonifications prévues à l'article L. 12 du présent code.
 
 ##### Paragraphe IV : Avantages de pension de caractère familial.
 
+###### Article L18
+
+I. - Une majoration de pension est accordée aux titulaires ayant élevé au moins trois enfants.
+
+II. - Ouvrent droit à cette majoration :
+
+Les enfants légitimes, les enfants naturels dont la filiation est établie et les enfants adoptifs du titulaire de la
+pension ;
+
+Les enfants du conjoint issus d'un mariage précédent, ses enfants naturels dont la filiation est établie et ses enfants
+adoptifs ;
+
+Les enfants ayant fait l'objet d'une délégation de l'autorité parentale en faveur du titulaire de la pension ou de son
+conjoint ;
+
+Les enfants placés sous tutelle du titulaire de la pension ou de son conjoint, lorsque la tutelle s'accompagne de la garde
+effective et permanente de l'enfant ;
+
+Les enfants recueillis à son foyer par le titulaire de la pension ou son conjoint, qui justifie, dans les conditions fixées
+par décret en Conseil d'Etat, en avoir assumé la charge effective et permanente.
+
+III. - A l'exception des enfants décédés par faits de guerre, les enfants devront avoir été élevés pendant au moins neuf ans,
+soit avant leurseizième anniversaire, soit avant l'âge où ils ont cessé d'être à charge au sens de l'article L. 527 du code
+de la sécurité sociale.
+
+Pour satisfaire la condition de durée ci-dessus, il sera tenu compte, le cas échéant, du temps pendant lequel les enfants
+auront été élevés par le conjoint après le décès du titulaire.
+
+IV. - Le bénéfice de la majoration est accordé :
+
+Soit au moment où l'enfant atteint l'âge de seize ans ;
+
+Soit au moment où, postérieurement à l'âge de seize ans, il remplit la condition visée au III ci-dessus.
+
+V. - Le taux de la majoration de la pension est fixé à 10 % de son montant pour les trois premiers enfants et à 5 % par
+enfant au-delà du troisième, sans que le montant de la pension majorée puisse excéder le montant des émoluments de base
+déterminés à l'article L. 15.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°64-1339 1964-12-26 JORF 30 décembre 1964 rectificatif JORF 10 janvier 1965 en vigueur le 1er décembre 1964
+
+	**Cité par**:
+
+	  - Loi n°64-1339 du 26 décembre 1964 - art. 3 (V)
+	  - Décret n°67-91 du 20 janvier 1967 - art. 22 (Ab)
+	  - Décret n°68-960 du 11 octobre 1968 - art. 11 bis (V)
+	  - Décret n°90-1215 du 20 décembre 1990 - art. 92 (V)
+	  - Décret n°2014-455 du 6 mai 2014 - art. 7 (V)
+	  - Code des pensions civiles et militaires de retr... - art. L12 (V)
+	  - Code des pensions civiles et militaires de retr... - art. L24 (V)
+	  - Code des pensions civiles et militaires de retr... - art. L30 ter (V)
+	  - Code des pensions civiles et militaires de retr... - art. R33 bis (M)
+	  - Code des pensions civiles et militaires de retr... - art. R44 (V)
+	  - Code des pensions civiles et militaires de retrait - art. D16 (V)
+	  - Code des pensions civiles et militaires de retrait - art. D22 (V)
+	  - Code des pensions civiles et militaires de retrait - art. D26 (V)
+	  - Code des pensions civiles et militaires de retrait - art. L12 ter (V)
+	  - Code des pensions civiles et militaires de retrait - art. L38 (V)
+	  - Code des pensions civiles et militaires de retrait - art. L89 (V)
+	  - Code des pensions civiles et militaires de retrait - art. R*103 (V)
+	  - Code des pensions civiles et militaires de retrait - art. R*32 bis (V)
+	  - Code des pensions civiles et militaires de retrait - art. R37 (V)
+	  - Code des pensions civiles et militaires de retrait - art. R52 (V)
+	  - Code des pensions militaires d'invalidité et de... - art. D561 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°74-1114 1974-12-27 art. 18 JORF 28 décembre 1974
+	  - Loi n°77-1466 1977-12-30 art. 15 II JORF 31 décembre 1977
+	  - Loi n°82-599 du 13 juillet 1982 - art. 24 () JORF 14 juillet 1982
+
+	**Cite**:
+
+	  - Code des pensions civiles et militaires de retrait - art. L15 (M)
+	  - Code de la sécurité sociale L527
+
+	**Codifié par**:
+
+	  - Loi n°64-1339 1964-12-29
+
+
 ###### Article L19
 
 A la pension s'ajoutent, le cas échéant, les avantages familiaux dans les conditions fixées par décret en Conseil d'Etat.
@@ -3295,6 +3489,72 @@ l'article L. 40 et de l'article L. 41.
 	  - Code des pensions civiles et militaires de retraite L38 al. 1, L40, L41 et L50
 
 
+###### Article L43
+
+Lorsqu'il existe une pluralité d'ayants cause de lits différents, la pension définie à l'article L. 38 est divisée en parts
+égales entre les lits représentés par le conjoint survivant ou divorcé ayant droit à pension ou par un ou plusieurs orphelins
+âgés de moins de vingt et un ans. Les enfants naturels sont assimilés à des orphelins légitimes ; ceux nés de la même mère
+représentent un seul lit. S'il existe des enfants nés du conjoint survivant ou divorcé ayant droit à pension, chacun d'eux a
+droit à la pension de 10 p. 100 dans les conditions prévues au premier alinéa de l'article L. 40. En cas de pluralité
+d'orphelins âgés de moins de vingt et un ans d'un même lit non représenté par le conjoint survivant ou divorcé ayant droit à
+pension, il leur est fait application du deuxième alinéa de l'article L. 40.
+
+Si un lit cesse d'être représenté, sa part accroît celle du ou des autres lits.
+
+**Nota:**
+
+Dans sa décision n° 2010-108 QPC du 25 mars 2011 (NOR : CSCX1108521S), le Conseil constitutionnel a déclaré contraire à la
+Constitution l'article L. 43 du code des pensions civiles et militaires de retraite. La déclaration d'inconstitutionnalité de
+l'article 1er prend effet le 1er janvier 2012 dans les conditions fixées au considérant 6.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°66-807 du 28 octobre 1966 - art. 1 (V)
+	  - Code des pensions civiles et militaires de retr... - art. L55 (V)
+	  - Code des pensions civiles et militaires de retrait - art. R*55 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°75-1242 du 27 décembre 1975 - art. 16 () JORF 28 décembre 1975
+	  - Loi n°77-574 1977-06-07 art. 20 JORF 8 juin 1977 rectificatif JORF 21 juin 1977
+	  - Loi n°82-599 du 13 juillet 1982 - art. 15 () JORF 14 juillet 1982
+
+	**Codifié par**:
+
+	  - Loi n°64-1339 1964-12-29
+
+
+###### Article L44
+
+Le conjoint séparé de corps et le conjoint divorcé ont droit à la pension prévue soit au premier alinéa de l'article L. 38,
+soit à l'article L. 50. Le conjoint divorcé qui s'est remarié avant le décès du fonctionnaire et qui, à la cessation de cette
+union, ne bénéficie d'aucun droit à pension de réversion peut faire valoir ce droit s'il n'est pas ouvert au profit d'un
+autre ayant cause.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°66-807 du 28 octobre 1966 - art. 1 (V)
+
+	**Codifié par**:
+
+	  - Loi n°64-1339 1964-12-29
+
+	**Modifié par**:
+
+	  - Loi n°75-617 1975-07-11 art. 13 JORF 12 juillet 1975
+	  - Loi n°78-753 1978-07-17 art. 43 I JORF 18 juillet 1978
+	  - Loi n°78-753 du 17 juillet 1978 - art. 43
+	  - Loi n°82-599 du 13 juillet 1982 - art. 15 () JORF 14 juillet 1982
+
+	**Cite**:
+
+	  - Code des pensions civiles et militaires de retraite L38 al. 1 et L50
+
+
 ###### Article L45
 
 Lorsque, au décès du mari, il existe plusieurs conjoints, divorcés ou survivants, ayant droit à la pension définie au premier
@@ -3325,6 +3585,42 @@ Les deux alinéas qui précèdent s'appliquent dans les mêmes conditions à la 
 	**Cite**:
 
 	  - Code des pensions civiles et militaires de retraite L38 al. 1 et L50
+
+
+###### Article L46
+
+Le conjoint survivant ou le conjoint divorcé, qui contracte un nouveau mariage ou vit en état de concubinage notoire, perd
+son droit à pension.
+
+Les droits qui leur appartenaient ou qui leur auraient appartenu passent aux enfants âgés de moins de vingt et un ans dans
+les conditions prévues au second alinéa de l'article L. 40.
+
+Le conjoint survivant ou le conjoint divorcé, dont la nouvelle union est dissoute ou qui cesse de vivre en état de
+concubinage notoire, peut, s'il le désire, recouvrer son droit à pension et demander qu'il soit mis fin à l'application qui a
+pu être faite des dispositions du premier alinéa du présent article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°64-1339 1964-12-26 JORF 30 décembre 1964 rectificatif JORF 10 janvier 1965 en vigueur le 1er décembre 1964
+
+	**Codifié par**:
+
+	  - Loi n°64-1339 1964-12-29
+
+	**Modifié par**:
+
+	  - Loi n°75-1242 du 27 décembre 1975 - art. 16 () JORF 28 décembre 1975
+	  - Loi n°82-599 du 13 juillet 1982 - art. 15 () JORF 14 juillet 1982
+
+	**Cité par**:
+
+	  - Code des pensions civiles et militaires de retr... - art. R57 (V)
+
+	**Cite**:
+
+	  - Code des pensions civiles et militaires de retrait - art. L40 (M)
 
 
 #### Chapitre II : Militaires.
@@ -3402,6 +3698,61 @@ liquidable.
 	**Cité par**:
 
 	  - Code des pensions militaires d'invalidité et de... - art. L138 (VT)
+
+	**Codifié par**:
+
+	  - Loi n°64-1339 1964-12-29
+
+
+#### Chapitre III : Dispositions communes.
+
+###### Article L50
+
+Le conjoint survivant non séparé de corps d'une femme fonctionnaire ou d'une femme appartenant au personnel militaire féminin
+peut, sous les réserves et dans les conditions fixées par le présent article, prétendre à 50 % de la pension obtenue par elle
+ou qu'elle aurait pu obtenir au jour de son décès et augmentée, le cas échéant, de la moitié de la rente d'invalidité dont
+elle bénéficiait ou aurait pu bénéficier, si se trouve remplie la condition d'antériorité de mariage prévue à l'article L. 39
+(a ou b) ou L. 47 (a ou b).
+
+La jouissance de cette pension est suspendue tant que subsiste un orphelin bénéficiaire des dispositions de l'article L. 42
+(premier alinéa) et différée jusqu'au jour où le conjoint survivant atteint l'âge minimal d'entrée en jouissance des pensions
+fixé par l'article L. 24-1er (1°) pour les fonctionnaires n'ayant pas occupé des emplois classés en catégorie B. Toutefois,
+lorsque le conjoint survivant est reconnu, dans les formes fixées à l'article L. 31, atteint d'une infirmité ou maladie
+incurable le rendant définitivement incapable de travailler, l'entrée en jouissance est fixée à la date où la constatation en
+a été faite.
+
+Le montant de la pension de réversion concédée dans les conditions fixées par le présent article ne peut excéder 37,50 % du
+traitement brut afférent à l'indice brut 550 prévu par l'article 1er du décret n° 48-1108 du 10 juillet 1948 et les textes
+subséquents.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°48-1108 du 10 juillet 1948 - art. 1 (V)
+	  - Code des pensions civiles et militaires de retrait - art. L24 (M)
+	  - Code des pensions civiles et militaires de retrait - art. L31 (M)
+	  - Code des pensions civiles et militaires de retrait - art. L39 (M)
+	  - Code des pensions civiles et militaires de retraite L24, L31, L39, L42 al. 1 et L47
+
+	**Cité par**:
+
+	  - Décret n°68-382 du 5 avril 1968 - art. 23 (Ab)
+	  - Décret n°68-960 du 11 octobre 1968 - art. 21 (Ab)
+	  - Décret n°85-1148 du 24 octobre 1985 - art. 7 (M)
+	  - Code de la défense. - art. L4123-9 (V)
+
+	**Modifié par**:
+
+	  - Loi n°73-1128 1973-12-21 art. 12 III JORF 23 décembre 1973
+	  - Loi n°78-753 1978-07-17 art. 43 III JORF 18 juillet 1978
+	  - Loi n°78-753 du 17 juillet 1978 - art. 43
+	  - Loi n°82-599 du 13 juillet 1982 - art. 15 () JORF 14 juillet 1982
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°78-753 du 17 juillet 1978 - art. 44 (V)
+	  - SPEC_APPLI: Loi n°82-599 1982-07-13 art. 31
 
 	**Codifié par**:
 
