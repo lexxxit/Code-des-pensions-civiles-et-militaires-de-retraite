@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 1972-07-14
+Version Consolidée au 1972-10-29
 
 # Partie législative
 
@@ -4378,6 +4378,34 @@ perte du droit à l'obtention ou à la jouissance de la pension.
 	**Abrogé par**:
 
 	  - Décret n°2003-1305 du 26 décembre 2003 - art. 47 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
+
+
+#### Chapitre V : Droits des personnels militaires féminins, officiers ou assimilés, aux avantages accordés aux femmes fonctionnaires.
+
+###### Article R*64
+
+Pour les personnels militaires féminins, officiers ou assimilés, admis à faire valoir leurs droits à pension en application
+de l'article L. 6 (1°), la jouissance de la pension est immédiate :
+
+a) Soit lorsque les intéressées sont mères de trois enfants vivants ou décédés par faits de guerre ou d'un enfant vivant âgé
+de plus d'un an et atteint d'une invalidité égale ou supérieure à 80 p. 100 ;
+
+b) Soit lorsque leur conjoint est atteint d'une infirmité ou d'une maladie incurable le plaçant dans l'impossibilité
+d'exercer une profession quelconque.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°66-809 1966-10-28
+
+	**Modifié par**:
+
+	  - Décret n°72-980 1972-10-23 art. 2 JORF 29 octobre 1972
+
+	**Cite**:
+
+	  - Code des pensions civiles et militaires de retrait - art. L6 (M)
 
 
 ### Titre VIII : Dispositions d'ordre et diverses.
