@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 1983-04-01
+Version Consolidée au 1983-12-30
 
 # Partie législative
 
@@ -4643,14 +4643,10 @@ Dans tous les cas, le taux de l'ancienne pension, s'il est plus avantageux, est 
 
 #### Chapitre IV : Sapeurs-pompiers de Paris.
 
-###### Article L82
+###### Article L83
 
-(Abrogé par la loi n° 83-1179 du 29 décembre 1983, art. 131.)
-
-Rédaction primitive de la loi du 26 décembre 1964 :
-
-Art. L. 82 : A la pension des militaires non officiers de la gendarmerie s'ajoute une majoration dont le montant et les
-modalités d'attribution seront déterminés par un règlement d'administration publique.
+A la pension des militaires officiers et non officiers du régiment des sapeurs-pompiers de Paris s'ajoute une majoration dont
+le montant et les modalités d'attribution seront déterminés par un règlement d'administration publique.
 
 **Liens relatifs à cet article**
 
@@ -4658,9 +4654,13 @@ modalités d'attribution seront déterminés par un règlement d'administration 
 
 	  - Loi n°64-1339 1964-12-29
 
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Loi n°83-1179 1983-12-29 art. 131 II JORF 30 décembre 1983
+
+	**Cité par**:
+
+	  - Loi n°2010-1657 du 29 décembre 2010 - art. 152 (V)
 
 
 ### Titre III : Cumul de pensions avec des rémunérations d'activité ou d'autres pensions.
