@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 2005-01-01
+Version Consolidée au 2005-02-12
 
 # Partie législative
 
@@ -2878,7 +2878,15 @@ Sont assimilés aux enfants mentionnés au premier alinéa les enfants énumér�
 
 4° Lorsque le fonctionnaire ou son conjoint est atteint d'une infirmité ou d'une maladie incurable le plaçant dans
 l'impossibilité d'exercer une quelconque profession, dans les conditions prévues à l'article L. 31 et sous réserve que le
-fonctionnaire ait accompli au moins quinze ans de services.
+fonctionnaire ait accompli au moins quinze ans de services ;
+
+5° La condition d'âge de soixante ans figurant au l° est abaissée dans des conditions fixées par décret pour les
+fonctionnaires handicapés qui totalisent, alors qu'ils étaient atteints d'une incapacité permanente d'au moins 80 %, une
+durée d'assurance au moins égale à une limite fixée par décret, tout ou partie de cette durée ayant donné lieu à versement de
+retenues pour pensions.
+
+Les fonctionnaires visés à l'alinéa précédent bénéficient d'une pension calculée sur la base du nombre de trimestres
+nécessaires pour obtenir le pourcentage maximum mentionné au deuxième alinéa du I de l'article L. 13.
 
 II. - La liquidation de la pension militaire intervient :
 
@@ -2894,6 +2902,12 @@ services.
 
 III. - La liquidation de la solde de réforme intervient immédiatement. Toutefois, cette solde n'est perçue que pendant un
 temps égal à la durée des services effectivement accomplis par son bénéficiaire.
+
+**Nota:**
+
+NOTA : Loi 2005-102 2005-02-11 art. 28 III : Les dispositions du 5° de l'article L24 sont applicables aux fonctionnaires
+affiliés à la Caisse nationale de retraite des agents des collectivités locales ainsi qu'aux ouvriers régis par le régime des
+pensions des ouvriers des établissements industriels de l'Etat.
 
 **Liens relatifs à cet article**
 
@@ -2925,16 +2939,16 @@ temps égal à la durée des services effectivement accomplis par son bénéfici
 	  - Décret n°93-518 du 25 mars 1993 - art. 17 (Ab)
 	  - Décret n°93-519 du 25 mars 1993 - art. 13 (V)
 	  - Décret n°94-929 du 27 octobre 1994 - art. 13 (Ab)
-	  - Décret n°2003-1306 du 26 décembre 2003 - art. 22 (V)
-	  - Décret n°2003-1306 du 26 décembre 2003 - art. 25 (V)
-	  - Décret n°2003-1306 du 26 décembre 2003 - art. 36 (V)
-	  - Décret n°2003-1306 du 26 décembre 2003 - art. 39 (V)
-	  - Décret n°2004-1056 du 5 octobre 2004 - art. 21 (VD)
 	  - Loi n°96-452 du 28 mai 1996 - art. 24 (VD)
 	  - Loi n°2001-616 du 11 juillet 2001 - art. 64-1 (M)
 	  - Loi n°2003-775 du 21 août 2003 - art. 5 (V)
 	  - Loi n°2003-775 du 21 août 2003 - art. 78 (VD)
+	  - Décret n°2003-1306 du 26 décembre 2003 - art. 22 (V)
+	  - Décret n°2003-1306 du 26 décembre 2003 - art. 25 (V)
+	  - Décret n°2003-1306 du 26 décembre 2003 - art. 36 (V)
+	  - Décret n°2003-1306 du 26 décembre 2003 - art. 39 (V)
 	  - Loi n°2004-809 du 13 août 2004 - art. 111 (VD)
+	  - Décret n°2004-1056 du 5 octobre 2004 - art. 21 (VD)
 	  - Loi n°2004-1370 du 20 décembre 2004 - art. 57 (Ab)
 	  - Loi n°2005-102 du 11 février 2005 - art. 28 (V)
 	  - Décret n°2005-119 du 14 février 2005 - art. 1 (V)
@@ -3013,18 +3027,19 @@ temps égal à la durée des services effectivement accomplis par son bénéfici
 	  - Code des pensions militaires d'invalidité et de... - art. L242-7 (VD)
 	  - Code des pensions militaires d'invalidité et de... - art. L406 (VT)
 
-	**Codifié par**:
-
-	  - Loi n°64-1339 1964-12-29
-
 	**Modifié par**:
 
-	  - Loi n°2004-1485 du 30 décembre 2004 - art. 136 (V) JORF 31 décembre 2004
+	  - Loi n°2005-102 du 11 février 2005 - art. 28 (V) JORF 12 février 2005
 
 	**Cite**:
 
+	  - Code des pensions civiles et militaires de retrait - art. L13 (M)
 	  - Code des pensions civiles et militaires de retrait - art. L18 (M)
 	  - Code des pensions civiles et militaires de retrait - art. L31 (M)
+
+	**Codifié par**:
+
+	  - Loi n°64-1339 1964-12-29
 
 
 ###### Article L25
