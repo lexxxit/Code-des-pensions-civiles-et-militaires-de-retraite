@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 1988-11-09
+Version Consolidée au 1989-04-18
 
 # Partie législative
 
@@ -7392,6 +7392,48 @@ Il en est de même pour les surveillants des services pénitentiaires de la Guya
 	**Abrogé par**:
 
 	  - Décret n°2003-1305 du 26 décembre 2003 - art. 47 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
+
+
+#### Chapitre VI : Agents des offices ou établissements de l'Etat dotés de l'autonomie financière.
+
+###### Article R*81
+
+La liquidation et le service des pensions allouées en application du présent code à des fonctionnaires ou agents d'offices ou
+établissements de l'Etat dotés de l'autonomie financière sont effectués par l'Etat.
+
+Les offices et établissements autonomes sont astreints, en contrepartie, à verser annuellement au Trésor public :
+
+1° Le montant de la retenue effectuée sur le traitement de l'agent en exécution de l'article L. 61 ;
+
+2° Une contribution aux charges résultant pour l'Etat de la constitution de la pension dont le taux est fixé forfaitairement
+à 25 p. 100 du montant des émoluments soumis à retenues.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°46-2769 du 27 novembre 1946 - art. 99 (V)
+	  - Décret n°2007-1742 du 11 décembre 2007 - art. 2 (Ab)
+	  - Décret n°2008-1534 du 22 décembre 2008 (Ab)
+	  - Décret n°2010-53 du 14 janvier 2010 - art. 2 (Ab)
+	  - Décret n°2011-2037 du 29 décembre 2011 - art. 2 (Ab)
+	  - Décret n°2012-1507 du 27 décembre 2012 - art. 2 (V)
+
+	**Codifié par**:
+
+	  - Décret n°66-809 1966-10-28
+
+	**Modifié par**:
+
+	  - Décret n°89-225 1989-04-12 art. 1 JORF 18 avril 1989
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°89-225 1989-04-12 art. 2
+
+	**Cite**:
+
+	  - Code des pensions civiles et militaires de retrait - art. L61 (M)
 
 
 #### Chapitre VII : Anciens officiers de carrière ayant repris du service au cours des hostilités.
