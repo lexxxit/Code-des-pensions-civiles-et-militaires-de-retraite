@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 1990-07-11
+Version Consolidée au 1991-02-01
 
 # Partie législative
 
@@ -4081,7 +4081,7 @@ réservés au profit de la femme et des enfants.
 
 ###### Article L61
 
-Les agents visés à l'article L. 2 supportent une retenue de 8,9 % sur les sommes payées à titre de traitement ou de solde, à
+Les agents visés à l'article L. 2 supportent une retenue de 7,85 % sur les sommes payées à titre de traitement ou de solde, à
 l'exclusion d'indemnités de toute nature.
 
 **Liens relatifs à cet article**
@@ -4153,21 +4153,12 @@ l'exclusion d'indemnités de toute nature.
 
 	**Modifié par**:
 
-	  - Loi n°83-1179 du 29 décembre 1983 - art. 33 () JORF 30 décembre 1983
-	  - Loi n°86-966 1986-08-18 art. 9 JORF 19 août 1986
-	  - Loi n°87-516 du 10 juillet 1987 - art. 4 () JORF 12 juillet 1987
-	  - Loi n°88-810 1988-07-12 art. 3 JORF 14 juillet 1988
-	  - Loi n°89-18 du 13 janvier 1989 - art. 23 (V) JORF 14 janvier 1989
-	  - Loi n°89-936 du 29 décembre 1989 - art. 59 (V)
-	  - Loi n°89-936 du 29 décembre 1989 - art. 59 (V) JORF 30 décembre 1989
+	  - Loi n°91-73 1991-01-18 art. 25 JORF 20 janvier 1991 en vigueur le 1er février 1991
 
 	**Liens**:
 
-	  - SPEC_APPLI: Loi n°87-516 du 10 juillet 1987 - art. 4, v. init.
-	  - SPEC_APPLI: Loi n°88-810 1988-07-12 art. 3
-	  - SPEC_APPLI: Loi n°89-18 1989-01-13 art. 23
+	  - SPEC_APPLI: Loi n°91-73 1991-01-18 art. 31
 	  - TXT_SOURCE: Loi n°91-73 du 18 janvier 1991 - art. 25 (V)
-	  - SPEC_APPLI: Loi n°89-936 du 29 décembre 1989 - art. 59 (V)
 
 	**Cite**:
 
@@ -7528,7 +7519,7 @@ Les offices et établissements autonomes sont astreints, en contrepartie, à ver
 1° Le montant de la retenue effectuée sur le traitement de l'agent en exécution de l'article L. 61 ;
 
 2° Une contribution aux charges résultant pour l'Etat de la constitution de la pension dont le taux est fixé forfaitairement
-à 25 p. 100 du montant des émoluments soumis à retenues.
+à 26,6 p. 100 du montant des émoluments soumis à retenues.
 
 **Liens relatifs à cet article**
 
@@ -7545,13 +7536,13 @@ Les offices et établissements autonomes sont astreints, en contrepartie, à ver
 
 	  - Décret n°66-809 1966-10-28
 
-	**Modifié par**:
-
-	  - Décret n°89-225 1989-04-12 art. 1 JORF 18 avril 1989
-
 	**Liens**:
 
 	  - SPEC_APPLI: Décret n°89-225 1989-04-12 art. 2
+
+	**Modifié par**:
+
+	  - Décret n°91-442 du 14 mai 1991 - art. 3 (V) JORF 16 mai 1991 en vigueur le 1er février 1991
 
 	**Cite**:
 
