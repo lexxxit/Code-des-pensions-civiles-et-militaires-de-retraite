@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 1973-12-23
+Version Consolidée au 1974-12-31
 
 # Partie législative
 
@@ -3003,6 +3003,34 @@ Le cumul de deux ou plusieurs pensions acquises au titre de services rendus dans
 ### Chapitre Ier : Paiement des pensions.
 
 #### Paragraphe Ier : Règles générales du paiement des pensions.
+
+###### Article L90
+
+La pension et la rente viagère d'invalidité sont payées mensuellement et à terme échu dans les conditions déterminées par un
+règlement d'administration publique.
+
+La mise en paiement, portant rappel du jour de l'entrée en jouissance, doit être obligatoirement effectuée à la fin du
+premier mois suivant le mois de cessation de l'activité.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°68-382 du 5 avril 1968 - art. 36 (V)
+	  - Décret n°68-960 du 11 octobre 1968 - art. 34 (V)
+	  - Décret n°2003-1306 du 26 décembre 2003 - art. 27 (M)
+	  - Décret n°2008-637 du 30 juin 2008 - art. 39 (M)
+	  - Décret n°2008-639 du 30 juin 2008 - art. 24 (VD)
+	  - Code des pensions civiles et militaires de retrait - art. R*102 (V)
+
+	**Modifié par**:
+
+	  - Loi n°74-1129 1974-12-30 art. 62 JORF 31 décembre 1974
+
+	**Codifié par**:
+
+	  - Loi n°64-1339 1964-12-29
+
 
 ###### Article L91
 
