@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 2002-04-14
+Version Consolidée au 2002-11-28
 
 # Partie législative
 
@@ -7413,6 +7413,43 @@ détaché.
 	  - Loi n°72-662 du 13 juillet 1972 - art. 109 () JORF 14 juillet 1972
 
 
+###### Article R*74-1
+
+Les fonctionnaires détachés mentionnés à l'article 46 ter de la loi n° 84-16 du 11 janvier 1984 modifiée portant dispositions
+statutaires relatives à la fonction publique de l'Etat peuvent demander à cotiser au régime du code des pensions civiles et
+militaires de retraite dans un délai de quatre mois à compter de la date à laquelle la décision de détachement ou de
+renouvellement de celui-ci leur a été notifiée.
+
+La demande est présentée par écrit à l'administration dont le fonctionnaire est détaché.
+
+Le fonctionnaire qui, dans le délai prescrit, n'a pas exercé son droit d'option, est réputé avoir renoncé à la possibilité de
+cotiser au régime du code des pensions civiles et militaires de retraite.
+
+En cas de renouvellement d'un détachement, l'option émise par le fonctionnaire pour la précédente période de détachement est
+tacitement reconduite sauf pour lui à présenter, dans les délais prescrits au premier alinéa du présent article, une option
+contraire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°66-809 1966-10-28
+
+	**Cite**:
+
+	  - Loi n°84-16 1984-01-11 art. 46 ter
+
+	**Créé par**:
+
+	  - Décret n°2002-1391 du 21 novembre 2002 - art. 3 ()
+
+	**Cité par**:
+
+	  - Décret n°2003-1306 du 26 décembre 2003 - art. 54 (V)
+	  - Code des pensions civiles et militaires de retr... - art. R74-1-1 (V)
+	  - Code des pensions civiles et militaires de retr... - art. R74-3 (V)
+
+
 ###### Article R*75
 
 Les militaires de tous grades en service détaché visés à l'article L. 74 ont droit aux bénéfices de campagne prévus aux
@@ -7465,6 +7502,26 @@ détenu dans le corps d'origine sur proposition du ministre dont relève cet emp
 
 	  - Code des pensions civiles et militaires de retrait - art. L15 (M)
 	  - Code des pensions civiles et militaires de retraite L15, L63 et R3
+
+
+###### Article R74-2
+
+L'administration dont relève le fonctionnaire communique au service des pensions du ministère du budget l'option que
+l'intéressé a souscrite.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°66-809 1966-10-28
+
+	**Créé par**:
+
+	  - Décret n°2002-1391 du 21 novembre 2002 - art. 5 ()
+
+	**Cité par**:
+
+	  - Décret n°2003-1306 du 26 décembre 2003 - art. 54 (V)
 
 
 #### Chapitre III : Reprise de service par les fonctionnaires civils et militaires retraités.
@@ -7927,6 +7984,99 @@ délivré par le ministre des finances.
 	**Codifié par**:
 
 	  - Décret n°66-809 1966-10-28
+
+
+#### Chapitre III : Cumul de plusieurs pensions.
+
+###### Article R95-1
+
+Le pensionné mentionné au troisième alinéa de l'article L. 87 déclare au service des pensions du ministère du budget, dans un
+délai de deux mois à compter de la date de sa radiation des cadres, le montant annuel brut des pensions versées par les
+organismes étrangers de retraite dont il relevait pendant son détachement ainsi que la période d'affiliation au régime
+étranger concerné. Il joint à cette déclaration les copies des pièces justificatives correspondantes délivrées par ces
+organismes.
+
+Il renouvelle annuellement la déclaration du montant des pensions versées.
+
+Dans le cas où les pensions versées par les organismes étrangers de retraite ne seraient mises en paiement que
+postérieurement à la radiation des cadres, le fonctionnaire doit faire sa déclaration dans un délai de deux mois à compter de
+la date de mise en paiement de ces pensions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°66-809 1966-10-28
+
+	**Créé par**:
+
+	  - Décret n°2002-1391 du 21 novembre 2002 - art. 6 ()
+
+	**Cité par**:
+
+	  - Code des pensions civiles et militaires de retr... - art. R74-3 (V)
+	  - Code des pensions civiles et militaires de retr... - art. R95-3 (V)
+
+	**Cite**:
+
+	  - Code des pensions civiles et militaires de retrait - art. L87 (M)
+
+
+###### Article R95-2
+
+En cas de décès du fonctionnaire ou du pensionné, ses ayants cause sont tenus aux obligations de déclaration prévues à
+l'article 6.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°66-809 1966-10-28
+
+	**Créé par**:
+
+	  - Décret n°2002-1391 du 21 novembre 2002 - art. 7 ()
+
+	**Cité par**:
+
+	  - Décret n°2003-1306 du 26 décembre 2003 - art. 54 (V)
+
+	**Cite**:
+
+	  - Code des pensions civiles et militaires de retraite 6
+
+
+###### Article R95-3
+
+En cas d'inobservation des obligations fixées aux articles R. 95-1 et R. 95-2, à l'expiration d'un délai de quatre mois après
+réception par le pensionné ou ses ayants cause de la lettre de rappel adressée par le service des pensions du ministère du
+budget, la pension attribuée au titre du code des pensions civiles et militaires de retraite peut être suspendue, à titre
+conservatoire, à concurrence du montant correspondant aux annuités liquidables relatives à la période de détachement à
+l'étranger et, le cas échéant, aux bonifications afférentes.
+
+Il est mis fin à cette mesure de suspension conservatoire lorsque le fonctionnaire ou ses ayants cause satisfont aux
+obligations fixées aux articles R. 95-1 et R. 95-2. Le rappel éventuel des arrérages non versés pendant la période
+d'application de la suspension sera effectué, sans intérêts, sous réserve de la réduction du montant de la pension prévue au
+troisième alinéa de l'article L. 87.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°66-809 1966-10-28
+
+	**Créé par**:
+
+	  - Décret n°2002-1391 du 21 novembre 2002 - art. 8 ()
+
+	**Cité par**:
+
+	  - Décret n°2003-1306 du 26 décembre 2003 - art. 54 (V)
+
+	**Cite**:
+
+	  - Code des pensions civiles et militaires de retrait - art. L87 (M)
+	  - Code des pensions civiles et militaires de retraite R95-1, R95-2, L87
 
 
 ## Livre III : Dispositions relatives au paiement des pensions.
