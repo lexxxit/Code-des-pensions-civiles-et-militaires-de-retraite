@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 1968-05-19
+Version Consolidée au 1970-06-05
 
 # Partie législative
 
@@ -1905,6 +1905,40 @@ respectifs.
 
 
 #### Paragraphe II : Dispositions diverses.
+
+###### Article L58
+
+Le droit à l'obtention ou à la jouissance de la pension et de la rente viagère d'invalidité est suspendu :
+
+Par la révocation avec suspension des droits à pension ;
+
+Par la condamnation à la destitution prononcée par application du code de justice militaire ou maritime ;
+
+Par la condamnation à une peine afflictive ou infamante pendant la durée de la peine ;
+
+Par les circonstances qui font perdre la qualité de Français durant la privation de cette qualité ;
+
+Par la déchéance totale ou partielle de l'autorité parentale pour les veuves et les femmes divorcées.
+
+S'il y a lieu, par la suite, à la liquidation ou au rétablissement de la pension ou de la rente d'invalidité, aucun rappel
+n'est dû pour les périodes d'application de la suspension.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°60-1089 du 6 octobre 1960 - art. 4 (V)
+	  - Décret n°67-711 du 18 août 1967 - art. 30 (Ab)
+	  - Loi n°2003-775 du 21 août 2003 - art. 65 (V)
+
+	**Codifié par**:
+
+	  - Loi n°64-1339 1964-12-29
+
+	**Modifié par**:
+
+	  - Loi n°70-459 du 4 juin 1970 - art. 6 (V) JORF 5 juin 1970 rectificatif JORF 21 août 1970
+
 
 ###### Article L59
 
