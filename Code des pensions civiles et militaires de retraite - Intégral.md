@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 1966-12-01
+Version Consolidée au 1967-09-16
 
 # Partie législative
 
@@ -5065,6 +5065,39 @@ d'une pension allouée au titre du présent code, celle-ci est réduite du monta
 ### Titre III : Liquidation de la pension ou de la solde de réforme.
 
 #### Chapitre Ier : Services et bonifications valables.
+
+###### Article D8
+
+Les zones visées à l'article R. 11 (3e alinéa) sont ainsi déterminées :
+
+Première zone : ancienne Afrique occidentale française, Togo.
+
+Deuxième zone : ancienne Afrique équatoriale française, Cameroun.
+
+Troisième zone : ancienne Indochine.
+
+Quatrième zone : anciens Etablissements français dans l'Inde.
+
+Cinquième zone : Madagascar et dépendances, Comores.
+
+Sixième zone : Territoire français des Afars et des Issas (ancienne Côte française des Somalis).
+
+Septième zone : Nouvelles-Hébrides.
+
+Huitième zone : îles Wallis et Futuna.
+
+Neuvième zone : Terres australes et antarctiques françaises.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des pensions civiles et militaires de retraite R11 al. 3
+
+	**Codifié par**:
+
+	  - Décret n°66-810 1966-10-28
+
 
 ###### Article D9
 
