@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 2006-01-01
+Version Consolidée au 2006-05-12
 
 # Partie législative
 
@@ -5689,18 +5689,82 @@ Ecole du commissariat de l'air.
 
 ###### Article R9
 
-Les cas exceptionnels prévus à l'article L. 9 (1er alinéa in fine), dans lesquels le temps passé dans une position statutaire
-ne comportant pas l'accomplissement de services effectifs peut entrer en compte pour la constitution du droit à pension, sont
-énumérés dans le tableau annexé au présent code (1).
+Les modalités de prise en compte des périodes d'interruption ou de réduction d'activité mentionnées au 1° de l'article L. 9
+sont précisées dans le tableau suivant :
+
+<table>
+  <tbody>
+    <tr>
+      <td rowspan="2" width="138">CAS D'INTERRUPTION OUde réduction d'activité pour l'éducation d'un enfant né ou adopté à
+partir du 1er janvier 2004</td>
+      <td width="135" rowspan="2">DURÉE MAXIMALEde la période d'interruption ou de réduction d'activité</td>
+      <td colspan="3" width="408">DURÉE MAXIMALE NE COMPORTANT PAS L'ACCOMPLISSEMENT DE SERVICESeffectifs et pouvant être
+prise en compte dans la constitution du droit à pension au titre de l'article L. 9-1°</td>
+    </tr>
+    <tr>
+      <td width="134">Cas da la naissance ou de l'adoption d'un enfant unique</td>
+      <td width="136">Cas de naissances gémellaires ou de l'adoption simultanée de plusieurs enfants de même âge</td>
+      <td width="138">Cas de naissances ou adoptions successives, ou d'adoption simultanée de plusieurs enfants d'âges
+différents</td>
+    </tr>
+    <tr>
+      <td valign="top" width="138">Temps partiel de droit d'une quotité de 50 %.</td>
+      <td width="135" rowspan="4" valign="top">Jusqu'aux 3 ans de l'enfant (ou 3 ans à compter de l'arrivée au foyer de
+l'enfant adopté).</td>
+      <td width="270" colspan="2">6 trimestres</td>
+      <td rowspan="8" valign="top" width="138">Addition des durées corres­pondant à ces périodes.En cas de chevauchement de
+périodes d'interruption ou de réduction d'activité au titre d'enfants différents, la période du chevauchement n'est comptée
+qu'une seule fois.</td>
+    </tr>
+    <tr>
+      <td valign="top" width="138">Temps partiel de droit d'une quotité de 60 %.</td>
+      <td colspan="2" width="270">4,8 trimestres, soit 1 an, 2 mois et 12 jours</td>
+    </tr>
+    <tr>
+      <td width="138" valign="top">Temps partiel de droit d'une quotité de 70 %.</td>
+      <td colspan="2" width="270">3,6 trimestres, soit 10 mois et 24 jours</td>
+    </tr>
+    <tr>
+      <td valign="top" width="138">Temps partiel de droit d'une quotité de 80 %.</td>
+      <td colspan="2" width="270">2,4 trimestres, soit 7 mois et 6 jours</td>
+    </tr>
+    <tr>
+      <td valign="top" width="138">Congé parental.</td>
+      <td valign="top" width="135">Jusqu'aux 3 ans de l'enfant (ou 3 ans à compter de l'adoption d'un enfant de moins de 3
+ans).</td>
+      <td colspan="2" width="270">12 trimestres</td>
+    </tr>
+    <tr>
+      <td width="138" valign="top">
+      </td><td valign="top" width="135">Durée maximale d'un an pour un enfant adopté de plus de 3 ans.</td>
+      <td colspan="2" width="270">4 trimestres</td>
+    </tr>
+    <tr>
+      <td valign="top" width="138">Congé de présence parentale.</td>
+      <td valign="top" width="135">310 jours ouvrés.</td>
+      <td width="270" colspan="2">6 trimestres</td>
+    </tr>
+    <tr>
+      <td width="138" valign="top">Disponibilité pour élever un enfant de moins de 8 ans.</td>
+      <td valign="top" width="135">Jusqu'aux 8 ans de l'enfant.</td>
+      <td width="134" valign="top">12 trimestres.</td>
+      <td valign="top" width="136">24 trimestres pour 2 enfants jusqu'à leurs 8 ans.32 trimestres pour 3 enfants ou plus
+jusqu'à leurs 8 ans.</td>
+    </tr>
+  </tbody>
+</table>
+
+Pour le décompte des durées prises en compte dans la constitution du droit à pension au titre de l'article L. 9 (1°), sont
+retenues les durées effectivement non travaillées au cours des périodes d'interruption ou de réduction d'activité.
+
+Les cas exceptionnels prévus au 2° de l'article L. 9, dans lesquels le temps passé dans une position statutaire ne comportant
+pas l'accomplissement de services effectifs peut entrer en compte pour la constitution du droit à pension, sont énumérés dans
+le tableau annexé au présent code.
 
 Lorsqu'un bénéficiaire du présent code se trouve, au terme de sa carrière, dans une des positions figurant audit tableau et
-ne bénéficie pas dans cette position d'un traitement ou solde, les émoluments de base à retenir pour le calcul de sa pension
-sont déterminés conformément à l'article L. 15 (1er alinéa), compte tenu des emplois ou grades occupés avant la cessation des
+ne bénéficie pas dans cette position d'un traitement ou d'une solde, le traitement ou la solde à retenir pour le calcul de sa
+pension est déterminé conformément au I de l'article L. 15, compte tenu des emplois ou grades occupés avant la cessation des
 services effectifs.
-
-**Nota:**
-
-[*(1) Tableau publié en annexe au décret n° 69-1011 du 17 octobre 1969 paru au JORF du 11 novembre 1969.*]
 
 **Liens relatifs à cet article**
 
@@ -5714,9 +5778,16 @@ services effectifs.
 	  - Décret n°90-1215 du 20 décembre 1990 - art. 92 (V)
 	  - Code des pensions civiles et militaires de retr... - art. D21-1 (VD)
 
+	**Modifié par**:
+
+	  - Décret n°2003-1305 du 26 décembre 2003 - art. 5 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
+	  - Décret n°2006-536 du 11 mai 2006 - art. 4
+
 	**Cite**:
 
-	  - Code des pensions civiles et militaires de retraite L9 al. 1 et L15 al. 1
+	  - Code des pensions civiles et militaires de retrait - art. L15 (M)
+	  - Code des pensions civiles et militaires de retrait - art. L9 (M)
+	  - Code des pensions civiles et militaires de retraite L9, annexe, L15
 
 
 ### Titre III : Liquidation de la pension ou de la solde de réforme.
@@ -5805,7 +5876,7 @@ missions successives, si leur durée totale au cours d'une période de douze moi
 
 Le bénéfice des dispositions du b de l'article L. 12 est subordonné à une interruption d'activité d'une durée continue au
 moins égale à deux mois dans le cadre d'un congé pour maternité, d'un congé pour adoption, d'un congé parental ou d'un congé
-de présence parentale, prévus par les articles 34 (5°), 54 et 54 bis de la loi n° 84-16 du 11 janvier 1984 portant
+de présence parentale, prévus par les articles 34 (5°), 54 et 40 bis de la loi n° 84-16 du 11 janvier 1984 portant
 dispositions statutaires relatives à la fonction publique de l'Etat et les articles 53 (2°), 65-1 et 65-3 de la loi n° 72-662
 du 13 juillet 1972 portant statut général des militaires, ou d'une disponibilité pour élever un enfant de moins de huit ans
 prévue par l'article 47 du décret n° 85-986 du 16 septembre 1985 relatif au régime particulier de certaines positions des
@@ -5830,13 +5901,13 @@ fonctionnaires de l'Etat et à certaines modalités de cessation définitive de 
 	  - Loi n°72-662 1972-07-13 art. 53, art. 65-1, art. 65-3
 	  - Loi n°72-662 du 13 juillet 1972 - art. 65-1 (M)
 	  - Loi n°72-662 du 13 juillet 1972 - art. 65-3 (Ab)
-	  - Loi n°84-16 1984-01-11 art. 34, art. 54, art. 54 bis
+	  - Loi n°84-16 1984-01-11 art. 34, art. 54, art. 40 bis
 	  - Décret n°85-986 du 16 septembre 1985 - art. 47 (M)
 	  - Code des pensions civiles et militaires de retrait - art. L12 (M)
 
 	**Modifié par**:
 
-	  - Décret n°2003-1305 du 26 décembre 2003 - art. 6 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
+	  - Décret n°2006-536 du 11 mai 2006 - art. 4 () JORF 12 mai 2006
 
 
 ###### Article R14
@@ -6655,7 +6726,7 @@ d) Du congé parental, tel que prévu à l'article 65-1 de la loi du 13 juillet 
 janvier 1986 susmentionnée, à l'article 4 bis du décret du 24 février 1972 susmentionné et à l'article L. 122-28-1 du code du
 travail ;
 
-e) Du congé de présence parentale, tel que prévu à l'article 65-3 de la loi du 13 juillet 1972 susmentionnée, à l'article 54
+e) Du congé de présence parentale, tel que prévu à l'article 65-3 de la loi du 13 juillet 1972 susmentionnée, à l'article 40
 bis de la loi du 11 janvier 1984 susmentionnée, à l'article 75 bis de la loi du 26 janvier 1984 susmentionnée, à l'article
 64-1 de la loi du 9 janvier 1986 susmentionnée, à l'article 4 ter du décret du 24 février 1972 susmentionné et à l'article
 122-28-9 du code du travail ;
@@ -6671,35 +6742,6 @@ III. - Les périodes visées au deuxième alinéa du 3° du I de l'article L. 24
 cotisation de l'intéressé et pendant lesquelles celui-ci n'exerçait aucune activité professionnelle.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code rural L732-10, L732-11, L732-12, L732-12-1
-	  - Décret n°72-154 1972-02-24 art. 4, art. 4 bis, art. 4 ter
-	  - Décret n°72-154 du 24 février 1972 - art. 4 (M)
-	  - Loi n°72-662 1972-07-13 art. 53, art. 65-1, art. 65-3
-	  - Loi n°72-662 du 13 juillet 1972 - art. 65-1 (M)
-	  - Loi n°72-662 du 13 juillet 1972 - art. 65-3 (Ab)
-	  - Loi n°84-16 1984-01-11 art. 34, art. 54, art. 54 bis
-	  - Loi n°84-53 1984-01-26 art. 57, art. 75, art. 75 bis
-	  - Décret n°85-986 du 16 septembre 1985 - art. 47 (M)
-	  - Loi n°86-33 1986-01-09 art. 41, art. 64, art. 64-1
-	  - Loi n°86-33 du 9 janvier 1986 - art. 41 (M)
-	  - Loi n°86-33 du 9 janvier 1986 - art. 64-1 (Ab)
-	  - Décret n°86-68 du 13 janvier 1986 - art. 24 (M)
-	  - Décret n°88-976 du 13 octobre 1988 - art. 34 (M)
-	  - Décret n°2004-1056 2004-10-05 art. 5
-	  - Code des pensions civiles et militaires de retrait - art. L18 (M)
-	  - Code des pensions civiles et militaires de retrait - art. L24 (M)
-	  - Code du travail - art. L122-28-1 (M)
-	  - Code du travail L122-28-1, 122-28-9
-	  - Code de la sécurité sociale L512-3, R512-2 à R512-3, L331-3, L615-19, L331-8, L615-19-2, L331-7
-	  - Code de la sécurité sociale. - art. L331-3 (M)
-	  - Code de la sécurité sociale. - art. L331-7 (M)
-	  - Code de la sécurité sociale. - art. L331-8 (V)
-	  - Code de la sécurité sociale. - art. L512-3 (M)
-	  - Code de la sécurité sociale. - art. L615-19 (M)
-	  - Code de la sécurité sociale. - art. L615-19-2 (T)
 
 	**Codifié par**:
 
@@ -6719,9 +6761,38 @@ cotisation de l'intéressé et pendant lesquelles celui-ci n'exerçait aucune ac
 	  - Décret n°2016-810 du 16 juin 2016 (V)
 	  - Code de l'éducation - art. R914-123 (V)
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°2005-449 du 10 mai 2005 - art. 1 () JORF 11 mai 2005
+	  - Décret n°72-154 1972-02-24 art. 4, art. 4 bis, art. 4 ter
+	  - Décret n°72-154 du 24 février 1972 - art. 4 (M)
+	  - Loi n°72-662 1972-07-13 art. 53, art. 65-1, art. 65-3
+	  - Loi n°72-662 du 13 juillet 1972 - art. 65-1 (M)
+	  - Loi n°72-662 du 13 juillet 1972 - art. 65-3 (Ab)
+	  - Loi n°84-16 1984-01-11 art. 34, art. 54, art. 40 bis
+	  - Loi n°84-53 1984-01-26 art. 57, art. 75, art. 75 bis
+	  - Décret n°85-986 du 16 septembre 1985 - art. 47 (M)
+	  - Loi n°86-33 1986-01-09 art. 41, art. 64, art. 64-1
+	  - Loi n°86-33 du 9 janvier 1986 - art. 41 (M)
+	  - Loi n°86-33 du 9 janvier 1986 - art. 64-1 (Ab)
+	  - Décret n°86-68 du 13 janvier 1986 - art. 24 (M)
+	  - Décret n°88-976 du 13 octobre 1988 - art. 34 (M)
+	  - Décret n°2004-1056 2004-10-05 art. 5
+	  - Code des pensions civiles et militaires de retrait - art. L18 (M)
+	  - Code des pensions civiles et militaires de retrait - art. L24 (M)
+	  - Code du travail - art. L122-28-1 (M)
+	  - Code du travail L122-28-1, 122-28-9
+	  - Code de la sécurité sociale L512-3, R512-2 à R512-3, L331-3, L615-19, L331-8, L615-19-2, L331-7
+	  - Code de la sécurité sociale. - art. L331-3 (M)
+	  - Code de la sécurité sociale. - art. L331-7 (M)
+	  - Code de la sécurité sociale. - art. L331-8 (V)
+	  - Code de la sécurité sociale. - art. L512-3 (M)
+	  - Code de la sécurité sociale. - art. L615-19 (M)
+	  - Code de la sécurité sociale. - art. L615-19-2 (T)
+	  - Code rural L732-10, L732-11, L732-12, L732-12-1
+
+	**Modifié par**:
+
+	  - Décret n°2006-536 du 11 mai 2006 - art. 4 () JORF 12 mai 2006
 
 
 ### Titre V : Invalidité.
