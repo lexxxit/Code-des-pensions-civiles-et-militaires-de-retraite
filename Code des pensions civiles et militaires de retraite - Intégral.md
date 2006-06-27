@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 2006-05-12
+Version Consolidée au 2006-06-28
 
 # Partie législative
 
@@ -2873,8 +2873,8 @@ fonctionnaires handicapés qui totalisent, alors qu'ils étaient atteints d'une 
 durée d'assurance au moins égale à une limite fixée par décret, tout ou partie de cette durée ayant donné lieu à versement de
 retenues pour pensions.
 
-Les fonctionnaires visés à l'alinéa précédent bénéficient d'une pension calculée sur la base du nombre de trimestres
-nécessaires pour obtenir le pourcentage maximum mentionné au deuxième alinéa du I de l'article L. 13.
+Une majoration de pension est accordée aux fonctionnaires handicapés visés à l'alinéa précédent, dans des conditions
+déterminées par décret en Conseil d'Etat.
 
 II. - La liquidation de la pension militaire intervient :
 
@@ -2903,12 +2903,8 @@ temps égal à la durée des services effectivement accomplis par son bénéfici
 
 **Nota:**
 
-Nota : Loi 2005-102 2005-02-11 art. 28 III : Les dispositions du 5° de l'article L. 24 sont applicables aux fonctionnaires
-affiliés à la Caisse nationale de retraite des agents des collectivités locales ainsi qu'aux ouvriers régis par le régime des
-pensions des ouvriers des établissements industriels de l'Etat.
-
-Nota : Loi 2005-270 2005-03-24 art. 95 II : Les dispositions du 1° bis de l'article L. 24 sont applicables aux demandes
-présentées avant leur entrée en vigueur qui n'ont pas donné lieu à une décision de justice passée en force de chose jugée.
+Loi n° 2010-1330 du 9 novembre 2010, article 118 II : Les dispositions de l'article 36 sont applicables aux pensions prenant
+effet à compter du 1er juillet 2011.
 
 **Liens relatifs à cet article**
 
@@ -3021,7 +3017,6 @@ présentées avant leur entrée en vigueur qui n'ont pas donné lieu à une déc
 	  - Code des pensions civiles et militaires de retr... - art. R33 bis (V)
 	  - Code des pensions civiles et militaires de retr... - art. R37 (V)
 	  - Code des pensions civiles et militaires de retr... - art. R37 bis (V)
-	  - Code des pensions civiles et militaires de retrait - art. L24 (V)
 	  - Code des pensions civiles et militaires de retrait - art. L3 (V)
 	  - Code des pensions civiles et militaires de retrait - art. L50 (M)
 	  - Code des pensions civiles et militaires de retrait - art. L73 (V)
@@ -3030,13 +3025,13 @@ présentées avant leur entrée en vigueur qui n'ont pas donné lieu à une déc
 
 	**Modifié par**:
 
-	  - Loi n°2005-102 du 11 février 2005 - art. 28 (V)
-	  - Loi n°2005-270 du 24 mars 2005 - art. 95 () JORF 26 mars 2005 en vigueur le 1er juillet 2005
+	  - Loi n°2006-737 du 27 juin 2006 - art. 1 () JORF 28 juin 2006
+	  - Loi n°2010-1330 du 9 novembre 2010 - art. 44 (V)
 
 	**Cite**:
 
-	  - Code des pensions civiles et militaires de retrait - art. L13 (M)
 	  - Code des pensions civiles et militaires de retrait - art. L18 (M)
+	  - Code des pensions civiles et militaires de retrait - art. L24 (M)
 	  - Code des pensions civiles et militaires de retrait - art. L31 (M)
 
 	**Codifié par**:
