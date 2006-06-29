@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 2006-06-28
+Version Consolidée au 2006-06-30
 
 # Partie législative
 
@@ -6682,10 +6682,10 @@ la survenance de la limite d'âge, soit de redresser une illégalité.
 
 ###### Article R37
 
-I. - L'interruption d'activité prévue au premier alinéa du 3° du I de l'article L. 24 doit avoir eu une durée continue au
-moins égale à deux mois et être intervenue alors que le fonctionnaire était affilié à un régime de retraite obligatoire. En
-cas de naissances ou d'adoptions simultanées, la durée d'interruption d'activité prise en compte au titre de l'ensemble des
-enfants en cause est également de deux mois.
+I. - L'interruption d'activité prévue au premier alinéa du 3° du I et au premier alinéa du 1 bis du II de l'article L. 24
+doit avoir eu une durée continue au moins égale à deux mois et être intervenue alors que le fonctionnaire ou le militaire
+était affilié à un régime de retraite obligatoire. En cas de naissances ou d'adoptions simultanées, la durée d'interruption
+d'activité prise en compte au titre de l'ensemble des enfants en cause est également de deux mois.
 
 Cette interruption d'activité doit avoir eu lieu pendant la période comprise entre le premier jour de la quatrième semaine
 précédant la naissance ou l'adoption et le dernier jour de la seizième semaine suivant la naissance ou l'adoption.
@@ -6698,31 +6698,32 @@ charge au sens des articles L. 512-3 et R. 512-2 à R. 512-3 du code de la sécu
 II. - Sont prises en compte pour le calcul de la durée d'interruption d'activité les périodes correspondant à une suspension
 de l'exécution du contrat de travail ou à une interruption du service effectif, intervenues dans le cadre :
 
-a) Du congé pour maternité, tel que prévu à l'article 53 de la loi du 13 juillet 1972 portant statut général des militaires,
-au 5° de l'article 34 de la loi du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de
-l'Etat, au 5° de l'article 57 de la loi du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique
-territoriale, au 5° de l'article 41 de la loi du 9 janvier 1986 portant dispositions statutaires relatives à la fonction
-publique hospitalière, aux articles L. 331-3 et L. 615-19 du code de la sécurité sociale, à l'article 4 du décret n° 72-154
-du 24 février 1972 modifié relatif aux congés en cas de maladie, maternité et d'accidents du travail dont peuvent bénéficier
-certains personnels ouvriers de l'Etat mensualisés, ainsi qu'aux articles L. 732-10 et L. 732-11 du code rural ;
+a) Du congé pour maternité, tel que prévu aux articles 46 et 48 de la loi du 24 mars 2005 portant statut général des
+militaires, au 5° de l'article 34 de la loi du 11 janvier 1984 portant dispositions statutaires relatives à la fonction
+publique de l'Etat, au 5° de l'article 57 de la loi du 26 janvier 1984 portant dispositions statutaires relatives à la
+fonction publique territoriale, au 5° de l'article 41 de la loi du 9 janvier 1986 portant dispositions statutaires relatives
+à la fonction publique hospitalière, aux articles L. 331-3 et L. 615-19 du code de la sécurité sociale, à l'article 4 du
+décret n° 72-154 du 24 février 1972 modifié relatif aux congés en cas de maladie, maternité et d'accidents du travail dont
+peuvent bénéficier certains personnels ouvriers de l'Etat mensualisés, ainsi qu'aux articles L. 732-10 et L. 732-11 du code
+rural ;
 
-b) Du congé de paternité, tel que prévu à l'article 53 de la loi du 13 juillet 1972 susmentionnée, au 5° de l'article 34 de
-la loi du 11 janvier 1984 susmentionnée, au 5° de l'article 57 de la loi du 26 janvier 1984 susmentionnée, au 5° de l'article
-41 de la loi du 9 janvier 1986 susmentionnée, à l'article 4 du décret du 24 février 1972 susmentionné, aux articles L. 331-8
-et L. 615-19-2 du code de la sécurité sociale, ainsi qu'à l'article L. 732-12 du code rural ;
+b) Du congé de paternité, tel que prévu aux articles 46 et 48 de la loi du 24 mars 2005 susmentionnée, au 5° de l'article 34
+de la loi du 11 janvier 1984 susmentionnée, au 5° de l'article 57 de la loi du 26 janvier 1984 susmentionnée, au 5° de
+l'article 41 de la loi du 9 janvier 1986 susmentionnée, à l'article 4 du décret du 24 février 1972 susmentionné, aux articles
+L. 331-8 et L. 615-19-2 du code de la sécurité sociale, ainsi qu'à l'article L. 732-12 du code rural ;
 
-c) Du congé d'adoption, tel que prévu à l'article 53 de la loi du 13 juillet 1972 susmentionnée, au 5° de l'article 34 de la
-loi du 11 janvier 1984 susmentionnée, à l'article 57 de la loi du 26 janvier 1984 susmentionnée, à l'article 41 de la loi du
-9 janvier 1986 susmentionnée, à l'article 4 du décret du 24 février 1972 susmentionné, aux articles L. 331-7 et L. 615-19 du
-code de la sécurité sociale, ainsi qu'aux articles L. 732-12 et L. 732-12-1 du code rural ;
+c) Du congé d'adoption, tel que prévu aux articles 46 et 48 de la loi du 24 mars 2005 susmentionnée, au 5° de l'article 34 de
+la loi du 11 janvier 1984 susmentionnée, à l'article 57 de la loi du 26 janvier 1984 susmentionnée, à l'article 41 de la loi
+du 9 janvier 1986 susmentionnée, à l'article 4 du décret du 24 février 1972 susmentionné, aux articles L. 331-7 et L. 615-19
+du code de la sécurité sociale, ainsi qu'aux articles L. 732-12 et L. 732-12-1 du code rural ;
 
-d) Du congé parental, tel que prévu à l'article 65-1 de la loi du 13 juillet 1972 susmentionnée, à l'article 54 de la loi du
-11 janvier 1984 susmentionnée, à l'article 75 de la loi du 26 janvier 1984 susmentionnée, à l'article 64 de la loi du 9
+d) Du congé parental, tel que prévu aux articles 54 et 57 de la loi du 24 mars 2005 susmentionnée, à l'article 54 de la loi
+du 11 janvier 1984 susmentionnée, à l'article 75 de la loi du 26 janvier 1984 susmentionnée, à l'article 64 de la loi du 9
 janvier 1986 susmentionnée, à l'article 4 bis du décret du 24 février 1972 susmentionné et à l'article L. 122-28-1 du code du
 travail ;
 
-e) Du congé de présence parentale, tel que prévu à l'article 65-3 de la loi du 13 juillet 1972 susmentionnée, à l'article 40
-bis de la loi du 11 janvier 1984 susmentionnée, à l'article 75 bis de la loi du 26 janvier 1984 susmentionnée, à l'article
+e) Du congé de présence parentale, tel que prévu aux articles 54 et 58 de la loi du 24 mars 2005 susmentionnée, à l'article
+40 bis de la loi du 11 janvier 1984 susmentionnée, à l'article 75 bis de la loi du 26 janvier 1984 susmentionnée, à l'article
 64-1 de la loi du 9 janvier 1986 susmentionnée, à l'article 4 ter du décret du 24 février 1972 susmentionné et à l'article
 122-28-9 du code du travail ;
 
@@ -6733,31 +6734,15 @@ de disponibilité et de congé parental des fonctionnaires territoriaux, au b de
 relatif à certaines positions des fonctionnaires hospitaliers et à l'article 5 du décret du 5 octobre 2004 relatif au régime
 des pensions des ouvriers des établissements industriels de l'Etat.
 
-III. - Les périodes visées au deuxième alinéa du 3° du I de l'article L. 24 sont les périodes n'ayant pas donné lieu à
-cotisation de l'intéressé et pendant lesquelles celui-ci n'exerçait aucune activité professionnelle.
+III. - Les périodes visées au deuxième alinéa du 3° du I et au deuxième alinéa du 1° bis du II de l'article L. 24 sont les
+périodes n'ayant pas donné lieu à cotisation de l'intéressé et pendant lesquelles celui-ci n'exerçait aucune activité
+professionnelle.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°66-809 1966-10-28
-
-	**Cité par**:
-
-	  - Décret n°68-382 du 5 avril 1968 - art. 19 (V)
-	  - Décret n°68-960 du 11 octobre 1968 - art. 17 (V)
-	  - Décret n°90-1215 du 20 décembre 1990 - art. 84 (VT)
-	  - Décret n°2003-1306 du 26 décembre 2003 - art. 25 (V)
-	  - Décret n°2003-1306 du 26 décembre 2003 - art. 65-2 (V)
-	  - Décret n°2004-1056 du 5 octobre 2004 - art. 21 (VD)
-	  - Décret n°2006-933 du 28 juillet 2006 - art. 4 (V)
-	  - Décret n°2006-941 du 28 juillet 2006 - art. 4 (V)
-	  - Décret n°2010-1741 du 30 décembre 2010 - art. 2 (V)
-	  - Décret n°2016-810 du 16 juin 2016 (V)
-	  - Code de l'éducation - art. R914-123 (V)
-
 	**Cite**:
 
+	  - Code rural L732-10, L732-11, L732-12, L732-12-1
 	  - Décret n°72-154 1972-02-24 art. 4, art. 4 bis, art. 4 ter
 	  - Décret n°72-154 du 24 février 1972 - art. 4 (M)
 	  - Loi n°72-662 1972-07-13 art. 53, art. 65-1, art. 65-3
@@ -6783,11 +6768,28 @@ cotisation de l'intéressé et pendant lesquelles celui-ci n'exerçait aucune ac
 	  - Code de la sécurité sociale. - art. L512-3 (M)
 	  - Code de la sécurité sociale. - art. L615-19 (M)
 	  - Code de la sécurité sociale. - art. L615-19-2 (T)
-	  - Code rural L732-10, L732-11, L732-12, L732-12-1
+
+	**Codifié par**:
+
+	  - Décret n°66-809 1966-10-28
+
+	**Cité par**:
+
+	  - Décret n°68-382 du 5 avril 1968 - art. 19 (V)
+	  - Décret n°68-960 du 11 octobre 1968 - art. 17 (V)
+	  - Décret n°90-1215 du 20 décembre 1990 - art. 84 (VT)
+	  - Décret n°2003-1306 du 26 décembre 2003 - art. 25 (V)
+	  - Décret n°2003-1306 du 26 décembre 2003 - art. 65-2 (V)
+	  - Décret n°2004-1056 du 5 octobre 2004 - art. 21 (VD)
+	  - Décret n°2006-933 du 28 juillet 2006 - art. 4 (V)
+	  - Décret n°2006-941 du 28 juillet 2006 - art. 4 (V)
+	  - Décret n°2010-1741 du 30 décembre 2010 - art. 2 (V)
+	  - Décret n°2016-810 du 16 juin 2016 (V)
+	  - Code de l'éducation - art. R914-123 (V)
 
 	**Modifié par**:
 
-	  - Décret n°2006-536 du 11 mai 2006 - art. 4 () JORF 12 mai 2006
+	  - Décret n°2006-748 du 28 juin 2006 - art. 1 () JORF 30 juin 2006
 
 
 ### Titre V : Invalidité.
@@ -7486,35 +7488,6 @@ des intéressés.
 	**Cité par**:
 
 	  - Décret n°2012-1256 du 13 novembre 2012 - art. 16 (V)
-
-
-#### Chapitre V : Droits des personnels militaires féminins, officiers ou assimilés, aux avantages accordés aux femmes fonctionnaires.
-
-###### Article R*64
-
-Pour les personnels militaires féminins, officiers ou assimilés, admis à faire valoir leurs droits à pension en application
-de l'article L. 6 (1°), la jouissance de la pension est immédiate :
-
-a) Soit lorsque les intéressées sont mères de trois enfants vivants ou décédés par faits de guerre ou d'un enfant vivant âgé
-de plus d'un an et atteint d'une invalidité égale ou supérieure à 80 p. 100.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°66-809 1966-10-28
-
-	**Modifié par**:
-
-	  - Décret n°2003-1305 du 26 décembre 2003 - art. 47 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
-
-	**Abrogé par**:
-
-	  - Décret n°2006-748 du 28 juin 2006 - art. 2 () JORF 30 juin 2006
-
-	**Cite**:
-
-	  - Code des pensions civiles et militaires de retrait - art. L6 (M)
 
 
 ### Titre VIII : Dispositions d'ordre et diverses.
