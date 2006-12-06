@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 2006-08-22
+Version Consolidée au 2006-12-07
 
 # Partie législative
 
@@ -6727,8 +6727,8 @@ janvier 1986 susmentionnée, à l'article 4 bis du décret du 24 février 1972 s
 travail ;
 
 e) Du congé de présence parentale, tel que prévu aux articles 54 et 58 de la loi du 24 mars 2005 susmentionnée, à l'article
-40 bis de la loi du 11 janvier 1984 susmentionnée, à l'article 60 sexies de la loi du 26 janvier 1984 susmentionnée, à
-l'article 64-1 de la loi du 9 janvier 1986 susmentionnée, à l'article 4 ter du décret du 24 février 1972 susmentionné et à
+40 bis de la loi du 11 janvier 1984 susmentionnée, à l'article 60 sexies de la loi du 26 janvier 1984 susmentionnée, du 11°
+de l'article 41 de la loi du 9 janvier 1986 susmentionnée, à l'article 4 ter du décret du 24 février 1972 susmentionné et à
 l'article 122-28-9 du code du travail ;
 
 f) D'une disponibilité pour élever un enfant de moins de huit ans prévue au b de l'article 47 du décret du 16 septembre 1985
@@ -6755,9 +6755,8 @@ professionnelle.
 	  - Loi n°84-16 1984-01-11 art. 34, art. 54, art. 40 bis
 	  - Loi n°84-53 1984-01-26 art. 57, art. 75, art. 60 sexies
 	  - Décret n°85-986 du 16 septembre 1985 - art. 47 (M)
-	  - Loi n°86-33 1986-01-09 art. 41, art. 64, art. 64-1
+	  - Loi n°86-33 1986-01-09 art. 41, art. 64, art. 41
 	  - Loi n°86-33 du 9 janvier 1986 - art. 41 (M)
-	  - Loi n°86-33 du 9 janvier 1986 - art. 64-1 (Ab)
 	  - Décret n°86-68 du 13 janvier 1986 - art. 24 (M)
 	  - Décret n°88-976 du 13 octobre 1988 - art. 34 (M)
 	  - Décret n°2004-1056 2004-10-05 art. 5
@@ -6793,7 +6792,7 @@ professionnelle.
 
 	**Modifié par**:
 
-	  - Décret n°2006-1022 du 21 août 2006 - art. 4 () JORF 22 août 2006
+	  - Décret n°2006-1535 du 5 décembre 2006 - art. 4 () JORF 7 décembre 2006
 
 
 ### Titre V : Invalidité.
