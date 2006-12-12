@@ -11,6 +11,10 @@ supplément familial de traitement ou pour le calcul de l'impôt sur le revenu.
 
 	  - Décret n°66-809 1966-10-28
 
+	**Modifié par**:
+
+	  - Décret n°2006-1582 du 12 décembre 2006 - art. 1 () JORF 13 décembre 2006
+
 	**Cite**:
 
 	  - Code des pensions civiles et militaires de retrait - art. L18 (M)

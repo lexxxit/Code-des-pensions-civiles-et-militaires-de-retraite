@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 2006-12-07
+Version Consolidée au 2006-12-13
 
 # Partie législative
 
@@ -6541,7 +6541,7 @@ et financier annexé au projet de loi de finances pour l'année antérieure.
 	  - Code des pensions civiles et militaires de retraite - art. L16
 
 
-##### Paragraphe IV : Avantages de pension à caractère familial.
+##### Paragraphe IV : Avantages de pension.
 
 ###### Article R*32
 
@@ -6558,7 +6558,7 @@ pour enfants.
 
 	**Modifié par**:
 
-	  - Décret n°2003-1305 du 26 décembre 2003 - art. 14 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
+	  - Décret n°2006-1582 du 12 décembre 2006 - art. 1 () JORF 13 décembre 2006
 
 	**Cite**:
 
@@ -6577,6 +6577,10 @@ supplément familial de traitement ou pour le calcul de l'impôt sur le revenu.
 	**Codifié par**:
 
 	  - Décret n°66-809 1966-10-28
+
+	**Modifié par**:
+
+	  - Décret n°2006-1582 du 12 décembre 2006 - art. 1 () JORF 13 décembre 2006
 
 	**Cite**:
 
@@ -6616,7 +6620,37 @@ Le montant de ces avantages familiaux ne fait pas partie intégrante de la pensi
 
 	**Modifié par**:
 
-	  - Décret n°2003-1305 du 26 décembre 2003 - art. 15 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
+	  - Décret n°2006-1582 du 12 décembre 2006 - art. 1 () JORF 13 décembre 2006
+
+
+###### Article R33 bis
+
+I. - Le taux de la majoration de pension prévue au 5° du I de l'article L. 24 est fixé à un tiers du quotient obtenu en
+divisant la durée des services accomplis au sens de l'article L. 5 durant laquelle l'intéressé était atteint d'une incapacité
+permanente au moins égale à 80 %, par la durée de services et bonifications admise en liquidation. Le taux ainsi obtenu est
+arrondi, le cas échéant, au centième le plus proche.
+
+II. - La pension ainsi majorée ne peut excéder la pension qui aurait été obtenue par application du pourcentage maximum
+mentionné à l'article L. 13. Lorsque la pension est également majorée en application des dispositions de l'article L. 18, son
+montant ne peut excéder celui des éléments de rémunération déterminés à l'article L. 15.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°66-809 1966-10-28
+
+	**Créé par**:
+
+	  - Décret n°2006-1582 du 12 décembre 2006 - art. 2 () JORF 13 décembre 2006
+
+	**Cite**:
+
+	  - Code des pensions civiles et militaires de retrait - art. L13 (M)
+	  - Code des pensions civiles et militaires de retrait - art. L15 (M)
+	  - Code des pensions civiles et militaires de retrait - art. L18 (M)
+	  - Code des pensions civiles et militaires de retrait - art. L24 (M)
+	  - Code des pensions civiles et militaires de retrait - art. L5 (M)
 
 
 ### Titre IV : Jouissance de la pension ou de la solde de réforme.
@@ -6793,6 +6827,51 @@ professionnelle.
 	**Modifié par**:
 
 	  - Décret n°2006-1535 du 5 décembre 2006 - art. 4 () JORF 7 décembre 2006
+
+
+###### Article R37 bis
+
+Pour les fonctionnaires handicapés mentionnés au 5° du I de l'article L. 24, la condition d'âge de 60 ans est abaissée :
+
+1° A cinquante-cinq ans s'ils justifient alors qu'ils étaient atteints d'une incapacité permanente au moins égale à un taux
+de 80 %, d'une durée d'assurance au moins égale au nombre de trimestres nécessaire pour obtenir le pourcentage maximum de
+pension mentionné au second alinéa de l'article L. 13, diminué de 40 trimestres, et d'une durée d'assurance ayant donné lieu
+à cotisation à leur charge au moins égale au nombre de trimestres fixé à l'article L. 13, diminué de 60 trimestres ;
+
+2° A cinquante-six ans s'ils justifient, alors qu'ils étaient atteints d'une incapacité permanente au moins égale à un taux
+de 80 %, d'une durée d'assurance au moins égale au nombre de trimestres nécessaire pour obtenir le pourcentage maximum de
+pension mentionné au second alinéa de l'article L. 13, diminué de 50 trimestres, et d'une durée d'assurance ayant donné lieu
+à cotisation à leur charge au moins égale au nombre de trimestres fixé par l'article L. 13, diminué de 70 trimestres ;
+
+3° A cinquante-sept ans s'ils justifient, alors qu'ils étaient atteints d'une incapacité permanente au moins égale à un taux
+de 80 %, d'une durée d'assurance au moins égale au nombre de trimestres nécessaire pour obtenir le pourcentage maximum de
+pension mentionné au second alinéa de l'article L. 13, diminué de 60 trimestres, et d'une durée d'assurance ayant donné lieu
+à cotisation à leur charge au moins égale au nombre de trimestres fixé par l'article L. 13, diminué de 80 trimestres ;
+
+4° A cinquante-huit ans s'ils justifient, alors qu'ils étaient atteints d'une incapacité permanente au moins égale à un taux
+de 80 %, d'une durée d'assurance au moins égale au nombre de trimestres nécessaire pour obtenir le pourcentage maximum de
+pension mentionné au second alinéa de l'article L. 13, diminué de 70 trimestres, et d'une durée d'assurance ayant donné lieu
+à cotisation à leur charge au moins égale au nombre de trimestres fixé par l'article L. 13, diminué de 90 trimestres ;
+
+5° A cinquante-neuf ans s'ils justifient, alors qu'ils étaient atteints d'une incapacité permanente au moins égale à un taux
+de 80 %, d'une durée d'assurance au moins égale au nombre de trimestres nécessaire pour obtenir le pourcentage maximum de
+pension mentionné au second alinéa de l'article L. 13, diminué de 80 trimestres, et d'une durée d'assurance ayant donné lieu
+à cotisation à leur charge au moins égale au nombre de trimestres fixé par l'article L. 13, diminué de 100 trimestres.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°66-809 1966-10-28
+
+	**Créé par**:
+
+	  - Décret n°2006-1582 du 12 décembre 2006 - art. 3 () JORF 13 décembre 2006
+
+	**Cite**:
+
+	  - Code des pensions civiles et militaires de retrait - art. L13 (M)
+	  - Code des pensions civiles et militaires de retrait - art. L24 (M)
 
 
 ### Titre V : Invalidité.
