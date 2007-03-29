@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 2006-12-13
+Version Consolidée au 2007-03-30
 
 # Partie législative
 
@@ -416,8 +416,8 @@ d) Ou d'une disponibilité pour élever un enfant de moins de huit ans.
 Les modalités de prise en compte de ces périodes d'interruption ou de réduction d'activité prévues par les articles 37 bis,
 54 et 40 bis de la loi n° 84-16 du 11 janvier 1984 précitée, par l'article 47 du décret n° 85-986 du 16 septembre 1985
 relatif au régime particulier de certaines positions des fonctionnaires de l'Etat et à certaines modalités de cessation
-définitive de fonctions et par la loi n° 2005-270 du 24 mars 2005 portant statut général des militaires sont précisées par
-décret en Conseil d'Etat ;
+définitive de fonctions et par le livre Ier de la partie IV du code de la défense sont précisées par décret en Conseil
+d'Etat ;
 
 2° Dans les cas exceptionnels prévus par une loi ou par un décret en Conseil d'Etat.
 
@@ -479,20 +479,15 @@ applicables aux cas prévus au 1°.
 
 	  - Loi n°84-16 1984-01-11 art. 37 bis, art. 54, art. 40 bis, art. 34, art. 45
 	  - Décret n°85-986 du 16 septembre 1985 - art. 47 (M)
-	  - Loi n°2005-270 2005-03-24
 	  - Code des pensions civiles et militaires de retrait - art. L5 (M)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance 2005-759 2005-07-04 art. 20 : spécificités d'application
-
-	**Modifié par**:
-
-	  - Ordonnance n°2005-759 du 4 juillet 2005 - art. 19 () JORF 6 juillet 2005 en vigueur le 1er juillet 2006
 
 	**Codifié par**:
 
 	  - Loi n°64-1339 1964-12-29
+
+	**Modifié par**:
+
+	  - Ordonnance n°2007-465 du 29 mars 2007 - art. 8 () JORF 30 mars 2007
 
 
 ###### Article L9 bis
