@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 2007-03-30
+Version Consolidée au 2008-01-01
 
 # Partie législative
 
@@ -7695,62 +7695,16 @@ reversés au Trésor public.
 Lorsqu'un fonctionnaire qui a été placé en position de détachement au cours de sa carrière n'a pas acquitté à la date de sa
 radiation des cadres les retenues pour pension dont il était redevable dans cette position, la pension est néanmoins
 concédée, mais il est procédé, avant la mise en paiement de cette pension, au précompte intégral sur les premiers arrérages
-des retenues non versées, majorées des intérêts de retard au taux légal dans les conditions prévues à l'article 2 du décret-
-loi du 30 octobre 1935.
+des retenues non versées, majorées des intérêts de retard au taux légal. 
 
 Ces dispositions sont applicables aux personnels militaires et assimilés placés ou qui auraient été placés en service
 détaché.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°66-809 1966-10-28
-
 	**Modifié par**:
 
-	  - Décret n°2003-1305 du 26 décembre 2003 - art. 29 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
-
-	**Cite**:
-
-	  - Décret-loi 1935-10-30 art. 2
-
-
-###### Article R*74-1
-
-Les fonctionnaires détachés mentionnés à l'article 46 ter de la loi n° 84-16 du 11 janvier 1984 modifiée portant dispositions
-statutaires relatives à la fonction publique de l'Etat peuvent demander à cotiser au régime du code des pensions civiles et
-militaires de retraite dans un délai de quatre mois à compter de la date à laquelle la décision de détachement ou de
-renouvellement de celui-ci leur a été notifiée.
-
-La demande est présentée par écrit à l'administration dont le fonctionnaire est détaché.
-
-Le fonctionnaire qui, dans le délai prescrit, n'a pas exercé son droit d'option, est réputé avoir renoncé à la possibilité de
-cotiser au régime du code des pensions civiles et militaires de retraite.
-
-En cas de renouvellement d'un détachement, l'option émise par le fonctionnaire pour la précédente période de détachement est
-tacitement reconduite sauf pour lui à présenter, dans les délais prescrits au premier alinéa du présent article, une option
-contraire.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°66-809 1966-10-28
-
-	**Cite**:
-
-	  - Loi n°84-16 1984-01-11 art. 46 ter
-
-	**Créé par**:
-
-	  - Décret n°2002-1391 du 21 novembre 2002 - art. 3 ()
-
-	**Cité par**:
-
-	  - Décret n°2003-1306 du 26 décembre 2003 - art. 54 (V)
-	  - Code des pensions civiles et militaires de retr... - art. R74-1-1 (V)
-	  - Code des pensions civiles et militaires de retr... - art. R74-3 (V)
+	  - Décret n°2007-1796 du 19 décembre 2007 - art. 10 (V)
 
 
 ###### Article R*75
@@ -7843,6 +7797,44 @@ pension prévue à l'article L. 61 fait l'objet d'un précompte mensuel par l'ad
 	**Créé par**:
 
 	  - Décret n°2003-1305 du 26 décembre 2003 - art. 32 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
+
+
+###### Article R74-1
+
+Les fonctionnaires détachés mentionnés à l'article 46 ter de la loi n° 84-16 du 11 janvier 1984 modifiée portant dispositions
+statutaires relatives à la fonction publique de l'Etat peuvent demander à cotiser au régime du code des pensions civiles et
+militaires de retraite dans un délai de quatre mois à compter de la date à laquelle la décision de détachement ou de
+renouvellement de celui-ci leur a été notifiée. 
+
+La demande est présentée par écrit à l'administration dont le fonctionnaire est détaché. 
+
+Le fonctionnaire qui a souscrit à l'option prévue au premier alinéa est redevable de la cotisation mentionnée au 2° de
+l'article L. 61 auprès du comptable unique désigné par arrêté du ministre chargé du budget, selon des modalités fixées par
+arrêté. Le non-respect de cette obligation de versement suspend l'affiliation du fonctionnaire au présent régime. 
+
+Le fonctionnaire qui, dans le délai prescrit, n'a pas exercé son droit d'option, est réputé avoir renoncé à la possibilité de
+cotiser au régime du code des pensions civiles et militaires de retraite. 
+
+En cas de renouvellement d'un détachement, l'option émise par le fonctionnaire pour la précédente période de détachement est
+tacitement reconduite sauf pour lui à présenter, dans les délais prescrits au premier alinéa du présent article, une option
+contraire.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°84-16 du 11 janvier 1984 - art. 46 ter (V)
+	  - Code des pensions civiles et militaires de retraite - art. L61
+
+	**Cité par**:
+
+	  - Décret n°2003-1306 du 26 décembre 2003 - art. 54 (V)
+	  - Code des pensions civiles et militaires de retr... - art. R74-1-1 (V)
+	  - Code des pensions civiles et militaires de retr... - art. R74-3 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2007-1796 du 19 décembre 2007 - art. 7
 
 
 ###### Article R74-2
@@ -7951,11 +7943,12 @@ Le supplément de pension est réversible au profit des ayants cause comme la pe
 ###### Article R*81
 
 La liquidation et le service des pensions allouées en application du présent code à des fonctionnaires ou agents d'offices ou
-établissements de l'Etat dotés de l'autonomie financière sont effectués par l'Etat.
+établissements de l'Etat dotés de l'autonomie financière sont effectués par l'Etat. 
 
-Les offices et établissements autonomes sont astreints, en contrepartie, à verser annuellement au Trésor public :
+Les offices et établissements autonomes sont astreints, en contrepartie, à verser mensuellement, dans des conditions fixées
+par décret en Conseil d'Etat au Trésor public : 
 
-1° Le montant de la retenue effectuée sur le traitement de l'agent en exécution de l'article L. 61 ;
+1° Le montant de la retenue effectuée sur le traitement de l'agent en exécution de l'article L. 61 ; 
 
 2° Une contribution aux charges résultant pour l'Etat de la constitution de la pension dont le taux est fixé par décret.
 
@@ -7970,17 +7963,13 @@ Les offices et établissements autonomes sont astreints, en contrepartie, à ver
 	  - Décret n°2011-2037 du 29 décembre 2011 - art. 2 (Ab)
 	  - Décret n°2012-1507 du 27 décembre 2012 - art. 2 (V)
 
-	**Codifié par**:
-
-	  - Décret n°66-809 1966-10-28
-
 	**Modifié par**:
 
-	  - Décret n°2003-1305 du 26 décembre 2003 - art. 35 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
+	  - Décret n°2007-1796 du 19 décembre 2007 - art. 6 (V)
 
 	**Cite**:
 
-	  - Code des pensions civiles et militaires de retrait - art. L61 (M)
+	  - Code des pensions civiles et militaires de retr... - art. L61 (V)
 
 
 ### Titre III : Cumul de pensions avec des rémunérations d'activité ou d'autres pensions.
