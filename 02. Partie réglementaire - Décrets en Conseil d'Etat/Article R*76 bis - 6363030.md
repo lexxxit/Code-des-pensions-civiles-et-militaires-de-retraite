@@ -2,19 +2,26 @@
 
 Lorsque le fonctionnaire ou le militaire détaché dans un emploi conduisant à pension du régime de retraite des fonctionnaires
 affiliés à la Caisse nationale de retraites des agents des collectivités locales a acquitté jusqu'à la date de la cessation
-des services valables pour la retraite la retenue pour pension sur le traitement ou solde afférent aux emplois prévus au II
-de l'article L. 15, la liquidation de la pension est effectuée sur la base du traitement ou solde correspondant.
+des services valables pour la retraite la retenue pour pension sur le traitement ou solde afférent à cet emploi, la
+liquidation de la pension est effectuée sur la base du traitement ou solde correspondant déterminé conformément aux
+dispositions de l'article L. 15. 
 
 Toutefois, si l'intéressé le demande dans le délai fixé à l'article R. 3 et qui court à compter de la date de la décision de
-radiation des cadres, la liquidation de la pension est effectuée sur la base  du traitement ou solde afférent à l'emploi ou
-grade détenu dans le corps d'origine sur proposition du ministre dont relève cet emploi ou grade.
+radiation des cadres, la liquidation de la pension est effectuée sur la base du traitement ou solde afférent à l'emploi ou
+grade détenu dans le corps d'origine sur proposition du ministre dont relève cet emploi ou grade. Lorsque l'intéressé
+bénéficie dans son corps d'origine de la prise en compte dans le calcul de sa pension d'éléments de rémunération non
+mentionnés à l'article L. 15 ou d'une bonification du cinquième des services effectués, à l'exception de celle prévue au i de
+l'article L. 12, il ne peut être fait droit à sa demande que s'il s'est acquitté pendant son détachement des retenues
+majorées correspondantes.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°66-809 1966-10-28
+	  - Décret n°2008-594 du 23 juin 2008 - art. 1
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°2003-1305 du 26 décembre 2003 - art. 31 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
+	  - Code des pensions civiles et militaires de retraite - art. L12
+	  - Code des pensions civiles et militaires de retraite - art. L15
+	  - Code des pensions civiles et militaires de retraite - art. R*3
