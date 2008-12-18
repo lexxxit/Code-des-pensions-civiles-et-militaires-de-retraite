@@ -2,19 +2,21 @@
 
 I. - L'âge de soixante ans mentionné au l° du I de l'article L. 24 est abaissé pour les fonctionnaires relevant du régime des
 pensions civiles et militaires de retraites qui justifient, dans ce régime et, le cas échéant, dans un ou plusieurs autres
-régimes obligatoires, d'une durée d'assurance, ou de périodes reconnues équivalentes, au moins égale à 168 trimestres :
+régimes obligatoires, d'une durée d'assurance, ou de périodes reconnues équivalentes, au moins égale à la durée d'assurance
+ou de services et bonifications définie à l'article 5 de la loi n° 2003-775 du 21 août 2003 portant réforme des retraites et
+applicable l'année où l'assuré atteint l'âge précité, majorée de huit trimestres :
 
 1° A compter du 1er janvier 2008, à cinquante-six ans pour les fonctionnaires qui justifient d'une durée d'activité ayant
-donné lieu à cotisations à leur charge au moins égale à 168 trimestres et ayant débuté leur activité avant l'âge de seize
-ans ;
+donné lieu à cotisations à leur charge au moins égale à la durée d'assurance ou de services et bonifications définie au
+premier alinéa,et ayant débuté leur activité avant l'âge de seize ans ;
 
 2° A compter du 1er juillet 2006, à cinquante-huit ans pour les fonctionnaires qui justifient d'une durée d'activité ayant
-donné lieu à cotisations à leur charge au moins égale à 164 trimestres et ayant débuté leur activité avant l'âge de seize
-ans ;
+donné lieu à cotisations à leur charge au moins égale à la durée d'assurance ou de services et bonifications définie au
+premier alinéa, minorée de quatre trimestres, et ayant débuté leur activité avant l'âge de seize ans ;
 
 3° A compter du 1er janvier 2005, à cinquante-neuf ans pour les fonctionnaires qui justifient d'une durée d'activité ayant
-donné lieu à cotisations à leur charge au moins égale à 160 trimestres et ayant débuté leur activité avant l'âge de dix-sept
-ans.
+donné lieu à cotisations à leur charge au moins égale à la durée d'assurance ou de services et bonifications définie au
+premier alinéa, minorée de huit trimestres, et ayant débuté leur activité avant l'âge de dix-sept ans.
 
 Pour l'application de la condition d'âge de début d'activité définie aux 1°, 2° et 3°, sont considérés comme ayant débuté
 leur activité avant l'âge de seize ou dix-sept ans les fonctionnaires justifiant :
@@ -76,18 +78,14 @@ anniversaire.
 	  - Code de la sécurité sociale. - art. L351-6-1 (VD)
 	  - Code des pensions civiles et militaires de retr... - art. D16-1 (VD)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2004-1484 du 30 décembre 2004 - art. 119 (V) JORF 31 décembre 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2008-1330 du 17 décembre 2008 - art. 84
 
 	**Cite**:
 
-	  - Code des pensions civiles et militaires de retrait - art. L12 (M)
-	  - Code des pensions civiles et militaires de retrait - art. L12 bis (V)
-	  - Code des pensions civiles et militaires de retrait - art. L12 ter (V)
-	  - Code des pensions civiles et militaires de retrait - art. L24 (M)
-	  - Code des pensions civiles et militaires de retrait - art. L9 (M)
-
-	**Codifié par**:
-
-	  - Loi n°64-1339 1964-12-29
+	  - Code des pensions civiles et militaires de retraite - art. L12
+	  - Code des pensions civiles et militaires de retraite - art. L12 bis
+	  - Code des pensions civiles et militaires de retraite - art. L12 ter
+	  - Code des pensions civiles et militaires de retraite - art. L24
+	  - Code des pensions civiles et militaires de retraite - art. L9

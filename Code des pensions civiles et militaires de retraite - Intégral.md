@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 2008-06-26
+Version Consolidée au 2008-12-19
 
 # Partie législative
 
@@ -1015,12 +1015,18 @@ obtenir le pourcentage maximum mentionné à l'article L. 13 et que le fonctionn
 coefficient de majoration s'applique au montant de la pension liquidée en application des articles L. 13 et L. 15.
 
 Le nombre de trimestres pris en compte pour ce calcul est égal, à la date de liquidation de la pension, au nombre de
-trimestres de services effectués après le 1er janvier 2004, au-delà de l'âge de soixante ans et en sus du nombre de
+trimestres d'assurance effectués après le 1er janvier 2004, au-delà de l'âge de soixante ans et en sus du nombre de
 trimestres nécessaires pour obtenir le pourcentage maximum mentionné à l'article L. 13.
 
-Le nombre de trimestres correspondant est arrondi à l'entier supérieur dans des conditions définies par décret.
+Sont pris en compte pour ce calcul les trimestres entiers cotisés.
 
-Le coefficient de majoration est de 0,75 % par trimestre supplémentaire, dans la limite de vingt trimestres.
+Le coefficient de majoration est de 1,25 % par trimestre supplémentaire, dans la limite de vingt trimestres.
+
+**Nota:**
+
+Loi n° 2008-1330 du 17 décembre 2008 JORF 18 décembre 2008 art. 89 III : Les modifications induites par l'article 89 de la
+loi n° 2008-1330 sont applicables aux pensions prenant effet à compter du 1er avril 2009 et sont applicables aux trimestres
+d'assurance cotisés et effectués à compter du 1er janvier 2009.
 
 **Liens relatifs à cet article**
 
@@ -1068,24 +1074,16 @@ Le coefficient de majoration est de 0,75 % par trimestre supplémentaire, dans l
 	  - Code des pensions civiles et militaires de retrait - art. D21-1 (V)
 	  - Code des pensions civiles et militaires de retrait - art. R*26 bis (V)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°2003-775 2003-08-21 art. 66 : Réserves
-
 	**Modifié par**:
 
-	  - Loi n°2003-775 du 21 août 2003 - art. 51 () JORF 22 août 2003 en vigueur le 1er janvier 2004
+	  - Loi n°2008-1330 du 17 décembre 2008 - art. 89
 
 	**Cite**:
 
-	  - Code des pensions civiles et militaires de retrait - art. L13 (M)
-	  - Code des pensions civiles et militaires de retrait - art. L15 (M)
-	  - Code des pensions civiles et militaires de retrait - art. L24 (M)
-	  - Code des pensions civiles et militaires de retrait - art. L5 (M)
-
-	**Codifié par**:
-
-	  - Loi n°64-1339 1964-12-29
+	  - Code des pensions civiles et militaires de retraite - art. L13
+	  - Code des pensions civiles et militaires de retraite - art. L15
+	  - Code des pensions civiles et militaires de retraite - art. L24
+	  - Code des pensions civiles et militaires de retraite - art. L5
 
 
 ##### Paragraphe II : Emoluments de base.
@@ -1797,14 +1795,7 @@ pension sur les traitements ou soldes afférents à l'emploi de détachement.
 
 ###### Article L16
 
-Les pensions sont revalorisées chaque année par décret en Conseil d'Etat conformément à l'évolution prévisionnelle de
-l'indice des prix à la consommation hors du tabac prévue dans le rapport économique, social et financier annexé à la loi de
-finances pour l'année considérée.
-
-Si l'évolution constatée des prix à la consommation hors du tabac, telle que mentionnée dans le rapport économique, social et
-financier annexé à la loi de finances pour l'année suivante, est différente de celle qui avait été initialement prévue, il
-est procédé, dans des conditions fixées par décret en Conseil d'Etat, à un ajustement destiné à assurer, pour ladite année
-suivante, une revalorisation conforme à ce constat.
+Les pensions sont revalorisées dans les conditions prévues à l'article L. 161-23-1 du code de la sécurité sociale.
 
 **Liens relatifs à cet article**
 
@@ -2565,15 +2556,10 @@ suivante, une revalorisation conforme à ce constat.
 	  - TXT_SOURCE: Décret n°98-602 du 9 juillet 1998
 	  - TXT_SOURCE: Décret n°98-602 du 9 juillet 1998 - art. 1 (V)
 	  - TXT_SOURCE: Décret n°98-602 du 9 juillet 1998 - art. 2 (V)
-	  - SPEC_APPLI: Loi n°2003-775 2003-08-21 art. 66 IV : Réserves
-
-	**Codifié par**:
-
-	  - Loi n°64-1339 1964-12-29
 
 	**Modifié par**:
 
-	  - Loi n°2003-775 du 21 août 2003 - art. 51 () JORF 22 août 2003 en vigueur le 1er janvier 2004
+	  - Loi n°2008-1330 du 17 décembre 2008 - art. 79
 
 
 ##### Paragraphe III : Montant garanti.
@@ -3101,19 +3087,21 @@ effet à compter du 1er juillet 2011.
 
 I. - L'âge de soixante ans mentionné au l° du I de l'article L. 24 est abaissé pour les fonctionnaires relevant du régime des
 pensions civiles et militaires de retraites qui justifient, dans ce régime et, le cas échéant, dans un ou plusieurs autres
-régimes obligatoires, d'une durée d'assurance, ou de périodes reconnues équivalentes, au moins égale à 168 trimestres :
+régimes obligatoires, d'une durée d'assurance, ou de périodes reconnues équivalentes, au moins égale à la durée d'assurance
+ou de services et bonifications définie à l'article 5 de la loi n° 2003-775 du 21 août 2003 portant réforme des retraites et
+applicable l'année où l'assuré atteint l'âge précité, majorée de huit trimestres :
 
 1° A compter du 1er janvier 2008, à cinquante-six ans pour les fonctionnaires qui justifient d'une durée d'activité ayant
-donné lieu à cotisations à leur charge au moins égale à 168 trimestres et ayant débuté leur activité avant l'âge de seize
-ans ;
+donné lieu à cotisations à leur charge au moins égale à la durée d'assurance ou de services et bonifications définie au
+premier alinéa,et ayant débuté leur activité avant l'âge de seize ans ;
 
 2° A compter du 1er juillet 2006, à cinquante-huit ans pour les fonctionnaires qui justifient d'une durée d'activité ayant
-donné lieu à cotisations à leur charge au moins égale à 164 trimestres et ayant débuté leur activité avant l'âge de seize
-ans ;
+donné lieu à cotisations à leur charge au moins égale à la durée d'assurance ou de services et bonifications définie au
+premier alinéa, minorée de quatre trimestres, et ayant débuté leur activité avant l'âge de seize ans ;
 
 3° A compter du 1er janvier 2005, à cinquante-neuf ans pour les fonctionnaires qui justifient d'une durée d'activité ayant
-donné lieu à cotisations à leur charge au moins égale à 160 trimestres et ayant débuté leur activité avant l'âge de dix-sept
-ans.
+donné lieu à cotisations à leur charge au moins égale à la durée d'assurance ou de services et bonifications définie au
+premier alinéa, minorée de huit trimestres, et ayant débuté leur activité avant l'âge de dix-sept ans.
 
 Pour l'application de la condition d'âge de début d'activité définie aux 1°, 2° et 3°, sont considérés comme ayant débuté
 leur activité avant l'âge de seize ou dix-sept ans les fonctionnaires justifiant :
@@ -3175,21 +3163,17 @@ anniversaire.
 	  - Code de la sécurité sociale. - art. L351-6-1 (VD)
 	  - Code des pensions civiles et militaires de retr... - art. D16-1 (VD)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2004-1484 du 30 décembre 2004 - art. 119 (V) JORF 31 décembre 2004 en vigueur le 1er janvier 2005
+	  - Loi n°2008-1330 du 17 décembre 2008 - art. 84
 
 	**Cite**:
 
-	  - Code des pensions civiles et militaires de retrait - art. L12 (M)
-	  - Code des pensions civiles et militaires de retrait - art. L12 bis (V)
-	  - Code des pensions civiles et militaires de retrait - art. L12 ter (V)
-	  - Code des pensions civiles et militaires de retrait - art. L24 (M)
-	  - Code des pensions civiles et militaires de retrait - art. L9 (M)
-
-	**Codifié par**:
-
-	  - Loi n°64-1339 1964-12-29
+	  - Code des pensions civiles et militaires de retraite - art. L12
+	  - Code des pensions civiles et militaires de retraite - art. L12 bis
+	  - Code des pensions civiles et militaires de retraite - art. L12 ter
+	  - Code des pensions civiles et militaires de retraite - art. L24
+	  - Code des pensions civiles et militaires de retraite - art. L9
 
 
 ###### Article L26
@@ -4947,11 +4931,22 @@ décret en Conseil d'Etat.
 
 ###### Article L84
 
-L'article L. 161-22 du code de la sécurité sociale n'est pas applicable aux personnes régies par le présent code.
+L'article L. 161-22 du code de la sécurité sociale n'est pas applicable aux personnes régies par le présent code. 
 
 Si, à compter de la mise en paiement d'une pension civile ou militaire, son titulaire perçoit des revenus d'activité de l'un
 des employeurs mentionnés à l'article L. 86-1, il peut cumuler sa pension dans les conditions fixées aux articles L. 85, L.
-86 et L. 86-1.
+86 et L. 86-1. 
+
+Par dérogation au précédent alinéa, et sous réserve que l'assuré ait liquidé ses pensions de vieillesse personnelles auprès
+de la totalité des régimes légaux ou rendus légalement obligatoires, de base et complémentaires, français et étrangers, ainsi
+que des régimes des organisations internationales dont il a relevé, une pension peut être entièrement cumulée avec une
+activité professionnelle : 
+
+a) A partir de l'âge prévu au 1° de l'article L. 351-8 du code de la sécurité sociale ; 
+
+b) A partir de l'âge prévu au premier alinéa de l'article L. 351-1 du même code, lorsque l'assuré justifie d'une durée
+d'assurance et de périodes reconnues équivalentes mentionnée au deuxième alinéa du même article au moins égale à la limite
+mentionnée au même alinéa.
 
 **Liens relatifs à cet article**
 
@@ -4983,15 +4978,13 @@ des employeurs mentionnés à l'article L. 86-1, il peut cumuler sa pension dans
 
 	**Modifié par**:
 
-	  - Loi n°2003-775 du 21 août 2003 - art. 64 () JORF 22 août 2003 en vigueur le 1er janvier 2004
+	  - Loi n°2008-1330 du 17 décembre 2008 - art. 88
 
 	**Cite**:
 
-	  - Code de la sécurité sociale. - art. L161-22 (M)
-
-	**Codifié par**:
-
-	  - Loi n°64-1339 1964-12-29
+	  - Code de la sécurité sociale. - art. L161-22
+	  - Code de la sécurité sociale. - art. L351-1
+	  - Code de la sécurité sociale. - art. L351-8
 
 
 ###### Article L85
