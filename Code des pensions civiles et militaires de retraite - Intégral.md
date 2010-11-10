@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 2010-05-08
+Version Consolidée au 2010-11-11
 
 # Partie législative
 
@@ -100,10 +100,15 @@ b) Pour le personnel militaire, par les textes qui le régissent.
 
 Le droit à la pension est acquis :
 
-1° Aux fonctionnaires après quinze années accomplies de services civils et militaires effectifs ;
+1° Aux fonctionnaires après une durée fixée par décret en Conseil d'Etat ;
 
 2° Sans condition de durée de services aux fonctionnaires radiés des cadres pour invalidité résultant ou non de l'exercice
 des fonctions.
+
+**Nota:**
+
+Loi n° 2010-1330 du 9 novembre 2010, article 53 VI : Les modifications prévues par l'article 53 I sont applicables aux
+fonctionnaires radiés des cadres à compter du 1er janvier 2011.
 
 **Liens relatifs à cet article**
 
@@ -131,6 +136,10 @@ des fonctions.
 	  - TXT_SOURCE: Décret n°79-156 du 27 février 1979 - art. 3 (V)
 	  - TXT_SOURCE: Décret n°79-156 du 27 février 1979 - art. 4 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2010-1330 du 9 novembre 2010 - art. 53 (V)
+
 	**Codifié par**:
 
 	  - Loi n°64-1339 1964-12-29
@@ -140,53 +149,48 @@ des fonctions.
 
 ###### Article L5
 
-Les services pris en compte dans la constitution du droit à pension sont :
+Les services pris en compte dans la constitution du droit à pension sont : 
 
 1° Les services accomplis par les fonctionnaires titulaires et stagiaires mentionnés à l'article 2 de la loi n° 83-634 du 13
-juillet 1983 précitée ;
+juillet 1983 précitée ; 
 
-2° Les services militaires ;
+2° Les services militaires ; 
 
 3° Les services accomplis dans les établissements industriels de l'Etat en qualité d'affilié au régime de retraites de la loi
-du 21 mars 1928, modifiée par la loi n° 49-1097 du 2 août 1949 ;
+du 21 mars 1928, modifiée par la loi n° 49-1097 du 2 août 1949 ; 
 
-4° Les services accomplis par les magistrats de l'ordre judiciaire ;
+4° Les services accomplis par les magistrats de l'ordre judiciaire ; 
 
 5° Les services rendus dans les cadres locaux permanents des administrations des collectivités territoriales d'outre-mer et
-de leurs établissements publics. Un décret en Conseil d'Etat détermine les modalités de prise en compte de ces services ;
+de leurs établissements publics. Un décret en Conseil d'Etat détermine les modalités de prise en compte de ces services ; 
 
 6° Les services effectués jusqu'à la date de l'indépendance ou jusqu'à celle de leur intégration dans les cadres
 métropolitains par les agents ayant servi dans les cadres de l'administration de l'Algérie, des anciens pays et territoires
-d'outre-mer, anciens protectorats et territoires sous tutelle ;
+d'outre-mer, anciens protectorats et territoires sous tutelle ; 
 
-7° Abrogé ;
+7° Abrogé ; 
 
-8° Pour les instituteurs, le temps passé à l'école normale à partir de l'âge de dix-huit ans.
+8° Pour les instituteurs, le temps passé à l'école normale à partir de l'âge de dix-huit ans. 
 
 Les périodes de services accomplies à temps partiel en application de l'article 37 de la loi n° 84-16 du 11 janvier 1984
 précitée, de l'article 60 de la loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction
 publique territoriale et de l'article 46 de la loi n° 86-33 du 9 janvier 1986 portant dispositions statutaires relatives à la
-fonction publique hospitalière sont comptées pour la totalité de leur durée.
+fonction publique hospitalière sont comptées pour la totalité de leur durée. 
 
-Peuvent également être pris en compte pour la constitution du droit à pension les services d'auxiliaire, de temporaire,
-d'aide ou de contractuel, y compris les périodes de congé régulier pour longue maladie, accomplis dans les administrations
-centrales de l'Etat, les services extérieurs en dépendant et les établissements publics de l'Etat ne présentant pas un
-caractère industriel et commercial, si la validation des services de cette nature a été autorisée pour cette administration
-par un arrêté conjoint du ministre intéressé et du ministre des finances et si elle est demandée dans les deux années qui
-suivent la date de la titularisation ou d'entrée en service pour les militaires sous contrat.
+Pour les fonctionnaires titularisés au plus tard le 1er janvier 2013, peuvent également être pris en compte pour la
+constitution du droit à pension les services d'auxiliaire, de temporaire, d'aide ou de contractuel, y compris les périodes de
+congé régulier pour longue maladie, accomplis dans les administrations centrales de l'Etat, les services extérieurs en
+dépendant et les établissements publics de l'Etat ne présentant pas un caractère industriel et commercial, si la validation
+des services de cette nature a été autorisée pour cette administration par un arrêté conjoint du ministre intéressé et du
+ministre des finances et si elle est demandée dans les deux années qui suivent la date de la titularisation ou d'entrée en
+service pour les militaires sous contrat. 
 
-Le délai dont dispose l'agent pour accepter ou refuser la notification de validation est d'un an.
+Le délai dont dispose l'agent pour accepter ou refuser la notification de validation est d'un an. 
+
+Les services validés au titre des dixième et onzième alinéas ne peuvent être pris en compte pour parfaire la condition prévue
+au 1° de l'article L. 4.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°49-1097 1949-08-02
-	  - Loi n°83-634 1983-07-13 art. 2
-	  - Loi n°84-16 1984-01-11 art. 37
-	  - Loi n°84-53 1984-01-26 art. 60
-	  - Loi n°86-33 du 9 janvier 1986 - art. 46 (M)
-	  - Loi n°1928-03-21
 
 	**Cité par**:
 
@@ -265,6 +269,14 @@ Le délai dont dispose l'agent pour accepter ou refuser la notification de valid
 	  - Code des pensions civiles et militaires de retrait - art. R35 (V)
 	  - Code des pensions civiles et militaires de retrait - art. R6 (V)
 
+	**Cite**:
+
+	  - Loi n°83-634 du 13 juillet 1983 - art. 2
+	  - Loi n°84-16 du 11 janvier 1984 - art. 37
+	  - Loi n°84-53 du 26 janvier 1984 - art. 60
+	  - Loi n°86-33 du 9 janvier 1986 - art. 46
+	  - Code des pensions civiles et militaires de retraite - art. L4
+
 	**Liens**:
 
 	  - TXT_SOURCE: Arrêté du 22 juin 1987
@@ -278,7 +290,7 @@ Le délai dont dispose l'agent pour accepter ou refuser la notification de valid
 
 	**Modifié par**:
 
-	  - Loi n°2003-775 du 21 août 2003 - art. 43 () JORF 22 août 2003 en vigueur le 1er janvier 2004
+	  - Loi n°2010-1330 du 9 novembre 2010 - art. 53 (V)
 
 	**Codifié par**:
 
@@ -958,75 +970,81 @@ ou de services, à l'article 5 de la loi n° 2003-775 du 21 août 2003 portant r
 
 ###### Article L14
 
-I. - La durée d'assurance totalise la durée des services et bonifications admissibles en liquidation prévue à l'article L.
-13, augmentée, le cas échéant, de la durée d'assurance et des périodes reconnues équivalentes validées dans un ou plusieurs
-autres régimes de retraite de base obligatoires.
+I.-La durée d'assurance totalise la durée des services et bonifications admissibles en liquidation prévue à l'article L. 13,
+augmentée, le cas échéant, de la durée d'assurance et des périodes reconnues équivalentes validées dans un ou plusieurs
+autres régimes de retraite de base obligatoires. 
 
 Lorsque la durée d'assurance est inférieure au nombre de trimestres nécessaire pour obtenir le pourcentage de la pension
 mentionné à l'article L. 13, un coefficient de minoration de 1,25 % par trimestre s'applique au montant de la pension
-liquidée en application des articles L. 13 et L. 15 dans la limite de vingt trimestres.
+liquidée en application des articles L. 13 et L. 15 dans la limite de vingt trimestres. 
 
-Le nombre de trimestres pris en compte pour ce calcul est égal :
+Le nombre de trimestres pris en compte pour ce calcul est égal : 
 
 1° Soit au nombre de trimestres correspondant à la durée qui sépare l'âge auquel la pension est liquidée de la limite d'âge
-du grade détenu par le pensionné ;
+du grade détenu par le pensionné ; 
 
 2° Soit au nombre de trimestres supplémentaires qui serait nécessaire, à la date de liquidation de la pension, pour atteindre
-le nombre de trimestres permettant d'obtenir le pourcentage maximum mentionné à l'article L. 13.
+le nombre de trimestres permettant d'obtenir le pourcentage maximum mentionné à l'article L. 13. 
 
 Le nombre de trimestres correspondant est arrondi à l'entier supérieur dans des conditions définies par décret. Le plus petit
-des deux nombres de trimestres résultant des dispositions du 1° et du 2° du présent I est pris en considération.
+des deux nombres de trimestres résultant des dispositions du 1° et du 2° du présent I est pris en considération. 
 
 Le coefficient de minoration n'est pas applicable aux fonctionnaires handicapés dont l'incapacité permanente est au moins
-égale à 80 % ou mis à la retraite pour invalidité.
+égale à 80 % ou mis à la retraite pour invalidité. 
 
 Le coefficient de minoration n'est pas applicable aux pensions de réversion lorsque la liquidation de la pension dont le
-fonctionnaire aurait pu bénéficier intervient après son décès.
+fonctionnaire aurait pu bénéficier intervient après son décès. 
 
 Pour le calcul de la durée d'assurance, les périodes de services accomplis à temps partiel telles que définies à l'article L.
-5 sont décomptées comme des périodes de services à temps complet.
+5 sont décomptées comme des périodes de services à temps complet. 
 
-II. - Les dispositions du I sont applicables aux militaires dont la limite d'âge est supérieure ou égale à cinquante-cinq ans
+II.-Les dispositions du I sont applicables aux militaires dont la limite d'âge est supérieure ou égale à cinquante-cinq ans
 lorsqu'ils sont mis à la retraite à compter de l'âge de cinquante ans. Les dispositions suivantes s'appliquent aux militaires
-qui ne remplissent pas ces conditions.
+qui ne remplissent pas ces conditions. 
 
 Lorsque la durée de services militaires effectifs est inférieure à la durée nécessaire pour pouvoir bénéficier d'une
 liquidation de la pension, définie au II de l'article L. 24, augmentée d'une durée de services effectifs de dix trimestres,
 un coefficient de minoration de 1,25 % s'applique au montant de la pension militaire liquidée en application des articles L.
-13 et L. 15 dans la limite de dix trimestres.
+13 et L. 15 dans la limite de dix trimestres. 
 
-Le nombre de trimestres pris en compte pour ce calcul est égal :
+Le nombre de trimestres pris en compte pour ce calcul est égal : 
 
 1° Soit au nombre de trimestres manquants, à la date de liquidation de la pension militaire, pour atteindre un nombre de
 trimestres correspondant à la durée de services militaires effectifs nécessaire pour pouvoir bénéficier d'une liquidation de
-la pension, définie au II de l'article L. 24, augmentée d'une durée de services effectifs de dix trimestres ;
+la pension, définie au II de l'article L. 24, augmentée d'une durée de services effectifs de dix trimestres ; 
 
 2° Soit au nombre de trimestres supplémentaires qui serait nécessaire, à la date de liquidation de la pension, pour atteindre
 le nombre de trimestres permettant d'obtenir le pourcentage maximum de la pension mentionné à l'article L. 13 dans la limite
-de vingt trimestres.
+de vingt trimestres. 
 
 Le nombre de trimestres correspondant est arrondi à l'entier supérieur dans des conditions définies par décret. Le plus petit
-des deux nombres de trimestres résultant des dispositions du 1° et du 2° du présent II est pris en considération.
+des deux nombres de trimestres résultant des dispositions du 1° et du 2° du présent II est pris en considération. 
 
-Le coefficient de minoration n'est pas applicable aux militaires radiés des cadres par suite d'infirmité.
+Le coefficient de minoration n'est pas applicable aux militaires radiés des cadres par suite d'infirmité. 
 
-III. - Lorsque la durée d'assurance, définie au premier alinéa du I, est supérieure au nombre de trimestres nécessaires pour
+III.-Lorsque la durée d'assurance, définie au premier alinéa du I, est supérieure au nombre de trimestres nécessaires pour
 obtenir le pourcentage maximum mentionné à l'article L. 13 et que le fonctionnaire civil a atteint l'âge de soixante ans, un
-coefficient de majoration s'applique au montant de la pension liquidée en application des articles L. 13 et L. 15.
+coefficient de majoration s'applique au montant de la pension liquidée en application des articles L. 13 et L. 15. 
 
 Le nombre de trimestres pris en compte pour ce calcul est égal, à la date de liquidation de la pension, au nombre de
 trimestres d'assurance effectués après le 1er janvier 2004, au-delà de l'âge de soixante ans et en sus du nombre de
-trimestres nécessaires pour obtenir le pourcentage maximum mentionné à l'article L. 13.
+trimestres nécessaires pour obtenir le pourcentage maximum mentionné à l'article L. 13. 
 
-Sont pris en compte pour ce calcul les trimestres entiers cotisés.
+Toutefois, les bonifications de durée de services et majorations de durée d'assurance, à l'exclusion de celles accordées au
+titre des enfants et du handicap, prévues par les dispositions législatives et réglementaires, quel que soit le régime de
+retraite de base au titre duquel elles ont été acquises, ne sont pas prises en compte pour ce calcul. Un décret fixe la liste
+des bonifications et majorations de durée auxquelles s'applique le présent alinéa. 
 
-Le coefficient de majoration est de 1,25 % par trimestre supplémentaire, dans la limite de vingt trimestres.
+Sont pris en compte pour ce calcul les trimestres entiers cotisés. 
+
+Le coefficient de majoration est de 1,25 % par trimestre supplémentaire.
 
 **Nota:**
 
-Loi n° 2008-1330 du 17 décembre 2008 JORF 18 décembre 2008 art. 89 III : Les modifications induites par l'article 89 de la
-loi n° 2008-1330 sont applicables aux pensions prenant effet à compter du 1er avril 2009 et sont applicables aux trimestres
-d'assurance cotisés et effectués à compter du 1er janvier 2009.
+Loi n° 2010-1330 du 9 novembre 2010, article 50 II : Le I de l'article 50 est applicable aux fonctionnaires affiliés au
+régime de la Caisse nationale de retraites des agents des collectivités locales. Article 23 II. - L'évolution des âges
+mentionnés aux II et III de l'article L. 14 du code des pensions civiles et militaires de retraite, dans sa rédaction
+antérieure à la présente loi, est fixée par décret dans les conditions définies au II de l'article 22.
 
 **Liens relatifs à cet article**
 
@@ -1076,14 +1094,13 @@ d'assurance cotisés et effectués à compter du 1er janvier 2009.
 
 	**Modifié par**:
 
-	  - Loi n°2008-1330 du 17 décembre 2008 - art. 89
+	  - Loi n°2010-1330 du 9 novembre 2010 - art. 50 (V)
 
 	**Cite**:
 
 	  - Code des pensions civiles et militaires de retraite - art. L13
 	  - Code des pensions civiles et militaires de retraite - art. L15
 	  - Code des pensions civiles et militaires de retraite - art. L24
-	  - Code des pensions civiles et militaires de retraite - art. L5
 
 
 ##### Paragraphe II : Emoluments de base.
@@ -2566,20 +2583,48 @@ Les pensions sont revalorisées dans les conditions prévues à l'article L. 161
 
 ###### Article L17
 
-Aux fins de liquidation de la pension, le montant de celle-ci ne peut être inférieur :
+Si le nombre de trimestres de durée d'assurance, telle que définie à l'article L. 14, est égal au nombre de trimestres
+nécessaire pour obtenir le pourcentage maximum de la pension mentionné à l'article L. 13 ou si l'intéressé a atteint l'âge ou
+la durée de services auxquels s'annule le coefficient de minoration prévu aux I et II de l'article L. 14 ou si la liquidation
+intervient soit pour les motifs prévus aux 2° à 5° du I de l'article L. 24, soit pour les motifs prévus aux 1° bis et 3° du
+II du même article, soit pour les motifs d'infirmité prévus aux 1° et 2° du même II, le montant de la pension ne peut être
+inférieur : 
 
 a) Lorsque la pension rémunère au moins quarante années de services effectifs, à un montant correspondant à la valeur de
-l'indice majoré 227 au 1er janvier 2004 ;
+l'indice majoré 227 au 1er janvier 2004 ; 
 
 b) Lorsque la pension rémunère quinze années, à 57,5 % du montant défini à l'alinéa précédent, ce taux étant augmenté de 2,5
 points par année supplémentaire de services effectifs de quinze à trente ans et de 0,5 point par année de services effectifs
 de trente à quarante ans. Aux services effectifs militaires s'ajoutent, pour le décompte de la période comprise entre quinze
-et trente ans, les bénéfices de campagne et les bonifications prévus au c et au d de l'article L. 12 ;
+et trente ans, les bénéfices de campagne et les bonifications prévus au c et au d de l'article L. 12 ; 
 
-c) Lorsque la pension rémunère moins de quinze années de services effectifs, à un quinzième du montant défini à l'alinéa
-précédent pour cette durée de quinze ans, par année de services effectifs.
+c) Lorsque la pension liquidée au motif d'invalidité rémunère moins de quinze années de services effectifs, à un quinzième du
+montant défini à l'alinéa précédent pour cette durée de quinze ans, par année de services effectifs ; 
 
-Le montant du minimum garanti est revalorisé dans les conditions prévues à l'article L. 16.
+d) Lorsque la pension liquidée pour tout autre motif que celui visé au c rémunère moins de quinze années de services
+effectifs, à un montant égal, par année de services effectifs, au montant visé au a rapporté à la durée des services et
+bonifications nécessaire pour obtenir le pourcentage maximum d'une pension civile et militaire de retraite visée au premier
+alinéa de l'article 5 de la loi n° 2003-775 du 21 août 2003 portant réforme des retraites. 
+
+Le montant du minimum garanti est revalorisé dans les conditions prévues à l'article L. 16. 
+
+Le minimum garanti est versé sous réserve que le montant mensuel total des pensions personnelles de retraite de droit direct,
+attribuées au titre d'un ou plusieurs régimes légaux ou rendus légalement obligatoires, de base et complémentaires, français
+et étrangers, ainsi que des régimes des organisations internationales, portées le cas échéant au minimum de pension, n'excède
+pas un montant fixé par décret. 
+
+En cas de dépassement de ce montant, le minimum garanti est réduit à due concurrence du dépassement sans pouvoir être
+inférieur au montant de la pension civile ou militaire sans application du minimum garanti. Ne peuvent bénéficier du minimum
+garanti que les agents qui, à la date de liquidation de la pension à laquelle ils ont droit au titre du présent code, ont
+fait valoir leurs droits aux pensions personnelles de retraite de droit direct auxquels ils peuvent prétendre au titre des
+régimes légaux ou rendus légalement obligatoires, de base et complémentaires, français et étrangers, ainsi que des régimes
+des organisations internationales. 
+
+Un décret en Conseil d'Etat fixe les modalités d'application des deux précédents alinéas.
+
+**Nota:**
+
+Le II de l'article 45 est applicable aux pensions liquidées à compter du 1er juillet 2013.
 
 **Liens relatifs à cet article**
 
@@ -2607,18 +2652,19 @@ Le montant du minimum garanti est revalorisé dans les conditions prévues à l'
 	  - Code des pensions civiles et militaires de retr... - art. L56 (V)
 	  - Code des pensions civiles et militaires de retrait - art. L85 (V)
 
-	**Liens**:
+	**Cite**:
 
-	  - SPEC_APPLI: Loi n°2003-775 2003-08-21 art. 66 : Réserves
+	  - Loi n°2003-775 du 21 août 2003 - art. 5
+	  - Code des pensions civiles et militaires de retraite - art. L12
+	  - Code des pensions civiles et militaires de retraite - art. L13
+	  - Code des pensions civiles et militaires de retraite - art. L14
+	  - Code des pensions civiles et militaires de retraite - art. L16
+	  - Code des pensions civiles et militaires de retraite - art. L24
 
 	**Modifié par**:
 
-	  - Loi n°2003-775 du 21 août 2003 - art. 51 () JORF 22 août 2003 en vigueur le 1er janvier 2004
-
-	**Cite**:
-
-	  - Code des pensions civiles et militaires de retrait - art. L12 (M)
-	  - Code des pensions civiles et militaires de retrait - art. L16 (M)
+	  - Loi n°2010-1330 du 9 novembre 2010 - art. 45 (V)
+	  - Loi n°2010-1330 du 9 novembre 2010 - art. 53 (V)
 
 	**Codifié par**:
 
@@ -3085,61 +3131,27 @@ effet à compter du 1er juillet 2011.
 
 ###### Article L25 bis
 
-I. - L'âge de soixante ans mentionné au l° du I de l'article L. 24 est abaissé pour les fonctionnaires relevant du régime des
-pensions civiles et militaires de retraites qui justifient, dans ce régime et, le cas échéant, dans un ou plusieurs autres
-régimes obligatoires, d'une durée d'assurance, ou de périodes reconnues équivalentes, au moins égale à la durée d'assurance
-ou de services et bonifications définie à l'article 5 de la loi n° 2003-775 du 21 août 2003 portant réforme des retraites et
-applicable l'année où l'assuré atteint l'âge précité, majorée de huit trimestres :
+L'âge d'ouverture du droit à une pension de retraite résultant de l'application de l'article L. 161-17-2 du code de la
+sécurité sociale est abaissé pour les fonctionnaires relevant du régime des pensions civiles et militaires de retraite qui
+ont commencé leur activité avant un âge et dans des conditions déterminés par décret et ont accompli une durée totale
+d'assurance et de périodes reconnues équivalentes dans ce régime et, le cas échéant, dans un ou plusieurs autres régimes
+obligatoires au moins égale à une limite définie par le même décret, tout ou partie de cette durée totale ayant donné lieu à
+cotisations à la charge du fonctionnaire. Ce décret précise les modalités d'application du présent article et, notamment, les
+conditions dans lesquelles, le cas échéant, une partie des périodes de service national et les périodes pendant lesquelles
+les fonctionnaires ont été placés en congé de maladie statutaire ainsi que les périodes comptées comme périodes d'assurance
+dans un ou plusieurs autres régimes obligatoires au titre de la maladie, de la maternité et de l'inaptitude temporaire
+peuvent être réputées avoir donné lieu au versement de cotisations.
 
-1° A compter du 1er janvier 2008, à cinquante-six ans pour les fonctionnaires qui justifient d'une durée d'activité ayant
-donné lieu à cotisations à leur charge au moins égale à la durée d'assurance ou de services et bonifications définie au
-premier alinéa,et ayant débuté leur activité avant l'âge de seize ans ;
+**Nota:**
 
-2° A compter du 1er juillet 2006, à cinquante-huit ans pour les fonctionnaires qui justifient d'une durée d'activité ayant
-donné lieu à cotisations à leur charge au moins égale à la durée d'assurance ou de services et bonifications définie au
-premier alinéa, minorée de quatre trimestres, et ayant débuté leur activité avant l'âge de seize ans ;
+Loi n° 2010-1330 du 9 novembre 2010, article 43 II :L'article L. 25 bis du code des pensions civiles et militaires de
+retraite est applicable aux fonctionnaires affiliés au régime de la Caisse nationale de retraites des agents des
+collectivités locales. La condition de durée minimale d'assurance ou de périodes reconnues équivalentes prévue à ce même
+article est celle accomplie dans le régime de la Caisse nationale de retraites des agents des collectivités locales et, le
+cas échéant, dans un ou plusieurs autres régimes obligatoires.
 
-3° A compter du 1er janvier 2005, à cinquante-neuf ans pour les fonctionnaires qui justifient d'une durée d'activité ayant
-donné lieu à cotisations à leur charge au moins égale à la durée d'assurance ou de services et bonifications définie au
-premier alinéa, minorée de huit trimestres, et ayant débuté leur activité avant l'âge de dix-sept ans.
-
-Pour l'application de la condition d'âge de début d'activité définie aux 1°, 2° et 3°, sont considérés comme ayant débuté
-leur activité avant l'âge de seize ou dix-sept ans les fonctionnaires justifiant :
-
-- soit d'une durée d'assurance d'au moins cinq trimestres à la fin de l'année au cours de laquelle est survenu,
-respectivement, leur seizième ou leur dix-septième anniversaire ;
-
-- soit, s'ils sont nés au cours du quatrième trimestre et ne justifient pas de la durée d'assurance prévue à l'alinéa
-précédent, d'une durée d'assurance d'au moins quatre trimestres au titre de l'année au cours de laquelle est survenu,
-respectivement, leur seizième ou leur dix-septième anniversaire.
-
-Pour l'application de la condition de durée d'activité ayant donné lieu à cotisations à la charge des fonctionnaires définie
-aux 1°, 2° et 3° ci-dessus, sont réputées avoir donné lieu à cotisations :
-
-- les périodes de service national, à raison d'un trimestre par période d'au moins quatre-vingt-dix jours, consécutifs ou
-non. Lorsque la période couvre deux années civiles, elle peut être affectée à l'une ou l'autre de ces années, la solution la
-plus favorable étant retenue ;
-
-- les périodes pendant lesquelles les fonctionnaires ont été placés en congé de maladie statutaire ainsi que les périodes
-comptées comme périodes d'assurance dans un ou plusieurs autres régimes obligatoires au titre de la maladie, de la maternité
-et de l'inaptitude temporaire.
-
-Ces périodes sont retenues respectivement dans la limite de quatre trimestres et sans que le nombre de trimestres ayant donné
-lieu à cotisations ou réputés tels puisse excéder quatre pour une même année civile.
-
-Pour l'application de cette même condition de durée d'activité ayant donné lieu à cotisations à la charge des fonctionnaires,
-il est retenu un nombre de trimestres au plus égal à quatre au titre de chaque année civile au cours de laquelle l'assuré a
-été affilié successivement ou simultanément à plusieurs des régimes considérés.
-
-Pour l'application de la condition de durée d'assurance ou de périodes reconnues équivalentes définie au premier alinéa, sont
-prises en compte la bonification pour enfant mentionnée aux b et b bis de l'article L. 12, les majorations de durée
-d'assurance mentionnées aux articles L. 12 bis et L. 12 ter et les périodes d'interruption ou de réduction d'activité
-mentionnées au 1 de l'article L. 9.
-
-II. - L'année au cours de laquelle sont réunies les conditions définies au I du présent article est l'année retenue pour
-l'application des dispositions du II et du III de l'article 66 de la loi n° 2003-775 du 21 août 2003 portant réforme des
-retraites, à condition que le fonctionnaire demande à bénéficier des dispositions du présent article avant son soixantième
-anniversaire.
+Loi n° 2010-1330 du 9 novembre 2010, article 118 III, les dispositions de l'article 43 entrent en vigueur le 1er juillet 2011
+et sont applicables aux demandes de pension déposées à compter de cette date.
 
 **Liens relatifs à cet article**
 
@@ -3165,15 +3177,11 @@ anniversaire.
 
 	**Modifié par**:
 
-	  - Loi n°2008-1330 du 17 décembre 2008 - art. 84
+	  - Loi n°2010-1330 du 9 novembre 2010 - art. 43 (VD)
 
 	**Cite**:
 
-	  - Code des pensions civiles et militaires de retraite - art. L12
-	  - Code des pensions civiles et militaires de retraite - art. L12 bis
-	  - Code des pensions civiles et militaires de retraite - art. L12 ter
-	  - Code des pensions civiles et militaires de retraite - art. L24
-	  - Code des pensions civiles et militaires de retraite - art. L9
+	  - Code de la sécurité sociale. - art. L161-17-2
 
 
 ###### Article L26
@@ -4424,7 +4432,10 @@ spéciaux d'assurance vieillesse est assurée par :
 de traitement ou de solde, à l'exclusion d'indemnités de toute nature, dans des conditions fixées par la loi de finances ; 
 
 2° Une cotisation à la charge des agents visés à l'article L. 2, assise sur les sommes payées à ces agents à titre de
-traitement ou de solde, à l'exclusion d'indemnités de toute nature, dont le taux est fixé par décret ; 
+traitement ou de solde, à l'exclusion d'indemnités de toute nature, dont le taux est fixé par décret. Ce taux prend en
+considération les taux des cotisations à la charge des assurés sociaux relevant de la Caisse nationale d'assurance vieillesse
+des travailleurs salariés et des institutions de retraite complémentaire visées à l' article L. 922-1 du code de la sécurité
+sociale  pour la partie de leur rémunération inférieure au plafond prévu à l'article L. 241-3 du même code ; 
 
 3° Les contributions et transferts d'autres personnes morales, dans les conditions définies par les lois et règlements en
 vigueur.
@@ -4502,11 +4513,13 @@ vigueur.
 
 	**Modifié par**:
 
-	  - Loi n°2003-775 du 21 août 2003 - art. 63 (V) JORF 22 août 2003 en vigueur le 1er janvier 2006
+	  - Loi n°2010-1330 du 9 novembre 2010 - art. 42
 
 	**Cite**:
 
-	  - Code des pensions civiles et militaires de retr... - art. L2 (V)
+	  - Code des pensions civiles et militaires de retraite - art. L2
+	  - Code de la sécurité sociale. - art. L241-3
+	  - Code de la sécurité sociale. - art. L922-1
 
 	**Codifié par**:
 
@@ -5258,11 +5271,26 @@ ouvrant droit à ladite majoration est autorisé.
 
 ###### Article L90
 
-La pension et la rente viagère d'invalidité sont payées mensuellement et à terme échu dans les conditions déterminées par un
-décret en Conseil d'Etat.
+I. - La pension et la rente viagère d'invalidité sont payées mensuellement et à terme échu dans les conditions déterminées
+par un décret en Conseil d'Etat.
 
-La mise en paiement, portant rappel du jour de l'entrée en jouissance, doit être obligatoirement effectuée à la fin du
-premier mois suivant le mois de cessation de l'activité.
+La pension ou la rente viagère d'invalidité est due à compter du premier jour du mois suivant la cessation de l'activité.
+Toutefois, lorsque la liquidation de la pension intervient par limite d'âge ou pour invalidité, elle est due à compter du
+jour de la cessation de l'activité. (1)
+
+La rémunération est interrompue à compter du jour de la cessation d'activité. (1)
+
+La mise en paiement de la pension et de la rente viagère d'invalidité s'effectue à la fin du premier mois suivant le mois de
+cessation de l'activité. (1)
+
+II. - Par dérogation aux dispositions du I, les pensions inférieures à un montant mensuel fixé par décret sont payées soit
+sous forme de capital, soit selon une autre périodicité, dans des conditions déterminées par ce même décret. (2)
+
+**Nota:**
+
+Loi n° 2010-1330 du 9 novembre 2010, (1) article 46 III : Les modifications prévues par l'article 46 I et II sont applicables
+aux pensions liquidées à compter du 1er juillet 2011 ; (2) article 53 VI : Les modifications prévues par l'article 53 III
+sont applicables aux fonctionnaires radiés des cadres à compter du 1er janvier 2011.
 
 **Liens relatifs à cet article**
 
@@ -5274,6 +5302,11 @@ premier mois suivant le mois de cessation de l'activité.
 	  - Décret n°2008-637 du 30 juin 2008 - art. 39 (M)
 	  - Décret n°2008-639 du 30 juin 2008 - art. 24 (VD)
 	  - Code des pensions civiles et militaires de retrait - art. R*102 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2010-1330 du 9 novembre 2010 - art. 46 (V)
+	  - Loi n°2010-1330 du 9 novembre 2010 - art. 53 (V)
 
 	**Codifié par**:
 
