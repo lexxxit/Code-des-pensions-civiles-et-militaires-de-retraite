@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 2010-11-11
+Version Consolidée au 2011-01-01
 
 # Partie législative
 
@@ -4168,42 +4168,43 @@ liquidable.
 
 ###### Article L50
 
-I. - En cas de décès d'un fonctionnaire civil ou militaire par suite d'un attentat, d'une lutte dans l'exercice de ses
+I.-En cas de décès d'un fonctionnaire civil ou militaire par suite d'un attentat, d'une lutte dans l'exercice de ses
 fonctions, d'un acte de dévouement dans un intérêt public ou pour sauver la vie d'une ou plusieurs personnes, une pension de
-réversion est concédée aux conjoints. A cette pension de réversion s'ajoute soit la moitié de la rente viagère d'invalidité
+réversion est concédée aux conjoints.A cette pension de réversion s'ajoute soit la moitié de la rente viagère d'invalidité
 dont aurait pu bénéficier le fonctionnaire, soit la pension prévue au code des pensions militaires d'invalidité, de manière à
 ce que le total ne soit pas inférieur à un montant correspondant à la valeur de l'indice majoré 227 au 1er janvier 2004,
-revalorisé dans les conditions de l'article L. 16.
+revalorisé dans les conditions de l'article L. 16. 
 
-II. - Le total des pensions et, selon les cas, de la rente viagère d'invalidité ou de la pension militaire d'invalidité
+II.-Le total des pensions et, selon les cas, de la rente viagère d'invalidité ou de la pension militaire d'invalidité
 attribuables aux conjoints survivants et aux orphelins ne peut être inférieur à celui de la pension et de la rente viagère
 d'invalidité ou de la pension militaire d'invalidité dont le fonctionnaire ou le militaire aurait pu bénéficier, si le décès
-intervient dans les conditions suivantes :
+intervient dans les conditions suivantes : 
 
-1° Lorsqu'un fonctionnaire des douanes de la branche de la surveillance est tué au cours d'une opération douanière ;
+1° Lorsqu'un fonctionnaire des douanes de la branche de la surveillance est tué au cours d'une opération douanière ; 
 
 2° Lorsqu'un fonctionnaire de la police nationale est tué au cours d'une opération de police ou décède en service et est cité
-à l'ordre de la Nation ;
+à l'ordre de la Nation ; 
 
 3° Lorsqu'un militaire de la gendarmerie nationale est tué au cours d'une opération de police ou décède en service et est
-cité à l'ordre de la Nation ou à l'ordre de la gendarmerie ;
+cité à l'ordre de la Nation ou à l'ordre de la gendarmerie ; 
 
 4° Lorsqu'un fonctionnaire appartenant au personnel de l'administration pénitentiaire décède à la suite d'un acte de violence
-dans le cadre de l'exercice de ses fonctions ;
+dans le cadre de l'exercice de ses fonctions ; 
 
-5° Lorsqu'un sapeur-pompier de la brigade des sapeurs-pompiers de Paris ou du bataillon des marins-pompiers de Marseille est
-tué dans l'exercice de ses fonctions et est cité à l'ordre de la Nation ;
+5° Lorsqu'un sapeur-pompier de la brigade des sapeurs-pompiers de Paris ou du bataillon des marins-pompiers de Marseille ou
+un militaire des formations militaires de la sécurité civile est tué dans l'exercice de ses fonctions et est cité à l'ordre
+de la Nation ; 
 
 6° Lorsqu'un agent d'exploitation des travaux publics de l'Etat ou un chef d'équipe des travaux publics de l'Etat est tué en
-service dans le cadre d'une intervention sur voirie circulée ;
+service dans le cadre d'une intervention sur voirie circulée ; 
 
 7° Lorsqu'un contrôleur des transports terrestres est tué en service dans le cadre de l'exercice de ses missions de contrôle
-sur route ;
+sur route ; 
 
 8° Lorsqu'un inspecteur des affaires maritimes ou un contrôleur des affaires maritimes ou un syndic des gens de mer de la
-spécialité navigation et sécurité est tué en service au cours d'une mission de contrôle ou de surveillance.
+spécialité navigation et sécurité est tué en service au cours d'une mission de contrôle ou de surveillance. 
 
-III. - Le total des pensions et, selon les cas, de la rente viagère ou de la pension militaire d'invalidité attribuables aux
+III.-Le total des pensions et, selon les cas, de la rente viagère ou de la pension militaire d'invalidité attribuables aux
 conjoints survivants et aux orphelins est porté à 100 % du traitement ou de la solde de base détenu par le fonctionnaire ou
 le militaire au jour de son décès lorsqu'un fonctionnaire, un militaire de carrière ou un militaire servant sous contrat est
 tué dans un attentat alors qu'il se trouvait en service sur le territoire national ou à l'étranger ou au cours d'une
@@ -4220,11 +4221,11 @@ opération militaire, alors qu'il se trouvait en service ou en mission à l'étr
 
 	**Modifié par**:
 
-	  - Loi n°2003-775 du 21 août 2003 - art. 61 () JORF 22 août 2003 en vigueur le 1er janvier 2004
+	  - Loi n°2010-1657 du 29 décembre 2010 - art. 194
 
 	**Cite**:
 
-	  - Code des pensions civiles et militaires de retrait - art. L16 (M)
+	  - Code des pensions civiles et militaires de retr... - art. L16 (V)
 
 	**Codifié par**:
 
@@ -5549,6 +5550,32 @@ particulier.
 
 #### Chapitre Ier : Fonctionnaires civils.
 
+##### Paragraphe Ier : Généralités.
+
+###### Article R4-1
+
+La durée prévue au 1° de l'article L. 4 est fixée à deux années de services civils et militaires effectifs.
+
+**Nota:**
+
+Décret n° 2010-1740 du 30 décembre 2010, article 16 I : Ces dispositions sont applicables aux fonctionnaires et ouvriers
+radiés des cadres ou des contrôles à compter du 1er janvier 2011.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1740 du 30 décembre 2010 - art. 1
+
+	**Cité par**:
+
+	  - Décret n°2012-1256 du 13 novembre 2012 - art. 2 (V)
+
+	**Cite**:
+
+	  - Code des pensions civiles et militaires de retraite - art. L4
+
+
 ##### Paragraphe II : Eléments constitutifs.
 
 ###### Article R5
@@ -5895,13 +5922,52 @@ missions successives, si leur durée totale au cours d'une période de douze moi
 
 ###### Article R13
 
-Le bénéfice des dispositions du b de l'article L. 12 est subordonné à une interruption d'activité d'une durée continue au
-moins égale à deux mois dans le cadre d'un congé pour maternité, d'un congé pour adoption, d'un congé parental ou d'un congé
-de présence parentale, prévus par les articles 34 (5°), 54 et 40 bis de la loi n° 84-16 du 11 janvier 1984 portant
-dispositions statutaires relatives à la fonction publique de l'Etat et les articles L. 4138-4, L. 4138-7 et L. 4138-14 du
-code de la défense, ou d'une disponibilité pour élever un enfant de moins de huit ans prévue par l'article 47 du décret n°
-85-986 du 16 septembre 1985 relatif au régime particulier de certaines positions des fonctionnaires de l'Etat et à certaines
-modalités de cessation définitive de fonctions.
+Sont prises en compte pour le bénéfice des dispositions du b de l'article L. 12 les périodes ayant donné lieu à une
+interruption ou à une réduction de l'activité dans les conditions suivantes : 
+
+1° L'interruption d'activité doit être d'une durée continue au moins égale à deux mois et être intervenue dans le cadre : 
+
+a) Du congé pour maternité prévu aux articles L. 4138-2 et L. 4138-4 du code de la défense, au 5° de l'article 34 de la loi
+n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'Etat, au 5° de l'article
+57 de la loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale, au
+5° de l'article 41 de la loi n° 86-33 du 9 janvier 1986  portant dispositions statutaires relatives à la fonction publique
+hospitalière, aux articles L. 331-3 et L. 615-19 du code de la sécurité sociale et à l'article 4 du décret n° 72-154 du 24
+février 1972 modifié relatif aux congés en cas de maladie, maternité et d'accidents du travail dont peuvent bénéficier
+certains personnels ouvriers de l'Etat mensualisés ; 
+
+b) Du congé d'adoption prévu aux articles L. 4138-2 et L. 4138-4 du code de la défense, au 5° de l'article 34 de la loi du 11
+janvier 1984 susmentionnée, à l'article 57 de la loi du 26 janvier 1984 susmentionnée, à l'article 41 de la loi du 9 janvier
+1986 susmentionnée, à l'article 4 du décret du 24 février 1972 susmentionné et aux articles L. 331-7 et L. 615-19 du code de
+la sécurité sociale ; 
+
+c) Du congé parental, tel que prévu aux articles L. 4138-11 et L. 4138-14 du code de la défense, à l'article 54 de la loi du
+11 janvier 1984 susmentionnée, à l'article 75 de la loi du 26 janvier 1984 susmentionnée, à l'article 64 de la loi du 9
+janvier 1986 susmentionnée, à l'article 4 bis du décret du 24 février 1972 susmentionné et à l'article L. 122-28-1 du code du
+travail ; 
+
+d) Du congé de présence parentale, tel que prévu aux articles L. 4138-2 et L. 4138-7 du code de la défense, à l'article 40
+bis de la loi du 11 janvier 1984 susmentionnée, à l'article 60 sexies de la loi du 26 janvier 1984 susmentionnée, du 11° de
+l'article 41 de la loi du 9 janvier 1986 susmentionnée, à l'article 4 ter du décret du 24 février 1972 susmentionné et à
+l'article L. 122-28-9 du code du travail ; 
+
+e) D'une disponibilité pour élever un enfant de moins de huit ans prévue au 1° de l'article 47 du décret n° 85-986 du 16
+septembre 1985 relatif au régime particulier de certaines positions des fonctionnaires de l'Etat, à la mise à disposition, à
+l'intégration et à la cessation définitive de fonctions, au b de l'article 24 du décret n° 86-68 du 13 janvier 1986 relatif
+aux positions de détachement, hors cadres, de disponibilité et de congé parental des fonctionnaires territoriaux, au b de
+l'article 34 du décret n° 88-976 du 13 octobre 1988 relatif à certaines positions des fonctionnaires hospitaliers et à
+l'article 5 du décret n° 2004-1056 du 5 octobre 2004 relatif au régime des pensions des ouvriers des établissements
+industriels de l'Etat ; 
+
+2° La réduction d'activité est constituée d'une période de service à temps partiel d'une durée continue d'au moins quatre
+mois pour une quotité de temps de travail de 50 % de la durée du service que les agents à temps plein exerçant les mêmes
+fonctions doivent effectuer, d'au moins cinq mois pour une quotité de 60 % et d'au moins sept mois pour une quotité de 70 %.
+Sont prises en compte les périodes correspondant à un service à temps partiel pris en application des dispositions du premier
+alinéa de l'article 37 bis de la loi n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction
+publique de l'Etat, du premier alinéa de l'article 60 bis de la loi n° 84-53 du 26 janvier 1984 portant dispositions
+statutaires relatives à la fonction publique territoriale, du premier alinéa de l'article 46-1 de la loi n° 86-33 du 9
+janvier 1986  ortant dispositions statutaires relatives à la fonction publique hospitalière et du premier alinéa du I de
+l'article 1er bis du décret n° 84-105 du 13 février 1984 relatif au régime de travail à temps partiel des personnels ouvriers
+de l'Etat rémunérés sur une base mensuelle.
 
 **Liens relatifs à cet article**
 
@@ -5915,14 +5981,35 @@ modalités de cessation définitive de fonctions.
 
 	**Cite**:
 
+	  - Décret n°72-154 du 24 février 1972 - art. 4
+	  - Décret n°72-154 du 24 février 1972 - art. 4 bis
+	  - Décret n°72-154 du 24 février 1972 - art. 4 ter
 	  - Loi n°84-16 du 11 janvier 1984 - art. 34
+	  - Loi n°84-16 du 11 janvier 1984 - art. 37 bis
+	  - Loi n°84-16 du 11 janvier 1984 - art. 40 bis
+	  - Loi n°84-16 du 11 janvier 1984 - art. 54
+	  - Loi n°84-53 du 26 janvier 1984 - art. 57
+	  - Loi n°84-53 du 26 janvier 1984 - art. 60 bis
+	  - Loi n°84-53 du 26 janvier 1984 - art. 60 sexies
+	  - Loi n°84-53 du 26 janvier 1984 - art. 75
+	  - Décret n°84-105 du 13 février 1984
 	  - Décret n°85-986 du 16 septembre 1985 - art. 47
-	  - Code des pensions civiles et militaires de retraite - art. L12
-	  - Code de la défense. - art. L4138-4
+	  - Loi n°86-33 du 9 janvier 1986 - art. 41
+	  - Loi n°86-33 du 9 janvier 1986 - art. 46-1
+	  - Loi n°86-33 du 9 janvier 1986 - art. 64
+	  - Décret n°86-68 du 13 janvier 1986 - art. 24
+	  - Décret n°88-976 du 13 octobre 1988 - art. 34
+	  - Décret n°2004-1056 du 5 octobre 2004 - art. 5
+	  - Code de la défense. - art. L4138-11
+	  - Code de la défense. - art. L4138-2
+	  - Code du travail - art. L122-28-1
+	  - Code du travail - art. L122-28-9
+	  - Code de la sécurité sociale. - art. L331-3
+	  - Code de la sécurité sociale. - art. L331-7
 
 	**Modifié par**:
 
-	  - Décret n°2009-422 du 16 avril 2009 - art. 6
+	  - Décret n°2010-1741 du 30 décembre 2010 - art. 5
 
 
 ###### Article R14
@@ -6240,19 +6327,29 @@ bonification puisse jamais dépasser le double de la durée effective du service
 
 ###### Article R25
 
-La bonification prévue à l'article L. 12, h, est égale, dans la limite de cinq années, à la durée de l'activité
-professionnelle dans l'industrie dont les professeurs de l'enseignement technique ont dû justifier pour pouvoir se présenter
-au concours de recrutement dans les conditions exigées par le statut particulier au titre duquel ils ont été nommés.
+La bonification accordée aux professeurs d'enseignement technique recrutés avant le 1er janvier 2011, en application du II de
+l'article 49 de la loi n° 2010-1330 du 9 novembre 2010 portant réforme des retraites, est égale, dans la limite de cinq
+années, à la durée de l'activité professionnelle dont ils ont dû justifier pour pouvoir se présenter au concours de
+recrutement dans les conditions exigées par le statut particulier au titre duquel ils ont été nommés.
+
+**Nota:**
+
+Décret n° 2010-1740 du 30 décembre 2010, article 16 II : Ces dispositions sont applicables aux pensions liquidées à compter
+du 1er janvier 2011.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°66-809 1966-10-28
+	  - Décret n°66-809 du 28 octobre 1966
 
 	**Cite**:
 
-	  - Code des pensions civiles et militaires de retrait - art. L12 (M)
+	  - Loi n°2010-1330 du 9 novembre 2010 - art. 49
+
+	**Modifié par**:
+
+	  - Décret n°2010-1740 du 30 décembre 2010 - art. 4
 
 
 ###### Article R25-1
@@ -6686,16 +6783,17 @@ la survenance de la limite d'âge, soit de redresser une illégalité.
 
 I.-L'interruption d'activité prévue au premier alinéa du 3° du I et au premier alinéa du 1 bis du II de l'article L. 24 doit
 avoir eu une durée continue au moins égale à deux mois et être intervenue alors que le fonctionnaire ou le militaire était
-affilié à un régime de retraite obligatoire. En cas de naissances ou d'adoptions simultanées, la durée d'interruption
-d'activité prise en compte au titre de l'ensemble des enfants en cause est également de deux mois. 
+affilié à un régime de retraite obligatoire. La réduction d'activité prévue au même article doit avoir eu une durée continue
+au moins égale à celle mentionnée au II bis du présent article. 
 
-Cette interruption d'activité doit avoir eu lieu pendant la période comprise entre le premier jour de la quatrième semaine
-précédant la naissance ou l'adoption et le dernier jour de la seizième semaine suivant la naissance ou l'adoption. 
+Cette interruption ou réduction d'activité doit avoir eu lieu pendant la période comprise entre le premier jour de la
+quatrième semaine précédant la naissance ou l'adoption et le dernier jour du trente-sixième mois suivant la naissance ou
+l'adoption. 
 
 Par dérogation aux dispositions de l'alinéa précédent, pour les enfants énumérés aux troisième, quatrième, cinquième et
 sixième alinéas du II de l'article L. 18 que l'intéressé a élevés dans les conditions prévues au III dudit article,
-l'interruption d'activité doit intervenir soit avant leur seizième anniversaire, soit avant l'âge où ils ont cessé d'être à
-charge au sens des articles L. 512-3 et R. 512-2 à R. 512-3 du code de la sécurité sociale. 
+l'interruption ou la réduction d'activité doit intervenir soit avant leur seizième anniversaire, soit avant l'âge où ils ont
+cessé d'être à charge au sens des articles L. 512-3 et R. 512-2 à R. 512-3 du code de la sécurité sociale. 
 
 II.-Sont prises en compte pour le calcul de la durée d'interruption d'activité les périodes correspondant à une suspension de
 l'exécution du contrat de travail ou à une interruption du service effectif, intervenues dans le cadre : 
@@ -6734,6 +6832,19 @@ définitive d'activité, au b de l'article 24 du décret du 13 janvier 1986 rela
 de disponibilité et de congé parental des fonctionnaires territoriaux, au b de l'article 34 du décret du 13 octobre 1988
 relatif à certaines positions des fonctionnaires hospitaliers et à l'article 5 du décret du 5 octobre 2004 relatif au régime
 des pensions des ouvriers des établissements industriels de l'Etat. 
+
+II bis. - La réduction d'activité mentionnée au I est constituée d'une période de service à temps partiel d'une durée
+continue d'au moins quatre mois pour une quotité de temps de travail de 50 % de la durée du service que les agents à temps
+plein exerçant les mêmes fonctions doivent effectuer, d'au moins cinq mois pour une quotité de 60 % et d'au moins sept mois
+pour une quotité de 70 %. 
+
+Sont prises en compte pour le calcul de la durée mentionnée au premier alinéa les périodes correspondant à un service à temps
+partiel pris en application des dispositions du premier alinéa de l'article 37 bis de la loi n° 84-16 du 11 janvier 1984
+portant dispositions statutaires relatives à la fonction publique de l'Etat, du premier alinéa de l'article 60 bis de la loi
+n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale, du premier alinéa
+de l'article 46-1 de la loi n° 86-33 du 9 janvier 1986 portant dispositions statutaires relatives à la fonction publique
+hospitalière et du premier alinéa du I de l'article 1 bis du décret n° 84-105 du 13 février 1984 relatif au régime de travail
+à temps partiel des personnels ouvriers de l'Etat rémunérés sur une base mensuelle. 
 
 III.-Les périodes visées au deuxième alinéa du 3° du I et au deuxième alinéa du 1° bis du II de l'article L. 24 sont les
 périodes n'ayant pas donné lieu à cotisation de l'intéressé et pendant lesquelles celui-ci n'exerçait aucune activité
@@ -6789,7 +6900,7 @@ professionnelle.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
+	  - Décret n°2010-1741 du 30 décembre 2010 - art. 1
 
 
 ###### Article R37 bis
@@ -8751,6 +8862,285 @@ d'apprentissage ou de certificats médicaux.
 	**Codifié par**:
 
 	  - Décret n°66-810 1966-10-28
+
+
+### Titre IV : Jouissance de la pension ou de la solde de réforme.
+
+###### Article D16-1
+
+L'âge d'ouverture du droit à une pension de retraite est abaissé, en application de l'article L. 25 bis, pour les
+fonctionnaires relevant du régime des pensions civiles et militaires de retraite qui justifient, dans ce régime et, le cas
+échéant, dans un ou plusieurs autres régimes obligatoires, d'une durée minimale d'assurance, ou de périodes reconnues
+équivalentes, au moins égale à la durée d'assurance ou de services et bonifications définie à l'article 5 de la loi n°
+2003-775 du 21 août 2003 portant réforme des retraites et applicable l'année où l'assuré atteint l'âge de soixante ans,
+majorée de huit trimestres : 
+
+I. ― Pour les fonctionnaires nés avant le 1er juillet 1951 : 
+
+1° A cinquante-six ans pour les fonctionnaires justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur
+charge au moins égale à la durée minimale mentionnée au premier alinéa du présent article et ayant débuté leur activité avant
+l'âge de seize ans ; 
+
+2° A cinquante-huit ans pour les fonctionnaires justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur
+charge au moins égale à la durée minimale mentionnée au premier alinéa du présent article, minorée de quatre trimestres, et
+ayant débuté leur activité avant l'âge de seize ans ; 
+
+3° A cinquante-neuf ans pour les fonctionnaires justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur
+charge au moins égale à la durée d'assurance ou de services et bonifications définie à l'article 5 de la loi n° 2003-775 du
+21 août 2003 portant réforme des retraites et applicable l'année où l'assuré atteint l'âge de soixante ans et ayant débuté
+leur activité avant l'âge de dix-sept ans. 
+
+II. ― Pour les fonctionnaires nés entre le 1er juillet 1951 inclus et le 31 décembre 1951 inclus : 
+
+1° A cinquante-six ans pour les fonctionnaires justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur
+charge au moins égale à la durée minimale mentionnée au premier alinéa du présent article et ayant débuté leur activité avant
+l'âge de seize ans ; 
+
+2° A cinquante-huit ans pour les fonctionnaires justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur
+charge au moins égale à la durée minimale mentionnée au premier alinéa du présent article, minorée de quatre trimestres, et
+ayant débuté leur activité avant l'âge de seize ans ; 
+
+3° A cinquante-neuf ans pour les fonctionnaires justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur
+charge au moins égale à la durée d'assurance ou de services et bonifications définie à l'article 5 de la loi n° 2003-775 du
+21 août 2003 portant réforme des retraites et applicable l'année où l'assuré atteint l'âge de soixante ans et ayant débuté
+leur activité avant l'âge de dix-sept ans. 
+
+4° A soixante ans pour les fonctionnaires justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur charge au
+moins égale à la durée d'assurance ou de services et bonifications définie à l'article 5 de la loi n° 2003-775 du 21 août
+2003 portant réforme des retraites et applicable l'année où l'assuré atteint l'âge de soixante ans et ayant débuté leur
+activité avant l'âge de dix-huit ans. 
+
+III.-Pour les fonctionnaires nés en 1952 : 
+
+1° A cinquante-six ans pour les fonctionnaires justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur
+charge au moins égale à la durée minimale mentionnée au premier alinéa du présent article et ayant débuté leur activité avant
+l'âge de seize ans ; 
+
+2° A cinquante-huit ans pour les fonctionnaires justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur
+charge au moins égale à la durée minimale mentionnée au premier alinéa du présent article, minorée de quatre trimestres, et
+ayant débuté leur activité avant l'âge de seize ans ; 
+
+3° A cinquante-neuf ans et quatre mois pour les fonctionnaires justifiant d'une durée d'assurance ayant donné lieu à
+cotisations à leur charge au moins égale à la durée d'assurance ou de services et bonifications définie à l'article 5 de la
+loi n° 2003-775 du 21 août 2003 portant réforme des retraites et applicable l'année où l'assuré atteint l'âge de soixante ans
+et ayant débuté leur activité avant l'âge de dix-sept ans. 
+
+4° A soixante ans pour les fonctionnaires justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur charge au
+moins égale à la durée d'assurance ou de services et bonifications définie à l'article 5 de la loi n° 2003-775 du 21 août
+2003 portant réforme des retraites et applicable l'année où l'assuré atteint l'âge de soixante ans et ayant débuté leur
+activité avant l'âge de dix-huit ans. 
+
+IV.-Pour les fonctionnaires nés en 1953 : 
+
+1° A cinquante-six ans pour les fonctionnaires justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur
+charge au moins égale à la durée minimale mentionnée au premier alinéa du présent article et ayant débuté leur activité avant
+l'âge de seize ans ; 
+
+2° A cinquante-huit ans et quatre mois pour les fonctionnaires justifiant d'une durée d'assurance ayant donné lieu à
+cotisations à leur charge au moins égale à la durée minimale mentionnée au premier alinéa du présent article, minorée de
+quatre trimestres, et ayant débuté leur activité avant l'âge de seize ans ; 
+
+3° A cinquante-neuf ans et huit mois pour les fonctionnaires justifiant d'une durée d'assurance ayant donné lieu à
+cotisations à leur charge au moins égale à la durée d'assurance ou de services et bonifications définie à l'article 5 de la
+loi n° 2003-775 du 21 août 2003 portant réforme des retraites et applicable l'année où l'assuré atteint l'âge de soixante ans
+et ayant débuté leur activité avant l'âge de dix-sept ans. 
+
+4° A soixante ans pour les fonctionnaires justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur charge au
+moins égale à la durée d'assurance ou de services et bonifications définie à l'article 5 de la loi n° 2003-775 du 21 août
+2003 portant réforme des retraites et applicable l'année où l'assuré atteint l'âge de soixante ans et ayant débuté leur
+activité avant l'âge de dix-huit ans ; 
+
+V.-Pour les fonctionnaires nés en 1954 : 
+
+1° A cinquante-six ans pour les fonctionnaires justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur
+charge au moins égale à la durée minimale mentionnée au premier alinéa du présent article et ayant débuté leur activité avant
+l'âge de seize ans ; 
+
+2° A cinquante-huit ans et huit mois pour les fonctionnaires justifiant d'une durée d'assurance ayant donné lieu à
+cotisations à leur charge au moins égale à la durée minimale mentionnée au premier alinéa du présent article, minorée de
+quatre trimestres, et ayant débuté leur activité avant l'âge de seize ans ; 
+
+3° A soixante ans pour les fonctionnaires justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur charge au
+moins égale à la durée d'assurance ou de services et bonifications définie à l'article 5 de la loi n° 2003-775 du 21 août
+2003 portant réforme des retraites et applicable l'année où l'assuré atteint l'âge de soixante ans et ayant débuté leur
+activité avant l'âge de dix-huit ans ; 
+
+VI.-Pour les fonctionnaires nés en 1955 : 
+
+1° A cinquante-six ans et quatre mois pour les fonctionnaires justifiant d'une durée d'assurance ayant donné lieu à
+cotisations à leur charge au moins égale à la durée minimale mentionnée au premier alinéa du présent article et ayant débuté
+leur activité avant l'âge de seize ans ; 
+
+2° A cinquante-neuf ans pour les fonctionnaires justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur
+charge au moins égale à la durée minimale mentionnée au premier alinéa du présent article, minorée de quatre trimestres, et
+ayant débuté leur activité avant l'âge de seize ans ; 
+
+3° A soixante ans pour les fonctionnaires justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur charge au
+moins égale à la durée d'assurance ou de services et bonifications définie à l'article 5 de la loi n° 2003-775 du 21 août
+2003 portant réforme des retraites et applicable l'année où l'assuré atteint l'âge de soixante ans et ayant débuté leur
+activité avant l'âge de dix-huit ans ; 
+
+VII.-Pour les fonctionnaires nés en 1956 : 
+
+1° A cinquante-six ans et huit mois pour les fonctionnaires justifiant d'une durée d'assurance ayant donné lieu à cotisations
+à leur charge au moins égale à la durée minimale mentionnée au premier alinéa du présent article et ayant débuté leur
+activité avant l'âge de seize ans ; 
+
+2° A cinquante-neuf ans et quatre mois pour les fonctionnaires justifiant d'une durée d'assurance ayant donné lieu à
+cotisations à leur charge au moins égale à la durée minimale mentionnée au premier alinéa du présent article, minorée de
+quatre trimestres, et ayant débuté leur activité avant l'âge de seize ans ; 
+
+3° A soixante ans pour les fonctionnaires justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur charge au
+moins égale à la durée d'assurance ou de services et bonifications définie à l'article 5 de la loi n° 2003-775 du 21 août
+2003 portant réforme des retraites et applicable l'année où l'assuré atteint l'âge de soixante ans et ayant débuté leur
+activité avant l'âge de dix-huit ans ; 
+
+VIII. ― Pour les fonctionnaires nés en 1957 : 
+
+1° A cinquante-sept ans pour les fonctionnaires justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur
+charge au moins égale à la durée minimale mentionnée au premier alinéa du présent article et ayant débuté leur activité avant
+l'âge de seize ans ; 
+
+2° A cinquante-neuf ans et huit mois pour les fonctionnaires justifiant d'une durée d'assurance ayant donné lieu à
+cotisations à leur charge au moins égale à la durée minimale mentionnée au premier alinéa du présent article, minorée de
+quatre trimestres, et ayant débuté leur activité avant l'âge de seize ans ; 
+
+3° A soixante ans pour les fonctionnaires justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur charge au
+moins égale à la durée d'assurance ou de services et bonifications définie à l'article 5 de la loi n° 2003-775 du 21 août
+2003 portant réforme des retraites et applicable l'année où l'assuré atteint l'âge de soixante ans et ayant débuté leur
+activité avant l'âge de dix-huit ans ; 
+
+IX. ― Pour les fonctionnaires nés en 1958 : 
+
+1° A cinquante-sept ans et quatre mois pour les fonctionnaires justifiant d'une durée d'assurance ayant donné lieu à
+cotisations à leur charge au moins égale à la durée minimale mentionnée au premier alinéa du présent article et ayant débuté
+leur activité avant l'âge de seize ans ; 
+
+2° A soixante ans pour les fonctionnaires justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur charge au
+moins égale à la durée d'assurance ou de services et bonifications définie à l'article 5 de la loi n° 2003-775 du 21 août
+2003 portant réforme des retraites et applicable l'année où l'assuré atteint l'âge de soixante ans et ayant débuté leur
+activité avant l'âge de dix-huit ans ; 
+
+X. ― Pour les fonctionnaires nés en 1959 : 
+
+1° A cinquante-sept ans et huit mois pour les fonctionnaires justifiant d'une durée d'assurance ayant donné lieu à
+cotisations à leur charge au moins égale à la durée minimale mentionnée au premier alinéa du présent article et ayant débuté
+leur activité avant l'âge de seize ans ; 
+
+2° A soixante ans pour les fonctionnaires justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur charge au
+moins égale à la durée d'assurance ou de services et bonifications définie à l'article 5 de la loi n° 2003-775 du 21 août
+2003 portant réforme des retraites et applicable l'année où l'assuré atteint l'âge de soixante ans et ayant débuté leur
+activité avant l'âge de dix-huit ans ; 
+
+XI.-Pour les fonctionnaires nés à compter du 1er janvier 1960 : 
+
+1° A cinquante-huit ans pour les fonctionnaires justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur
+charge au moins égale à la durée minimale mentionnée au premier alinéa du présent article et ayant débuté leur activité avant
+l'âge de seize ans ; 
+
+2° A soixante ans pour les fonctionnaires justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur charge au
+moins égale à la durée d'assurance ou de services et bonifications définie à l'article 5 de la loi n° 2003-775 du 21 août
+2003 portant réforme des retraites et applicable l'année où l'assuré atteint l'âge de soixante ans et ayant débuté leur
+activité avant l'âge de dix-huit ans.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2003-775 du 21 août 2003 - art. 5
+	  - Code des pensions civiles et militaires de retraite - art. L25 bis
+
+	**Cité par**:
+
+	  - Décret n°2003-1306 du 26 décembre 2003 - art. 26-1 (V)
+	  - Décret n°2004-1056 du 5 octobre 2004 - art. 22 ter (V)
+	  - Code des pensions civiles et militaires de retr... - art. D16-2 (VD)
+	  - Code des pensions civiles et militaires de retr... - art. D16-3 (VD)
+	  - Code des pensions civiles et militaires de retr... - art. D16-4 (VT)
+
+	**Créé par**:
+
+	  - Décret n°2010-1748 du 30 décembre 2010 - art. 1
+
+
+###### Article D16-2
+
+Pour l'application de la condition de durée d'assurance ayant donné lieu à cotisations à la charge des fonctionnaires définie
+à l'article D. 16-1, sont réputées avoir donné lieu à cotisations : 
+
+― les périodes de service national, à raison d'un trimestre par période d'au moins quatre-vingt-dix jours, consécutifs ou
+non. Lorsque la période couvre deux années civiles, elle peut être affectée à l'une ou l'autre de ces années, la solution la
+plus favorable étant retenue ; 
+
+― les périodes pendant lesquelles les fonctionnaires ont été placés en congé de maladie statutaire ainsi que les périodes
+comptées comme périodes d'assurance dans un ou plusieurs autres régimes obligatoires au titre de la maladie, de la maternité
+et de l'inaptitude temporaire. 
+
+Ces périodes sont retenues respectivement dans la limite de quatre trimestres et sans que le nombre de trimestres ayant donné
+lieu à cotisations ou réputés tels puisse excéder quatre pour une même année civile. 
+
+Pour l'application de cette même condition de durée d'activité ayant donné lieu à cotisations à la charge des fonctionnaires,
+il est retenu un nombre de trimestres au plus égal à quatre au titre de chaque année civile au cours de laquelle l'assuré a
+été affilié successivement ou simultanément à plusieurs des régimes considérés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1748 du 30 décembre 2010 - art. 1
+
+	**Cite**:
+
+	  - Code des pensions civiles et militaires de retraite - art. D16-1
+
+
+###### Article D16-3
+
+Pour l'application de la condition de début d'activité définie à l'article D. 16-1, sont considérés comme ayant débuté leur
+activité avant l'âge de seize, dix-sept ou dix-huit ans les fonctionnaires justifiant : 
+
+― soit d'une durée d'assurance d'au moins cinq trimestres à la fin de l'année au cours de laquelle est survenu,
+respectivement, leur seizième, dix-septième ou dix-huitième anniversaire ; 
+
+― soit, s'ils sont nés au cours du quatrième trimestre et ne justifient pas de la durée d'assurance prévue à l'alinéa
+précédent, d'une durée d'assurance d'au moins quatre trimestres au titre de l'année au cours de laquelle est survenu,
+respectivement, leur seizième, dix-septième ou dix-huitième anniversaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1748 du 30 décembre 2010 - art. 1
+
+	**Cite**:
+
+	  - Code des pensions civiles et militaires de retraite - art. D16-1
+
+
+###### Article D16-4
+
+Pour l'application de la condition de durée minimale d'assurance ou de périodes reconnues équivalentes définie au premier
+alinéa de l'article D. 16-1, sont prises en compte la bonification pour enfant mentionnée aux b et b bis de l'article L. 12,
+les majorations de durée d'assurance mentionnées aux articles L. 12 bis et L. 12 ter et les périodes d'interruption ou de
+réduction d'activité mentionnées au 1 de l'article L. 9 lorsqu'elles se rapportent à des enfants nés ou adoptés avant le 1er
+janvier 2010.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1748 du 30 décembre 2010 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2012-847 du 2 juillet 2012 - art. 4
+
+	**Cite**:
+
+	  - Code des pensions civiles et militaires de retraite - art. D16-1
+	  - Code des pensions civiles et militaires de retraite - art. L12
+	  - Code des pensions civiles et militaires de retraite - art. L12 bis
+	  - Code des pensions civiles et militaires de retraite - art. L9
 
 
 ### Titre V : Invalidité.
