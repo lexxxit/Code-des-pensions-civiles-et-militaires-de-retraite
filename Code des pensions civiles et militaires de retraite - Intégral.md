@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 2011-06-03
+Version Consolidée au 2011-07-01
 
 # Partie législative
 
@@ -686,45 +686,53 @@ alinéa est celui prévu à l'article L. 61 et la limite mentionnée à l'aliné
 ###### Article L12
 
 Aux services effectifs s'ajoutent, dans les conditions déterminées par un décret en Conseil d'Etat, les bonifications ci-
-après :
+après : 
 
-a) Bonification de dépaysement pour les services civils rendus hors d'Europe ;
+a) Bonification de dépaysement pour les services civils rendus hors d'Europe ; 
 
 b) Pour chacun de leurs enfants légitimes et de leurs enfants naturels nés antérieurement au 1er janvier 2004, pour chacun de
 leurs enfants dont l'adoption est antérieure au 1er janvier 2004 et, sous réserve qu'ils aient été élevés pendant neuf ans au
 moins avant leur vingt et unième anniversaire, pour chacun des autres enfants énumérés au II de l'article L. 18 dont la prise
 en charge a débuté antérieurement au 1er janvier 2004, les fonctionnaires et militaires bénéficient d'une bonification fixée
-à un an, qui s'ajoute aux services effectifs, à condition qu'ils aient interrompu leur activité dans des conditions fixées
-par décret en Conseil d'Etat ;
+à un an, qui s'ajoute aux services effectifs, à condition qu'ils aient interrompu ou réduit leur activité dans des conditions
+fixées par décret en Conseil d'Etat ; 
 
 b bis La bonification prévue au b est acquise aux femmes fonctionnaires ou militaires ayant accouché au cours de leurs années
 d'études, antérieurement à leur recrutement dans la fonction publique, dès lors que ce recrutement est intervenu dans un
 délai de deux ans après l'obtention du diplôme nécessaire pour se présenter au concours, sans que puisse leur être opposée
-une condition d'interruption d'activité ;
+une condition d'interruption d'activité ; 
 
-c) Bénéfices de campagne dans le cas de services militaires, notamment pour services à la mer et outre-mer ;
+c) Bénéfices de campagne dans le cas de services militaires, notamment pour services à la mer et outre-mer ; 
 
 d) Bonification pour l'exécution d'un service aérien ou sous-marin commandé. Le décompte des coefficients applicables aux
 heures de vol ou à la durée des services sous-marins est effectué conformément aux dispositions en vigueur au moment où s'est
-ouvert le droit à ces bonifications ;
+ouvert le droit à ces bonifications ; 
 
-e) Abrogé ;
+e) Abrogé ; 
 
-f) Abrogé ;
+f) Abrogé ; 
 
-g) Abrogé ;
+g) Abrogé ; 
 
-h) Bonification accordée aux professeurs d'enseignement technique au titre du stage professionnel exigé pour avoir le droit
-de se présenter au concours par lequel ils ont été recrutés ;
+h) Abrogé ; 
 
 i) Une bonification du cinquième du temps de service accompli est accordée dans la limite de cinq annuités à tous les
-militaires à la condition qu'ils aient accompli au moins quinze ans de services militaires effectifs ou qu'ils aient été
+militaires à la condition qu'ils aient accompli au moins dix-sept ans de services militaires effectifs ou qu'ils aient été
 rayés des cadres pour invalidité ; le maximum de bonifications est donné aux militaires qui quittent le service à cinquante-
-sept ans ; la bonification est diminuée d'une annuité pour chaque année supplémentaire de service jusqu'à l'âge de soixante
-ans.
+neuf ans ; la bonification est diminuée d'une annuité pour chaque année supplémentaire de service jusqu'à l'âge mentionné à
+l'article L. 161-17-2 du code de la sécurité sociale. 
 
 Le pourcentage maximum fixé à l'article L 13 peut-être augmenté de cinq points du chef des bonifications prévues au présent
 article.
+
+Les bonifications prévues aux a, c et d du présent article sont prises en compte dès lors que la pension rémunère au moins
+quinze années de services effectifs. Elles sont prises en compte sans condition de durée pour les fonctionnaires et les
+militaires radiés des cadres pour invalidité.
+
+**Nota:**
+
+Loi n° 2010-1330 du 9 novembre 2010, article 118 II : Les dispositions de l'article 38 sont applicables aux pensions prenant
+effet à compter du 1er juillet 2011.
 
 **Liens relatifs à cet article**
 
@@ -781,18 +789,22 @@ article.
 	  - Code des pensions civiles et militaires de retrait - art. R23 (Ab)
 	  - Code des pensions civiles et militaires de retrait - art. R24 (Ab)
 
-	**Codifié par**:
-
-	  - Loi n°64-1339 1964-12-29
-
 	**Modifié par**:
 
-	  - Loi n°2003-775 du 21 août 2003 - art. 48 (V) JORF 22 août 2003 en vigueur le 1er janvier 2004
+	  - Loi n°2010-1330 du 9 novembre 2010 - art. 38 (V)
+	  - Loi n°2010-1330 du 9 novembre 2010 - art. 49 (V)
+	  - Loi n°2010-1330 du 9 novembre 2010 - art. 52
+	  - Loi n°2010-1330 du 9 novembre 2010 - art. 53 (V)
 
 	**Cite**:
 
-	  - Code des pensions civiles et militaires de retrait - art. L13 (M)
-	  - Code des pensions civiles et militaires de retrait - art. L18 (M)
+	  - Code des pensions civiles et militaires de retraite - art. L13
+	  - Code des pensions civiles et militaires de retraite - art. L18
+	  - Code de la sécurité sociale. - art. L161-17-2
+
+	**Codifié par**:
+
+	  - Loi n°64-1339 1964-12-29
 
 
 ###### Article L12 bis
@@ -990,7 +1002,11 @@ Le nombre de trimestres correspondant est arrondi à l'entier supérieur dans de
 des deux nombres de trimestres résultant des dispositions du 1° et du 2° du présent I est pris en considération. 
 
 Le coefficient de minoration n'est pas applicable aux fonctionnaires handicapés dont l'incapacité permanente est au moins
-égale à 80 % ou mis à la retraite pour invalidité. 
+égale à 80 % ou mis à la retraite pour invalidité ainsi qu'aux fonctionnaires âgés d'au moins soixante-cinq ans qui
+bénéficient d'un nombre minimum de trimestres fixé par décret au titre de la majoration de durée d'assurance prévue à
+l'article L. 12 ter ou qui, pendant une durée et dans des conditions fixées par décret, ont apporté une aide effective à leur
+enfant bénéficiaire de l'élément de la prestation relevant du 1° de l'article L. 245-3 du code de l'action sociale et des
+familles. 
 
 Le coefficient de minoration n'est pas applicable aux pensions de réversion lorsque la liquidation de la pension dont le
 fonctionnaire aurait pu bénéficier intervient après son décès. 
@@ -998,9 +1014,9 @@ fonctionnaire aurait pu bénéficier intervient après son décès.
 Pour le calcul de la durée d'assurance, les périodes de services accomplis à temps partiel telles que définies à l'article L.
 5 sont décomptées comme des périodes de services à temps complet. 
 
-II.-Les dispositions du I sont applicables aux militaires dont la limite d'âge est supérieure ou égale à cinquante-cinq ans
-lorsqu'ils sont mis à la retraite à compter de l'âge de cinquante ans. Les dispositions suivantes s'appliquent aux militaires
-qui ne remplissent pas ces conditions. 
+II.-Les dispositions du I sont applicables aux militaires dont la limite d'âge est supérieure ou égale à cinquante-sept ans
+lorsqu'ils sont mis à la retraite à compter de l'âge de cinquante-deux ans. Les dispositions suivantes s'appliquent aux
+militaires qui ne remplissent pas ces conditions. 
 
 Lorsque la durée de services militaires effectifs est inférieure à la durée nécessaire pour pouvoir bénéficier d'une
 liquidation de la pension, définie au II de l'article L. 24, augmentée d'une durée de services effectifs de dix trimestres,
@@ -1023,17 +1039,19 @@ des deux nombres de trimestres résultant des dispositions du 1° et du 2° du p
 Le coefficient de minoration n'est pas applicable aux militaires radiés des cadres par suite d'infirmité. 
 
 III.-Lorsque la durée d'assurance, définie au premier alinéa du I, est supérieure au nombre de trimestres nécessaires pour
-obtenir le pourcentage maximum mentionné à l'article L. 13 et que le fonctionnaire civil a atteint l'âge de soixante ans, un
-coefficient de majoration s'applique au montant de la pension liquidée en application des articles L. 13 et L. 15. 
+obtenir le pourcentage maximum mentionné à l'article L. 13 et que le fonctionnaire civil a atteint l'âge mentionné à
+l'article L. 161-17-2 du code de la sécurité sociale, un coefficient de majoration s'applique au montant de la pension
+liquidée en application des articles L. 13 et L. 15. 
 
 Le nombre de trimestres pris en compte pour ce calcul est égal, à la date de liquidation de la pension, au nombre de
-trimestres d'assurance effectués après le 1er janvier 2004, au-delà de l'âge de soixante ans et en sus du nombre de
-trimestres nécessaires pour obtenir le pourcentage maximum mentionné à l'article L. 13. 
+trimestres d'assurance effectués après le 1er janvier 2004, au-delà de l'âge mentionné à l'article L. 161-17-2 du code de la
+sécurité sociale et en sus du nombre de trimestres nécessaires pour obtenir le pourcentage maximum mentionné à l'article L.
+13. 
 
 Toutefois, les bonifications de durée de services et majorations de durée d'assurance, à l'exclusion de celles accordées au
 titre des enfants et du handicap, prévues par les dispositions législatives et réglementaires, quel que soit le régime de
 retraite de base au titre duquel elles ont été acquises, ne sont pas prises en compte pour ce calcul. Un décret fixe la liste
-des bonifications et majorations de durée auxquelles s'applique le présent alinéa. 
+des bonifications et majorations de durée auxquelles s'applique le présent alinéa.
 
 Sont pris en compte pour ce calcul les trimestres entiers cotisés. 
 
@@ -1041,10 +1059,8 @@ Le coefficient de majoration est de 1,25 % par trimestre supplémentaire.
 
 **Nota:**
 
-Loi n° 2010-1330 du 9 novembre 2010, article 50 II : Le I de l'article 50 est applicable aux fonctionnaires affiliés au
-régime de la Caisse nationale de retraites des agents des collectivités locales. Article 23 II. - L'évolution des âges
-mentionnés aux II et III de l'article L. 14 du code des pensions civiles et militaires de retraite, dans sa rédaction
-antérieure à la présente loi, est fixée par décret dans les conditions définies au II de l'article 22.
+Loi n° 2010-1330 du 9 novembre 2010, article 118 II : Les dispositions de l'article 23 sont applicables aux pensions prenant
+effet à compter du 1er juillet 2011.
 
 **Liens relatifs à cet article**
 
@@ -1094,13 +1110,14 @@ antérieure à la présente loi, est fixée par décret dans les conditions déf
 
 	**Modifié par**:
 
-	  - Loi n°2010-1330 du 9 novembre 2010 - art. 50 (V)
+	  - Loi n°2010-1330 du 9 novembre 2010 - art. 23 (V)
 
 	**Cite**:
 
 	  - Code des pensions civiles et militaires de retraite - art. L13
 	  - Code des pensions civiles et militaires de retraite - art. L15
-	  - Code des pensions civiles et militaires de retraite - art. L24
+	  - Code de la sécurité sociale. - art. L161-17-2
+	  - Code de l'action sociale et des familles - art. L245-3
 
 
 ##### Paragraphe II : Emoluments de base.
@@ -2873,69 +2890,73 @@ sergent ou un second maître comptant le même nombre d'années de services et d
 
 ###### Article L24
 
-I. - La liquidation de la pension intervient :
+I.-La liquidation de la pension intervient : 
 
 1° Lorsque le fonctionnaire civil est radié des cadres par limite d'âge, ou s'il a atteint, à la date de l'admission à la
-retraite, l'âge de soixante ans, ou de cinquante-cinq ans s'il a accompli au moins quinze ans de services dans des emplois
-classés dans la catégorie active.
+retraite, l'âge mentionné à l'article L. 161-17-2 du code de la sécurité sociale, ou de cinquante-sept ans s'il a accompli au
+moins dix-sept ans de services dans des emplois classés dans la catégorie active. 
 
 Sont classés dans la catégorie active les emplois présentant un risque particulier ou des fatigues exceptionnelles. La
-nomenclature en est établie par décret en Conseil d'Etat ;
+nomenclature en est établie par décret en Conseil d'Etat ; 
 
 2° Lorsque le fonctionnaire est mis à la retraite pour invalidité et qu'il n'a pas pu être reclassé dans un emploi compatible
-avec son état de santé ;
+avec son état de santé ; 
 
-3° Lorsque le fonctionnaire civil est parent de trois enfants vivants, ou décédés par faits de guerre, ou d'un enfant vivant,
-âgé de plus d'un an et atteint d'une invalidité égale ou supérieure à 80 %, à condition qu'il ait, pour chaque enfant,
-interrompu son activité dans des conditions fixées par décret en Conseil d'Etat.
+3° Lorsque le fonctionnaire civil est parent d'un enfant vivant, âgé de plus d'un an et atteint d'une invalidité égale ou
+supérieure à 80 %, à condition qu'il ait, pour cet enfant, interrompu ou réduit son activité dans des conditions fixées par
+décret en Conseil d'Etat et qu'il ait accompli quinze années de services effectifs. 
 
-Sont assimilées à l'interruption d'activité mentionnée à l'alinéa précédent les périodes n'ayant pas donné lieu à cotisation
-obligatoire dans un régime de retraite de base, dans des conditions fixées par décret en Conseil d'Etat.
+Sont assimilées à l'interruption ou à la réduction d'activité mentionnée à l'alinéa précédent les périodes n'ayant pas donné
+lieu à cotisation obligatoire dans un régime de retraite de base, dans des conditions fixées par décret en Conseil d'Etat. 
 
-Sont assimilés aux enfants mentionnés au premier alinéa les enfants énumérés au II de l'article L. 18 que l'intéressé a
-élevés dans les conditions prévues au III dudit article ;
+Sont assimilés à l'enfant mentionné au premier alinéa les enfants énumérés au II de l'article L. 18 que l'intéressé a élevés
+dans les conditions prévues au III dudit article. Les conditions d'ouverture du droit liées à l'enfant doivent être remplies
+à la date de la demande de pension ; 
 
 4° Lorsque le fonctionnaire ou son conjoint est atteint d'une infirmité ou d'une maladie incurable le plaçant dans
 l'impossibilité d'exercer une quelconque profession, dans les conditions prévues à l'article L. 31 et sous réserve que le
-fonctionnaire ait accompli au moins quinze ans de services ;
+fonctionnaire ait accompli au moins quinze ans de services ; 
 
-5° La condition d'âge de soixante ans figurant au l° est abaissée dans des conditions fixées par décret pour les
-fonctionnaires handicapés qui totalisent, alors qu'ils étaient atteints d'une incapacité permanente d'au moins 80 %, une
-durée d'assurance au moins égale à une limite fixée par décret, tout ou partie de cette durée ayant donné lieu à versement de
-retenues pour pensions.
+5° Un décret fixe les conditions dans lesquelles l'âge d'ouverture du droit à pension est abaissé, par rapport à un âge de
+référence de soixante ans, pour les fonctionnaires handicapés qui totalisent, alors qu'ils étaient atteints d'une incapacité
+permanente d'au moins 80 %, une durée d'assurance au moins égale à une limite fixée par ce décret, tout ou partie de cette
+durée ayant donné lieu à versement de retenues pour pensions. 
 
 Une majoration de pension est accordée aux fonctionnaires handicapés visés à l'alinéa précédent, dans des conditions
-déterminées par décret en Conseil d'Etat.
+déterminées par décret en Conseil d'Etat. 
 
-II. - La liquidation de la pension militaire intervient :
+II.-La liquidation de la pension militaire intervient : 
 
 1° Lorsqu'un officier est radié des cadres par limite d'âge ou par limite de durée de services, ou par suite d'infirmités, ou
-encore s'il réunit, à la date de son admission à la retraite, vingt-cinq ans de services effectifs ;
+encore s'il réunit, à la date de son admission à la retraite, vingt-sept ans de services effectifs ; 
 
-1° bis Lorsqu'un officier est parent de trois enfants vivants, ou décédés par fait de guerre, ou d'un enfant vivant de plus
-d'un an et atteint d'une invalidité égale ou supérieure à 80 %, à condition qu'il ait, pour chaque enfant, interrompu son
-activité dans des conditions fixées par décret en Conseil d'Etat.
+1° bis Lorsqu'un militaire est parent d'un enfant vivant de plus d'un an et atteint d'une invalidité égale ou supérieure à 80
+%, à condition qu'il ait, pour cet enfant, interrompu ou réduit son activité dans des conditions fixées par décret en Conseil
+d'Etat et qu'il ait accompli quinze années de services effectifs. 
 
-Sont assimilées à l'interruption d'activité mentionnée à l'alinéa précédent les périodes n'ayant pas donné lieu à cotisation
-obligatoire dans un régime de retraite de base, dans des conditions fixées par décret en Conseil d'Etat.
+Sont assimilées à l'interruption ou à la réduction d'activité mentionnée à l'alinéa précédent les périodes n'ayant pas donné
+lieu à cotisation obligatoire dans un régime de retraite de base, dans des conditions fixées par décret en Conseil d'Etat. 
 
-Sont assimilés aux enfants mentionnés au premier alinéa les enfants énumérés au II de l'article L. 18 que l'intéressé a
-élevés dans les conditions prévues au III dudit article ;
+Sont assimilés à l'enfant mentionné au premier alinéa les enfants énumérés au II de l'article L. 18 que l'intéressé a élevés
+dans les conditions prévues au III dudit article ; 
 
 2° Lorsqu'un militaire non officier est radié des cadres par limite d'âge ou par limite de durée de services, ou par suite
-d'infirmités, ou encore s'il réunit, à la date de son admission à la retraite, quinze ans de services effectifs ;
+d'infirmités, ou encore s'il réunit, à la date de son admission à la retraite, dix-sept ans de services effectifs ; 
 
 3° Pour un militaire, lorsque son conjoint est atteint d'une infirmité ou d'une maladie incurable le plaçant dans
 l'impossibilité d'exercer une quelconque profession, et sous réserve que le militaire ait accompli au moins quinze ans de
-services.
+services ; 
 
-III. - La liquidation de la solde de réforme intervient immédiatement. Toutefois, cette solde n'est perçue que pendant un
-temps égal à la durée des services effectivement accomplis par son bénéficiaire.
+4° Pour les officiers généraux placés en deuxième section, conformément aux dispositions de l'article L. 4141-1 du code de la
+défense, à compter de soixante-sept ans. 
+
+III.-La liquidation de la solde de réforme intervient immédiatement. Toutefois, cette solde n'est perçue que pendant un temps
+égal à la durée des services effectivement accomplis par son bénéficiaire.
 
 **Nota:**
 
-Loi n° 2010-1330 du 9 novembre 2010, article 118 II : Les dispositions de l'article 36 sont applicables aux pensions prenant
-effet à compter du 1er juillet 2011.
+Loi n° 2010-1330 du 9 novembre 2010, article 118 II : Les dispositions des articles 23 et 39 sont applicables aux pensions
+prenant effet à compter du 1er juillet 2011.
 
 **Liens relatifs à cet article**
 
@@ -3048,6 +3069,7 @@ effet à compter du 1er juillet 2011.
 	  - Code des pensions civiles et militaires de retr... - art. R33 bis (V)
 	  - Code des pensions civiles et militaires de retr... - art. R37 (V)
 	  - Code des pensions civiles et militaires de retr... - art. R37 bis (V)
+	  - Code des pensions civiles et militaires de retrait - art. L24 (V)
 	  - Code des pensions civiles et militaires de retrait - art. L3 (V)
 	  - Code des pensions civiles et militaires de retrait - art. L50 (M)
 	  - Code des pensions civiles et militaires de retrait - art. L73 (V)
@@ -3056,14 +3078,15 @@ effet à compter du 1er juillet 2011.
 
 	**Modifié par**:
 
-	  - Loi n°2006-737 du 27 juin 2006 - art. 1 () JORF 28 juin 2006
-	  - Loi n°2010-1330 du 9 novembre 2010 - art. 44 (V)
+	  - Loi n°2010-1330 du 9 novembre 2010 - art. 23 (V)
+	  - Loi n°2010-1330 du 9 novembre 2010 - art. 39
+	  - Loi n°2010-1330 du 9 novembre 2010 - art. 36
 
 	**Cite**:
 
-	  - Code des pensions civiles et militaires de retrait - art. L18 (M)
-	  - Code des pensions civiles et militaires de retrait - art. L24 (M)
-	  - Code des pensions civiles et militaires de retrait - art. L31 (M)
+	  - Code des pensions civiles et militaires de retraite - art. L18
+	  - Code des pensions civiles et militaires de retraite - art. L31
+	  - Code de la défense. - art. L4141-1
 
 	**Codifié par**:
 
@@ -3072,35 +3095,35 @@ effet à compter du 1er juillet 2011.
 
 ###### Article L25
 
-La liquidation de la pension ne peut intervenir :
+La liquidation de la pension ne peut intervenir : 
 
-1° Pour les fonctionnaires civils autres que ceux mentionnés à l'article L. 24 avant l'âge de soixante ans, ou avant l'âge de
-cinquante-cinq ans s'ils ont accompli quinze ans de services dans des emplois classés dans la catégorie active ;
+1° Pour les fonctionnaires civils autres que ceux mentionnés à l'article L. 24 avant l'âge mentionné à l'article L. 161-17-2
+du code de la sécurité sociale, ou avant l'âge de cinquante-sept ans s'ils ont accompli dix-sept ans de services dans des
+emplois classés dans la catégorie active ; 
 
-2° Pour les officiers de carrière autres que ceux mentionnés à l'article L. 24 avant l'âge de cinquante ans ou, pour un
-officier radié des cadres par mesure disciplinaire avant d'avoir accompli vingt-cinq ans de services effectifs, avant la date
-à laquelle il aurait atteint la limite d'âge en vigueur à la date de cette radiation et sans que la liquidation puisse être
-antérieure à l'âge de cinquante ans ;
+2° Par dérogation à l'article L. 161-17-2 du code de la sécurité sociale, pour les officiers de carrière autres que ceux
+mentionnés à l'article L. 24 avant l'âge de cinquante-deux ans ou, pour un officier radié des cadres par mesure disciplinaire
+avant d'avoir accompli vingt-sept ans de services effectifs, avant la date à laquelle il aurait atteint la limite d'âge en
+vigueur à la date de cette radiation et sans que la liquidation puisse être antérieure à l'âge de cinquante-deux ans ; 
 
-3° Pour les officiers sous contrat radiés des cadres sans avoir atteint les limites de durée de services, avant l'âge de
-cinquante ans.
+3° Par dérogation à l'article L. 161-17-2 du code de la sécurité sociale, pour les officiers sous contrat radiés des cadres
+sans avoir atteint les limites de durée de services, avant l'âge de cinquante-deux ans ; 
+
+4° Par dérogation à l'article L. 161-17-2 du code de la sécurité sociale, pour les non-officiers autres que ceux mentionnés à
+l'article L. 24, avant l'âge de cinquante-deux ans. 
 
 Pour l'application des dispositions du présent article, les règles de liquidation de la pension sont celles en vigueur au
-moment de sa mise en paiement.
+moment de sa mise en paiement. 
 
 Le traitement ou la solde mentionnés à l'article L. 15 sont revalorisés pendant la période comprise entre la radiation des
 cadres et la mise en paiement de la pension, conformément aux dispositions de l'article L. 16.
 
 **Nota:**
 
-Loi n° 2010-1330 du 9 novembre 2010, article 118 II : Les dispositions de l'article 36 sont applicables aux pensions prenant
+Loi n° 2010-1330 du 9 novembre 2010, article 118 II : Les dispositions de l'article 23 sont applicables aux pensions prenant
 effet à compter du 1er juillet 2011.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2003-775 du 21 août 2003 - art. 54 () JORF 22 août 2003 en vigueur le 1er janvier 2004
 
 	**Cité par**:
 
@@ -3118,11 +3141,16 @@ effet à compter du 1er juillet 2011.
 	  - Code des pensions civiles et militaires de retrait - art. L3 (V)
 	  - Code des pensions civiles et militaires de retrait - art. L67 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2010-1330 du 9 novembre 2010 - art. 23 (V)
+	  - Loi n°2010-1330 du 9 novembre 2010 - art. 36
+
 	**Cite**:
 
-	  - Code des pensions civiles et militaires de retrait - art. L15 (M)
-	  - Code des pensions civiles et militaires de retrait - art. L16 (M)
-	  - Code des pensions civiles et militaires de retrait - art. L24 (M)
+	  - Code des pensions civiles et militaires de retraite - art. L15
+	  - Code des pensions civiles et militaires de retraite - art. L16
+	  - Code des pensions civiles et militaires de retraite - art. L24
 
 	**Codifié par**:
 
@@ -4236,8 +4264,13 @@ opération militaire, alors qu'il se trouvait en service ou en mission à l'étr
 
 ###### Article L51
 
-Les officiers généraux placés dans la deuxième section de l'état-major général reçoivent une solde de réserve égale au taux
-de la pension à laquelle ils auraient droit s'ils étaient en position de retraite.
+Les officiers généraux âgés de moins de soixante-sept ans  placés dans la deuxième section de l'état-major général reçoivent
+une solde de réserve égale au taux de la pension à laquelle ils auraient droit s'ils étaient en position de retraite.
+
+**Nota:**
+
+Loi n° 2010-1330 du 9 novembre 2010, article 118 II : Les dispositions de l'article 39 sont applicables aux pensions prenant
+effet à compter du 1er juillet 2011.
 
 **Liens relatifs à cet article**
 
@@ -4249,6 +4282,10 @@ de la pension à laquelle ils auraient droit s'ils étaient en position de retra
 	  - Code des pensions civiles et militaires de retrait - art. D39 (V)
 	  - Code des pensions civiles et militaires de retrait - art. R*58 (V)
 	  - Code des pensions militaires d'invalidité et de... - art. L186 (VT)
+
+	**Modifié par**:
+
+	  - Loi n°2010-1330 du 9 novembre 2010 - art. 39
 
 	**Codifié par**:
 
@@ -4319,18 +4356,24 @@ respectifs.
 ###### Article L55
 
 La pension et la rente viagère d'invalidité sont définitivement acquises et ne peuvent être révisées ou supprimées à
-l'initiative de l'administration ou sur demande de l'intéressé que dans les conditions suivantes :
+l'initiative de l'administration ou sur demande de l'intéressé que dans les conditions suivantes : 
 
-A tout moment en cas d'erreur matérielle ;
+A tout moment en cas d'erreur matérielle ; 
 
 Dans un délai d'un an à compter de la notification de la décision de concession initiale de la pension ou de la rente
-viagère, en cas d'erreur de droit.
+viagère, en cas d'erreur de droit. 
 
 La restitution des sommes payées indûment au titre de la pension ou de la rente viagère d'invalidité supprimée ou révisée est
 exigible lorsque l'intéressé était de mauvaise foi. Cette restitution est, en tant que de besoin, poursuivie par l'agent
-judiciaire du Trésor.
+judiciaire du Trésor. 
 
-La pension des militaires n'est pas assimilée à un avantage vieillesse avant l'âge de soixante ans.
+La pension des militaires n'est pas assimilée à un avantage vieillesse avant l'âge mentionné à l'article L. 161-17-2 du code
+de la sécurité sociale.
+
+**Nota:**
+
+Loi n° 2010-1330 du 9 novembre 2010, article 118 II : Les dispositions de l'article 23 sont applicables aux pensions prenant
+effet à compter du 1er juillet 2011.
 
 **Liens relatifs à cet article**
 
@@ -4340,13 +4383,17 @@ La pension des militaires n'est pas assimilée à un avantage vieillesse avant l
 	  - Décret n°2003-1306 du 26 décembre 2003 - art. 62 (V)
 	  - Décret n°2012-1256 du 13 novembre 2012 - art. 7 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2010-1330 du 9 novembre 2010 - art. 23 (V)
+
+	**Cite**:
+
+	  - Code de la sécurité sociale. - art. L161-17-2
+
 	**Codifié par**:
 
 	  - Loi n°64-1339 1964-12-29
-
-	**Modifié par**:
-
-	  - Loi n°96-1111 1996-12-16 art. 9 jorf 20 décembre 1996
 
 
 #### Paragraphe II : Dispositions diverses.
@@ -5202,14 +5249,19 @@ réduction du montant de la pension à concurrence du temps passé dans cette po
 ###### Article L88
 
 Le cumul par un conjoint survivant de plusieurs pensions obtenues du chef d'agents différents, au titre des régimes de
-retraites des collectivités énumérées à l'article L. 84, est interdit.
+retraites des collectivités énumérées à l'article L. 86-1, est interdit. 
 
 Un orphelin peut cumuler les deux pensions de réversion obtenues du chef de son père et de sa mère au titre des régimes de
-retraites énumérés à l'article L. 84.
+retraites énumérés à l'article L. 86-1. 
 
 Il ne peut cumuler les pensions de réversion obtenues du chef de son père légitime ou naturel et celles obtenues d'un père
 adoptif ; il ne peut cumuler les pensions de réversion obtenues du chef de sa mère légitime ou naturelle et celles obtenues
 du chef d'une mère adoptive. Toutefois, il peut opter pour la pension de réversion la plus favorable.
+
+**Nota:**
+
+Loi n° 2010-1330 du 9 novembre 2010, article 118 II : Les dispositions de l'article 37 sont applicables aux pensions prenant
+effet à compter du 1er juillet 2011.
 
 **Liens relatifs à cet article**
 
@@ -5217,23 +5269,17 @@ du chef d'une mère adoptive. Toutefois, il peut opter pour la pension de réver
 
 	  - Décret n°50-1348 du 27 octobre 1950 - art. 17 (V)
 
-	**Codifié par**:
-
-	  - Loi n°64-1339 1964-12-29
-
 	**Modifié par**:
 
-	  - Loi n°73-1128 1973-12-21 art. 12 IV JORF 23 décembre 1973
-	  - Loi n°78-753 1978-07-17 art. 43 IV JORF JORF 18 juillet 1978
-	  - Loi n°78-753 du 17 juillet 1978 - art. 43
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°78-753 du 17 juillet 1978 - art. 44 (V)
+	  - Loi n°2010-1330 du 9 novembre 2010 - art. 37
 
 	**Cite**:
 
-	  - Code des pensions civiles et militaires de retrait - art. L84 (M)
+	  - Code des pensions civiles et militaires de retraite - art. L86-1
+
+	**Codifié par**:
+
+	  - Loi n°64-1339 1964-12-29
 
 
 #### Chapitre IV : Cumul d'accessoires de pension.
@@ -6355,35 +6401,35 @@ du 1er janvier 2011.
 ###### Article R25-1
 
 La bonification prévue au i de l'article L. 12 attribuée dans la limite de vingt trimestres est calculée en fonction des
-services militaires effectivement accomplis.
+services militaires effectivement accomplis. 
 
-La bonification est diminuée :
+La bonification est diminuée : 
 
-De quatre trimestres pour les militaires radiés des cadres au plus tôt à compter du jour de leur cinquante-huitième
-anniversaire et au plus tard à compter de la veille de leur cinquante-neuvième anniversaire.
+1° De quatre trimestres pour les militaires radiés des cadres au plus tôt à compter du jour de leur soixantième anniversaire
+et au plus tard à compter de la veille de leur soixante et unième anniversaire ; 
 
-De huit trimestres pour les militaires radiés des cadres au plus tôt à compter du jour de leur cinquante-neuvième
-anniversaire et au plus tard la veille de leur soixantième anniversaire.
+2° De huit trimestres pour les militaires radiés des cadres au plus tôt à compter du jour de leur soixante et unième
+anniversaire et au plus tard la veille de leur soixante-deuxième anniversaire ; 
 
-De douze trimestres pour les militaires radiés des cadres à compter du jour de leur soixantième anniversaire ou, en cas de
-radiation par limite d'âge, du lendemain de ce jour.
+3° De douze trimestres pour les militaires radiés des cadres à compter du jour de leur soixante-deuxième anniversaire ou, en
+cas de radiation par limite d'âge, du lendemain de ce jour. 
 
-En cas de radiation des cadres prononcée après le jour du soixantième anniversaire ou en cas de radiation des cadres par
-limite d'âge après le lendemain de cette date, aucune bonification n'est accordée.
+En cas de radiation des cadres prononcée après le jour du soixante-deuxième anniversaire ou en cas de radiation des cadres
+par limite d'âge après le lendemain de cette date, aucune bonification n'est accordée.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°66-809 1966-10-28
+	  - Décret n°66-809 du 28 octobre 1966
 
 	**Modifié par**:
 
-	  - Décret n°2003-1305 du 26 décembre 2003 - art. 7 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
+	  - Décret n°2011-796 du 30 juin 2011 - art. 5
 
 	**Cite**:
 
-	  - Code des pensions civiles et militaires de retrait - art. L12 (M)
+	  - Code des pensions civiles et militaires de retraite - art. L12
 
 
 #### Chapitre II : Détermination du montant de la pension.
@@ -6963,47 +7009,53 @@ professionnelle.
 
 ###### Article R37 bis
 
-Pour les fonctionnaires handicapés mentionnés au 5° du I de l'article L. 24, la condition d'âge de 60 ans est abaissée :
+Pour les fonctionnaires handicapés mentionnés au 5° du I de l'article L. 24, l'âge d'ouverture du droit à pension est
+abaissé : 
 
 1° A cinquante-cinq ans s'ils justifient alors qu'ils étaient atteints d'une incapacité permanente au moins égale à un taux
 de 80 %, d'une durée d'assurance au moins égale au nombre de trimestres nécessaire pour obtenir le pourcentage maximum de
 pension mentionné au second alinéa de l'article L. 13, diminué de 40 trimestres, et d'une durée d'assurance ayant donné lieu
-à cotisation à leur charge au moins égale au nombre de trimestres fixé à l'article L. 13, diminué de 60 trimestres ;
+à cotisation à leur charge au moins égale au nombre de trimestres fixé à l'article L. 13, diminué de 60 trimestres ; 
 
 2° A cinquante-six ans s'ils justifient, alors qu'ils étaient atteints d'une incapacité permanente au moins égale à un taux
 de 80 %, d'une durée d'assurance au moins égale au nombre de trimestres nécessaire pour obtenir le pourcentage maximum de
 pension mentionné au second alinéa de l'article L. 13, diminué de 50 trimestres, et d'une durée d'assurance ayant donné lieu
-à cotisation à leur charge au moins égale au nombre de trimestres fixé par l'article L. 13, diminué de 70 trimestres ;
+à cotisation à leur charge au moins égale au nombre de trimestres fixé par l'article L. 13, diminué de 70 trimestres ; 
 
 3° A cinquante-sept ans s'ils justifient, alors qu'ils étaient atteints d'une incapacité permanente au moins égale à un taux
 de 80 %, d'une durée d'assurance au moins égale au nombre de trimestres nécessaire pour obtenir le pourcentage maximum de
 pension mentionné au second alinéa de l'article L. 13, diminué de 60 trimestres, et d'une durée d'assurance ayant donné lieu
-à cotisation à leur charge au moins égale au nombre de trimestres fixé par l'article L. 13, diminué de 80 trimestres ;
+à cotisation à leur charge au moins égale au nombre de trimestres fixé par l'article L. 13, diminué de 80 trimestres ; 
 
 4° A cinquante-huit ans s'ils justifient, alors qu'ils étaient atteints d'une incapacité permanente au moins égale à un taux
 de 80 %, d'une durée d'assurance au moins égale au nombre de trimestres nécessaire pour obtenir le pourcentage maximum de
 pension mentionné au second alinéa de l'article L. 13, diminué de 70 trimestres, et d'une durée d'assurance ayant donné lieu
-à cotisation à leur charge au moins égale au nombre de trimestres fixé par l'article L. 13, diminué de 90 trimestres ;
+à cotisation à leur charge au moins égale au nombre de trimestres fixé par l'article L. 13, diminué de 90 trimestres ; 
 
 5° A cinquante-neuf ans s'ils justifient, alors qu'ils étaient atteints d'une incapacité permanente au moins égale à un taux
 de 80 %, d'une durée d'assurance au moins égale au nombre de trimestres nécessaire pour obtenir le pourcentage maximum de
 pension mentionné au second alinéa de l'article L. 13, diminué de 80 trimestres, et d'une durée d'assurance ayant donné lieu
 à cotisation à leur charge au moins égale au nombre de trimestres fixé par l'article L. 13, diminué de 100 trimestres.
 
+**Nota:**
+
+Décret n° 2010-1740 du 30 décembre 2010, article 16 III : Ces dispositions sont applicables aux pensions liquidées à compter
+du 1er juillet 2011.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°66-809 1966-10-28
+	  - Décret n°66-809 du 28 octobre 1966
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1582 du 12 décembre 2006 - art. 3 () JORF 13 décembre 2006
+	  - Décret n°2010-1740 du 30 décembre 2010 - art. 9
 
 	**Cite**:
 
-	  - Code des pensions civiles et militaires de retrait - art. L13 (M)
-	  - Code des pensions civiles et militaires de retrait - art. L24 (M)
+	  - Code des pensions civiles et militaires de retr... - art. L13 (V)
+	  - Code des pensions civiles et militaires de retr... - art. L24 (VT)
 
 
 ### Titre V : Invalidité.
@@ -7016,13 +7068,19 @@ pension mentionné au second alinéa de l'article L. 13, diminué de 80 trimestr
 
 Le bénéfice de la rente viagère d'invalidité prévue à l'article L. 28 est attribuable si la radiation des cadres ou le décès
 en activité surviennent avant la limite d'âge et sont imputables à des blessures ou maladies résultant par origine ou
-aggravation d'un fait précis et déterminé de service ou de l'une des autres circonstances énumérées à l'article L. 27.
+aggravation d'un fait précis et déterminé de service ou de l'une des autres circonstances énumérées à l'article L. 27. 
+
+La rente est due à compter de la même date que la pension.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°66-809 1966-10-28
+	  - Décret n°66-809 du 28 octobre 1966
+
+	**Modifié par**:
+
+	  - Décret n°2011-796 du 30 juin 2011 - art. 1
 
 	**Cité par**:
 
@@ -7030,7 +7088,8 @@ aggravation d'un fait précis et déterminé de service ou de l'une des autres c
 
 	**Cite**:
 
-	  - Code des pensions civiles et militaires de retraite L27 et L28
+	  - Code des pensions civiles et militaires de retraite - art. L27
+	  - Code des pensions civiles et militaires de retraite - art. L28
 
 
 ###### Article R39
@@ -7427,6 +7486,22 @@ doit être accompagné de ses motifs.
 	**Cite**:
 
 	  - Code des pensions civiles et militaires de retraite L31 al. 1
+
+
+###### Article R49 bis
+
+Dans tous les cas, la décision d'admission à la retraite pour invalidité, prise en application de l'article L. 31, est
+subordonnée à l'avis conforme du ministre chargé du budget.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-421 du 18 avril 2011 - art. 1
+
+	**Cite**:
+
+	  - Code des pensions civiles et militaires de retraite - art. L31
 
 
 #### Chapitre II : Militaires.
@@ -8352,16 +8427,15 @@ deuxième alinéa de l'article L. 87.
 
 ###### Article R96
 
-Le paiement du traitement ou solde d'activité augmenté éventuellement des avantages familiaux et du supplément familial de
-traitement ou solde, à l'exclusion de toutes autres indemnités ou allocations, est continué jusqu'à la fin du mois civil au
-cours duquel le fonctionnaire ou militaire est, soit admis à la retraite ou radié des cadres, soit décédé en activité. Le
-paiement de la pension de l'intéressé ou de celle de ses ayants droit commence au premier jour du mois suivant.
+La mise en paiement de la pension du fonctionnaire ou du militaire, ou de celle de ses ayants droit, s'effectue à la fin du
+premier mois suivant celui de la cessation d'activité ou du décès, le cas échéant, avec rappel au jour de l'entrée en
+jouissance de la pension.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°66-809 1966-10-28
+	  - Décret n°66-809 du 28 octobre 1966
 
 	**Cité par**:
 
@@ -8369,7 +8443,7 @@ paiement de la pension de l'intéressé ou de celle de ses ayants droit commence
 
 	**Modifié par**:
 
-	  - Décret n°2003-1305 du 26 décembre 2003 - art. 47 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
+	  - Décret n°2011-796 du 30 juin 2011 - art. 2
 
 
 ###### Article R97
@@ -8850,6 +8924,33 @@ toutes situations ne comportant pas le bénéfice de la campagne double par appl
 	**Codifié par**:
 
 	  - Décret n°66-810 1966-10-28
+
+
+###### Article D13
+
+Le coefficient de minoration prévu au I de l'article L. 14 n'est pas applicable aux fonctionnaires âgés d'au moins soixante-
+cinq ans qui :
+
+- soit bénéficient d'au moins un trimestre au titre de la majoration de durée d'assurance prévue à l'article L. 12 ter ;
+
+- soit établissent qu'ils ont été salarié ou aidant familial, pendant une durée d'au moins trente mois, de leur enfant
+bénéficiaire de l'élément de la prestation relevant du 1° de l'article L. 245-3 du code de l'action sociale et des familles.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2011-754 du 28 juin 2011 - art. 11
+
+	**Cite**:
+
+	  - Code des pensions civiles et militaires de retr... - art. L12 ter (V)
+	  - Code des pensions civiles et militaires de retr... - art. L14 (V)
+	  - Code de l'action sociale et des familles - art. L245-3 (V)
+
+	**Codifié par**:
+
+	  - Décret n°66-810 du 28 octobre 1966
 
 
 #### Chapitre II : Détermination du montant de la pension.
