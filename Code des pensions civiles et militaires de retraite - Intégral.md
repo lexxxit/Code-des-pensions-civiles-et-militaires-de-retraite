@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 2011-07-01
+Version Consolidée au 2011-11-06
 
 # Partie législative
 
@@ -6061,52 +6061,51 @@ de l'Etat rémunérés sur une base mensuelle.
 ###### Article R14
 
 Les bénéfices de campagne prévus à l'article L. 12, c, attribués en sus de la durée effective des services militaires sont
-décomptés selon les règles ci-après :
+décomptés selon les règles ci-après : 
 
-A. - Double en sus de la durée effective pour le service accompli en opérations de guerre :
+A.-Double en sus de la durée effective pour le service accompli en opérations de guerre : 
 
-1° Soit dans les opérations des armées françaises et des armées alliées ;
+1° Soit dans les opérations des armées françaises et des armées alliées ; 
 
 2° Soit à bord des bâtiments de guerre de l'Etat, des bâtiments de commerce au compte de l'Etat ou des mêmes bâtiments des
-puissances alliées.
+puissances alliées. 
 
 Dans les cas envisagés ci-dessus, le bénéfice de la double campagne ne prendra fin, pour tout blessé de guerre, qu'à
-l'expiration d'une année complète à partir du jour où il a reçu sa blessure.
+l'expiration d'une année complète à partir du jour où il a reçu sa blessure. 
 
-B. - Totalité en sus de la durée effective :
+B.-Totalité en sus de la durée effective : 
 
 1° Pour le service accompli sur le pied de guerre, pour les militaires autres que ceux placés dans les positions ci-dessus
-définies en A ;
+définies en A ; 
 
-2° Pour le service accompli en voyage de découverte ou d'exploration sur l'ordre du Gouvernement ;
+2° Pour le service accompli en voyage de découverte ou d'exploration sur l'ordre du Gouvernement ; 
 
-3° Pour le temps passé en captivité, pour les militaires prisonniers de guerre ;
+3° Pour le temps passé en captivité, pour les militaires prisonniers de guerre ; 
 
-4° Pour le service accompli en Corse et en Afrique du Nord par la gendarmerie.
+4° Pour le service accompli en Corse et en Afrique du Nord par la gendarmerie. 
 
-C. - Totalité en sus ou moitié en sus de la durée effective, selon le degré d'insalubrité ou les conditions d'insécurité du
+C.-Totalité en sus ou moitié en sus de la durée effective, selon le degré d'insalubrité ou les conditions d'insécurité du
 territoire envisagé déterminés aux articles R. 15 à R. 17, le service accompli, soit à terre, soit à bord des bâtiments de
-l'Etat ou des bâtiments de commerce au compte de l'Etat :
+l'Etat ou des bâtiments de commerce au compte de l'Etat : 
 
 1° En Algérie, dans les territoires et pays d'outre-mer, Maroc et Tunisie, pour les militaires envoyés de la métropole,
-d'Algérie, d'un autre territoire ou pays d'outre-mer, Maroc et Tunisie.
+d'Algérie, d'un autre territoire ou pays d'outre-mer, Maroc et Tunisie. 
 
 Sont considérés à cet égard comme envoyés d'Europe les militaires français originaires d'Europe ou nés dans un territoire ou
-pays d'outre-mer, Maroc et Tunisie, de père et de mère tous deux Européens, de passage dans ces régions et n'y étant pas
-définitivement fixés ;
+pays d'outre-mer, Maroc et Tunisie, de passage dans ces régions et n'y étant pas définitivement fixés ; 
 
 2° Dans un pays étranger, autre que ceux visés en C (1°) pour les troupes d'occupation et pour les catégories de personnels
-désignées par un décret contresigné par le ou les ministres intéressés et par le ministre des finances.
+désignées par un décret contresigné par le ou les ministres intéressés et par le ministre des finances. 
 
-D. - Moitié en sus de la durée effective :
+D.-Moitié en sus de la durée effective : 
 
 1° Pour le service accompli sur le pied de paix à bord des bâtiments de l'Etat armés et dans les conditions fixées par un
-décret ;
+décret ; 
 
 2° Pour le temps passé à bord des mêmes bâtiments ou de bâtiments de commerce, en temps de paix, entre la métropole et un
-territoire d'outre-mer ou étranger, en cas d'embarquement pour rejoindre ou quitter son poste.
+territoire d'outre-mer ou étranger, en cas d'embarquement pour rejoindre ou quitter son poste. 
 
-E. - Moitié de la durée effective, et à titre de bonification seulement, la navigation accomplie, en temps de guerre, à bord
+E.-Moitié de la durée effective, et à titre de bonification seulement, la navigation accomplie, en temps de guerre, à bord
 des bâtiments ordinaires du commerce. Les bonifications ainsi acquises ne pourront jamais entrer pour plus d'un tiers dans
 l'évaluation totale des services admis en liquidation.
 
@@ -6114,16 +6113,21 @@ l'évaluation totale des services admis en liquidation.
 
 	**Codifié par**:
 
-	  - Décret n°66-809 1966-10-28
+	  - Décret n°66-809 du 28 octobre 1966
 
 	**Cité par**:
 
 	  - Décret n°2009-922 du 27 juillet 2009 (V)
 	  - Décret n°2009-923 du 27 juillet 2009 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2011-1429 du 3 novembre 2011 - art. 2
+
 	**Cite**:
 
-	  - Code des pensions civiles et militaires de retraite L12 et R15 à R17
+	  - Code des pensions civiles et militaires de retraite - art. L12
+	  - Code des pensions civiles et militaires de retraite - art. R15
 
 
 ###### Article R15
@@ -6205,6 +6209,31 @@ terme en est fixé dans les mêmes formes.
 	**Cite**:
 
 	  - Code des pensions civiles et militaires de retrait - art. R15 (V)
+
+
+###### Article R17 bis
+
+Le service effectué lors d'opérations militaires qualifiées d'opérations extérieures dans les conditions prévues à l'article
+L. 4123-4 du code de la défense et les blessures qui en résultent peuvent donner lieu, lorsque la nature des opérations le
+justifie, à l'attribution du bénéfice de la campagne double, par décret.
+
+Le décret précise le champ d'application de l'opération à laquelle il s'applique et la période donnant droit à ce bénéfice.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-1429 du 3 novembre 2011 - art. 1
+
+	**Cité par**:
+
+	  - Décret n°2011-1459 du 8 novembre 2011 - art. 1 (V)
+	  - Décret n°2015-946 du 31 juillet 2015 - art. 1 (V)
+	  - Décret n°2015-947 du 31 juillet 2015 - art. 1 (V)
+
+	**Cite**:
+
+	  - Code de la défense. - art. L4123-4
 
 
 ###### Article R18
