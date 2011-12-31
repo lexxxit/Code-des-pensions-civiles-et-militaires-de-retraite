@@ -1,18 +1,18 @@
 # Article R57 bis
 
-Pour l'application de l'article L. 45, la durée de chaque mariage, déterminée de date à date, est arrondie au nombre de mois
-inférieur.
+Pour l'application du a de l'article L. 43 , la durée de chaque mariage, déterminée de date à date, est arrondie au nombre de
+mois inférieur.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°66-809 1966-10-28
+	  - Décret n°66-809 du 28 octobre 1966
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-1305 du 26 décembre 2003 - art. 22 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
+	  - Décret n°2015-103 du 2 février 2015 - art. 1
 
 	**Cite**:
 
-	  - Code des pensions civiles et militaires de retr... - art. L45 (Ab)
+	  - Code des pensions civiles et militaires de retraite - art. L45

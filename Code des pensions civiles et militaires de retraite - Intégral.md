@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 2011-12-23
+Version Consolidée au 2012-01-01
 
 # Partie législative
 
@@ -2694,41 +2694,51 @@ Le II de l'article 45 est applicable aux pensions liquidées à compter du 1er j
 
 ###### Article L18
 
-I. - Une majoration de pension est accordée aux titulaires ayant élevé au moins trois enfants.
+I.-Une majoration de pension est accordée aux titulaires ayant élevé au moins trois enfants. 
 
-II. - Ouvrent droit à cette majoration :
+II.-Ouvrent droit à cette majoration : 
 
 Les enfants légitimes, les enfants naturels dont la filiation est établie et les enfants adoptifs du titulaire de la
-pension ;
+pension ; 
 
 Les enfants du conjoint issus d'un mariage précédent, ses enfants naturels dont la filiation est établie et ses enfants
-adoptifs ;
+adoptifs ; 
 
 Les enfants ayant fait l'objet d'une délégation de l'autorité parentale en faveur du titulaire de la pension ou de son
-conjoint ;
+conjoint ; 
 
 Les enfants placés sous tutelle du titulaire de la pension ou de son conjoint, lorsque la tutelle s'accompagne de la garde
-effective et permanente de l'enfant ;
+effective et permanente de l'enfant ; 
 
 Les enfants recueillis à son foyer par le titulaire de la pension ou son conjoint, qui justifie, dans les conditions fixées
-par décret en Conseil d'Etat, en avoir assumé la charge effective et permanente.
+par décret en Conseil d'Etat, en avoir assumé la charge effective et permanente. 
 
-III. - A l'exception des enfants décédés par faits de guerre, les enfants devront avoir été élevés pendant au moins neuf ans,
-soit avant leurseizième anniversaire, soit avant l'âge où ils ont cessé d'être à charge au sens des articles L. 512-3 et R.
-512-2 à R. 512-3 du code de la sécurité sociale.
+III.-A l'exception des enfants décédés par faits de guerre, les enfants devront avoir été élevés pendant au moins neuf ans,
+soit avant leur seizième anniversaire, soit avant l'âge où ils ont cessé d'être à charge au sens des articles L. 512-3 et R.
+512-2 à R. 512-3 du code de la sécurité sociale. 
 
 Pour satisfaire la condition de durée ci-dessus, il sera tenu compte, le cas échéant, du temps pendant lequel les enfants
-auront été élevés par le conjoint après le décès du titulaire.
+auront été élevés par le conjoint après le décès du titulaire. 
 
-IV. - Le bénéfice de la majoration est accordé :
+IV.-Le bénéfice de la majoration est accordé : 
 
-Soit au moment où l'enfant atteint l'âge de seize ans ;
+Soit au moment où l'enfant atteint l'âge de seize ans ; 
 
-Soit au moment où, postérieurement à l'âge de seize ans, il remplit la condition visée au III ci-dessus.
+Soit au moment où, postérieurement à l'âge de seize ans, il remplit la condition visée au III ci-dessus. 
 
-V. - Le taux de la majoration de la pension est fixé à 10 % de son montant pour les trois premiers enfants et à 5 % par
-enfant au-delà du troisième, sans que le montant de la pension majorée puisse excéder le montant des émoluments de base
-déterminés à l'article L. 15.
+V.-Le taux de la majoration de la pension est fixé à 10 % de son montant pour les trois premiers enfants et à 5 % par enfant
+au-delà du troisième, sans que le montant de la pension majorée puisse excéder le montant du traitement ou de la solde
+mentionné à l'article L. 15 et revalorisé dans les conditions prévues à l'article L. 16. En cas de dépassement, les montants
+de la pension et de la majoration sont réduits à due proportion.
+
+**Nota:**
+
+Conformément à l'article 163-II de la loi n° 2011-1977 du 28 décembre 2011, ces dispositions sont applicables aux
+fonctionnaires relevant de la Caisse nationale de retraites des agents des collectivités locales ainsi qu'aux ouvriers
+relevant du régime de retraite des ouvriers des établissements industriels de l'Etat, dans les conditions prévues par décret
+en Conseil d'Etat. Aux termes du paragraphe III du même article, elles sont applicables aux instances en cours à la date du
+13 janvier 2011, la révision des pensions prenant effet à compter de la date de réception par l'administration de la demande
+qui est à l'origine de ces instances.
 
 **Liens relatifs à cet article**
 
@@ -2758,12 +2768,14 @@ déterminés à l'article L. 15.
 
 	**Modifié par**:
 
-	  - Loi n°91-715 du 26 juillet 1991 - art. 6 () JORF 27 juillet 1991
+	  - Loi n°2011-1977 du 28 décembre 2011 - art. 163 (V)
 
 	**Cite**:
 
-	  - Code des pensions civiles et militaires de retrait - art. L15 (M)
-	  - Code de la sécurité sociale L527
+	  - Code des pensions civiles et militaires de retraite - art. L15
+	  - Code de la sécurité sociale.
+	  - Code de la sécurité sociale. - art. L512-3 (V)
+	  - Code de la sécurité sociale. - art. R512-2 (V)
 
 	**Codifié par**:
 
@@ -3352,31 +3364,37 @@ accordé en application du 4° du même article.
 ###### Article L28
 
 Le fonctionnaire civil radié des cadres dans les conditions prévues à l'article L. 27 a droit à une rente viagère
-d'invalidité cumulable avec la pension rémunérant les services.
+d'invalidité cumulable, selon les modalités définies à l'article L. 30 ter,  avec la pension rémunérant les services. 
 
 Le droit à cette rente est également ouvert au fonctionnaire retraité qui est atteint d'une maladie professionnelle dont
 l'imputabilité au service est reconnue par la commission de réforme postérieurement à la date de la radiation des cadres,
 dans les conditions définies à l'article L. 31. Dans ce cas, la jouissance de la rente prend effet à la date du dépôt de la
 demande de l'intéressé, sans pouvoir être antérieure à la date de publication de la loi n° 2000-321 du 12 avril 2000 relative
 aux droits des citoyens dans leurs relations avec les administrations. Il en est également ainsi lorsque l'entrée en
-jouissance de la pension est différée en application de l'article L. 25 du présent code.
+jouissance de la pension est différée en application de l'article L. 25 du présent code. 
 
 Le montant de la rente d'invalidité est fixé à la fraction du traitement ou de la solde de base définis à l'article L. 15
 égale au pourcentage d'invalidité. Si le montant de ce traitement ou de cette solde de base dépasse un montant correspondant
 à la valeur de l'indice majoré 681 au 1er janvier 2004, revalorisé dans les conditions prévues à l'article L. 16, la fraction
 dépassant cette limite n'est comptée que pour le tiers. Toutefois, il n'est pas tenu compte de la fraction excédant dix fois
-ce montant brut.
+ce montant brut. 
 
-Le taux d'invalidité est déterminé compte tenu d'un barème indicatif fixé par décret.
+Le taux d'invalidité est déterminé compte tenu d'un barème indicatif fixé par décret. 
 
-La rente d'invalidité ajoutée à la pension ne peut faire bénéficier le titulaire d'émoluments totaux supérieurs aux
-émoluments de base visés à l'article L. 15. Elle est liquidée, concédée et payée dans les mêmes conditions et suivant les
-mêmes modalités que la pension.
+La rente d'invalidité est liquidée, concédée et payée dans les mêmes conditions et suivant les mêmes modalités que la
+pension. 
 
-Le total de la pension et de la rente d'invalidité est élevé au montant de la pension basée sur quarante annuités liquidables
-lorsque le fonctionnaire civil est mis à la retraite à la suite d'un attentat ou d'une lutte dans l'exercice de ses fonctions
-ou d'un acte de dévouement dans un intérêt public ou pour avoir exposé ses jours pour sauver la vie d'une ou plusieurs
-personnes. Toutefois, le taux de l'invalidité rémunérable doit être au moins égal à 60 %.
+Le total de la pension et de la rente d'invalidité est élevé au  produit du pourcentage maximum prévu à l'article L. 13 par
+le  traitement mentionné à l'article L. 15 et revalorisé dans les conditions  prévues à l'article L. 16 lorsque le
+fonctionnaire civil est mis à la retraite à la suite d'un attentat ou d'une lutte dans l'exercice de ses fonctions ou d'un
+acte de dévouement dans un intérêt public ou pour avoir exposé ses jours pour sauver la vie d'une ou plusieurs personnes.
+Toutefois, le taux de l'invalidité rémunérable doit être au moins égal à 60 %.
+
+**Nota:**
+
+Dans sa décision n° 2010-83 QPC du 13 janvier 2011 (NOR : CSCX1101353S), le Conseil constitutionnel a déclaré contraire à la
+Constitution la première phrase du cinquième alinéa de l'article L. 28. La déclaration d'inconstitutionnalité prend effet le
+1er janvier 2012 dans les conditions fixées au considérant 7 de la présente décision.
 
 **Liens relatifs à cet article**
 
@@ -3410,26 +3428,19 @@ personnes. Toutefois, le taux de l'invalidité rémunérable doit être au moins
 	  - Code des pensions civiles et militaires de retrait - art. R*101 (V)
 	  - Code des pensions civiles et militaires de retrait - art. R40 (V)
 
-	**Cite**:
-
-	  - Loi n°2000-321 2000-04-12
-	  - Code des pensions civiles et militaires de retrait - art. L15 (M)
-	  - Code des pensions civiles et militaires de retrait - art. L16 (M)
-	  - Code des pensions civiles et militaires de retrait - art. L25 (M)
-	  - Code des pensions civiles et militaires de retrait - art. L27 (M)
-	  - Code des pensions civiles et militaires de retrait - art. L31 (M)
-
 	**Liens**:
 
 	  - TXT_SOURCE: Décret n°2001-99 du 31 janvier 2001
 
 	**Modifié par**:
 
-	  - Loi n°2003-775 du 21 août 2003 - art. 55 () JORF 22 août 2003 en vigueur le 1er janvier 2004
+	  - Loi n°2011-1977 du 28 décembre 2011 - art. 163 (V)
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Loi n°64-1339 1964-12-29
+	  - Code des pensions civiles et militaires de retraite - art. L15
+	  - Code des pensions civiles et militaires de retraite - art. L25
+	  - Code des pensions civiles et militaires de retraite - art. L27
 
 
 ##### Paragraphe II : Invalidité ne résultant pas de l'exercice des fonctions.
@@ -3474,26 +3485,18 @@ aient été contractées ou aggravées au cours d'une période durant laquelle i
 
 ###### Article L30
 
-Lorsque le fonctionnaire est atteint d'une invalidité d'un taux au moins égal à 60 %, le montant de la pension prévue aux
-articles L. 28 et L. 29 ne peut être inférieur à 50 % des émoluments de base.
-
-En outre, si le fonctionnaire est dans l'obligation d'avoir recours d'une manière constante à l'assistance d'une tierce
-personne pour accomplir les actes ordinaires de la vie, il a droit à une majoration spéciale dont le montant est égal au
-traitement brut afférent à l'indice brut afférent à l'indice 100 prévu par l'article 1er du décret n° 48-1108 du 10 juillet
-1948. Le droit à cette majoration est également ouvert au fonctionnaire relevant du deuxième alinéa de l'article L. 28.
-
-En aucun cas, le montant total des prestations accordées au fonctionnaire invalide ne peut excéder le montant des émoluments
-de base visés à l'article L. 15. Exception est faite pour la majoration spéciale au titre de l'assistance d'une tierce
-personne qui est perçue en toutes circonstances indépendamment de ce plafond.
+Lorsque  le fonctionnaire est atteint d'une invalidité d'un taux au moins égal à  60 %, le montant de la pension prévue aux
+articles L. 28 et L. 29 ne  peut être inférieur à 50 % du traitement mentionné à l'article L. 15 et  revalorisé dans les
+conditions prévues à l'article L. 16.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°48-1108 du 10 juillet 1948 - art. 1 (V)
-	  - Code des pensions civiles et militaires de retrait - art. L15 (M)
-	  - Code des pensions civiles et militaires de retrait - art. L28 (M)
-	  - Code des pensions civiles et militaires de retrait - art. L29 (M)
+	  - Décret n°48-1108 du 10 juillet 1948 - art. 1
+	  - Code des pensions civiles et militaires de retraite - art. L15
+	  - Code des pensions civiles et militaires de retraite - art. L28
+	  - Code des pensions civiles et militaires de retraite - art. L29
 
 	**Cité par**:
 
@@ -3513,11 +3516,61 @@ personne qui est perçue en toutes circonstances indépendamment de ce plafond.
 
 	**Modifié par**:
 
-	  - Loi n°2000-321 du 12 avril 2000 - art. 33 ()
+	  - Loi n°2011-1977 du 28 décembre 2011 - art. 163 (V)
 
 	**Codifié par**:
 
 	  - Loi n°64-1339 1964-12-29
+
+
+###### Article L30 bis
+
+Lorsque  le fonctionnaire est dans l'obligation d'avoir recours d'une manière  constante à l'assistance d'une tierce personne
+pour accomplir les actes  ordinaires de la vie, il a droit à une majoration spéciale d'un montant  correspondant à la valeur
+de l'indice majoré 227 au 1er janvier 2004,  revalorisé dans les conditions prévues à l'article L. 16. Le droit à  cette
+majoration est également ouvert au fonctionnaire relevant du  deuxième alinéa de l'article L. 28.
+
+**Nota:**
+
+Conformément à l'article 163-II de la loi n° 2011-1977 du 28 décembre 2011, ces dispositions sont applicables aux
+fonctionnaires relevant de la Caisse nationale de retraites des agents des collectivités locales ainsi qu'aux ouvriers
+relevant du régime de retraite des ouvriers des établissements industriels de l'Etat, dans les conditions prévues par décret
+en Conseil d'Etat. Aux termes du paragraphe III du même article, elles sont applicables aux instances en cours à la date du
+13 janvier 2011, la révision des pensions prenant effet à compter de la date de réception par l'administration de la demande
+qui est à l'origine de ces instances.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-1977 du 28 décembre 2011 - art. 163 (V)
+
+	**Cité par**:
+
+	  - Code des pensions civiles et militaires de retr... - art. L30 ter (V)
+
+
+###### Article L30 ter
+
+Sans  préjudice du plafond fixé au V de l'article L. 18, le montant total des  prestations accordées au fonctionnaire
+invalide, à l'exclusion des  majorations prévues aux articles L. 18 et L. 30 bis, ne peut excéder le  montant du traitement
+mentionné à l'article L. 15 et revalorisé dans les  conditions prévues à l'article L. 16. En cas de dépassement, le montant
+de chaque prestation est réduit à due proportion.
+
+**Nota:**
+
+Conformément à l'article 163-II de la loi n° 2011-1977 du 28 décembre 2011, ces dispositions sont applicables aux
+fonctionnaires relevant de la Caisse nationale de retraites des agents des collectivités locales ainsi qu'aux ouvriers
+relevant du régime de retraite des ouvriers des établissements industriels de l'Etat, dans les conditions prévues par décret
+en Conseil d'Etat. Aux termes du paragraphe III du même article, elles sont applicables aux instances en cours à la date du
+13 janvier 2011, la révision des pensions prenant effet à compter de la date de réception par l'administration de la demande
+qui est à l'origine de ces instances.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-1977 du 28 décembre 2011 - art. 163 (V)
 
 
 ###### Article L31
@@ -3904,28 +3957,23 @@ Nonobstant les conditions d'antériorité prévues ci-dessus, le droit à pensio
 
 Chaque orphelin a droit jusqu'à l'âge de vingt et un ans à une pension égale à 10 % de la pension obtenue par le
 fonctionnaire ou qu'il aurait pu obtenir au jour de son décès, et augmentée, le cas échéant, de 10 % de la rente d'invalidité
-dont il bénéficiait ou aurait pu bénéficier, sans que le total des émoluments attribués au conjoint survivant et aux
-orphelins puisse excéder le montant de la pension et, éventuellement, de la rente d'invalidité attribuées ou qui auraient été
-attribuées au fonctionnaire. S'il y a excédent, il est procédé à la réduction temporaire des pensions des orphelins.
-
-En cas de décès du conjoint survivant, les droits définis au premier alinéa de l'article L. 38 passent aux enfants âgés de
-moins de vingt et un ans et la pension de 10 % est maintenue à chaque enfant âgé de moins de vingt et un ans dans la limite
-du maximum fixé à l'alinéa précédent.
+dont il bénéficiait ou aurait pu bénéficier, sans que le total des émoluments attribués aux conjoints survivants ou divorcés
+et aux orphelins puisse excéder le montant de la pension et, éventuellement, de la rente d'invalidité attribuées ou qui
+auraient été attribuées au fonctionnaire. S'il y a excédent, il est procédé à la réduction temporaire des pensions des
+orphelins. 
 
 Pour l'application des dispositions qui précèdent, sont assimilés aux enfants âgés de moins de vingt et un ans les enfants
 qui, au jour du décès de leur auteur, se trouvaient à la charge effective de ce dernier par suite d'une infirmité permanente
 les mettant dans l'impossibilité de gagner leur vie. La pension accordée à ces enfants n'est pas cumulable avec toute autre
 pension ou rente d'un régime général, attribuée au titre de la vieillesse ou de l'invalidité, à concurrence du montant de ces
-avantages. Elle est suspendue si l'enfant cesse d'être dans l'impossibilité de gagner sa vie.
+avantages. Elle est suspendue si l'enfant cesse d'être dans l'impossibilité de gagner sa vie. 
 
 Les dispositions prévues à l'alinéa précédent sont également applicables aux enfants atteints, après le décès de leur auteur
 mais avant leur vingt et unième année révolue, d'une infirmité permanente les mettant dans l'impossibilité de gagner leur
-vie.
+vie. 
 
 Les pensions de 10 % attribuées aux enfants ne peuvent pas, pour chacun d'eux, être inférieures au montant des avantages
 familiaux dont aurait bénéficié le fonctionnaire en exécution de l'article L. 19 s'il avait été retraité.
-
-Les enfants naturels reconnus et les enfants adoptifs sont assimilés aux orphelins légitimes.
 
 **Liens relatifs à cet article**
 
@@ -3939,18 +3987,18 @@ Les enfants naturels reconnus et les enfants adoptifs sont assimilés aux orphel
 	  - Code des pensions civiles et militaires de retrait - art. D24 (V)
 	  - Code des pensions civiles et militaires de retrait - art. L42 (Ab)
 
-	**Codifié par**:
-
-	  - Loi n°64-1339 1964-12-29
-
 	**Modifié par**:
 
-	  - Loi n°2003-775 du 21 août 2003 - art. 57 () JORF 22 août 2003 en vigueur le 1er janvier 2004
+	  - Loi n°2011-1977 du 28 décembre 2011 - art. 162 (V)
 
 	**Cite**:
 
-	  - Code des pensions civiles et militaires de retrait - art. L19 (M)
-	  - Code des pensions civiles et militaires de retrait - art. L38 (M)
+	  - Code des pensions civiles et militaires de retr... - art. L19 (V)
+	  - Code des pensions civiles et militaires de retraite - art. L38
+
+	**Codifié par**:
+
+	  - Loi n°64-1339 1964-12-29
 
 
 ###### Article L41
@@ -3979,21 +4027,27 @@ adoptifs.
 
 ###### Article L43
 
-Lorsqu'il existe une pluralité d'ayants cause de lits différents, la pension définie à l'article L. 38 est divisée en parts
-égales entre les lits représentés par le conjoint survivant ou divorcé ayant droit à pension ou par un ou plusieurs orphelins
-âgés de moins de vingt et un ans. Les enfants naturels sont assimilés à des orphelins légitimes ; ceux nés de la même mère
-représentent un seul lit. S'il existe des enfants nés du conjoint survivant ou divorcé ayant droit à pension, chacun d'eux a
-droit à la pension de 10 p. 100 dans les conditions prévues au premier alinéa de l'article L. 40. En cas de pluralité
-d'orphelins âgés de moins de vingt et un ans d'un même lit non représenté par le conjoint survivant ou divorcé ayant droit à
-pension, il leur est fait application du deuxième alinéa de l'article L. 40.
+La pension définie à l'article L. 38 est répartie comme suit : 
 
-Si un lit cesse d'être représenté, sa part accroît celle du ou des autres lits.
+a) A la date du décès du fonctionnaire, les conjoints survivants ou  divorcés ayant droit à pension se partagent la part de
+la pension de  réversion correspondant au rapport entre le nombre de conjoints  survivants ou divorcés et le nombre total de
+lits représentés. Cette  part est répartie entre les conjoints au prorata de la durée respective  de chaque mariage. 
+
+Un lit est représenté soit par  le conjoint survivant ou divorcé, soit par les orphelins de  fonctionnaires dont l'autre
+parent n'a pas ou plus droit à pension ; 
+
+b) La différence entre la fraction de la pension prévue à l'article L.  38 et les pensions versées aux conjoints survivants
+ou divorcés du  fonctionnaire en application du a est répartie également entre les  orphelins ayant droit à la pension prévue
+à l'article L. 40 qui  représentent un lit.
 
 **Nota:**
 
-Dans sa décision n° 2010-108 QPC du 25 mars 2011 (NOR : CSCX1108521S), le Conseil constitutionnel a déclaré contraire à la
-Constitution l'article L. 43 du code des pensions civiles et militaires de retraite. La déclaration d'inconstitutionnalité de
-l'article 1er prend effet le 1er janvier 2012 dans les conditions fixées au considérant 6.
+Loi n° 2011-1977 du 28 décembre 2011, art. 162-III : ces dispositions sont applicables à compter du 1er janvier 2012. Dans
+les cas où son application conduit à une révision et à une liquidation d'une pension inférieure à ce que percevait l'ayant
+cause du fonctionnaire avant le 1er janvier 2012, cet ayant cause conserve le bénéfice de l'ancienne pension jusqu'à la
+notification par l'administration du nouveau montant calculé conformément à l'article L. 43 du code des pensions civiles et
+militaires de retraite, dans sa rédaction issue de la présente loi. Le trop-perçu ne peut faire l'objet d'aucune demande de
+l'administration tendant à la répétition des sommes indûment versées.
 
 **Liens relatifs à cet article**
 
@@ -4005,9 +4059,11 @@ l'article 1er prend effet le 1er janvier 2012 dans les conditions fixées au con
 
 	**Modifié par**:
 
-	  - Loi n°75-1242 du 27 décembre 1975 - art. 16 () JORF 28 décembre 1975
-	  - Loi n°77-574 1977-06-07 art. 20 JORF 8 juin 1977 rectificatif JORF 21 juin 1977
-	  - Loi n°82-599 du 13 juillet 1982 - art. 15 () JORF 14 juillet 1982
+	  - Loi n°2011-1977 du 28 décembre 2011 - art. 162 (V)
+
+	**Cite**:
+
+	  - Code des pensions civiles et militaires de retraite
 
 	**Codifié par**:
 
@@ -4043,45 +4099,10 @@ autre ayant cause.
 	  - Code des pensions civiles et militaires de retraite L38 al. 1 et L50
 
 
-###### Article L45
-
-Lorsque, au décès du fonctionnaire, il existe plusieurs conjoints, divorcés ou survivants, ayant droit à la pension définie
-au premier alinéa de l'article L. 38, la pension est répartie entre ces conjoints au prorata de la durée respective de chaque
-mariage.
-
-En cas de décès de l'un des bénéficiaires, sa part passe le cas échéant aux orphelins de moins de vingt et un ans, légitimes
-ou naturels, issus de son union avec le fonctionnaire ou le titulaire de la pension, ou adoptés au cours de cette union.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°2003-775 du 21 août 2003 - art. 58 () JORF 22 août 2003 en vigueur le 1er janvier 2004
-
-	**Abrogé par**:
-
-	  - Loi n°2011-1977 du 28 décembre 2011 - art. 162 (V)
-
-	**Cité par**:
-
-	  - Code des pensions civiles et militaires de retr... - art. R57 bis (V)
-
-	**Cite**:
-
-	  - Code des pensions civiles et militaires de retraite - art. L38
-
-	**Codifié par**:
-
-	  - Loi n°64-1339 1964-12-29
-
-
 ###### Article L46
 
 Le conjoint survivant ou le conjoint divorcé, qui contracte un nouveau mariage ou vit en état de concubinage notoire, perd
 son droit à pension.
-
-Les droits qui leur appartenaient ou qui leur auraient appartenu passent aux enfants âgés de moins de vingt et un ans dans
-les conditions prévues au second alinéa de l'article L. 40.
 
 Le conjoint survivant ou le conjoint divorcé, dont la nouvelle union est dissoute ou qui cesse de vivre en état de
 concubinage notoire, peut, s'il le désire, recouvrer son droit à pension et demander qu'il soit mis fin à l'application qui a
@@ -4089,18 +4110,9 @@ pu être faite des dispositions du premier alinéa du présent article.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Loi n°64-1339 1964-12-26 JORF 30 décembre 1964 rectificatif JORF 10 janvier 1965 en vigueur le 1er décembre 1964
-
-	**Codifié par**:
-
-	  - Loi n°64-1339 1964-12-29
-
 	**Modifié par**:
 
-	  - Loi n°75-1242 du 27 décembre 1975 - art. 16 () JORF 28 décembre 1975
-	  - Loi n°82-599 du 13 juillet 1982 - art. 15 () JORF 14 juillet 1982
+	  - Loi n°2011-1977 du 28 décembre 2011 - art. 162 (V)
 
 	**Cité par**:
 
@@ -4108,7 +4120,11 @@ pu être faite des dispositions du premier alinéa du présent article.
 
 	**Cite**:
 
-	  - Code des pensions civiles et militaires de retrait - art. L40 (M)
+	  - Code des pensions civiles et militaires de retraite - art. L40
+
+	**Codifié par**:
+
+	  - Loi n°64-1339 1964-12-29
 
 
 #### Chapitre II : Militaires.
@@ -4357,8 +4373,9 @@ respectifs.
 
 ###### Article L55
 
-La pension et la rente viagère d'invalidité sont définitivement acquises et ne peuvent être révisées ou supprimées à
-l'initiative de l'administration ou sur demande de l'intéressé que dans les conditions suivantes : 
+Sous réserve du b de l'article L. 43, la pension et la rente viagère d'invalidité sont définitivement acquises et ne peuvent
+être révisées ou supprimées à l'initiative de l'administration ou sur demande de l'intéressé que dans les conditions
+suivantes : 
 
 A tout moment en cas d'erreur matérielle ; 
 
@@ -4387,7 +4404,7 @@ effet à compter du 1er juillet 2011.
 
 	**Modifié par**:
 
-	  - Loi n°2010-1330 du 9 novembre 2010 - art. 23 (V)
+	  - Loi n°2011-1977 du 28 décembre 2011 - art. 162 (V)
 
 	**Cite**:
 
@@ -4411,27 +4428,27 @@ objet d'exécuter les condamnations à des réparations civiles ou aux frais dus
 de procédure pénale et que ces condamnations ont été prononcées à l'encontre d'une personne qui a été jugée coupable de crime
 ou complicité de crime contre l'humanité. 
 
-La majoration spéciale prévue au deuxième alinéa de l'article L. 30 est insaisissable, sauf pour le paiement des frais
-d'entretien du bénéficiaire, des rémunérations dues aux personnes assurant son assistance ou des cotisations sociales
-obligatoires attachées à ces rémunérations.
+La majoration spéciale prévue à l'article L. 30 bis est insaisissable, sauf pour le paiement des frais d'entretien du
+bénéficiaire, des rémunérations dues aux personnes assurant son assistance ou des cotisations sociales obligatoires attachées
+à ces rémunérations.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2009-526 du 12 mai 2009 - art. 44
-
-	**Cite**:
-
-	  - Code des pensions civiles et militaires de retr... - art. L17 (V)
-	  - Code des pensions civiles et militaires de retr... - art. L30 (V)
-	  - Code de procédure pénale - art. 375
-	  - Code de la sécurité sociale. - art. L355-2 (V)
+	  - Loi n°2011-1977 du 28 décembre 2011 - art. 163 (V)
 
 	**Cité par**:
 
 	  - Code des pensions civiles et militaires de retrait - art. L96 (V)
 	  - Code des pensions civiles et militaires de retrait - art. R*107 (Ab)
+
+	**Cite**:
+
+	  - Code des pensions civiles et militaires de retraite - art. L17
+	  - Code des pensions civiles et militaires de retraite - art. L30
+	  - Code de procédure pénale - art. 375
+	  - Code de la sécurité sociale. - art. L355-2
 
 
 ###### Article L57
@@ -7170,10 +7187,9 @@ validité restante du fonctionnaire.
 
 ###### Article R*43
 
-La majoration spéciale pour assistance d'une tierce personne prévue au deuxième alinéa de l'article L. 30 est accordée sur sa
-demande et quelle que soit la date à laquelle la pension lui a été concédée, à tout titulaire d'une pension civile
-d'invalidité qui justifie remplir les conditions fixées audit article et qui n'a pas bénéficié ou n'était pas en droit de
-bénéficier d'une majoration de même nature en vertu des dispositions antérieures à la loi n° 62-873 du 31 juillet 1962.
+La majoration spéciale pour assistance d'une tierce personne prévue à l'article L. 30 bis est accordée sur sa demande et
+quelle que soit la date à laquelle la pension lui a été concédée, à tout titulaire d'une pension civile d'invalidité qui
+justifie remplir les conditions fixées audit article.
 
 La majoration spéciale est accordée pour une période de cinq ans. A l'expiration de cette période, les droits des retraités
 font l'objet d'un nouvel examen et la majoration est, soit accordée à titre définitif s'il est reconnu que le titulaire
@@ -7187,16 +7203,16 @@ Cette majoration n'est pas cumulable à concurrence de son montant avec toute au
 
 	**Cite**:
 
-	  - Loi n°62-873 1962-07-31
-	  - Code des pensions civiles et militaires de retraite L30 al. 2
+	  - Loi n°62-873 du 31 juillet 1962
+	  - Code des pensions civiles et militaires de retraite
 
 	**Codifié par**:
 
-	  - Décret n°66-809 1966-10-28
+	  - Décret n°66-809 du 28 octobre 1966
 
 	**Modifié par**:
 
-	  - Décret n°79-81 1979-01-15 art. 2 JORF 30 janvier 1979
+	  - Décret n°2015-103 du 2 février 2015 - art. 4
 
 
 ###### Article R41
@@ -7217,38 +7233,46 @@ l'article L. 30 est apprécié par rapport à la validité restante du fonctionn
 
 ###### Article R42
 
-Pour le fonctionnaire mis à la retraite au titre de l'article L. 27, le montant garanti prévu au premier alinéa de l'article
-L. 30 s'applique à la seule pension rémunérant les services, la rente d'invalidité et la majoration spéciale pour assistance
-d'une tierce personne étant accordées en sus de ce montant.
+Pour le fonctionnaire mis à la retraite au titre de l'article L. 27, le montant garanti prévu à l'article L. 30 s'applique à
+la seule pension rémunérant les services, la rente d'invalidité et la majoration spéciale pour assistance d'une tierce
+personne étant accordées en sus de ce montant.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°66-809 1966-10-28
+	  - Décret n°66-809 du 28 octobre 1966
+
+	**Modifié par**:
+
+	  - Décret n°2015-103 du 2 février 2015 - art. 4
 
 	**Cite**:
 
-	  - Code des pensions civiles et militaires de retraite L27 et L30 al. 1
+	  - Code des pensions civiles et militaires de retraite
 
 
 ###### Article R44
 
 Lorsque les fonctionnaires auxquels le présent paragraphe s'applique ou leurs ayants cause bénéficient du montant garanti
-prévu au dernier alinéa de l'article L. 28 ou au premier alinéa de l'article L. 30, la majoration pour enfants prévue à
-l'article L. 18 ou à l'article L. 38 est calculée sur la base de ce montant garanti.
+prévu au dernier alinéa de l'article L. 28 ou à l'article L. 30, la majoration pour enfants prévue à l'article L. 18 ou à
+l'article L. 38 est calculée sur la base de ce montant garanti.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°66-809 1966-10-28
+	  - Décret n°66-809 du 28 octobre 1966
+
+	**Modifié par**:
+
+	  - Décret n°2015-103 du 2 février 2015 - art. 4
 
 	**Cite**:
 
-	  - Code des pensions civiles et militaires de retrait - art. L18 (M)
-	  - Code des pensions civiles et militaires de retrait - art. L28 (M)
-	  - Code des pensions civiles et militaires de retraite L18, L28, L30 al. 1 et L38
+	  - Code des pensions civiles et militaires de retraite
+	  - Code des pensions civiles et militaires de retraite - art. L18
+	  - Code des pensions civiles et militaires de retraite - art. L28
 
 
 ###### Article R45
@@ -7646,42 +7670,42 @@ Lorsque le conjoint survivant ou divorcé demande le rétablissement de son droi
 l'article L. 46, ce droit prend effet à compter de la date du nouveau veuvage, du divorce ou de la cessation du concubinage
 notoire.
 
-La pension éventuellement attribuée aux enfants âgés de moins de vingt et un ans est annulée à compter de la demande de
-rétablissement.
+La pension attribuée aux enfants âgés de moins de vingt et un ans est révisée conformément aux dispositions prévues au b de
+l'article L. 43 à compter de la demande de rétablissement.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°66-809 1966-10-28
+	  - Décret n°66-809 du 28 octobre 1966
 
 	**Modifié par**:
 
-	  - Décret n°2003-1305 du 26 décembre 2003 - art. 21 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
+	  - Décret n°2015-103 du 2 février 2015 - art. 1
 
 	**Cite**:
 
-	  - Code des pensions civiles et militaires de retrait - art. L46 (V)
+	  - Code des pensions civiles et militaires de retraite - art. L46
 
 
 ###### Article R57 bis
 
-Pour l'application de l'article L. 45, la durée de chaque mariage, déterminée de date à date, est arrondie au nombre de mois
-inférieur.
+Pour l'application du a de l'article L. 43 , la durée de chaque mariage, déterminée de date à date, est arrondie au nombre de
+mois inférieur.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°66-809 1966-10-28
+	  - Décret n°66-809 du 28 octobre 1966
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2003-1305 du 26 décembre 2003 - art. 22 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
+	  - Décret n°2015-103 du 2 février 2015 - art. 1
 
 	**Cite**:
 
-	  - Code des pensions civiles et militaires de retr... - art. L45 (Ab)
+	  - Code des pensions civiles et militaires de retraite - art. L45
 
 
 ### Titre VII : Dispositions spéciales.
