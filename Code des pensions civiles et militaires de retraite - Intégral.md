@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 2012-01-01
+Version Consolidée au 2012-03-14
 
 # Partie législative
 
@@ -2933,8 +2933,9 @@ fonctionnaire ait accompli au moins quinze ans de services ;
 
 5° Un décret fixe les conditions dans lesquelles l'âge d'ouverture du droit à pension est abaissé, par rapport à un âge de
 référence de soixante ans, pour les fonctionnaires handicapés qui totalisent, alors qu'ils étaient atteints d'une incapacité
-permanente d'au moins 80 %, une durée d'assurance au moins égale à une limite fixée par ce décret, tout ou partie de cette
-durée ayant donné lieu à versement de retenues pour pensions. 
+permanente d'   au moins 80 % ou qu'ils avaient la qualité de travailleur handicapé au sens de l'article L. 5213-1 du code du
+travail, une durée d'assurance au moins égale à une limite fixée par ce décret, tout ou partie de cette durée ayant donné
+lieu à versement de retenues pour pensions. 
 
 Une majoration de pension est accordée aux fonctionnaires handicapés visés à l'alinéa précédent, dans des conditions
 déterminées par décret en Conseil d'Etat. 
@@ -2966,11 +2967,6 @@ défense, à compter de soixante-sept ans.
 
 III.-La liquidation de la solde de réforme intervient immédiatement. Toutefois, cette solde n'est perçue que pendant un temps
 égal à la durée des services effectivement accomplis par son bénéficiaire.
-
-**Nota:**
-
-Loi n° 2010-1330 du 9 novembre 2010, article 118 II : Les dispositions des articles 23 et 39 sont applicables aux pensions
-prenant effet à compter du 1er juillet 2011.
 
 **Liens relatifs à cet article**
 
@@ -3092,9 +3088,7 @@ prenant effet à compter du 1er juillet 2011.
 
 	**Modifié par**:
 
-	  - Loi n°2010-1330 du 9 novembre 2010 - art. 23 (V)
-	  - Loi n°2010-1330 du 9 novembre 2010 - art. 39
-	  - Loi n°2010-1330 du 9 novembre 2010 - art. 36
+	  - Loi n°2012-347 du 12 mars 2012 - art. 126 (V)
 
 	**Cite**:
 
@@ -6838,12 +6832,12 @@ Le montant de ces avantages familiaux ne fait pas partie intégrante de la pensi
 
 ###### Article R33 bis
 
-I. - Le taux de la majoration de pension prévue au 5° du I de l'article L. 24 est fixé à un tiers du quotient obtenu en
+I.-Le taux de la majoration de pension prévue au 5° du I de l'article L. 24 est fixé à un tiers du quotient obtenu en
 divisant la durée des services accomplis au sens de l'article L. 5 durant laquelle l'intéressé était atteint d'une incapacité
-permanente au moins égale à 80 %, par la durée de services et bonifications admise en liquidation. Le taux ainsi obtenu est
-arrondi, le cas échéant, au centième le plus proche.
+permanente d'un taux au moins égal à 80 % ou avait la qualité de travailleur handicapé, par la durée de services et
+bonifications admise en liquidation. Le taux ainsi obtenu est arrondi, le cas échéant, au centième le plus proche. 
 
-II. - La pension ainsi majorée ne peut excéder la pension qui aurait été obtenue par application du pourcentage maximum
+II.-La pension ainsi majorée ne peut excéder la pension qui aurait été obtenue par application du pourcentage maximum
 mentionné à l'article L. 13. Lorsque la pension est également majorée en application des dispositions de l'article L. 18, son
 montant ne peut excéder celui des éléments de rémunération déterminés à l'article L. 15.
 
@@ -6851,19 +6845,18 @@ montant ne peut excéder celui des éléments de rémunération déterminés à 
 
 	**Codifié par**:
 
-	  - Décret n°66-809 1966-10-28
+	  - Décret n°66-809 du 28 octobre 1966
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-1582 du 12 décembre 2006 - art. 2 () JORF 13 décembre 2006
+	  - Décret n°2012-1060 du 18 septembre 2012 - art. 1
 
 	**Cite**:
 
-	  - Code des pensions civiles et militaires de retrait - art. L13 (M)
-	  - Code des pensions civiles et militaires de retrait - art. L15 (M)
-	  - Code des pensions civiles et militaires de retrait - art. L18 (M)
-	  - Code des pensions civiles et militaires de retrait - art. L24 (M)
-	  - Code des pensions civiles et militaires de retrait - art. L5 (M)
+	  - Code des pensions civiles et militaires de retraite - art. L13
+	  - Code des pensions civiles et militaires de retraite - art. L15
+	  - Code des pensions civiles et militaires de retraite - art. L18
+	  - Code des pensions civiles et militaires de retraite - art. L24
 
 
 ### Titre IV : Jouissance de la pension ou de la solde de réforme.
@@ -7061,34 +7054,34 @@ Pour les fonctionnaires handicapés mentionnés au 5° du I de l'article L. 24, 
 abaissé : 
 
 1° A cinquante-cinq ans s'ils justifient alors qu'ils étaient atteints d'une incapacité permanente au moins égale à un taux
-de 80 %, d'une durée d'assurance au moins égale au nombre de trimestres nécessaire pour obtenir le pourcentage maximum de
-pension mentionné au second alinéa de l'article L. 13, diminué de 40 trimestres, et d'une durée d'assurance ayant donné lieu
-à cotisation à leur charge au moins égale au nombre de trimestres fixé à l'article L. 13, diminué de 60 trimestres ; 
+de 80 % ou avaient la qualité de travailleur handicapé, d'une durée d'assurance au moins égale au nombre de trimestres
+nécessaire pour obtenir le pourcentage maximum de pension mentionné au second alinéa de l'article L. 13, diminué de 40
+trimestres, et d'une durée d'assurance ayant donné lieu à cotisation à leur charge au moins égale au nombre de trimestres
+fixé à l'article L. 13, diminué de 60 trimestres ; 
 
 2° A cinquante-six ans s'ils justifient, alors qu'ils étaient atteints d'une incapacité permanente au moins égale à un taux
-de 80 %, d'une durée d'assurance au moins égale au nombre de trimestres nécessaire pour obtenir le pourcentage maximum de
-pension mentionné au second alinéa de l'article L. 13, diminué de 50 trimestres, et d'une durée d'assurance ayant donné lieu
-à cotisation à leur charge au moins égale au nombre de trimestres fixé par l'article L. 13, diminué de 70 trimestres ; 
+de 80 % ou avaient la qualité de travailleur handicapé, d'une durée d'assurance au moins égale au nombre de trimestres
+nécessaire pour obtenir le pourcentage maximum de pension mentionné au second alinéa de l'article L. 13, diminué de 50
+trimestres, et d'une durée d'assurance ayant donné lieu à cotisation à leur charge au moins égale au nombre de trimestres
+fixé par l'article L. 13, diminué de 70 trimestres ; 
 
 3° A cinquante-sept ans s'ils justifient, alors qu'ils étaient atteints d'une incapacité permanente au moins égale à un taux
-de 80 %, d'une durée d'assurance au moins égale au nombre de trimestres nécessaire pour obtenir le pourcentage maximum de
-pension mentionné au second alinéa de l'article L. 13, diminué de 60 trimestres, et d'une durée d'assurance ayant donné lieu
-à cotisation à leur charge au moins égale au nombre de trimestres fixé par l'article L. 13, diminué de 80 trimestres ; 
+de 80 % ou avaient la qualité de travailleur handicapé, d'une durée d'assurance au moins égale au nombre de trimestres
+nécessaire pour obtenir le pourcentage maximum de pension mentionné au second alinéa de l'article L. 13, diminué de 60
+trimestres, et d'une durée d'assurance ayant donné lieu à cotisation à leur charge au moins égale au nombre de trimestres
+fixé par l'article L. 13, diminué de 80 trimestres ; 
 
 4° A cinquante-huit ans s'ils justifient, alors qu'ils étaient atteints d'une incapacité permanente au moins égale à un taux
-de 80 %, d'une durée d'assurance au moins égale au nombre de trimestres nécessaire pour obtenir le pourcentage maximum de
-pension mentionné au second alinéa de l'article L. 13, diminué de 70 trimestres, et d'une durée d'assurance ayant donné lieu
-à cotisation à leur charge au moins égale au nombre de trimestres fixé par l'article L. 13, diminué de 90 trimestres ; 
+de 80 % ou avaient la qualité de travailleur handicapé, d'une durée d'assurance au moins égale au nombre de trimestres
+nécessaire pour obtenir le pourcentage maximum de pension mentionné au second alinéa de l'article L. 13, diminué de 70
+trimestres, et d'une durée d'assurance ayant donné lieu à cotisation à leur charge au moins égale au nombre de trimestres
+fixé par l'article L. 13, diminué de 90 trimestres ; 
 
 5° A cinquante-neuf ans s'ils justifient, alors qu'ils étaient atteints d'une incapacité permanente au moins égale à un taux
-de 80 %, d'une durée d'assurance au moins égale au nombre de trimestres nécessaire pour obtenir le pourcentage maximum de
-pension mentionné au second alinéa de l'article L. 13, diminué de 80 trimestres, et d'une durée d'assurance ayant donné lieu
-à cotisation à leur charge au moins égale au nombre de trimestres fixé par l'article L. 13, diminué de 100 trimestres.
-
-**Nota:**
-
-Décret n° 2010-1740 du 30 décembre 2010, article 16 III : Ces dispositions sont applicables aux pensions liquidées à compter
-du 1er juillet 2011.
+de 80 % ou avaient la qualité de travailleur handicapé, d'une durée d'assurance au moins égale au nombre de trimestres
+nécessaire pour obtenir le pourcentage maximum de pension mentionné au second alinéa de l'article L. 13, diminué de 80
+trimestres, et d'une durée d'assurance ayant donné lieu à cotisation à leur charge au moins égale au nombre de trimestres
+fixé par l'article L. 13, diminué de 100 trimestres.
 
 **Liens relatifs à cet article**
 
@@ -7098,12 +7091,12 @@ du 1er juillet 2011.
 
 	**Modifié par**:
 
-	  - Décret n°2010-1740 du 30 décembre 2010 - art. 9
+	  - Décret n°2012-1060 du 18 septembre 2012 - art. 1
 
 	**Cite**:
 
-	  - Code des pensions civiles et militaires de retr... - art. L13 (V)
-	  - Code des pensions civiles et militaires de retr... - art. L24 (VT)
+	  - Code des pensions civiles et militaires de retraite - art. L13
+	  - Code des pensions civiles et militaires de retraite - art. L24
 
 
 ### Titre V : Invalidité.
