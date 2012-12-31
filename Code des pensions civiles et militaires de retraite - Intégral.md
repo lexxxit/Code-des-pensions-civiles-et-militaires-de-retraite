@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 2012-12-31
+Version Consolidée au 2013-01-01
 
 # Partie législative
 
@@ -7266,55 +7266,55 @@ l'article L. 38 est calculée sur la base de ce montant garanti.
 
 ###### Article R45
 
-La commission de réforme instituée à l'article L. 31 est composée comme suit :
+La commission de réforme instituée à l'article L. 31 est composée comme suit : 
 
-1° A l'administration centrale de chaque département ministériel :
+1° A l'administration centrale de chaque département ministériel : 
 
-Le directeur ou chef de service dont dépend l'intéressé ou son représentant ;
+Le directeur ou chef de service dont dépend l'intéressé ou son représentant ; 
 
-Le membre du corps du contrôle général économique et financier ou son représentant ;
+Le        contrôleur budgétaire ou son représentant ; 
 
 Deux représentants titulaires du personnel à la commission administrative paritaire dont relève le fonctionnaire intéressé
 appartenant au même grade ou au même corps que ce dernier ou, éventuellement, leurs suppléants élus par les représentants du
-personnel titulaires et suppléants de cette commission ;
+personnel titulaires et suppléants de cette commission ; 
 
 Les membres du comité médical prévu à l'article 5 du décret n° 86-442 du 14 mars 1986, à savoir deux praticiens de médecine
 générale, et pour l'examen des cas relevant de sa compétence, un spécialiste de l'affection dont est atteint le
-fonctionnaire.
+fonctionnaire. 
 
 Le secrétariat de la commission de réforme ministérielle est celui du comité médical prévu à l'article 5 du décret n° 86-442
-du 14 mars 1986.
+du 14 mars 1986. 
 
 Cette commission de réforme est, sous réserve des dispositions de l'article R. 46 (1°), compétente à l'égard des
 fonctionnaires en service à l'administration centrale et dans les services centraux des établissements publics de l'Etat
-relevant du ministre intéressé, ainsi qu'à l'égard des chefs des services extérieurs en dépendant.
+relevant du ministre intéressé, ainsi qu'à l'égard des chefs des services extérieurs en dépendant. 
 
 Sa compétence peut, par arrêté conjoint du ministre intéressé, du ministre chargé de la fonction publique et du ministre
 chargé du budget, être étendue à l'égard de tout ou partie des fonctionnaires relevant de ce département ministériel, autres
-que ceux mentionnés à l'alinéa précédent.
+que ceux mentionnés à l'alinéa précédent. 
 
 Par décision du ministre compétent, une commission de réforme spéciale peut être instituée auprès d'un établissement public
-si l'importance des effectifs de celui-ci le justifie.
+si l'importance des effectifs de celui-ci le justifie. 
 
 2° Dans chaque département sous la présidence du commissaire de la République ou de son représentant, qui dirige les
-délibérations mais ne participe pas aux votes :
+délibérations mais ne participe pas aux votes : 
 
-Le chef du service dont dépend l'intéressé ou son représentant ;
+Le chef du service dont dépend l'intéressé ou son représentant ; 
 
-Le trésorier-payeur général ou son représentant ;
+Le trésorier-payeur général ou son représentant ; 
 
 Deux représentants du personnel appartenant au même grade ou, à défaut, au même corps que l'intéressé, élus par les
 représentants du personnel titulaires ou suppléants de la commission administrative paritaire locale dont relève le
 fonctionnaire ; toutefois, s'il n'existe pas de commission locale ou si celle-ci n'est pas départementale, les deux
 représentants élus du personnel sont désignés par les représentants de la commission administrative paritaire centrale, dans
 le premier cas et, dans le second cas, de la commission administrative paritaire interdépartementale dont relève le
-fonctionnaire ;
+fonctionnaire ; 
 
 Les membres du comité médical prévu à l'article 6 du décret n° 86-442 du 14 mars 1986, à savoir deux praticiens généralistes
-et, pour l'examen des cas relevant de sa compétence, un spécialiste de l'affection dont est atteint le fonctionnaire ;
+et, pour l'examen des cas relevant de sa compétence, un spécialiste de l'affection dont est atteint le fonctionnaire ; 
 
 Le secrétariat de la commission de réforme départementale est celui du comité médical prévu à l'article 6 du décret n° 86-442
-du 14 mars 1986.
+du 14 mars 1986. 
 
 Cette commission de réforme est, sous réserve des dispositions de l'avant-dernier alinéa du 1° ci-dessus, compétente à
 l'égard des fonctionnaires exerçant leurs fonctions dans le département considéré, à l'exception des chefs des services
@@ -7324,12 +7324,12 @@ extérieurs.
 
 	**Codifié par**:
 
-	  - Décret n°66-809 1966-10-28
+	  - Décret n°66-809 du 28 octobre 1966
 
 	**Cite**:
 
-	  - Décret n°86-442 1986-03-14 art. 5 et 6
-	  - Code des pensions civiles et militaires de retraite L31 et R46
+	  - Décret n°86-442 du 14 mars 1986
+	  - Code des pensions civiles et militaires de retraite
 
 	**Cité par**:
 
@@ -7338,37 +7338,37 @@ extérieurs.
 
 	**Modifié par**:
 
-	  - Décret n°2005-436 du 9 mai 2005 - art. 19 (V) JORF 10 mai 2005
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 2 (V)
 
 
 ###### Article R46
 
 La commission de réforme est, lorsqu'il s'agit d'examiner le cas d'un membre du Conseil d'Etat ou d'un magistrat de l'ordre
-judiciaire, composée comme suit :
+judiciaire, composée comme suit : 
 
 1° Auprès de l'administration centrale du ministère de la justice :
 
 - le directeur ou chef de corps ou de service dont dépend l'intéressé, ou son représentant, président ;
 
-- le membre du corps du contrôle général économique et financier ou son représentant ;
+- le        contrôleur budgétaire ou son représentant ;
 
 - deux représentants, titulaires ou éventuellement suppléants, des membres du Conseil d'Etat ou des magistrats à l'égard
 desquels la commission est compétente et qui sont désignés par leurs collègues dans les conditions fixées par arrêté du garde
 des sceaux, ministre de la justice ;
 
 - les membres du comité médical prévu à l'article 5 du décret n° 86-442 du 14 mars 1986, à savoir deux praticiens de médecine
-générale et, pour l'examen des cas relevant de sa compétence, un spécialiste de l'affection dont est atteint l'intéressé.
+générale et, pour l'examen des cas relevant de sa compétence, un spécialiste de l'affection dont est atteint l'intéressé. 
 
 Le secrétariat de la commission de réforme ministérielle est celui du comité médical prévu à l'article 5 du décret n° 86-442
-du 14 mars 1986.
+du 14 mars 1986. 
 
 Cette commission de réforme est compétente à l'égard des membres du Conseil d'Etat, des magistrats de l'ordre judiciaire en
 fonctions à l'administration centrale du ministère de la justice et dans les juridictions siégeant à Paris, ainsi que des
 premiers présidents et procureurs généraux des cours d'appel et des présidents et procureurs de la République des tribunaux
-de grande instance de Nanterre, Bobigny et Créteil.
+de grande instance de Nanterre, Bobigny et Créteil. 
 
 Sa compétence peut, par arrêté conjoint du garde des sceaux, ministre de la justice, du ministre chargé de la fonction
-publique et du ministre chargé du budget, être étendue à l'égard de tout ou partie des magistrats de l'ordre judiciaire.
+publique et du ministre chargé du budget, être étendue à l'égard de tout ou partie des magistrats de l'ordre judiciaire. 
 
 2° Dans chaque autre département, sous la présidence du commissaire de la République ou de son représentant, qui dirige les
 délibérations mais ne participe pas aux votes :
@@ -7380,10 +7380,10 @@ délibérations mais ne participe pas aux votes :
 - deux représentants, titulaires ou éventuellement suppléants, des magistrats à l'égard desquels la commission est compétente
 et qui sont désignés par leurs collègues dans les conditions fixées par arrêté du garde des sceaux, ministre de la justice ;
 
-- les membres du comité médical prévu à l'article 5 du décret n° 86-442 du 14 mars 1986.
+- les membres du comité médical prévu à l'article 5 du décret n° 86-442 du 14 mars 1986. 
 
 Le secrétariat de la commission de réforme départementale est celui du comité médical prévu à l'article 6 du décret n° 86-442
-du 14 mars 1986.
+du 14 mars 1986. 
 
 Cette commission est compétente à l'égard des magistrats exerçant leurs fonctions dans le département considéré, sauf pour
 les premiers présidents et procureurs généraux et pour les présidents et procureurs des tribunaux de grande instance de
@@ -7393,11 +7393,11 @@ Nanterre, Bobigny et Créteil, qui relèvent de la compétence de la commission 
 
 	**Codifié par**:
 
-	  - Décret n°66-809 1966-10-28
+	  - Décret n°66-809 du 28 octobre 1966
 
 	**Cite**:
 
-	  - Décret n°86-442 1986-03-14 art. 5 et 6
+	  - Décret n°86-442 du 14 mars 1986
 
 	**Cité par**:
 
@@ -7406,7 +7406,7 @@ Nanterre, Bobigny et Créteil, qui relèvent de la compétence de la commission 
 
 	**Modifié par**:
 
-	  - Décret n°2005-436 du 9 mai 2005 - art. 19 (V) JORF 10 mai 2005
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 2 (V)
 
 
 ###### Article R47
@@ -10099,20 +10099,18 @@ des assurances sociales, aux avantages de vieillesse prévus par ledit régime.
 ###### Article D38
 
 Les arrérages des pensions inscrites au grand-livre de la Dette publique et de leurs accessoires sont payés sans
-ordonnancement préalable et sans visa du membre du corps du contrôle général économique et financier par les comptables du
-Trésor assignataires ; les dépenses correspondantes sont imputées par ces comptables aux chapitres ouverts au budget à cet
-effet.
+ordonnancement préalable et sans visa du        contrôleur budgétaire par les comptables du Trésor assignataires ; les
+dépenses correspondantes sont imputées par ces comptables aux chapitres ouverts au budget à cet effet.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°86-112 1986-01-23 art. 1 JORF 26 janvier 1986
-	  - Décret n°2005-436 du 9 mai 2005 - art. 19 (V) JORF 10 mai 2005
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 2 (V)
 
 	**Codifié par**:
 
-	  - Décret n°66-810 1966-10-28
+	  - Décret n°66-810 du 28 octobre 1966
 
 
 ###### Article D39
@@ -10328,9 +10326,9 @@ D. 472 du code des pensions militaires d'invalidité et des victimes de la guerr
 
 ###### Article D58
 
-Les avances visées aux articles R. 101 à R. 104 sont payées sans ordonnancement préalable et sans visa du membre du corps du
-contrôle général économique et financier par les comptables du Trésor assignataires ; les dépenses correspondantes sont
-imputées par ces comptables aux chapitres ouverts au budget pour le service des pensions auxquelles elles se rapportent.
+Les avances visées aux articles R. 101 à R. 104 sont payées sans ordonnancement préalable et sans visa du        contrôleur
+budgétaire par les comptables du Trésor assignataires ; les dépenses correspondantes sont imputées par ces comptables aux
+chapitres ouverts au budget pour le service des pensions auxquelles elles se rapportent. 
 
 Lorsqu'il attribue des avances, le département ministériel compétent adresse immédiatement une copie de sa décision au
 service des pensions du ministère chargé du budget.
@@ -10339,14 +10337,14 @@ service des pensions du ministère chargé du budget.
 
 	**Modifié par**:
 
-	  - Décret n°2005-436 du 9 mai 2005 - art. 19 (V) JORF 10 mai 2005
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 2 (V)
 
 	**Cite**:
 
-	  - Code des pensions civiles et militaires de retraite R101 à R104
+	  - Code des pensions civiles et militaires de retraite
 
 	**Codifié par**:
 
-	  - Décret n°66-810 1966-10-28
+	  - Décret n°66-810 du 28 octobre 1966
 
 
