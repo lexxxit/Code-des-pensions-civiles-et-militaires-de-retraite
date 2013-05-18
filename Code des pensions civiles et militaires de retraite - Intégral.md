@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 2013-03-04
+Version Consolidée au 2013-05-19
 
 # Partie législative
 
@@ -5260,17 +5260,8 @@ réduction du montant de la pension à concurrence du temps passé dans cette po
 Le cumul par un conjoint survivant de plusieurs pensions obtenues du chef d'agents différents, au titre des régimes de
 retraites des collectivités énumérées à l'article L. 86-1, est interdit. 
 
-Un orphelin peut cumuler les deux pensions de réversion obtenues du chef de son père et de sa mère au titre des régimes de
-retraites énumérés à l'article L. 86-1. 
-
-Il ne peut cumuler les pensions de réversion obtenues du chef de son père légitime ou naturel et celles obtenues d'un père
-adoptif ; il ne peut cumuler les pensions de réversion obtenues du chef de sa mère légitime ou naturelle et celles obtenues
-du chef d'une mère adoptive. Toutefois, il peut opter pour la pension de réversion la plus favorable.
-
-**Nota:**
-
-Loi n° 2010-1330 du 9 novembre 2010, article 118 II : Les dispositions de l'article 37 sont applicables aux pensions prenant
-effet à compter du 1er juillet 2011.
+Un orphelin peut cumuler au maximum deux pensions de réversion obtenues du chef de ses parents au titre des régimes de
+retraite énumérés à l'article L. 86-1.
 
 **Liens relatifs à cet article**
 
@@ -5280,7 +5271,7 @@ effet à compter du 1er juillet 2011.
 
 	**Modifié par**:
 
-	  - Loi n°2010-1330 du 9 novembre 2010 - art. 37
+	  - Loi n°2013-404 du 17 mai 2013 - art. 16
 
 	**Cite**:
 
