@@ -8,19 +8,22 @@ sécurité sociale sont prises en compte :
 - soit au titre du I ou du II de l'article L. 14 ;
 
 - soit pour obtenir un supplément de liquidation au titre de l'article L. 13 sans que ce supplément soit pris en compte dans
-la durée d'assurance définie à l'article L. 14.
+la durée d'assurance définie à l'article L. 14. 
 
 Cette prise en compte peut concerner au plus douze trimestres, sous réserve de l'obtention du diplôme et du versement des
 cotisations nécessaires dans des conditions de neutralité actuarielle pour le régime selon un barème et des modalités de
-paiement définis par décret.
+paiement définis par décret. 
+
+Par dérogation aux conditions prévues au cinquième alinéa, le montant du versement de cotisations prévu au même alinéa peut
+être abaissé par décret pour les périodes de formation initiale, dans des conditions et limites tenant notamment au délai de
+présentation de la demande, fixé à dix ans à compter de la fin des études, et au nombre de trimestres éligibles à ce montant
+spécifique. 
 
 Les périodes d'études ayant permis l'obtention d'un diplôme équivalent délivré par un Etat membre de l'Union européenne
-peuvent également être prises en compte.
+peuvent également être prises en compte. 
 
 L'admission dans les grandes écoles et classes du second degré préparatoires à ces écoles est assimilée à l'obtention d'un
-diplôme.
-
-Ces trimestres ne doivent pas avoir donné lieu à une affiliation à un régime de retraite de base obligatoire.
+diplôme. 
 
 Un décret en Conseil d'Etat fixe les conditions d'application du présent article.
 
@@ -35,15 +38,15 @@ Un décret en Conseil d'Etat fixe les conditions d'application du présent artic
 	  - Code des pensions civiles et militaires de retrait - art. D21-1 (V)
 	  - Code général des impôts, CGI. - art. 83 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2003-775 du 21 août 2003 - art. 45 () JORF 22 août 2003 en vigueur le 1er janvier 2004
+	  - Loi n°2014-40 du 20 janvier 2014 - art. 27
 
 	**Cite**:
 
-	  - Code des pensions civiles et militaires de retrait - art. L13 (M)
-	  - Code des pensions civiles et militaires de retrait - art. L14 (M)
-	  - Code de la sécurité sociale. - art. L381-4 (M)
+	  - Code des pensions civiles et militaires de retraite - art. L13
+	  - Code des pensions civiles et militaires de retraite - art. L14
+	  - Code de la sécurité sociale. - art. L381-4
 
 	**Codifié par**:
 
