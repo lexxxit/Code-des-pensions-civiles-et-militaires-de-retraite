@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 2014-01-22
+Version Consolidée au 2014-04-01
 
 # Partie législative
 
@@ -9151,9 +9151,8 @@ d'apprentissage ou de certificats médicaux.
 I. ― L'âge d'ouverture du droit à une pension de retraite est abaissé à soixante ans, en application de l'article L. 25 bis,
 pour les fonctionnaires ayant débuté leur activité avant l'âge de vingt ans et qui justifient, dans le régime des pensions
 civiles et militaires de retraite et, le cas échéant, dans un ou plusieurs autres régimes obligatoires, d'une durée
-d'assurance ayant donné lieu à cotisations à leur charge au moins égale à la durée d'assurance ou de services et de
-bonifications définie à l'article 5 de la loi n° 2003-775 du 21 août 2003portant réforme des retraites et applicable l'année
-où ils atteignent l'âge de soixante ans. 
+d'assurance ayant donné lieu à cotisations à leur charge au moins égale à la durée d'assurance définie à l'article L. 14 et
+applicable l'année où ils atteignent l'âge de soixante ans. 
 
 II. ― L'âge d'ouverture du droit à une pension de retraite est abaissé, en application de l'article L. 25 bis, pour les
 assurés qui justifient, dans le régime des pensions civiles et militaires de retraite et, le cas échéant, dans un ou
@@ -9163,133 +9162,121 @@ aux seuils définis ci-après :
 A. ― Pour les fonctionnaires nés avant le 1er juillet 1951 : 
 
 1° A cinquante-six ans pour les fonctionnaires justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur
-charge au moins égale à la durée d'assurance ou de services et bonifications définie à l'article 5 de la loi n° 2003-775 du
-21 août 2003 portant réforme des retraites et applicable l'année où l'assuré atteint l'âge de soixante ans, majorée de huit
-trimestres, et ayant débuté leur activité avant l'âge de seize ans ; 
+charge au moins égale à la durée d'assurance définie à l'article L. 14 et applicable l'année où l'assuré atteint l'âge de
+soixante ans, majorée de huit trimestres, et ayant débuté leur activité avant l'âge de seize ans ; 
 
 2° A cinquante-huit ans pour les fonctionnaires justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur
-charge au moins égale à la durée d'assurance ou de services et bonifications définie à l'article 5 de la loi du 21 août 2003
-précitée et applicable l'année où l'assuré atteint l'âge de soixante ans, majorée de quatre trimestres, et ayant débuté leur
-activité avant l'âge de seize ans ; 
+charge au moins égale à la durée d'assurance définie à l'article L. 14 et applicable l'année où l'assuré atteint l'âge de
+soixante ans, majorée de quatre trimestres, et ayant débuté leur activité avant l'âge de seize ans ; 
 
 3° A cinquante-neuf ans pour les fonctionnaires justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur
-charge au moins égale à la durée d'assurance ou de services et bonifications définie à l'article 5 de la loi du 21 août 2003
-précitée et applicable l'année où l'assuré atteint l'âge de soixante ans et ayant débuté leur activité avant l'âge de dix-
-sept ans ; 
+charge au moins égale à la durée d'assurance définie à l'article L. 14 et applicable l'année où l'assuré atteint l'âge de
+soixante ans et ayant débuté leur activité avant l'âge de dix-sept ans ; 
 
 B. ― Pour les fonctionnaires nés entre le 1er juillet 1951 inclus et le 31 décembre 1951 inclus : 
 
 1° A cinquante-six ans pour les fonctionnaires justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur
-charge au moins égale à la durée d'assurance ou de services et bonifications définie à l'article 5 de la loi du 21 août 2003
-précitée et applicable l'année où l'assuré atteint l'âge de soixante ans, majorée de huit trimestres, et ayant débuté leur
-activité avant l'âge de seize ans ; 
+charge au moins égale à la durée d'assurance définie à l'article L. 14 et applicable l'année où l'assuré atteint l'âge de
+soixante ans, majorée de huit trimestres, et ayant débuté leur activité avant l'âge de seize ans ; 
 
 2° A cinquante-huit ans pour les fonctionnaires justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur
-charge au moins égale à la durée d'assurance ou de services et bonifications définie à l'article 5 de la loi du 21 août 2003
-précitée et applicable l'année où l'assuré atteint l'âge de soixante ans, majorée de quatre trimestres, et ayant débuté leur
-activité avant l'âge de seize ans ; 
+charge au moins égale à la durée d'assurance définie à l'article L. 14 et applicable l'année où l'assuré atteint l'âge de
+soixante ans, majorée de quatre trimestres, et ayant débuté leur activité avant l'âge de seize ans ; 
 
 3° A cinquante-neuf ans pour les fonctionnaires justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur
-charge au moins égale à la durée d'assurance ou de services et bonifications définie à l'article 5 de la loi du 21 août 2003
-précitée et applicable l'année où l'assuré atteint l'âge de soixante ans et ayant débuté leur activité avant l'âge de dix-
-sept ans. 
+charge au moins égale à la durée d'assurance définie à l'article L. 14 et applicable l'année où l'assuré atteint l'âge de
+soixante ans et ayant débuté leur activité avant l'âge de dix-sept ans. 
 
 C. ― Pour les fonctionnaires nés en 1952 : 
 
 1° A cinquante-six ans pour les fonctionnaires justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur
-charge au moins égale à la durée d'assurance ou de services et bonifications définie à l'article 5 de la loi du 21 août 2003
-précitée et applicable l'année où l'assuré atteint l'âge de soixante ans, majorée de huit trimestres, et ayant débuté leur
-activité avant l'âge de seize ans ; 
+charge au moins égale à la durée d'assurance définie à l'article L. 14 et applicable l'année où l'assuré atteint l'âge de
+soixante ans, majorée de huit trimestres, et ayant débuté leur activité avant l'âge de seize ans ; 
 
 2° A cinquante-huit ans pour les fonctionnaires justifiant d'une durée d'assurance ayant donné lieu à cotisations à leur
-charge au moins égale à la durée d'assurance ou de services et bonifications définie à l'article 5 de la loi du 21 août 2003
-précitée et applicable l'année où l'assuré atteint l'âge de soixante ans, majorée de quatre trimestres, et ayant débuté leur
-activité avant l'âge de seize ans ; 
+charge au moins égale à la durée d'assurance définie à l'article L. 14 et applicable l'année où l'assuré atteint l'âge de
+soixante ans, majorée de quatre trimestres, et ayant débuté leur activité avant l'âge de seize ans ; 
 
 3° A cinquante-neuf ans et quatre mois pour les fonctionnaires justifiant d'une durée d'assurance cotisée au moins égale à la
-durée d'assurance ou de services et bonifications définie à l'article 5 de la loi n° 2003-775 du 21 août 2003 portant réforme
-des retraites et applicable l'année où l'assuré atteint l'âge de soixante ans et ayant débuté leur activité avant l'âge de
-dix-sept ans. 
+durée d'assurance définie à l'article L. 14 et applicable l'année où l'assuré atteint l'âge de soixante ans et ayant débuté
+leur activité avant l'âge de dix-sept ans. 
 
 D. ― Pour les fonctionnaires nés en 1953 : 
 
 1° A cinquante-six ans pour les fonctionnaires justifiant d'une durée d'assurance cotisée au moins égale à la durée
-d'assurance ou de services et bonifications définie à l'article 5 de la loi du 21 août 2003 précitée et applicable l'année où
-l'assuré atteint l'âge de soixante ans, majorée de huit trimestres, et ayant débuté leur activité avant l'âge de seize ans ; 
+d'assurance définie à l'article L. 14 et applicable l'année où l'assuré atteint l'âge de soixante ans, majorée de huit
+trimestres, et ayant débuté leur activité avant l'âge de seize ans ; 
 
 2° A cinquante-huit ans et quatre mois pour les fonctionnaires justifiant d'une durée d'assurance cotisée au moins égale à la
-durée d'assurance ou de services et bonifications définie à l'article 5 de la loi du 21 août 2003 précitée et applicable
-l'année où l'assuré atteint l'âge de soixante ans, majorée de quatre trimestres, et ayant débuté leur activité avant l'âge de
-seize ans ; 
+durée d'assurance définie à l'article L. 14 et applicable l'année où l'assuré atteint l'âge de soixante ans, majorée de
+quatre trimestres, et ayant débuté leur activité avant l'âge de seize ans ; 
 
 3° A cinquante-neuf ans et huit mois pour les fonctionnaires justifiant d'une durée d'assurance cotisée au moins égale à la
-durée d'assurance ou de services et bonifications définie à l'article 5 de la loi du 21 août 2003 précitée et applicable
-l'année où l'assuré atteint l'âge de soixante ans et ayant débuté leur activité avant l'âge de dix-sept ans ; 
+durée d'assurance définie à l'article L. 14 et applicable l'année où l'assuré atteint l'âge de soixante ans et ayant débuté
+leur activité avant l'âge de dix-sept ans ; 
 
 E. ― Pour les fonctionnaires nés en 1954 : 
 
 1° A cinquante-six ans pour les fonctionnaires justifiant d'une durée d'assurance cotisée au moins égale à la durée
-d'assurance ou de services et bonifications définie à l'article 5 de la loi du 21 août 2003 précitée et applicable l'année où
-l'assuré atteint l'âge de soixante ans, majorée de huit trimestres, et ayant débuté leur activité avant l'âge de seize ans ; 
+d'assurance définie à l'article L. 14 et applicable l'année où l'assuré atteint l'âge de soixante ans, majorée de huit
+trimestres, et ayant débuté leur activité avant l'âge de seize ans ; 
 
 2° A cinquante-huit ans et huit mois pour les fonctionnaires justifiant d'une durée d'assurance cotisée au moins égale à la
-durée d'assurance ou de services et bonifications définie à l'article 5 de la loi du 21 août 2003 précitée et applicable
-l'année où l'assuré atteint l'âge de soixante ans, majorée de quatre trimestres, et ayant débuté leur activité avant l'âge de
-seize ans ; 
+durée d'assurance définie à l'article L. 14 et applicable l'année où l'assuré atteint l'âge de soixante ans, majorée de
+quatre trimestres, et ayant débuté leur activité avant l'âge de seize ans ; 
 
 F. ― Pour les fonctionnaires nés en 1955 : 
 
 1° A cinquante-six ans et quatre mois pour les fonctionnaires justifiant d'une durée d'assurance cotisée au moins égale à la
-durée d'assurance ou de services et bonifications définie à l'article 5 de la loi du 21 août 2003 précitée et applicable
-l'année où l'assuré atteint l'âge de soixante ans, majorée de huit trimestres, et ayant débuté leur activité avant l'âge de
-seize ans ; 
+durée d'assurance définie à l'article L. 14 et applicable l'année où l'assuré atteint l'âge de soixante ans, majorée de huit
+trimestres, et ayant débuté leur activité avant l'âge de seize ans ; 
 
 2° A cinquante-neuf ans pour les fonctionnaires justifiant d'une durée d'assurance cotisée au moins égale à la durée
-d'assurance ou de services et bonifications définie à l'article 5 de la loi du 21 août 2003 précitée et applicable l'année où
-l'assuré atteint l'âge de soixante ans, majorée de quatre trimestres, et ayant débuté leur activité avant l'âge de seize
-ans ; 
+d'assurance définie à l'article L. 14 et applicable l'année où l'assuré atteint l'âge de soixante ans, majorée de quatre
+trimestres, et ayant débuté leur activité avant l'âge de seize ans ; 
 
 G. ― Pour les fonctionnaires nés en 1956 : 
 
 1° A cinquante-six ans et huit mois pour les fonctionnaires justifiant d'une durée d'assurance cotisée au moins égale à la
-durée d'assurance ou de services et bonifications définie à l'article 5 de la loi du 21 août 2003 précitée et applicable
-l'année où l'assuré atteint l'âge de soixante ans, majorée de huit trimestres, et ayant débuté leur activité avant l'âge de
-seize ans ; 
+durée d'assurance définie à l'article L. 14 et applicable l'année où l'assuré atteint l'âge de soixante ans, majorée de huit
+trimestres, et ayant débuté leur activité avant l'âge de seize ans ; 
 
 2° A cinquante-neuf ans et quatre mois pour les fonctionnaires justifiant d'une durée d'assurance cotisée au moins égale à la
-durée d'assurance ou de services et bonifications définie à l'article 5 de la loi du 21 août 2003 précitée et applicable
-l'année où l'assuré atteint l'âge de soixante ans, majorée de quatre trimestres, et ayant débuté leur activité avant l'âge de
-seize ans ; 
+durée d'assurance définie à l'article L. 14 et applicable l'année où l'assuré atteint l'âge de soixante ans, majorée de
+quatre trimestres, et ayant débuté leur activité avant l'âge de seize ans ; 
 
 H. ― Pour les fonctionnaires nés en 1957 : 
 
 1° A cinquante-sept ans pour les fonctionnaires justifiant d'une durée d'assurance cotisée au moins égale à la durée
-d'assurance ou de services et bonifications définie à l'article 5 de la loi du 21 août 2003 précitée et applicable l'année où
-l'assuré atteint l'âge de soixante ans, majorée de huit trimestres, et ayant débuté leur activité avant l'âge de seize ans ; 
+d'assurance définie à l'article L. 14 et applicable l'année où l'assuré atteint l'âge de soixante ans, majorée de huit
+trimestres, et ayant débuté leur activité avant l'âge de seize ans ; 
 
 2° A cinquante-neuf ans et huit mois pour les fonctionnaires justifiant d'une durée d'assurance cotisée au moins égale à la
-durée d'assurance ou de services et bonifications définie à l'article 5 de la loi du 21 août 2003 précitée et applicable
-l'année où l'assuré atteint l'âge de soixante ans et ayant débuté leur activité avant l'âge de seize ans ; 
+durée d'assurance définie à l'article L. 14 et applicable l'année où l'assuré atteint l'âge de soixante ans et ayant débuté
+leur activité avant l'âge de seize ans ; 
 
 I. ― Pour les fonctionnaires nés en 1958 : 
 
 A cinquante-sept ans et quatre mois pour les fonctionnaires justifiant d'une durée d'assurance cotisée au moins égale à la
-durée d'assurance ou de services et bonifications définie à l'article 5 de la loi du 21 août 2003 précitée et applicable
-l'année où l'assuré atteint l'âge de soixante ans, majorée de huit trimestres, et ayant débuté leur activité avant l'âge de
-seize ans ; 
+durée d'assurance définie à l'article L. 14 et applicable l'année où l'assuré atteint l'âge de soixante ans, majorée de huit
+trimestres, et ayant débuté leur activité avant l'âge de seize ans ; 
 
 J. ― Pour les fonctionnaires nés en 1959 : 
 
 A cinquante-sept ans et huit mois pour les fonctionnaires justifiant d'une durée d'assurance cotisée au moins égale à la
-durée d'assurance ou de services et bonifications définie à l'article 5 de la loi du 21 août 2003 précitée et applicable
-l'année où l'assuré atteint l'âge de soixante ans, majorée de huit trimestres, et ayant débuté leur activité avant l'âge de
-seize ans ; 
+durée d'assurance définie à l'article L. 14 et applicable l'année où l'assuré atteint l'âge de soixante ans, majorée de huit
+trimestres, et ayant débuté leur activité avant l'âge de seize ans ; 
 
 K. ― Pour les fonctionnaires nés à compter du 1er janvier 1960 : 
 
 A cinquante-huit ans pour les fonctionnaires justifiant d'une durée d'assurance cotisée au moins égale à la durée d'assurance
-ou de services et bonifications définie à l'article 5 de la loi du 21 août 2003 précitée et applicable l'année où l'assuré
-atteint l'âge de soixante ans, majorée de huit trimestres, et ayant débuté leur activité avant l'âge de seize ans.
+définie à l'article L. 14 et applicable l'année où l'assuré atteint l'âge de soixante ans, majorée de huit trimestres, et
+ayant débuté leur activité avant l'âge de seize ans.
+
+**Nota:**
+
+Décret n° 2014-350 du 19 mars 2014 article 5 : Les présentes dispositions sont applicables aux pensions prenant effet à
+compter du 1er avril 2014.
 
 **Liens relatifs à cet article**
 
@@ -9308,7 +9295,7 @@ atteint l'âge de soixante ans, majorée de huit trimestres, et ayant débuté l
 
 	**Modifié par**:
 
-	  - Décret n°2012-847 du 2 juillet 2012 - art. 4
+	  - Décret n°2014-350 du 19 mars 2014 - art. 2
 
 
 ###### Article D16-2
@@ -9333,23 +9320,36 @@ retraite et dans les autres régimes obligatoires de base sont pris en compte da
 
 1° Les trimestres réputés cotisés au titre du service national ne peuvent excéder quatre trimestres ; 
 
-2° Les trimestres réputés cotisés au titres des périodes pendant lesquelles les fonctionnaires ont été placés en congé de
-maladie statutaire et des périodes réputées cotisées dans un ou plusieurs autres régimes obligatoires au titre de la maladie,
-de la maternité et de l'inaptitude temporaire ne peuvent excéder au total six trimestres, sans que le nombre total de
-trimestres réputés cotisés au titre de la maladie et de l'inaptitude temporaire ne puisse excéder quatre trimestres ; 
+2° Les trimestres réputés cotisés au titre des périodes pendant lesquelles les fonctionnaires ont été placés en congé de
+maladie statutaire et les trimestres réputés cotisés dans un ou plusieurs autres régimes obligatoires au titre de la maladie
+et de l'inaptitude temporaire ne peuvent excéder au total quatre trimestres ;
 
-3° Les trimestres réputés cotisés au titre des périodes comptées comme périodes d'assurance au titre du chômage ne peuvent
-excéder deux trimestres. 
+3° Les trimestres réputés cotisés dans un ou plusieurs autres régimes obligatoires de base au titre de la maternité sont
+intégralement pris en compte ;
+
+4° Les trimestres réputés cotisés dans un ou plusieurs autres régimes obligatoires de base au titre de l'invalidité ne
+peuvent excéder deux trimestres ;
+
+5° Les trimestres de majoration de durée d'assurance acquis au titre de l'article L. 351-6-1 du code de la sécurité sociale
+sont intégralement pris en compte ;
+
+6° Les trimestres réputés cotisés au titre des périodes comptées comme périodes d'assurance au titre du chômage ne peuvent
+excéder quatre trimestres. 
 
 III. ― Pour l'application de la condition de durée d'assurance ayant donné lieu à cotisations à la charge des fonctionnaires,
 il est retenu un nombre de trimestres au plus égal à quatre au titre de chaque année civile au cours de laquelle l'assuré a
 été affilié successivement ou simultanément à plusieurs régimes obligatoires.
 
+**Nota:**
+
+Décret n° 2014-350 du 19 mars 2014 article 5 : Les présentes dispositions sont applicables aux pensions prenant effet à
+compter du 1er avril 2014.
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2012-847 du 2 juillet 2012 - art. 4
+	  - Décret n°2014-350 du 19 mars 2014 - art. 2
 
 	**Cite**:
 
