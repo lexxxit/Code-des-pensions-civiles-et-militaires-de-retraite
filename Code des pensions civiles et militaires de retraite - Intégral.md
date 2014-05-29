@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 2014-04-01
+Version Consolidée au 2014-05-30
 
 # Partie législative
 
@@ -7321,7 +7321,7 @@ La commission de réforme instituée à l'article L. 31 est composée comme suit
 
 Le directeur ou chef de service dont dépend l'intéressé ou son représentant ; 
 
-Le        contrôleur budgétaire ou son représentant ; 
+Le contrôleur budgétaire ou son représentant ; 
 
 Deux représentants titulaires du personnel à la commission administrative paritaire dont relève le fonctionnaire intéressé
 appartenant au même grade ou au même corps que ce dernier ou, éventuellement, leurs suppléants élus par les représentants du
@@ -7350,7 +7350,7 @@ délibérations mais ne participe pas aux votes :
 
 Le chef du service dont dépend l'intéressé ou son représentant ; 
 
-Le trésorier-payeur général ou son représentant ; 
+Le   directeur départemental ou, le cas échéant, régional des finances publiques ou son représentant ; 
 
 Deux représentants du personnel appartenant au même grade ou, à défaut, au même corps que l'intéressé, élus par les
 représentants du personnel titulaires ou suppléants de la commission administrative paritaire locale dont relève le
@@ -7387,7 +7387,7 @@ extérieurs.
 
 	**Modifié par**:
 
-	  - Décret n°2012-1247 du 7 novembre 2012 - art. 2 (V)
+	  - Décret n°2014-551 du 27 mai 2014 - art. 19
 
 
 ###### Article R46
@@ -7399,7 +7399,7 @@ judiciaire, composée comme suit :
 
 - le directeur ou chef de corps ou de service dont dépend l'intéressé, ou son représentant, président ;
 
-- le        contrôleur budgétaire ou son représentant ;
+- le contrôleur budgétaire ou son représentant ;
 
 - deux représentants, titulaires ou éventuellement suppléants, des membres du Conseil d'Etat ou des magistrats à l'égard
 desquels la commission est compétente et qui sont désignés par leurs collègues dans les conditions fixées par arrêté du garde
@@ -7424,7 +7424,7 @@ délibérations mais ne participe pas aux votes :
 
 - le chef de service dont dépend l'intéressé, ou son représentant ;
 
-- le trésorier-payeur général ou son représentant ;
+- le   directeur départemental ou, le cas échéant, régional des finances publiques ou son représentant ;
 
 - deux représentants, titulaires ou éventuellement suppléants, des magistrats à l'égard desquels la commission est compétente
 et qui sont désignés par leurs collègues dans les conditions fixées par arrêté du garde des sceaux, ministre de la justice ;
@@ -7455,7 +7455,7 @@ Nanterre, Bobigny et Créteil, qui relèvent de la compétence de la commission 
 
 	**Modifié par**:
 
-	  - Décret n°2012-1247 du 7 novembre 2012 - art. 2 (V)
+	  - Décret n°2014-551 du 27 mai 2014 - art. 19
 
 
 ###### Article R47
@@ -10158,14 +10158,15 @@ des assurances sociales, aux avantages de vieillesse prévus par ledit régime.
 ###### Article D38
 
 Les arrérages des pensions inscrites au grand-livre de la Dette publique et de leurs accessoires sont payés sans
-ordonnancement préalable et sans visa du        contrôleur budgétaire par les comptables du Trésor assignataires ; les
-dépenses correspondantes sont imputées par ces comptables aux chapitres ouverts au budget à cet effet.
+ordonnancement préalable et sans visa du contrôleur budgétaire par les  comptables de la direction générale des finances
+publiques assignataires ; les dépenses correspondantes sont imputées par ces comptables aux chapitres ouverts au budget à cet
+effet.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2012-1247 du 7 novembre 2012 - art. 2 (V)
+	  - Décret n°2014-552 du 27 mai 2014 - art. 10
 
 	**Codifié par**:
 
@@ -10276,17 +10277,21 @@ Il doit signaler immédiatement au comptable le décès de son mandant.
 ###### Article D46
 
 Les arrérages des pensions et de leurs accessoires concédés en vertu des dispositions du présent code, dont les titulaires
-résident à l'étranger, sont payés soit par le comptable du Trésor français en résidence dans le territoire, soit par les
-services consulaires français.
+résident à l'étranger, sont payés soit par le   comptable de la direction générale des finances publiques en résidence dans
+le territoire, soit par les services consulaires français. 
 
 Le certificat d'inscription accompagné des documents nécessaires au paiement est remis au pensionné ou à son représentant
 légal par le comptable français chargé du paiement ou par un consul de France.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Décret n°2014-552 du 27 mai 2014 - art. 10
+
 	**Codifié par**:
 
-	  - Décret n°66-810 1966-10-28
+	  - Décret n°66-810 du 28 octobre 1966
 
 
 ###### Article D47
@@ -10385,9 +10390,10 @@ D. 472 du code des pensions militaires d'invalidité et des victimes de la guerr
 
 ###### Article D58
 
-Les avances visées aux articles R. 101 à R. 104 sont payées sans ordonnancement préalable et sans visa du        contrôleur
-budgétaire par les comptables du Trésor assignataires ; les dépenses correspondantes sont imputées par ces comptables aux
-chapitres ouverts au budget pour le service des pensions auxquelles elles se rapportent. 
+Les avances visées aux articles R. 101 à R. 104 sont payées sans ordonnancement préalable et sans visa du contrôleur
+budgétaire par les comptables de la direction générale des finances publiques assignataires ; les dépenses correspondantes
+sont imputées par ces comptables aux chapitres ouverts au budget pour le service des pensions auxquelles elles se
+rapportent. 
 
 Lorsqu'il attribue des avances, le département ministériel compétent adresse immédiatement une copie de sa décision au
 service des pensions du ministère chargé du budget.
@@ -10396,11 +10402,11 @@ service des pensions du ministère chargé du budget.
 
 	**Modifié par**:
 
-	  - Décret n°2012-1247 du 7 novembre 2012 - art. 2 (V)
+	  - Décret n°2014-552 du 27 mai 2014 - art. 10
 
 	**Cite**:
 
-	  - Code des pensions civiles et militaires de retraite
+	  - Code des pensions civiles et militaires de retraite - art. R*101
 
 	**Codifié par**:
 
