@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 2014-05-30
+Version Consolidée au 2014-09-01
 
 # Partie législative
 
@@ -161,8 +161,11 @@ du 21 mars 1928, modifiée par la loi n° 49-1097 du 2 août 1949 ;
 
 4° Les services accomplis par les magistrats de l'ordre judiciaire ; 
 
-5° Les services rendus dans les cadres locaux permanents des administrations des collectivités territoriales d'outre-mer et
-de leurs établissements publics. Un décret en Conseil d'Etat détermine les modalités de prise en compte de ces services ; 
+5° Les services accomplis dans les cadres locaux permanents des administrations des collectivités territoriales d'outre-mer
+régies par les articles 73 et 74 de la Constitution et de leurs établissements publics ainsi que, sous réserve de
+dispositions particulières fixées par décret, les services accomplis dans les cadres locaux permanents des administrations
+des collectivités territoriales de Nouvelle-Calédonie et de leurs établissements publics. Un décret en Conseil d'Etat
+détermine les modalités de prise en compte de ces services ; 
 
 6° Les services effectués jusqu'à la date de l'indépendance ou jusqu'à celle de leur intégration dans les cadres
 métropolitains par les agents ayant servi dans les cadres de l'administration de l'Algérie, des anciens pays et territoires
@@ -189,6 +192,15 @@ Le délai dont dispose l'agent pour accepter ou refuser la notification de valid
 
 Les services validés au titre des dixième et onzième alinéas ne peuvent être pris en compte pour parfaire la condition prévue
 au 1° de l'article L. 4.
+
+**Nota:**
+
+Conformément à l'article 83 II de la loi n° 2013-1279 du 29 décembre 2013 de finances rectificative pour 2013, les
+dispositions de l'article L5, dans leur rédaction issue de la présente loi, entrent en vigueur à une date fixée par le décret
+mentionné au I du même article 83 et au plus tard le 1er janvier 2015.
+
+Le décret n° 2014-961 du 22 août 2014, article 2, a fixé la date d'entrée en vigueur de l'article 83 de la loi n° 2013-1279
+au 1er septembe 2014.
 
 **Liens relatifs à cet article**
 
@@ -287,14 +299,6 @@ au 1° de l'article L. 4.
 	  - TXT_SOURCE: Arrêté du 2 juin 1989 - art. 1 (V)
 	  - TXT_SOURCE: Arrêté du 15 avril 1996
 	  - TXT_SOURCE: Arrêté du 15 avril 1996 - art. 1 (V)
-
-	**Modifié par**:
-
-	  - Loi n°2010-1330 du 9 novembre 2010 - art. 53 (V)
-
-	**Codifié par**:
-
-	  - Loi n°64-1339 1964-12-29
 
 
 #### Chapitre II : Militaires.
