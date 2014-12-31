@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 2014-09-01
+Version Consolidée au 2015-01-01
 
 # Partie législative
 
@@ -6883,8 +6883,8 @@ Le montant de ces avantages familiaux ne fait pas partie intégrante de la pensi
 
 I.-Le taux de la majoration de pension prévue au 5° du I de l'article L. 24 est fixé à un tiers du quotient obtenu en
 divisant la durée des services accomplis au sens de l'article L. 5 durant laquelle l'intéressé était atteint d'une incapacité
-permanente d'un taux au moins égal à 80 % ou avait la qualité de travailleur handicapé, par la durée de services et
-bonifications admise en liquidation. Le taux ainsi obtenu est arrondi, le cas échéant, au centième le plus proche. 
+permanente d'un taux au moins égal à 50 %, par la durée de services et bonifications admise en liquidation. Le taux ainsi
+obtenu est arrondi, le cas échéant, au centième le plus proche. 
 
 II.-La pension ainsi majorée ne peut excéder la pension qui aurait été obtenue par application du pourcentage maximum
 mentionné à l'article L. 13. Lorsque la pension est également majorée en application des dispositions de l'article L. 18, son
@@ -6898,10 +6898,11 @@ montant ne peut excéder celui des éléments de rémunération déterminés à 
 
 	**Modifié par**:
 
-	  - Décret n°2012-1060 du 18 septembre 2012 - art. 1
+	  - Décret n°2014-1702 du 30 décembre 2014 - art. 5
 
 	**Cite**:
 
+	  - Code des pensions civiles et militaires de retr... - art. L5 (V)
 	  - Code des pensions civiles et militaires de retraite - art. L13
 	  - Code des pensions civiles et militaires de retraite - art. L15
 	  - Code des pensions civiles et militaires de retraite - art. L18
@@ -7103,34 +7104,40 @@ Pour les fonctionnaires handicapés mentionnés au 5° du I de l'article L. 24, 
 abaissé : 
 
 1° A cinquante-cinq ans s'ils justifient alors qu'ils étaient atteints d'une incapacité permanente au moins égale à un taux
-de 80 % ou avaient la qualité de travailleur handicapé, d'une durée d'assurance au moins égale au nombre de trimestres
-nécessaire pour obtenir le pourcentage maximum de pension mentionné au second alinéa de l'article L. 13, diminué de 40
-trimestres, et d'une durée d'assurance ayant donné lieu à cotisation à leur charge au moins égale au nombre de trimestres
-fixé à l'article L. 13, diminué de 60 trimestres ; 
+de 50 %, d'une durée d'assurance au moins égale au nombre de trimestres nécessaire pour obtenir le pourcentage maximum de
+pension mentionné au deuxième alinéa du I de l'article L. 13, diminué de 40 trimestres, et d'une durée d'assurance ayant
+donné lieu à cotisation à leur charge au moins égale au nombre de trimestres fixé à l'article L. 13, diminué de 60
+trimestres ; 
 
 2° A cinquante-six ans s'ils justifient, alors qu'ils étaient atteints d'une incapacité permanente au moins égale à un taux
-de 80 % ou avaient la qualité de travailleur handicapé, d'une durée d'assurance au moins égale au nombre de trimestres
-nécessaire pour obtenir le pourcentage maximum de pension mentionné au second alinéa de l'article L. 13, diminué de 50
-trimestres, et d'une durée d'assurance ayant donné lieu à cotisation à leur charge au moins égale au nombre de trimestres
-fixé par l'article L. 13, diminué de 70 trimestres ; 
+de 50 %, d'une durée d'assurance au moins égale au nombre de trimestres nécessaire pour obtenir le pourcentage maximum de
+pension mentionné au deuxième alinéa du I de l'article L. 13, diminué de 50 trimestres, et d'une durée d'assurance ayant
+donné lieu à cotisation à leur charge au moins égale au nombre de trimestres fixé par l'article L. 13, diminué de 70
+trimestres ; 
 
 3° A cinquante-sept ans s'ils justifient, alors qu'ils étaient atteints d'une incapacité permanente au moins égale à un taux
-de 80 % ou avaient la qualité de travailleur handicapé, d'une durée d'assurance au moins égale au nombre de trimestres
-nécessaire pour obtenir le pourcentage maximum de pension mentionné au second alinéa de l'article L. 13, diminué de 60
-trimestres, et d'une durée d'assurance ayant donné lieu à cotisation à leur charge au moins égale au nombre de trimestres
-fixé par l'article L. 13, diminué de 80 trimestres ; 
+de 50 %, d'une durée d'assurance au moins égale au nombre de trimestres nécessaire pour obtenir le pourcentage maximum de
+pension mentionné au deuxième alinéa du I de l'article L. 13, diminué de 60 trimestres, et d'une durée d'assurance ayant
+donné lieu à cotisation à leur charge au moins égale au nombre de trimestres fixé par l'article L. 13, diminué de 80
+trimestres ; 
 
 4° A cinquante-huit ans s'ils justifient, alors qu'ils étaient atteints d'une incapacité permanente au moins égale à un taux
-de 80 % ou avaient la qualité de travailleur handicapé, d'une durée d'assurance au moins égale au nombre de trimestres
-nécessaire pour obtenir le pourcentage maximum de pension mentionné au second alinéa de l'article L. 13, diminué de 70
-trimestres, et d'une durée d'assurance ayant donné lieu à cotisation à leur charge au moins égale au nombre de trimestres
-fixé par l'article L. 13, diminué de 90 trimestres ; 
+de 50 %, d'une durée d'assurance au moins égale au nombre de trimestres nécessaire pour obtenir le pourcentage maximum de
+pension mentionné au deuxième alinéa du I de l'article L. 13, diminué de 70 trimestres, et d'une durée d'assurance ayant
+donné lieu à cotisation à leur charge au moins égale au nombre de trimestres fixé par l'article L. 13, diminué de 90
+trimestres ; 
 
 5° A cinquante-neuf ans s'ils justifient, alors qu'ils étaient atteints d'une incapacité permanente au moins égale à un taux
-de 80 % ou avaient la qualité de travailleur handicapé, d'une durée d'assurance au moins égale au nombre de trimestres
-nécessaire pour obtenir le pourcentage maximum de pension mentionné au second alinéa de l'article L. 13, diminué de 80
-trimestres, et d'une durée d'assurance ayant donné lieu à cotisation à leur charge au moins égale au nombre de trimestres
-fixé par l'article L. 13, diminué de 100 trimestres.
+de 50 %, d'une durée d'assurance au moins égale au nombre de trimestres nécessaire pour obtenir le pourcentage maximum de
+pension mentionné au deuxième alinéa du I de l'article L. 13, diminué de 80 trimestres, et d'une durée d'assurance ayant
+donné lieu à cotisation à leur charge au moins égale au nombre de trimestres fixé par l'article L. 13, diminué de 100
+trimestres. 
+
+Pour bénéficier des dispositions du présent article, le fonctionnaire handicapé produit, à l'appui de sa demande de
+liquidation, les pièces justifiant de la décision relative à son taux d'incapacité permanente. La liste des pièces
+justificatives et documents permettant d'attester du taux d'incapacité requis ou d'une situation équivalente du point de vue
+de l'impact des altérations personnelles de la personne est fixée par l'arrêté mentionné à l'article D. 351-1-6 du code de la
+sécurité sociale.
 
 **Liens relatifs à cet article**
 
@@ -7140,12 +7147,13 @@ fixé par l'article L. 13, diminué de 100 trimestres.
 
 	**Modifié par**:
 
-	  - Décret n°2012-1060 du 18 septembre 2012 - art. 1
+	  - Décret n°2014-1702 du 30 décembre 2014 - art. 5
 
 	**Cite**:
 
 	  - Code des pensions civiles et militaires de retraite - art. L13
 	  - Code des pensions civiles et militaires de retraite - art. L24
+	  - Code de la sécurité sociale. - art. D351-1-6 (V)
 
 
 ### Titre V : Invalidité.
@@ -9069,6 +9077,28 @@ bénéficiaire de l'élément de la prestation relevant du 1° de l'article L. 2
 
 
 #### Chapitre II : Détermination du montant de la pension.
+
+##### Paragraphe Ier : Décompte et valeur des annuités liquidables.
+
+###### Article D14
+
+Pour bénéficier des dispositions prévues au septième alinéa du I de l'article L. 14, le fonctionnaire handicapé doit
+justifier d'un taux d'incapacité permanente d'au moins 50 %. 
+
+La condition d'incapacité permanente mentionnée ci-dessus est appréciée dans les conditions prévues à l'article D. 821-1 du
+code de la sécurité sociale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1702 du 30 décembre 2014 - art. 5
+
+	**Cite**:
+
+	  - Code des pensions civiles et militaires de retr... - art. L14 (V)
+	  - Code de la sécurité sociale. - art. D821-1
+
 
 ##### Paragraphe II : Emoluments de base.
 
