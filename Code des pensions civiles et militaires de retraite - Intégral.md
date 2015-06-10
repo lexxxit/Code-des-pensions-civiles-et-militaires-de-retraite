@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 2015-02-04
+Version Consolidée au 2015-06-11
 
 # Partie législative
 
@@ -8171,47 +8171,78 @@ contraire.
 	  - Décret n°2007-1796 du 19 décembre 2007 - art. 7
 
 
+###### Article R74-1-1
+
+Le fonctionnaire détaché qui a souscrit à l'option prévue au premier alinéa de l'article R. 74-1 peut, à compter de la date à
+laquelle l'administration ou l'organisme de détachement lui a notifié, au moyen d'un document dont le modèle est fixé par
+arrêté conjoint du ministre chargé de la fonction publique et du ministre chargé du budget, qu'il remplit les conditions pour
+bénéficier d'une pension au titre du régime dont relève la fonction de détachement, et au plus tard à la date à laquelle il
+adresse sa demande de pension civile ou militaire de retraite, solliciter, auprès de son administration d'origine, le
+remboursement des cotisations versées à l'Etat au titre de la période du détachement. Sa demande de remboursement est
+accompagnée de tout justificatif permettant d'attester la période de son détachement. 
+
+L'administration d'origine adresse l'attestation de remboursement qui lui a été transmise par le comptable mentionné au
+troisième alinéa de l'article R. 74-1 ou, à défaut, la copie de la demande de remboursement effectuée par le fonctionnaire,
+au service des retraites de l'Etat au moment où elle communique à celui-ci la décision de radiation des cadres de
+l'intéressé.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-640 du 8 juin 2015 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 19 septembre 2015 - art. 1 (V)
+	  - Code de la défense. - art. R4138-42 (V)
+
+	**Cite**:
+
+	  - Code des pensions civiles et militaires de retraite - art. R*74-1
+
+
 ###### Article R74-2
 
-L'administration dont relève le fonctionnaire communique au service des pensions du ministère du budget l'option que
-l'intéressé a souscrite.
+L'administration dont relève le fonctionnaire communique au      service des retraites de l'Etat l'option que l'intéressé a
+souscrite.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°66-809 1966-10-28
-
-	**Créé par**:
-
-	  - Décret n°2002-1391 du 21 novembre 2002 - art. 5 ()
+	  - Décret n°66-809 du 28 octobre 1966
 
 	**Cité par**:
 
 	  - Décret n°2003-1306 du 26 décembre 2003 - art. 54 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2015-640 du 8 juin 2015 - art. 1
+
 
 ###### Article R74-3
 
-Les dispositions des articles R. 74-1, R. 74-2, R. 95-1, R. 95-2 et R. 95-3 sont applicables aux militaires détachés en
-application des articles 56, 56-1 et 56-2 de la loi n° 72-662 du 13 juillet 1972 portant statut général des militaires.
+Les dispositions des articles R. 74-1, R. 74-1-1, R. 74-2, R. 95-1, R. 95-2 et R. 95-3 sont applicables aux militaires
+détachés en application du deuxième alinéa de l'article R. 4138-41 et de l'article R. 4138-42 du code de la défense.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°66-809 1966-10-28
+	  - Décret n°66-809 du 28 octobre 1966
+
+	**Modifié par**:
+
+	  - Décret n°2015-640 du 8 juin 2015 - art. 1
 
 	**Cite**:
 
-	  - Loi n°72-662 du 13 juillet 1972 - art. 56 (M)
-	  - Loi n°72-662 du 13 juillet 1972 - art. 56-1 (Ab)
-	  - Loi n°72-662 du 13 juillet 1972 - art. 56-2 (Ab)
-	  - Code des pensions civiles et militaires de retraite R74-1, R74-2, R95-1, R95-2, R95-3
-
-	**Créé par**:
-
-	  - Décret n°2003-1305 du 26 décembre 2003 - art. 28 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
+	  - Code des pensions civiles et militaires de retraite - art. R*74-1
+	  - Code des pensions civiles et militaires de retraite - art. R95-1
+	  - Code de la défense. - art. R4138-41
+	  - Code de la défense. - art. R4138-42 (V)
 
 
 ###### Article R76 ter
@@ -8455,13 +8486,12 @@ certificat délivré par le ministre chargé du budget.
 
 ###### Article R95-1
 
-Le pensionné mentionné au deuxième alinéa de l'article L. 87 déclare au service des pensions du ministère du budget, dans un
-délai de deux mois à compter de la date de sa radiation des cadres, le montant annuel brut des pensions versées par les
-organismes étrangers de retraite dont il relevait pendant son détachement ainsi que la période d'affiliation au régime
-étranger concerné. Il joint à cette déclaration les copies des pièces justificatives correspondantes délivrées par ces
-organismes.
+Le pensionné mentionné au deuxième alinéa de l'article L. 87 déclare au service des retraites de l'Etat, dans un délai de
+deux mois à compter de la date de sa radiation des cadres, le montant annuel brut des pensions versées par les organismes
+étrangers de retraite dont il relevait pendant son détachement ainsi que la période d'affiliation au régime étranger
+concerné. Il joint à cette déclaration les copies des pièces justificatives correspondantes délivrées par ces organismes. 
 
-Il renouvelle annuellement la déclaration du montant des pensions versées.
+Il renouvelle annuellement la déclaration du montant des pensions versées. 
 
 Dans le cas où les pensions versées par les organismes étrangers de retraite ne seraient mises en paiement que
 postérieurement à la radiation des cadres, le fonctionnaire doit faire sa déclaration dans un délai de deux mois à compter de
@@ -8471,53 +8501,54 @@ la date de mise en paiement de ces pensions.
 
 	**Codifié par**:
 
-	  - Décret n°66-809 1966-10-28
+	  - Décret n°66-809 du 28 octobre 1966
 
 	**Modifié par**:
 
-	  - Décret n°2003-1305 du 26 décembre 2003 - art. 40 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
+	  - Décret n°2015-640 du 8 juin 2015 - art. 1
 
 	**Cité par**:
 
 	  - Code des pensions civiles et militaires de retr... - art. R74-3 (V)
+	  - Code des pensions civiles et militaires de retr... - art. R95-2 (V)
 	  - Code des pensions civiles et militaires de retr... - art. R95-3 (V)
 
 	**Cite**:
 
-	  - Code des pensions civiles et militaires de retrait - art. L87 (M)
+	  - Code des pensions civiles et militaires de retraite - art. L87
 
 
 ###### Article R95-2
 
 En cas de décès du fonctionnaire ou du pensionné, ses ayants cause sont tenus aux obligations de déclaration prévues à
-l'article 6.
+l'article R. 95-1.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°66-809 1966-10-28
-
-	**Créé par**:
-
-	  - Décret n°2002-1391 du 21 novembre 2002 - art. 7 ()
+	  - Décret n°66-809 du 28 octobre 1966
 
 	**Cité par**:
 
 	  - Décret n°2003-1306 du 26 décembre 2003 - art. 54 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2015-640 du 8 juin 2015 - art. 1
+
 	**Cite**:
 
-	  - Code des pensions civiles et militaires de retraite 6
+	  - Code des pensions civiles et militaires de retr... - art. R95-1 (V)
 
 
 ###### Article R95-3
 
 En cas d'inobservation des obligations fixées aux articles R. 95-1 et R. 95-2, à l'expiration d'un délai de quatre mois après
-réception par le pensionné ou ses ayants cause de la lettre de rappel adressée par le service des pensions du ministère du
-budget, la pension attribuée au titre du code des pensions civiles et militaires de retraite peut être suspendue, à titre
-conservatoire, à concurrence du montant correspondant aux trimestres liquidables relatifs à la période de détachement à
-l'étranger et, le cas échéant, aux bonifications afférentes.
+réception par le pensionné ou ses ayants cause de la lettre de rappel adressée par le service des retraites de l'Etat, la
+pension attribuée au titre du code des pensions civiles et militaires de retraite peut être suspendue, à titre conservatoire,
+à concurrence du montant correspondant aux trimestres liquidables relatifs à la période de détachement à l'étranger et, le
+cas échéant, aux bonifications afférentes. 
 
 Il est mis fin à cette mesure de suspension conservatoire lorsque le fonctionnaire ou ses ayants cause satisfont aux
 obligations fixées aux articles R. 95-1 et R. 95-2. Le rappel éventuel des arrérages non versés pendant la période
@@ -8528,20 +8559,20 @@ deuxième alinéa de l'article L. 87.
 
 	**Codifié par**:
 
-	  - Décret n°66-809 1966-10-28
-
-	**Modifié par**:
-
-	  - Décret n°2003-1305 du 26 décembre 2003 - art. 41 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
+	  - Décret n°66-809 du 28 octobre 1966
 
 	**Cité par**:
 
 	  - Décret n°2003-1306 du 26 décembre 2003 - art. 54 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2015-640 du 8 juin 2015 - art. 1
+
 	**Cite**:
 
-	  - Code des pensions civiles et militaires de retrait - art. L87 (M)
-	  - Code des pensions civiles et militaires de retraite R95-1, R95-2, L87
+	  - Code des pensions civiles et militaires de retraite - art. L87
+	  - Code des pensions civiles et militaires de retraite - art. R95-1
 
 
 ## Livre III : Dispositions relatives au paiement des pensions.
