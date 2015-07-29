@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 2015-06-11
+Version Consolidée au 2015-07-30
 
 # Partie législative
 
@@ -427,26 +427,35 @@ tout engagement militaire, lesdits services se décomptant du jour de l'entrée 
 ###### Article L9
 
 Le temps passé dans une position statutaire ne comportant pas l'accomplissement de services effectifs au sens de l'article L.
-5 ne peut entrer en compte dans la constitution du droit à pension, sauf :
+5 ne peut entrer en compte dans la constitution du droit à pension, sauf : 
 
 1° Dans la limite de trois ans par enfant né ou adopté à partir du 1er janvier 2004, sous réserve que le titulaire de la
-pension ait bénéficié :
+pension ait bénéficié : 
 
-a) D'un temps partiel de droit pour élever un enfant ;
+a) D'un temps partiel de droit pour élever un enfant ; 
 
-b) D'un congé parental ;
+b) D'un congé parental ; 
 
-c) D'un congé de présence parentale ;
+c) D'un congé de présence parentale ; 
 
-d) Ou d'une disponibilité pour élever un enfant de moins de huit ans.
+d) D'une disponibilité pour élever un enfant de moins de huit ans ou d'un congé pour convenances personnelles pour élever un
+enfant de moins de huit ans. 
 
 Les modalités de prise en compte de ces périodes d'interruption ou de réduction d'activité prévues par les articles 37 bis,
 54 et 40 bis de la loi n° 84-16 du 11 janvier 1984 précitée, par l'article 47 du décret n° 85-986 du 16 septembre 1985
 relatif au régime particulier de certaines positions des fonctionnaires de l'Etat et à certaines modalités de cessation
 définitive de fonctions et par le livre Ier de la partie IV du code de la défense sont précisées par décret en Conseil
-d'Etat ;
+d'Etat ; 
 
-2° Dans les cas exceptionnels prévus par une loi ou par un décret en Conseil d'Etat.
+2° Dans les cas exceptionnels prévus par une loi ou par un décret en Conseil d'Etat. 
+
+3° Dans le cas où le militaire est placé en : 
+
+a) Congé de longue maladie ; 
+
+b) Congé de longue durée pour maladie ; 
+
+c) Congé complémentaire de reconversion. 
 
 En ce qui concerne les fonctionnaires civils, et hormis les positions prévues aux articles 34 et 45 de la loi n° 84-16 du 11
 janvier 1984 précitée, le temps passé dans une position ne comportant pas l'accomplissement de services effectifs n'est
@@ -504,9 +513,12 @@ applicables aux cas prévus au 1°.
 
 	**Cite**:
 
-	  - Loi n°84-16 1984-01-11 art. 37 bis, art. 54, art. 40 bis, art. 34, art. 45
-	  - Décret n°85-986 du 16 septembre 1985 - art. 47 (M)
-	  - Code des pensions civiles et militaires de retrait - art. L5 (M)
+	  - Loi n°84-16 du 11 janvier 1984 - art. 34
+	  - Loi n°84-16 du 11 janvier 1984 - art. 37 bis
+	  - Loi n°84-16 du 11 janvier 1984 - art. 45
+	  - Loi n°84-16 du 11 janvier 1984 - art. 54
+	  - Décret n°85-986 du 16 septembre 1985 - art. 47
+	  - Code des pensions civiles et militaires de retraite - art. L5
 
 	**Codifié par**:
 
@@ -514,7 +526,7 @@ applicables aux cas prévus au 1°.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2007-465 du 29 mars 2007 - art. 8 () JORF 30 mars 2007
+	  - Loi n°2015-917 du 28 juillet 2015 - art. 16
 
 
 ###### Article L9 bis
@@ -738,7 +750,8 @@ i) Une bonification du cinquième du temps de service accompli est accordée dan
 militaires à la condition qu'ils aient accompli au moins dix-sept ans de services militaires effectifs ou qu'ils aient été
 rayés des cadres pour invalidité ; le maximum de bonifications est donné aux militaires qui quittent le service à cinquante-
 neuf ans ; la bonification est diminuée d'une annuité pour chaque année supplémentaire de service jusqu'à l'âge mentionné à
-l'article L. 161-17-2 du code de la sécurité sociale. 
+l'article L. 161-17-2 du code de la sécurité sociale. Le temps passé en congé de longue durée pour maladie et en congé de
+longue maladie est assimilé à des services militaires effectifs. 
 
 Le pourcentage maximum fixé à l'article L 13 peut-être augmenté de cinq points du chef des bonifications prévues au présent
 article.
@@ -746,11 +759,6 @@ article.
 Les bonifications prévues aux a, c et d du présent article sont prises en compte dès lors que la pension rémunère au moins
 quinze années de services effectifs. Elles sont prises en compte sans condition de durée pour les fonctionnaires et les
 militaires radiés des cadres pour invalidité.
-
-**Nota:**
-
-Loi n° 2010-1330 du 9 novembre 2010, article 118 II : Les dispositions de l'article 38 sont applicables aux pensions prenant
-effet à compter du 1er juillet 2011.
 
 **Liens relatifs à cet article**
 
@@ -809,10 +817,7 @@ effet à compter du 1er juillet 2011.
 
 	**Modifié par**:
 
-	  - Loi n°2010-1330 du 9 novembre 2010 - art. 38 (V)
-	  - Loi n°2010-1330 du 9 novembre 2010 - art. 49 (V)
-	  - Loi n°2010-1330 du 9 novembre 2010 - art. 52
-	  - Loi n°2010-1330 du 9 novembre 2010 - art. 53 (V)
+	  - Loi n°2015-917 du 28 juillet 2015 - art. 16
 
 	**Cite**:
 
