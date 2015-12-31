@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 2015-10-12
+Version Consolidée au 2016-01-01
 
 # Partie législative
 
@@ -10264,30 +10264,6 @@ La solde de réserve visée à l'article L. 51 est payée mensuellement par le m
 	  - Décret n°66-810 1966-10-28
 
 
-###### Article D39 bis
-
-La pension dont le montant total mensuel brut est inférieur au douzième de la somme prévue à l'article R. 351-26 du code de
-la sécurité sociale et revalorisée selon les modalités fixées par cet article est payée annuellement et à terme échu. 
-
-Le titulaire d'une pension mentionnée au premier alinéa peut toutefois opter de manière irrévocable, dans un délai d'un an à
-compter de la date de la liquidation de la pension, pour le versement d'un capital égal à quinze fois le montant annuel de
-cette pension. Ce capital est réduit, le cas échéant, de la somme des pensions déjà payées à la date de son versement.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2012-551 du 23 avril 2012 - art. 1 (V)
-
-	**Abrogé par**:
-
-	  - Décret n°2015-1872 du 30 décembre 2015 - art. 2
-
-	**Cite**:
-
-	  - Code de la sécurité sociale. - art. R351-26
-
-
 #### Paragraphe II : Contexture des titres de paiement.
 
 ###### Article D40
@@ -10542,7 +10518,7 @@ Observations
 </td>
     </tr>
     <tr>
-      <td valign="top" width="57">
+      <td width="57" valign="top">
 
 9821
 
@@ -10568,14 +10544,14 @@ Décret n° 2009-566 du 20.05.2009
 (J.O. du 23.05.2009)
 
 </td>
-      <td rowspan="8" width="113">
+      <td width="113" rowspan="8">
 
 Catégorie B
 
 60 ans
 
 </td>
-      <td rowspan="8" width="151">
+      <td width="151" rowspan="8">
     </td></tr>
     <tr>
       <td valign="top" width="57">
@@ -10592,12 +10568,12 @@ Adjoint technique de
 </td>
     </tr>
     <tr>
-      <td valign="top" width="57">
+      <td width="57" valign="top">
 
 9823
 
 </td>
-      <td width="151" valign="top">
+      <td valign="top" width="151">
 
 Adjoint technique principal de 2e classe de l'Etablissement Public "Les Haras nationaux"
 
@@ -10649,7 +10625,7 @@ Adjoint technique de
 9827
 
 </td>
-      <td width="151" valign="top">
+      <td valign="top" width="151">
 
 Adjoint technique principal de 2e classe de l'Etablissement Public "Les Haras nationaux" Polynésie
 
@@ -10699,7 +10675,7 @@ Catégorie B
 60 ans
 
 </td>
-      <td rowspan="4" width="151">
+      <td width="151" rowspan="4">
     </td></tr>
     <tr>
       <td valign="top" width="57">
@@ -10707,7 +10683,7 @@ Catégorie B
 0111
 
 </td>
-      <td width="151" valign="top">
+      <td valign="top" width="151">
 
 Chef de district forestier de 1re classe de l'O.N.F.
 
@@ -10719,7 +10695,7 @@ Chef de district forestier de 1re classe de l'O.N.F.
 0112
 
 </td>
-      <td valign="top" width="151">
+      <td width="151" valign="top">
 
 Chef de district forestier principal de 2e classe de l'O.N.F.
 
@@ -10731,7 +10707,7 @@ Chef de district forestier principal de 2e classe de l'O.N.F.
 1259
 
 </td>
-      <td width="151" valign="top">
+      <td valign="top" width="151">
 
 Chef de district forestier principal de 1re classe de l'O.N.F.
 
@@ -10783,17 +10759,17 @@ Observations
 </td>
     </tr>
     <tr>
-      <td width="57" valign="top">
+      <td valign="top" width="57">
 
 9228
 
 </td>
-      <td width="151" valign="top">
+      <td valign="top" width="151">
 
 Infirmier civil de soins généraux de classe normale
 
 </td>
-      <td valign="top" rowspan="2" width="113">
+      <td rowspan="2" valign="top" width="113">
 
 Décret n° 2005-1597 du 19.12.2005 modifié par décret n° 2014-848 du 28.07.2014
 
@@ -10805,14 +10781,14 @@ Décret n° 2005-1597 du 19.12.2005 modifié par décret n° 2014-848 du 28.07.2
 (*)
 
 </td>
-      <td rowspan="2" valign="top" width="113">
+      <td width="113" rowspan="2" valign="top">
 
 Catégorie A
 
 65 ans
 
 </td>
-      <td width="151" valign="top" rowspan="2">
+      <td rowspan="2" width="151" valign="top">
 
 (*) En application de la décision interministérielle du 20/11/2013, les infirmiers occupant un emploi, en contact direct et
 permanent avec les malades, du service de santé des armées et de l'Institution nationale des invalides bénéficient du
@@ -10823,12 +10799,12 @@ classement en catégorie active et d'une limite d'âge à
 </td>
     </tr>
     <tr>
-      <td valign="top" width="57">
+      <td width="57" valign="top">
 
 9229
 
 </td>
-      <td valign="top" width="151">
+      <td width="151" valign="top">
 
 Infirmier civil de soins généraux de classe supérieure
 
@@ -10845,20 +10821,20 @@ Infirmier civil de soins généraux de classe supérieure
 Infirmier de classe normale de l'INI
 
 </td>
-      <td valign="top" width="113" rowspan="2">
+      <td rowspan="2" width="113" valign="top">
 
 Décret n° 90-360 du 23.04.1990 modifié par décret n° 2014-847 du 28.07.2014
 
 (J.O. du 30.07.2014)
 
 </td>
-      <td valign="top" rowspan="2" width="132">
+      <td width="132" rowspan="2" valign="top">
 
 (*)
 
 </td>
-      <td width="113" valign="top" rowspan="2">
-      </td><td rowspan="2" valign="top" width="151">
+      <td width="113" rowspan="2" valign="top">
+      </td><td width="151" valign="top" rowspan="2">
 
 (*) En application de la décision interministérielle du 20/11/2013, les infirmiers occupant un emploi, en contact direct et
 permanent avec les malades, du service de santé des armées et de l'Institution nationale des invalides bénéficient du
@@ -10874,14 +10850,14 @@ classement en catégorie active et d'une limite d'âge à
 9231
 
 </td>
-      <td valign="top" width="151">
+      <td width="151" valign="top">
 
 Infirmier de classe supérieure de l'INI
 
 </td>
     </tr>
     <tr>
-      <td width="57" valign="top">
+      <td valign="top" width="57">
 
 433
 
@@ -10891,24 +10867,24 @@ Infirmier de classe supérieure de l'INI
 Agent des services hospitaliers qualifiés civils
 
 </td>
-      <td valign="top" width="113">
+      <td width="113" valign="top">
 
 Décret n° 2009-1357 du 03.11.2009 modifié
 
 </td>
-      <td valign="top" width="132">
+      <td width="132" valign="top">
 
 (*)
 
 </td>
-      <td rowspan="4" width="113" valign="top">
+      <td width="113" rowspan="4" valign="top">
 
 Catégorie A
 
 65 ans
 
 </td>
-      <td width="151" valign="top">
+      <td valign="top" width="151">
 
 (*) En application du décret n° 2015-1259 du 09/10/2015 prenant effet au 12/10/2015, les agents des services hospitaliers
 qualifiés civils occupant un emploi, en contact direct et permanent avec les malades, du service de santé des armées
@@ -10924,17 +10900,17 @@ bénéficient du classement en catégorie active et d'une limite d'âge à
 435
 
 </td>
-      <td width="151" valign="top">
+      <td valign="top" width="151">
 
 Aide-soignant civil de classe normale
 
 </td>
-      <td width="113" valign="top" rowspan="3">
+      <td valign="top" rowspan="3" width="113">
 
 Décret n° 2009-1357 du 03.11.2009 modifié
 
 </td>
-      <td rowspan="3" valign="top" width="132">
+      <td width="132" rowspan="3" valign="top">
 
 (*)
 
@@ -10962,7 +10938,7 @@ Aide-soignant civil de classe supérieure
 </td>
     </tr>
     <tr>
-      <td width="57" valign="top">
+      <td valign="top" width="57">
 
 437
 
@@ -11019,12 +10995,12 @@ Observations
 </td>
     </tr>
     <tr>
-      <td width="57" valign="top">
+      <td valign="top" width="57">
 
 1896
 
 </td>
-      <td valign="top" width="151">
+      <td width="151" valign="top">
 
 Instituteur
 
@@ -11036,7 +11012,7 @@ Décret n° 61-1012 du 07.09.1961
 (J.O. du 08.09.1961)
 
 </td>
-      <td width="132" valign="top">
+      <td valign="top" width="132">
 
 Décret du 02.02.1937
 
@@ -11050,7 +11026,7 @@ Catégorie B
 60 ans
 
 </td>
-      <td valign="top" width="151">
+      <td width="151" valign="top">
     </td></tr>
   </tbody>
 </table>
@@ -11098,24 +11074,24 @@ Observations
 </td>
     </tr>
     <tr>
-      <td width="57" valign="top">
+      <td valign="top" width="57">
 
 9965
 
 </td>
-      <td valign="top" width="151">
+      <td width="151" valign="top">
 
 Agent d'exploitation des T.P.E.
 
 </td>
-      <td width="113" rowspan="4" valign="top">
+      <td width="113" valign="top" rowspan="4">
 
 Décret n° 91-393 du 25.04.1991
 
 (J.O. du 26.04.1991)
 
 </td>
-      <td width="132" valign="top" rowspan="4">
+      <td rowspan="4" width="132" valign="top">
 
 Décret n° 91-393 du 25.04.1991 Art.35
 
@@ -11129,34 +11105,34 @@ Catégorie B
 60 ans
 
 </td>
-      <td width="151" valign="top" rowspan="4">
+      <td width="151" rowspan="4" valign="top">
     </td></tr>
     <tr>
-      <td valign="top" width="57">
+      <td width="57" valign="top">
 
 9966
 
 </td>
-      <td valign="top" width="151">
+      <td width="151" valign="top">
 
 Agent d'exploitation spécialisé des T.P.E.
 
 </td>
     </tr>
     <tr>
-      <td width="57" valign="top">
+      <td valign="top" width="57">
 
 9967
 
 </td>
-      <td valign="top" width="151">
+      <td width="151" valign="top">
 
 Chef d'équipe d'exploitation des T.P.E.
 
 </td>
     </tr>
     <tr>
-      <td width="57" valign="top">
+      <td valign="top" width="57">
 
 9968
 
@@ -11178,28 +11154,28 @@ Chef d'équipe d'exploitation principal des T.P.E.
 Conducteur des T.P.E.
 
 </td>
-      <td rowspan="5" width="113" valign="top">
+      <td valign="top" width="113" rowspan="5">
 
 Décret n° 66-900 du 18.11.1966
 
 (J.O. du 07.12.1966)
 
 </td>
-      <td width="132" rowspan="5" valign="top">
+      <td valign="top" rowspan="5" width="132">
 
 Décret n° 77-1235 du 28.10.1977
 
 (J.O. du 11.11.1977)
 
 </td>
-      <td rowspan="5" valign="top" width="113">
+      <td valign="top" rowspan="5" width="113">
 
 Catégorie B
 
 60 ans
 
 </td>
-      <td width="151" rowspan="5" valign="top">
+      <td rowspan="5" width="151" valign="top">
     </td></tr>
     <tr>
       <td valign="top" width="57">
@@ -11214,7 +11190,7 @@ Conducteur principal des T.P.E.
 </td>
     </tr>
     <tr>
-      <td valign="top" width="57">
+      <td width="57" valign="top">
 
 9516
 
@@ -11226,24 +11202,24 @@ Conducteur des T.P.E. Polynésie
 </td>
     </tr>
     <tr>
-      <td valign="top" width="57">
+      <td width="57" valign="top">
 
 7816
 
 </td>
-      <td width="151" valign="top">
+      <td valign="top" width="151">
 
 Conducteur principal des T.P.E. Polynésie
 
 </td>
     </tr>
     <tr>
-      <td width="57" valign="top">
+      <td valign="top" width="57">
 
 9526
 
 </td>
-      <td width="151" valign="top">
+      <td valign="top" width="151">
 
 Conducteur des T.P.E. St Pierre et Miquelon
 
@@ -11255,7 +11231,7 @@ Conducteur des T.P.E. St Pierre et Miquelon
 1509
 
 </td>
-      <td valign="top" width="151">
+      <td width="151" valign="top">
 
 Gardien de phare
 
@@ -11267,7 +11243,7 @@ Décret n° 66-1033 du 09.12.1966
 (J.O. du 30.12.1966)
 
 </td>
-      <td valign="top" width="132">
+      <td width="132" valign="top">
 
 Décret du 02.02.1937
 
@@ -11294,28 +11270,28 @@ Catégorie B
 Géomètre de l'I.G.N.
 
 </td>
-      <td width="113" rowspan="3" valign="top">
+      <td valign="top" width="113" rowspan="2">
 
 Décret n° 67-91 du 20.01.1967
 
 (J.O. du 02.02.1967)
 
 </td>
-      <td valign="top" rowspan="3" width="132">
+      <td rowspan="2" valign="top" width="132">
 
 Décret n° 77-1235 du 28.10.1977
 
 (J.O. du 11.11.1977)
 
 </td>
-      <td rowspan="3" valign="top" width="113">
+      <td valign="top" rowspan="2" width="113">
 
 Catégorie B
 
 60 ans
 
 </td>
-      <td width="151" valign="top" rowspan="3">
+      <td rowspan="2" valign="top" width="151">
     </td></tr>
     <tr>
       <td valign="top" width="57">
@@ -11332,27 +11308,15 @@ Géomètre principal de l'I.G.N.
     <tr>
       <td width="57" valign="top">
 
-30
+4941
 
 </td>
       <td width="151" valign="top">
 
-Technicien géomètre de l'I.G.N.
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="57">
-
-4941
-
-</td>
-      <td valign="top" width="151">
-
 Ingénieur des travaux géographiques et cartographiques de l'Etat (1)
 
 </td>
-      <td rowspan="2" valign="top" width="113">
+      <td valign="top" rowspan="2" width="113">
 
 Décret n° 73-264 du 06.03.1973
 
@@ -11372,14 +11336,14 @@ Décret n° 77-1235 du 28.10.1977
 (J.O. du 11.11.1977)
 
 </td>
-      <td rowspan="2" valign="top" width="113">
+      <td valign="top" rowspan="2" width="113">
 
 Catégorie A
 
 65 ans
 
 </td>
-      <td valign="top" width="151" rowspan="2">
+      <td width="151" valign="top" rowspan="2">
 
 (1) Le classement en catégorie B ne concerne que les personnels exerçant sur le terrain des activités relevant des techniques
 géodésiques, topographiques et photogrammétriques. Seules les périodes durant lesquelles les intéressés sont effectivement en
@@ -11456,21 +11420,21 @@ Observations
 Contrôleur principal des douanes et droits indirects (1)
 
 </td>
-      <td valign="top" width="113" rowspan="4">
+      <td valign="top" rowspan="4" width="113">
 
 Décret n° 95-380 du 10.04.1995
 
 (J.O. du 12.04.1995)
 
 </td>
-      <td width="132" rowspan="4" valign="top">
+      <td valign="top" width="132" rowspan="4">
 
 Décret n° 95-380 du 10.04.1995 Art. 27 et 28
 
 (J.O. du 12.04.1995)
 
 </td>
-      <td rowspan="4" width="113" valign="top">
+      <td valign="top" width="113" rowspan="4">
 
 Catégorie A
 
@@ -11487,7 +11451,7 @@ cas, ils sont soumis à la limite d'âge de
 </td>
     </tr>
     <tr>
-      <td valign="top" width="57">
+      <td width="57" valign="top">
 
 566
 
@@ -11501,7 +11465,7 @@ Contrôleur de
 </td>
     </tr>
     <tr>
-      <td width="57" valign="top">
+      <td valign="top" width="57">
 
 565
 
@@ -11520,7 +11484,7 @@ Contrôleur de
 569
 
 </td>
-      <td valign="top" width="151">
+      <td width="151" valign="top">
 
 Contrôleur de
 
@@ -11529,7 +11493,7 @@ Contrôleur de
 </td>
     </tr>
     <tr>
-      <td valign="top" width="57">
+      <td width="57" valign="top">
 
 9721
 
@@ -11539,7 +11503,7 @@ Contrôleur de
 Adjoint administratif de 2e classe (emplois communs) (1)
 
 </td>
-      <td valign="top" rowspan="4" width="113">
+      <td valign="top" width="113" rowspan="4">
 
 Décret n° 2006-1760 et
 
@@ -11548,24 +11512,24 @@ décret n° 2006-1761 du 23.12.2006
 (J.O. du 30.12.2006)
 
 </td>
-      <td width="132" rowspan="4" valign="top">
+      <td rowspan="4" width="132" valign="top">
 
 Décret n° 79-89 du 25.01.1979 Art. 20
 
 (J.O. du 31.01.1979)
 
 </td>
-      <td width="113" rowspan="4" valign="top">
+      <td valign="top" width="113" rowspan="4">
 
 Catégorie A
 
 65 ans
 
 </td>
-      <td rowspan="4" valign="top" width="151">
+      <td width="151" rowspan="4" valign="top">
     </td></tr>
     <tr>
-      <td width="57" valign="top">
+      <td valign="top" width="57">
 
 9777
 
@@ -11605,7 +11569,7 @@ Adjoint technique de
 </td>
     </tr>
     <tr>
-      <td width="57" valign="top">
+      <td valign="top" width="57">
 
 9910
 
@@ -11615,7 +11579,7 @@ Adjoint technique de
 Agent de constatation principal de 1re classe des douanes (2)
 
 </td>
-      <td width="113" rowspan="8" valign="top">
+      <td width="113" valign="top" rowspan="8">
 
 Décret n° 79-88 du 25.01.1979
 
@@ -11636,7 +11600,7 @@ Catégorie A
 65 ans
 
 </td>
-      <td valign="top" rowspan="8" width="151">
+      <td width="151" rowspan="8" valign="top">
 
 (2) Ces personnels bénéficient du classement en catégorie B lorsqu'ils sont affectés à la branche de la surveillance. Dans ce
 cas, ils sont soumis à la limite d'âge de
@@ -11651,7 +11615,7 @@ cas, ils sont soumis à la limite d'âge de
 9908
 
 </td>
-      <td valign="top" width="151">
+      <td width="151" valign="top">
 
 Agent de constatation principal de
 
@@ -11672,12 +11636,12 @@ Agent de constatation principal de 1re classe des douanes St Pierre et Miquelon 
 </td>
     </tr>
     <tr>
-      <td width="57" valign="top">
+      <td valign="top" width="57">
 
 9911
 
 </td>
-      <td valign="top" width="151">
+      <td width="151" valign="top">
 
 Agent de constatation principal de 2e classe des douanes St Pierre et Miquelon (2)
 
@@ -11698,7 +11662,7 @@ Agent de constatation des douanes de
 </td>
     </tr>
     <tr>
-      <td width="57" valign="top">
+      <td valign="top" width="57">
 
 9906
 
@@ -11726,12 +11690,12 @@ Agent de constatation des douanes de
 </td>
     </tr>
     <tr>
-      <td width="57" valign="top">
+      <td valign="top" width="57">
 
 86
 
 </td>
-      <td valign="top" width="151">
+      <td width="151" valign="top">
 
 Agent de constatation des douanes de
 
@@ -11747,19 +11711,19 @@ Agent de constatation des douanes de
 7299
 
 </td>
-      <td valign="top" width="151">
+      <td width="151" valign="top">
 
 Agents de catégorie A des services déconcentrés de la direction générale des douanes et droits indirects (1)
 
 </td>
-      <td rowspan="2" width="113" valign="top">
+      <td rowspan="2" valign="top" width="113">
 
 Décret n° 2007-400 et décret n° 2007-401 du 22.03.2007
 
 (J.O. du 24.03.2007)
 
 </td>
-      <td rowspan="2" valign="top" width="132">
+      <td rowspan="2" width="132" valign="top">
 
 Décret n° 2007-400 du 22.03.2007 Art. 42
 
@@ -11773,7 +11737,7 @@ Catégorie A
 65 ans
 
 </td>
-      <td valign="top" width="151" rowspan="2">
+      <td rowspan="2" width="151" valign="top">
 
 (1) chargés exclusivement de fonctions de surveillance, de recherche ou de mission de police judiciaire. Dans ce cas, ils
 sont soumis à la limite d'âge de 60 ans. Les fonctions de ces personnels, dont l'emploi est classé en catégorie active, sont
@@ -11782,7 +11746,7 @@ fixées par l'arrêté du 13.03.2008 (J.O. du 26.03.2008).
 </td>
     </tr>
     <tr>
-      <td width="57" valign="top">
+      <td valign="top" width="57">
 
 9855
 
@@ -11800,7 +11764,7 @@ Agents de catégorie A des services déconcentrés de la direction générale de
 </td>
     </tr>
     <tr>
-      <td width="57" valign="top">
+      <td valign="top" width="57">
 
 0376
 
@@ -11812,7 +11776,7 @@ Agents de catégorie A des services déconcentrés de la direction générale de
 Personnels navigants de 1re et 2e catégorie
 
 </td>
-      <td width="113" valign="top">
+      <td valign="top" width="113">
 
 Décret n° 91-804 du 19.08.1991 modifié
 
@@ -11885,12 +11849,12 @@ Observations
 </td>
     </tr>
     <tr>
-      <td valign="top" width="57">
+      <td width="57" valign="top">
 
 5650
 
 </td>
-      <td width="151" valign="top">
+      <td valign="top" width="151">
 
 Directeur des services actifs de police
 
@@ -11902,7 +11866,7 @@ Décret n° 85-779 du 24.07.1985
 (J.O. du 27.07.1985)
 
 </td>
-      <td rowspan="5" valign="top" width="132">
+      <td width="132" valign="top" rowspan="5">
 
 Décret n° 79-65 et
 
@@ -11911,17 +11875,17 @@ n° 79-66 du 23.01.1979
 (J.O. du 24.01.1979)
 
 </td>
-      <td rowspan="5" width="113" valign="top">
+      <td valign="top" width="113" rowspan="5">
 
 Catégorie B
 
 60 ans
 
 </td>
-      <td width="151" valign="top" rowspan="5">
+      <td width="151" rowspan="5" valign="top">
     </td></tr>
     <tr>
-      <td width="57" valign="top">
+      <td valign="top" width="57">
 
 5651
 
@@ -11931,7 +11895,7 @@ Catégorie B
 Directeur des services actifs de police de la préfecture de police
 
 </td>
-      <td width="113" valign="top">
+      <td valign="top" width="113">
 
 Décret n° 79-63 du 23.01.1979
 
@@ -11950,7 +11914,7 @@ Décret n° 79-63 du 23.01.1979
 Chef du service de l'inspection générale de la police nationale
 
 </td>
-      <td width="113" valign="top">
+      <td valign="top" width="113">
 
 Décret. n° 85-779 du 24.07.1985
 
@@ -11964,12 +11928,12 @@ Décret. n° 85-779 du 24.07.1985
 9709
 
 </td>
-      <td width="151" valign="top">
+      <td valign="top" width="151">
 
 Inspecteur général des services actifs de la police nationale
 
 </td>
-      <td valign="top" width="113" rowspan="2">
+      <td rowspan="2" valign="top" width="113">
 
 Décret n° 2007-315 du 07.03.2007
 
@@ -11978,12 +11942,12 @@ Décret n° 2007-315 du 07.03.2007
 </td>
     </tr>
     <tr>
-      <td valign="top" width="57">
+      <td width="57" valign="top">
 
 9710
 
 </td>
-      <td valign="top" width="151">
+      <td width="151" valign="top">
 
 Contrôleur général de service actif de la police nationale
 
@@ -12000,21 +11964,21 @@ Contrôleur général de service actif de la police nationale
 Commissaire divisionnaire de police
 
 </td>
-      <td width="113" rowspan="2" valign="top">
+      <td rowspan="2" valign="top" width="113">
 
 Décret n° 2005-939 du 02.08.2005
 
 (J.O. du 06.08.2005)
 
 </td>
-      <td rowspan="2" width="132" valign="top">
+      <td valign="top" width="132" rowspan="2">
 
 Décret n° 2005-938 du 02.08.2005
 
 (J.O. du 06.08.2005)
 
 </td>
-      <td width="113" valign="top">
+      <td valign="top" width="113">
 
 Catégorie B
 
@@ -12023,7 +11987,7 @@ Catégorie B
 59 ans (*)
 
 </td>
-      <td rowspan="2" valign="top" width="151">
+      <td rowspan="2" width="151" valign="top">
 
 (*) Nouvelle limite d'âge à/c du 01.01.2006
 
@@ -12032,12 +11996,12 @@ Catégorie B
 </td>
     </tr>
     <tr>
-      <td width="57" valign="top">
+      <td valign="top" width="57">
 
 526
 
 </td>
-      <td width="151" valign="top">
+      <td valign="top" width="151">
 
 Commissaire de police
 
@@ -12063,21 +12027,21 @@ Catégorie B
 Commandant de police emploi fonctionnel (2)
 
 </td>
-      <td width="113" valign="top" rowspan="4">
+      <td width="113" rowspan="4" valign="top">
 
 Décret n° 2005-716 du 29.06.2005
 
 (J.O. du 30.06.2005)
 
 </td>
-      <td rowspan="7" width="132" valign="top">
+      <td width="132" rowspan="7" valign="top">
 
 Décret n° 96-245 du 25.03.1996
 
 (J.O. du 27.03.1996)
 
 </td>
-      <td rowspan="8" valign="top" width="113">
+      <td valign="top" rowspan="8" width="113">
 
 Catégorie B
 
@@ -12098,12 +12062,12 @@ Catégorie B
 7688
 
 </td>
-      <td valign="top" width="151">
+      <td width="151" valign="top">
 
 Commandant de police
 
 </td>
-      <td rowspan="7" valign="top" width="151">
+      <td width="151" valign="top" rowspan="7">
 
 En vertu de l'article 2 de la loi n° 57-444, ces agents, s'ils ont accompli 25 ans de services effectifs dans leur corps et
 de service militaire obligatoire, bénéficient d'une possibilité de départ anticipé à 50 ans.
@@ -12111,19 +12075,19 @@ de service militaire obligatoire, bénéficient d'une possibilité de départ an
 </td>
     </tr>
     <tr>
-      <td valign="top" width="57">
+      <td width="57" valign="top">
 
 7687
 
 </td>
-      <td width="151" valign="top">
+      <td valign="top" width="151">
 
 Capitaine de police
 
 </td>
     </tr>
     <tr>
-      <td width="57" valign="top">
+      <td valign="top" width="57">
 
 7686
 
@@ -12146,12 +12110,12 @@ Lieutenant de police polynésie
 722
 
 </td>
-      <td width="151" valign="top">
+      <td valign="top" width="151">
 
 Major de police
 
 </td>
-      <td width="113" rowspan="3" valign="top">
+      <td width="113" valign="top" rowspan="3">
 
 Décret n° 2004-1439 du 23.12.2004
 
@@ -12169,7 +12133,7 @@ et
 717
 
 </td>
-      <td width="151" valign="top">
+      <td valign="top" width="151">
 
 Brigadier de police et
 
@@ -12178,7 +12142,7 @@ Brigadier chef de police
 </td>
     </tr>
     <tr>
-      <td width="57" valign="top">
+      <td valign="top" width="57">
 
 711
 
@@ -12194,7 +12158,7 @@ Gardien de la paix et gardien de la paix polynésie
 </td>
     </tr>
     <tr>
-      <td width="57" valign="top">
+      <td valign="top" width="57">
 
 724
 
@@ -12211,7 +12175,7 @@ Décret n° 2005-1622 du 22.12.2005
 (J.O. du 24.12.2005)
 
 </td>
-      <td valign="top" width="132">
+      <td width="132" valign="top">
 
 Décret n° 96-245 du 25.03.1996
 
@@ -12279,7 +12243,7 @@ et
 Commandant pénitentiaire et commandant pénitentiaire (emploi fonctionnelle)
 
 </td>
-      <td valign="top" rowspan="6" width="113">
+      <td rowspan="6" valign="top" width="113">
 
 Décret n° 2006-441 du 14.06.2006
 
@@ -12293,14 +12257,14 @@ Décret du 02.02.1937
 (J.O. du 03.02.1937)
 
 </td>
-      <td width="113" rowspan="7" valign="top">
+      <td rowspan="7" valign="top" width="113">
 
 Catégorie B
 
 55 ans
 
 </td>
-      <td valign="top" rowspan="7" width="151">
+      <td width="151" valign="top" rowspan="7">
 
 En vertu de l'article 24 de la loi n° 96-452, ces agents, s'ils ont accompli 25 ans de services effectifs dans leur corps et
 de service militaire obligatoire, bénéficient d'une possibilité de départ anticipé à 50 ans.
@@ -12313,14 +12277,14 @@ de service militaire obligatoire, bénéficient d'une possibilité de départ an
 9212
 
 </td>
-      <td valign="top" width="151">
+      <td width="151" valign="top">
 
 Capitaine pénitentiaire
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="57">
+      <td width="57" valign="top">
 
 9213
 
@@ -12332,12 +12296,12 @@ Lieutenant pénitentiaire
 </td>
     </tr>
     <tr>
-      <td width="57" valign="top">
+      <td valign="top" width="57">
 
 9207
 
 </td>
-      <td width="151" valign="top">
+      <td valign="top" width="151">
 
 Premier surveillant de l'administration pénitentiaire
 
@@ -12373,7 +12337,7 @@ Surveillant et surveillant principal de l'administration pénitentiaire
 8620
 
 </td>
-      <td width="151" valign="top">
+      <td valign="top" width="151">
 
 Surveillant de petit effectif de l'administration pénitentiaire
 
@@ -12387,31 +12351,31 @@ Décret n° 58-1204 du 12.12.1958
 </td>
     </tr>
     <tr>
-      <td width="57" valign="top">
+      <td valign="top" width="57">
 
 6956
 
 </td>
-      <td width="151" valign="top">
+      <td valign="top" width="151">
 
 Educateur de
 
 1re classe de la protection judiciaire de la jeunesse
 
 </td>
-      <td valign="top" rowspan="2" width="113">
+      <td rowspan="2" valign="top" width="113">
 
 Décret n° 92-344 du 27.03.1992
 
 (J.O. du 02.04.1992)
 
 </td>
-      <td width="132" valign="top" rowspan="2">
+      <td valign="top" rowspan="2" width="132">
 
 (*)
 
 </td>
-      <td rowspan="2" width="113" valign="top">
+      <td width="113" rowspan="2" valign="top">
 
 Catégorie B
 
@@ -12430,12 +12394,12 @@ Catégorie B
 6957
 
 </td>
-      <td width="151" valign="top">
+      <td valign="top" width="151">
 
 Educateur de 2e classe de la protection judiciaire de la jeunesse
 
 </td>
-      <td width="151" valign="top">
+      <td valign="top" width="151">
 
 Cependant, le classement dans la catégorie B des emplois d'éducateurs de la PJJ a été admis par le Ministère des Finances
 (Note n° 6C-96-501 du 19 juillet 1996 de la Direction du Budget).
@@ -12443,36 +12407,36 @@ Cependant, le classement dans la catégorie B des emplois d'éducateurs de la PJ
 </td>
     </tr>
     <tr>
-      <td width="57" valign="top">
+      <td valign="top" width="57">
 
 1075
 
 </td>
-      <td valign="top" width="151">
+      <td width="151" valign="top">
 
 Infirmier de classe normale des services médicaux des administrations de l'Etat
 
 </td>
-      <td width="113" valign="top" rowspan="2">
+      <td valign="top" rowspan="2" width="113">
 
 Décret n° 94-1020 du 23.11.1994 (J.O. du 16.03.1990) modifié par décret n° 2012-761 du 09.05.2012
 
 (J.O. du 09.05.2012)
 
 </td>
-      <td rowspan="2" valign="top" width="132">
+      <td width="132" rowspan="2" valign="top">
 
 (*)
 
 </td>
-      <td width="113" rowspan="2" valign="top">
+      <td rowspan="2" valign="top" width="113">
 
 Catégorie A
 
 65 ans
 
 </td>
-      <td width="151" rowspan="2" valign="top">
+      <td rowspan="2" width="151" valign="top">
 
 (*) Les emplois d'infirmier des services déconcentrés de l'administration pénitentiaire et de la protection judiciaire de la
 jeunesse, lorsqu'ils sont occupés par les infirmiers relevant du présent décret, sont classés dans la catégorie active.
@@ -12543,26 +12507,26 @@ Catégorie d'emploi et limite d'âge
 </td>
     </tr>
     <tr>
-      <td rowspan="2" valign="top" width="55">
+      <td valign="top" rowspan="2" width="55">
 
 6971
 
 </td>
-      <td width="142" valign="top" rowspan="2">
+      <td width="142" rowspan="2" valign="top">
 
 Assistant administratif
 
 (La Poste - France Télécom)
 
 </td>
-      <td valign="top" rowspan="2" width="93">
+      <td rowspan="2" valign="top" width="93">
 
 Décret n° 92-931 du 07.09.1992
 
 (J.O. du 08.09.1992)
 
 </td>
-      <td width="104" valign="top">
+      <td valign="top" width="104">
 
 Lignes
 
@@ -12572,14 +12536,14 @@ Lignes
 Agent technique
 
 </td>
-      <td rowspan="2" width="93" valign="top">
+      <td rowspan="2" valign="top" width="93">
 
 Décret n° 81-402 du 22.04.1981
 
 (J.O. du 28.04.1981)
 
 </td>
-      <td valign="top" width="90">
+      <td width="90" valign="top">
 
 Cat. B
 
@@ -12595,14 +12559,14 @@ Distribution
 et acheminement
 
 </td>
-      <td width="142" valign="top">
+      <td valign="top" width="142">
 
 Préposé distribution
 
 Préposé acheminement
 
 </td>
-      <td width="90" valign="top">
+      <td valign="top" width="90">
 
 Cat. B
 
@@ -12613,24 +12577,24 @@ Cat. B
 </td>
     </tr>
     <tr>
-      <td width="55" rowspan="3" valign="top">
+      <td valign="top" width="55" rowspan="3">
 
 9721
 
 </td>
-      <td valign="top" rowspan="3" width="142">
+      <td width="142" rowspan="3" valign="top">
 
 Adjoint administratif de 2e classe (emplois communs)
 
 </td>
-      <td width="93" rowspan="3" valign="top">
+      <td valign="top" rowspan="3" width="93">
 
 Décret n° 2006 -1760 du 23.12.2006
 
 (J.O. du 30.12.2006)
 
 </td>
-      <td valign="top" width="104" rowspan="2">
+      <td rowspan="2" width="104" valign="top">
 
 Tri (2)
 
@@ -12642,14 +12606,14 @@ Centres de tri
 Services du tri dans les recettes centralisatrices
 
 </td>
-      <td rowspan="2" valign="top" width="93">
+      <td width="93" rowspan="2" valign="top">
 
 Décret n° 81-402 du 22.04.1981
 
 (J.O. du 28.04.1981)
 
 </td>
-      <td width="90" valign="top">
+      <td valign="top" width="90">
     </td></tr>
     <tr>
       <td width="142">
@@ -12686,24 +12650,24 @@ Cat. A
 </td>
     </tr>
     <tr>
-      <td valign="top" width="55" rowspan="3">
+      <td valign="top" rowspan="3" width="55">
 
 9721
 
 </td>
-      <td rowspan="3" width="142" valign="top">
+      <td valign="top" width="142" rowspan="3">
 
 Adjoint administratif de 2e classe (emplois communs)
 
 </td>
-      <td rowspan="5" valign="top" width="93">
+      <td rowspan="5" width="93" valign="top">
 
 Décret n° 2006 -1760 et décret n° 2006-1761 du 23.12.2006
 
 (J.O. du 30.12.2006)
 
 </td>
-      <td width="104" valign="top" rowspan="4">
+      <td valign="top" width="104" rowspan="4">
 
 Tri (2)
 
@@ -12729,7 +12693,7 @@ Cat. B
 </td>
     </tr>
     <tr>
-      <td width="142" valign="top">
+      <td valign="top" width="142">
 
 Services du tri dans les recettes centralisatrices (2)
 
@@ -12741,12 +12705,12 @@ Services du tri dans les recettes centralisatrices (2)
 </td>
     </tr>
     <tr>
-      <td width="142" rowspan="2" valign="top">
+      <td rowspan="2" valign="top" width="142">
 
 Services du tri dans les centres de chèques postaux
 
 </td>
-      <td width="90" valign="top" rowspan="2">
+      <td valign="top" rowspan="2" width="90">
 
 62 ans (1)
 
@@ -12765,24 +12729,24 @@ Adjoint administratif de 1re classe (emplois communs)
 </td>
     </tr>
     <tr>
-      <td valign="top" width="55">
+      <td width="55" valign="top">
 
 9777
 
 </td>
-      <td valign="top" width="142">
+      <td width="142" valign="top">
 
 Adjoint technique de 2e classe (emplois communs)
 
 </td>
-      <td width="104" valign="top">
+      <td valign="top" width="104">
 
 Autres
 
 </td>
       <td valign="top" width="142">
       </td><td valign="top" width="93">
-      </td><td width="90" valign="top">
+      </td><td valign="top" width="90">
 
 Cat. A
 
@@ -12791,7 +12755,7 @@ Cat. A
 </td>
     </tr>
     <tr>
-      <td valign="top" width="718" colspan="7">
+      <td width="718" valign="top" colspan="7">
 
 (1) Ces limites d'âge ne sont opposables qu'aux fonctionnaires qui réunissent à 60 ans, ou à 62 ans 15 années de services
 actifs tels qu'ils sont définis par le code des pensions civiles et militaires de retraite. (Décret n° 76-1210 du 21.12.1976
@@ -12803,12 +12767,12 @@ du 12.01.1976)
 </td>
     </tr>
     <tr>
-      <td valign="top" rowspan="2" width="55">
+      <td rowspan="2" valign="top" width="55">
 
 8825
 
 </td>
-      <td valign="top" rowspan="2" width="142">
+      <td width="142" rowspan="2" valign="top">
 
 Conducteur d'automobile
 
@@ -12817,17 +12781,17 @@ de 1re catégorie
 (emplois communs) (3)
 
 </td>
-      <td rowspan="2" valign="top" width="93">
+      <td width="93" valign="top" rowspan="2">
 
 Décret n° 70-251 du 21.03.1970
 
 </td>
-      <td rowspan="2" valign="top" width="104">
+      <td width="104" valign="top" rowspan="2">
 
 Automobile
 
 </td>
-      <td valign="top" width="142">
+      <td width="142" valign="top">
 
 Affecté à Paris à la direction du matériel de transport
 
@@ -12839,7 +12803,7 @@ Décret n° 81-402 du 22.04.1981
 (JO du 28.04.1981)
 
 </td>
-      <td rowspan="2" width="90" valign="top">
+      <td valign="top" rowspan="2" width="90">
 
 Cat. B
 
@@ -12853,7 +12817,7 @@ Cat. B
 Autres directions
 
 </td>
-      <td valign="top" width="93">
+      <td width="93" valign="top">
 
 D.M n° B-2C 89/73 du 08.03.1989
 
@@ -12872,7 +12836,7 @@ A/c du 01.12.1988
 Agent d'exploitation du service général (La Poste - France Télécom)
 
 </td>
-      <td rowspan="9" width="93" valign="top">
+      <td width="93" rowspan="9" valign="top">
 
 Décret n° 92-929 du 07. 09.1992
 
@@ -12885,7 +12849,7 @@ Lignes
 
 </td>
       <td valign="top" width="142">
-      </td><td rowspan="15" valign="top" width="93">
+      </td><td width="93" rowspan="15" valign="top">
 
 Décret n° 81-402 du 22.04.1981
 
@@ -12906,12 +12870,12 @@ Cat. B
 Installations
 
 </td>
-      <td width="142" valign="top">
+      <td valign="top" width="142">
 
 Service général
 
 </td>
-      <td width="90" valign="top">
+      <td valign="top" width="90">
 
 Cat. B
 
@@ -12932,7 +12896,7 @@ et acheminement
 - Recette distribution (4)
 
 </td>
-      <td valign="top" width="90">
+      <td width="90" valign="top">
 
 Cat. B
 
@@ -12942,7 +12906,7 @@ Cat. B
     </tr>
     <tr>
       <td width="104" valign="top">
-      </td><td valign="top" width="142">
+      </td><td width="142" valign="top">
 
 - Acheminement
 
@@ -12954,7 +12918,7 @@ Cat. B
 </td>
     </tr>
     <tr>
-      <td valign="top" width="104">
+      <td width="104" valign="top">
       </td><td width="142" valign="top">
 
 - Entreposeur
@@ -12968,7 +12932,7 @@ Cat. B
     </tr>
     <tr>
       <td valign="top" width="104">
-      </td><td width="142" valign="top">
+      </td><td valign="top" width="142">
 
 - Distribution
 
@@ -12980,23 +12944,10 @@ Cat. B
 </td>
     </tr>
     <tr>
-      <td valign="top" width="104">
-      </td><td valign="top" width="142">
-
-- Courrier ambulant
-
-</td>
-      <td valign="top" width="90">
-
-60 ans
-
-</td>
-    </tr>
-    <tr>
       <td width="104" valign="top">
       </td><td width="142" valign="top">
 
-- Courrier convoyeur
+- Courrier ambulant
 
 </td>
       <td width="90" valign="top">
@@ -13006,7 +12957,20 @@ Cat. B
 </td>
     </tr>
     <tr>
-      <td valign="top" width="55">
+      <td width="104" valign="top">
+      </td><td valign="top" width="142">
+
+- Courrier convoyeur
+
+</td>
+      <td valign="top" width="90">
+
+60 ans
+
+</td>
+    </tr>
+    <tr>
+      <td width="55" valign="top">
 
 6977
 
@@ -13017,33 +12981,33 @@ Agent d'exploitation du service général Polynésie (La Poste - France Téléco
 
 </td>
       <td width="104" valign="top">
-      </td><td width="142" valign="top">
+      </td><td valign="top" width="142">
       </td><td width="90" valign="top">
     </td></tr>
     <tr>
-      <td valign="top" width="55" rowspan="3">
+      <td width="55" valign="top" rowspan="3">
 
 6978
 
 </td>
-      <td valign="top" width="142" rowspan="3">
+      <td rowspan="3" valign="top" width="142">
 
 Agent d'exploitation (La Poste)
 
 </td>
-      <td rowspan="6" valign="top" width="93">
+      <td valign="top" width="93" rowspan="6">
 
 Décret n° 72-500 du 23.06.1972
 
 (J.O. du 24.06.1972)
 
 </td>
-      <td rowspan="3" valign="top" width="104">
+      <td rowspan="3" width="104" valign="top">
 
 Tri (1)
 
 </td>
-      <td valign="top" width="142">
+      <td width="142" valign="top">
 
 Centres de tri
 
@@ -13065,7 +13029,7 @@ Services du tri dans les recettes centralisatrices
       <td width="90" valign="top">
     </td></tr>
     <tr>
-      <td valign="top" width="142">
+      <td width="142" valign="top">
 
 Services du tri dans les centres de chèques postaux
 
@@ -13073,27 +13037,27 @@ Services du tri dans les centres de chèques postaux
       <td width="90" valign="top">
     </td></tr>
     <tr>
-      <td width="55" valign="top">
+      <td valign="top" width="55">
 
 6979
 
 </td>
-      <td valign="top" width="142">
+      <td width="142" valign="top">
 
 Agent d'exploitation (France Télécom)
 
 </td>
-      <td width="104" valign="top">
-      </td><td valign="top" width="142">
-      </td><td width="90" valign="top">
+      <td valign="top" width="104">
+      </td><td width="142" valign="top">
+      </td><td valign="top" width="90">
     </td></tr>
     <tr>
-      <td valign="top" width="55">
+      <td width="55" valign="top">
 
 6980
 
 </td>
-      <td width="142" valign="top">
+      <td valign="top" width="142">
 
 Agent d'exploitation Polynésie (La Poste)
 
@@ -13113,23 +13077,23 @@ Cat. B
 </td>
     </tr>
     <tr>
-      <td valign="top" width="55">
+      <td width="55" valign="top">
 
 6981
 
 </td>
-      <td valign="top" width="142">
+      <td width="142" valign="top">
 
 Agent d'exploitation Polynésie (France Télécom)
 
 </td>
-      <td valign="top" width="104">
+      <td width="104" valign="top">
 
 Autres
 
 </td>
       <td width="142" valign="top">
-      </td><td width="90" valign="top">
+      </td><td valign="top" width="90">
 
 Cat. A
 
@@ -13138,7 +13102,7 @@ Cat. A
 </td>
     </tr>
     <tr>
-      <td valign="top" colspan="7" width="718">
+      <td valign="top" width="718" colspan="7">
 
 (1) Services accomplis à temps complet pendant des périodes continues de trois mois au moins (arrêté interministériel n° 77
 du 12.01.1976)
@@ -13158,43 +13122,43 @@ le nouveau grade de receveur rural.
 </td>
     </tr>
     <tr>
-      <td width="55" valign="top" rowspan="4">
+      <td valign="top" rowspan="4" width="55">
 
 6983
 
 </td>
-      <td rowspan="4" width="142" valign="top">
+      <td width="142" rowspan="4" valign="top">
 
 Agent de service (La Poste - France Télécom)
 
 </td>
-      <td valign="top" rowspan="4" width="93">
+      <td rowspan="4" width="93" valign="top">
 
 Décret n° 90-1234 du 31.12.1990
 
 (J.O. du 01.01.1991)
 
 </td>
-      <td valign="top" width="104">
+      <td width="104" valign="top">
 
 Distribution et acheminement
 
 </td>
-      <td valign="top" width="142">
+      <td width="142" valign="top">
 
 Préposé acheminement
 
 Préposé distribution
 
 </td>
-      <td valign="top" width="93">
+      <td width="93" valign="top">
 
 Décret n° 81-402 du 22.04.1981
 
 (J.O. du 28.04.1981)
 
 </td>
-      <td width="90" valign="top">
+      <td valign="top" width="90">
 
 Cat. B
 
@@ -13205,7 +13169,7 @@ Cat. B
 </td>
     </tr>
     <tr>
-      <td rowspan="3" width="104" valign="top">
+      <td width="104" valign="top" rowspan="3">
 
 Tri (1)
 
@@ -13215,8 +13179,8 @@ Tri (1)
 Centres de tri
 
 </td>
-      <td width="93" valign="top">
-      </td><td width="90" valign="top">
+      <td valign="top" width="93">
+      </td><td valign="top" width="90">
 
 Cat. B
 
@@ -13231,7 +13195,7 @@ Services du tri dans les recettes centralisatrices
 
 </td>
       <td width="93" valign="top">
-      </td><td width="90" valign="top">
+      </td><td valign="top" width="90">
     </td></tr>
     <tr>
       <td width="142" valign="top">
@@ -13240,27 +13204,27 @@ Services du tri dans les centres de chèques postaux
 
 </td>
       <td width="93" valign="top">
-      </td><td width="90" valign="top">
+      </td><td valign="top" width="90">
     </td></tr>
     <tr>
-      <td valign="top" width="55">
+      <td width="55" valign="top">
 
 6783
 
 </td>
-      <td width="142" valign="top">
+      <td valign="top" width="142">
 
 Chef d'établissement de classe exceptionnelle
 
 </td>
-      <td width="93" valign="top" rowspan="3">
+      <td width="93" rowspan="3" valign="top">
 
 Décret n° 58-776 du 25.08.1958
 
 (J.O. du 29.08.1958)
 
 </td>
-      <td width="104" valign="top">
+      <td valign="top" width="104">
 
 Tri (1)
 
@@ -13272,29 +13236,29 @@ Services du tri dans les centres postaux
 Centres de tri
 
 </td>
-      <td rowspan="3" valign="top" width="93">
+      <td rowspan="3" width="93" valign="top">
 
 Décret n° 81-402 du 22.04.1981
 
 (J.O. du 28.04.1981)
 
 </td>
-      <td valign="top" width="90">
+      <td width="90" valign="top">
     </td></tr>
     <tr>
-      <td valign="top" width="55">
+      <td width="55" valign="top">
 
 6768
 
 </td>
-      <td valign="top" width="142">
+      <td width="142" valign="top">
 
 Chef d'établissement de 1re classe
 
 </td>
-      <td valign="top" width="104">
+      <td width="104" valign="top">
       </td><td valign="top" width="142">
-      </td><td width="90" valign="top">
+      </td><td valign="top" width="90">
 
 Cat. B
 
@@ -13303,7 +13267,7 @@ Cat. B
 </td>
     </tr>
     <tr>
-      <td width="55" valign="top">
+      <td valign="top" width="55">
 
 6781
 
@@ -13321,7 +13285,7 @@ Autres
 
 </td>
       <td valign="top" width="142">
-      </td><td width="90" valign="top">
+      </td><td valign="top" width="90">
 
 Cat. A
 
@@ -13330,7 +13294,7 @@ Cat. A
 </td>
     </tr>
     <tr>
-      <td valign="top" width="55">
+      <td width="55" valign="top">
 
 3310
 
@@ -13340,16 +13304,16 @@ Cat. A
 Chef de secteur du service des lignes
 
 </td>
-      <td rowspan="2" valign="top" width="93">
+      <td rowspan="2" width="93" valign="top">
 
 Décret n° 54-865 du 02.09.1954
 
 (J.O. du 05.09.1954)
 
 </td>
-      <td width="104" valign="top">
+      <td valign="top" width="104">
       </td><td valign="top" width="142">
-      </td><td width="93" valign="top" rowspan="2">
+      </td><td rowspan="2" width="93" valign="top">
 
 Décret n° 81-402 du 22.04.1981
 
@@ -13365,12 +13329,12 @@ Cat. B
 </td>
     </tr>
     <tr>
-      <td width="55" valign="top">
+      <td valign="top" width="55">
 
 3311
 
 </td>
-      <td width="142" valign="top">
+      <td valign="top" width="142">
 
 Chef de district du service des lignes
 
@@ -13386,12 +13350,12 @@ Cat. B
 </td>
     </tr>
     <tr>
-      <td valign="top" width="55">
+      <td width="55" valign="top">
 
 6965
 
 </td>
-      <td width="142" valign="top">
+      <td valign="top" width="142">
 
 Contrôleur (La Poste - France Télécom)
 
@@ -13403,12 +13367,12 @@ Décret n° 72-503 du 23.06.1972
 (J.O. du 24.06.1972)
 
 </td>
-      <td width="104" valign="top">
+      <td valign="top" width="104">
 
 Tri (1)
 
 </td>
-      <td valign="top" width="142">
+      <td width="142" valign="top">
 
 Centres de tri
 
@@ -13433,7 +13397,7 @@ Cat. B
 </td>
     </tr>
     <tr>
-      <td width="718" colspan="7" valign="top">
+      <td valign="top" width="718" colspan="7">
 
 (1) Services accomplis à temps complet pendant des périodes continues de trois mois au moins (arrêté interministériel n° 77
 du 12.01.1976)
@@ -13444,17 +13408,17 @@ qu'ils sont définis par le code des pensions civiles et militaires de retraite.
 </td>
     </tr>
     <tr>
-      <td width="55" rowspan="2" valign="top">
+      <td valign="top" width="55" rowspan="2">
 
 6744
 
 </td>
-      <td width="142" valign="top" rowspan="2">
+      <td rowspan="2" valign="top" width="142">
 
 Inspecteur (La Poste - France Télécom)
 
 </td>
-      <td width="93" valign="top" rowspan="2">
+      <td rowspan="2" valign="top" width="93">
 
 Décret n° 58-777 du 25.08.1958
 
@@ -13466,7 +13430,7 @@ Décret n° 58-777 du 25.08.1958
 Ambulant
 
 </td>
-      <td width="142" valign="top">
+      <td valign="top" width="142">
       </td><td rowspan="2" valign="top" width="93">
 
 Décret n° 81-402 du 22.04.1981
@@ -13474,7 +13438,7 @@ Décret n° 81-402 du 22.04.1981
 (J.O. du 28.04.1981)
 
 </td>
-      <td valign="top" width="90">
+      <td width="90" valign="top">
 
 Cat. B
 
@@ -13488,7 +13452,7 @@ Cat. B
 Autres
 
 </td>
-      <td width="142" valign="top">
+      <td valign="top" width="142">
       </td><td width="90" valign="top">
 
 Cat. A
@@ -13498,7 +13462,7 @@ Cat. A
 </td>
     </tr>
     <tr>
-      <td valign="top" width="55">
+      <td width="55" valign="top">
 
 3217
 
@@ -13508,27 +13472,27 @@ Cat. A
 Conducteur chef de transbordement (La Poste)
 
 </td>
-      <td rowspan="2" width="93" valign="top">
+      <td width="93" rowspan="2" valign="top">
 
 Décret n° 57-1319 du 21.12.1957
 
 (J.O. du 28.12.1957)
 
 </td>
-      <td width="104" rowspan="2" valign="top">
+      <td valign="top" rowspan="2" width="104">
 
 Acheminement
 
 </td>
-      <td valign="top" rowspan="2" width="142">
-      </td><td rowspan="2" width="93" valign="top">
+      <td rowspan="2" valign="top" width="142">
+      </td><td width="93" rowspan="2" valign="top">
 
 Décret n° 81-402 du 22.04.1981
 
 (J.O. du 28.04.1981)
 
 </td>
-      <td rowspan="2" width="90" valign="top">
+      <td valign="top" rowspan="2" width="90">
 
 Cat. B
 
@@ -13537,7 +13501,7 @@ Cat. B
 </td>
     </tr>
     <tr>
-      <td valign="top" width="55">
+      <td width="55" valign="top">
 
 5242
 
@@ -13554,25 +13518,25 @@ Conducteur chef du transbordement de 1re classe (La Poste)
 6967
 
 </td>
-      <td width="142" valign="top" rowspan="2">
+      <td valign="top" width="142" rowspan="2">
 
 Contremaître (La Poste - France Télécom)
 
 </td>
-      <td rowspan="2" valign="top" width="93">
+      <td valign="top" width="93" rowspan="2">
 
 Décret n° 92-942 du 07.09.1992
 
 (J.O. du 08.09.1992)
 
 </td>
-      <td width="104" valign="top">
+      <td valign="top" width="104">
 
 Installations
 
 </td>
       <td valign="top" width="142" rowspan="2">
-      </td><td rowspan="2" width="93" valign="top">
+      </td><td valign="top" width="93" rowspan="2">
 
 Décret n° 81-402 du 22.04.1981
 
@@ -13602,7 +13566,7 @@ Cat. A
 </td>
     </tr>
     <tr>
-      <td valign="top" width="55">
+      <td width="55" valign="top">
 
 5245
 
@@ -13612,16 +13576,16 @@ Cat. A
 Conducteur des travaux des lignes (France Télécom)
 
 </td>
-      <td valign="top" width="93">
+      <td width="93" valign="top">
 
 Décret n° 54-865 du 02.09.1954
 
 (J.O. du 05.09.1954)
 
 </td>
-      <td valign="top" width="104">
+      <td width="104" valign="top">
       </td><td valign="top" width="142">
-      </td><td valign="top" width="93">
+      </td><td width="93" valign="top">
 
 Décret n° 81-402 du 22.04.1981
 
@@ -13637,7 +13601,7 @@ Cat. B
 </td>
     </tr>
     <tr>
-      <td width="55" valign="top">
+      <td valign="top" width="55">
 
 5244
 
@@ -13647,21 +13611,21 @@ Cat. B
 Conducteur de travaux de la distribution et de l'acheminement (La Poste)
 
 </td>
-      <td valign="top" width="93">
+      <td width="93" valign="top">
 
 Décret n° 57-1319 du 21.12.1957
 
 (J.O. du 28.12.1957)
 
 </td>
-      <td valign="top" width="104">
+      <td width="104" valign="top">
 
 Distribution et
 
 Acheminement
 
 </td>
-      <td width="142" valign="top">
+      <td valign="top" width="142">
       </td><td width="93" valign="top">
 
 Décret n° 81-402 du 22.04.1981
@@ -13669,7 +13633,7 @@ Décret n° 81-402 du 22.04.1981
 (J.O. du 28.04.1981)
 
 </td>
-      <td valign="top" width="90">
+      <td width="90" valign="top">
 
 Cat. B
 
@@ -13678,7 +13642,7 @@ Cat. B
 </td>
     </tr>
     <tr>
-      <td rowspan="3" valign="top" width="55">
+      <td valign="top" rowspan="3" width="55">
 
 2735
 
@@ -13695,7 +13659,7 @@ Décret n° 64-953 du 11.09.1964
 (J.O. du 13.09.1964)
 
 </td>
-      <td width="104" valign="top">
+      <td valign="top" width="104">
 
 Tri (1)
 
@@ -13716,7 +13680,7 @@ Décret n° 81-402 du 22.04.1981
 (J.O. du 28.04.1981)
 
 </td>
-      <td width="90" valign="top">
+      <td valign="top" width="90">
 
 Cat. B
 
@@ -13730,8 +13694,8 @@ Cat. B
 Ambulant
 
 </td>
-      <td width="142" valign="top">
-      </td><td valign="top" width="90">
+      <td valign="top" width="142">
+      </td><td width="90" valign="top">
 
 Cat. B
 
@@ -13740,13 +13704,13 @@ Cat. B
 </td>
     </tr>
     <tr>
-      <td valign="top" width="104">
+      <td width="104" valign="top">
 
 Autres
 
 </td>
       <td valign="top" width="142">
-      </td><td width="90" valign="top">
+      </td><td valign="top" width="90">
 
 Cat. A
 
@@ -13755,7 +13719,7 @@ Cat. A
 </td>
     </tr>
     <tr>
-      <td colspan="7" valign="top" width="718">
+      <td valign="top" width="718" colspan="7">
 
 (1) Services accomplis à temps complet pendant des périodes continues de trois mois au moins (arrêté interministériel n° 77
 du 12.01.1976)
@@ -13763,17 +13727,17 @@ du 12.01.1976)
 </td>
     </tr>
     <tr>
-      <td rowspan="2" valign="top" width="55">
+      <td valign="top" width="55" rowspan="2">
 
 6877
 
 </td>
-      <td valign="top" width="142" rowspan="2">
+      <td valign="top" rowspan="2" width="142">
 
 Directeur d'établissement principal de La Poste
 
 </td>
-      <td width="93" valign="top" rowspan="2">
+      <td rowspan="2" valign="top" width="93">
 
 Décret n° 91-68 du 17.01.1991
 
@@ -13785,12 +13749,12 @@ Décret n° 91-68 du 17.01.1991
 Tri (1)
 
 </td>
-      <td width="142" valign="top">
+      <td valign="top" width="142">
 
 Centres de tri
 
 </td>
-      <td width="93" valign="top" rowspan="2">
+      <td rowspan="2" valign="top" width="93">
 
 Décret n° 81-402 du 22.04.1981 (J.O. du 28.04.1981)
 
@@ -13806,7 +13770,7 @@ Cat. B
 </td>
     </tr>
     <tr>
-      <td valign="top" width="104">
+      <td width="104" valign="top">
 
 Autres
 
@@ -13821,30 +13785,30 @@ Cat. A
 </td>
     </tr>
     <tr>
-      <td rowspan="2" width="55" valign="top">
+      <td valign="top" rowspan="2" width="55">
 
 5247
 
 </td>
-      <td width="142" rowspan="2" valign="top">
+      <td rowspan="2" width="142" valign="top">
 
 Inspecteur principal (La Poste - France Télécom)
 
 </td>
-      <td valign="top" rowspan="2" width="93">
+      <td rowspan="2" valign="top" width="93">
 
 Décret n° 58-778 du 25.08.1958
 
 (J.O. du 29.08.1958)
 
 </td>
-      <td valign="top" width="104">
+      <td width="104" valign="top">
 
 Ambulant
 
 </td>
       <td valign="top" width="142">
-      </td><td width="93" valign="top" rowspan="2">
+      </td><td rowspan="2" valign="top" width="93">
 
 Décret n° 81-402 du 22.04.1981 (J.O. du 28.04.1981)
 
@@ -13864,7 +13828,7 @@ Autres
 
 </td>
       <td width="142" valign="top">
-      </td><td valign="top" width="90">
+      </td><td width="90" valign="top">
 
 Cat. B
 
@@ -13894,7 +13858,7 @@ Décret n° 65-306 du 12.04.1965
 
 </td>
       <td valign="top" width="142">
-      </td><td width="93" valign="top">
+      </td><td valign="top" width="93">
 
 Décret n° 81-402 du 22.04.1981 (J.O. du 28.04.1981)
 
@@ -13918,14 +13882,14 @@ Cat. B
 Ouvrier d'Etat (La Poste - France Télécom)
 
 </td>
-      <td width="93" valign="top" rowspan="4">
+      <td valign="top" rowspan="4" width="93">
 
 Décret n° 92-942 du 07.09.1992
 
 (J.O. du 08.09.1992)
 
 </td>
-      <td valign="top" width="104">
+      <td width="104" valign="top">
 
 Tri (1)
 
@@ -13935,14 +13899,14 @@ Tri (1)
 Affecté au dépoussiérage
 
 </td>
-      <td width="93" valign="top" rowspan="4">
+      <td valign="top" width="93" rowspan="4">
 
 Décret n° 81-402 du 22.04.1981
 
 (J.O. du 28.04.1981)
 
 </td>
-      <td valign="top" width="90">
+      <td width="90" valign="top">
 
 Cat. B
 
@@ -13961,29 +13925,29 @@ Cat. B
 Contremaître (La Poste - France Télécom)
 
 </td>
-      <td valign="top" width="104">
+      <td width="104" valign="top">
 
 </td>
-      <td width="142" valign="top">
-      </td><td valign="top" width="90">
+      <td valign="top" width="142">
+      </td><td width="90" valign="top">
     </td></tr>
     <tr>
-      <td valign="top" width="55">
+      <td width="55" valign="top">
 
 6969
 
 </td>
-      <td valign="top" width="142">
+      <td width="142" valign="top">
 
 Ouvrier d'Etat Polynésie (La Poste - France Télécom)
 
 </td>
-      <td valign="top" width="104">
+      <td width="104" valign="top">
 
 Autres
 
 </td>
-      <td valign="top" width="142">
+      <td width="142" valign="top">
       </td><td valign="top" width="90">
 
 Cat. A
@@ -14003,10 +13967,10 @@ Cat. A
 Contremaître Polynésie (La Poste - France Télécom)
 
 </td>
-      <td valign="top" width="104">
+      <td width="104" valign="top">
 
 </td>
-      <td width="142" valign="top">
+      <td valign="top" width="142">
       </td><td valign="top" width="90">
     </td></tr>
     <tr>
@@ -14021,14 +13985,14 @@ qu'ils sont définis par le code des pensions civiles et militaires de retraite.
 </td>
     </tr>
     <tr>
-      <td valign="top" rowspan="4" width="55">
+      <td rowspan="4" valign="top" width="55">
 
 3469
 
 6963
 
 </td>
-      <td valign="top" width="142" rowspan="4">
+      <td rowspan="4" width="142" valign="top">
 
 Préposé (La Poste)
 
@@ -14042,12 +14006,12 @@ Décret n° 57-1319 du 21.12.1957
 (J.O. du 28.12.1957)
 
 </td>
-      <td valign="top" width="104">
+      <td width="104" valign="top">
 
 Acheminement
 
 </td>
-      <td valign="top" width="142">
+      <td width="142" valign="top">
       </td><td width="93" rowspan="4" valign="top">
 
 Décret n° 81-402 du 22.04.1981
@@ -14055,7 +14019,7 @@ Décret n° 81-402 du 22.04.1981
 (J.O. du 28.04.1981)
 
 </td>
-      <td valign="top" width="90">
+      <td width="90" valign="top">
 
 Cat. B
 
@@ -14070,14 +14034,14 @@ Distribution
 
 </td>
       <td valign="top" width="142">
-      </td><td valign="top" width="90">
+      </td><td width="90" valign="top">
 
 60 ans
 
 </td>
     </tr>
     <tr>
-      <td width="104" valign="top">
+      <td valign="top" width="104">
 
 Courrier ambulant
 
@@ -14096,7 +14060,7 @@ Courrier convoyeur
 
 </td>
       <td valign="top" width="142">
-      </td><td valign="top" width="90">
+      </td><td width="90" valign="top">
 
 60 ans
 
@@ -14108,26 +14072,26 @@ Courrier convoyeur
 6278
 
 </td>
-      <td width="142" valign="top">
+      <td valign="top" width="142">
 
 Receveur rural (La Poste)
 
 </td>
-      <td width="93" valign="top">
+      <td valign="top" width="93">
 
 Décret n° 86-261 du 25.02.1986
 
 (J.O. du 27.02.1986)
 
 </td>
-      <td width="104" valign="top">
+      <td valign="top" width="104">
 
 Distribution et
 
 Acheminement
 
 </td>
-      <td width="142" valign="top">
+      <td valign="top" width="142">
       </td><td valign="top" width="93">
 
 Décret n° 86-266 du 25.02.1986 (J.O. du 27.02.1986)
@@ -14135,7 +14099,7 @@ Décret n° 86-266 du 25.02.1986 (J.O. du 27.02.1986)
 A/C du 01.01.1985
 
 </td>
-      <td width="90" valign="top">
+      <td valign="top" width="90">
 
 Cat. B
 
@@ -14144,12 +14108,12 @@ Cat. B
 </td>
     </tr>
     <tr>
-      <td valign="top" width="55">
+      <td width="55" valign="top">
 
 6745
 
 </td>
-      <td valign="top" width="142">
+      <td width="142" valign="top">
 
 Assistant de service social (La Poste - France Télécom
 
@@ -14159,7 +14123,7 @@ Assistant de service social (La Poste - France Télécom
 Décret n° 91-101 du 24.01.1991
 
 </td>
-      <td width="104" valign="top">
+      <td valign="top" width="104">
 
 Tri
 
@@ -14176,7 +14140,7 @@ Décret n° 81-402 du 22.04.1981
 (J.O. du 28.04.1981)
 
 </td>
-      <td width="90" valign="top">
+      <td valign="top" width="90">
 
 Cat. B
 
@@ -14185,7 +14149,7 @@ Cat. B
 </td>
     </tr>
     <tr>
-      <td width="55" valign="top">
+      <td valign="top" width="55">
 
 6746
 
@@ -14200,8 +14164,8 @@ Assistant de service social chef (La Poste - France Télécom)
 Autres
 
 </td>
-      <td valign="top" width="142">
-      </td><td width="90" valign="top">
+      <td width="142" valign="top">
+      </td><td valign="top" width="90">
 
 Cat. A
 
@@ -14210,12 +14174,12 @@ Cat. A
 </td>
     </tr>
     <tr>
-      <td valign="top" width="55">
+      <td width="55" valign="top">
 
 3204
 
 </td>
-      <td valign="top" width="142">
+      <td width="142" valign="top">
 
 Vérificateur des services de la distribution et de l'acheminement (La Poste) 
 
@@ -14227,15 +14191,15 @@ Décret n° 57-1319 du 21.12.1957
 (J.O. du 28.12.1957)
 
 </td>
-      <td width="104" rowspan="2" valign="top">
+      <td valign="top" width="104" rowspan="2">
 
 Distribution et
 
 Acheminement
 
 </td>
-      <td valign="top" width="142" rowspan="2">
-      </td><td width="93" rowspan="2" valign="top">
+      <td rowspan="2" valign="top" width="142">
+      </td><td rowspan="2" valign="top" width="93">
 
 Décret n° 81-402 du 22.04.1981
 
@@ -14244,7 +14208,7 @@ Décret n° 81-402 du 22.04.1981
 A/C du 01.01.1970 (2)
 
 </td>
-      <td rowspan="2" valign="top" width="90">
+      <td rowspan="2" width="90" valign="top">
 
 Cat. B
 
@@ -14253,19 +14217,19 @@ Cat. B
 </td>
     </tr>
     <tr>
-      <td width="55" valign="top">
+      <td valign="top" width="55">
 
 3216
 
 </td>
-      <td width="142" valign="top">
+      <td valign="top" width="142">
 
 Vérificateur principal des services de la distribution et de l'acheminement (La Poste)
 
 </td>
     </tr>
     <tr>
-      <td colspan="7" width="718" valign="top">
+      <td valign="top" colspan="7" width="718">
 
 (1) Services accomplis à temps complet pendant des périodes continues de trois mois au moins (arrêté interministériel n° 77
 du 12.01.1976)
@@ -14330,28 +14294,28 @@ Observations
 Ingénieur divisionnaire du contrôle de la navigation aérienne
 
 </td>
-      <td rowspan="3" valign="top" width="113">
+      <td width="113" rowspan="3" valign="top">
 
 Décret n° 90-998 du 08.11.1990
 
 (J.O. du 10.11.1990)
 
 </td>
-      <td width="132" valign="top" rowspan="3">
+      <td valign="top" width="132" rowspan="3">
 
 Décret n° 90-999 du 08.11.1990
 
 (J.O. du 10.11.1990)
 
 </td>
-      <td valign="top" rowspan="3" width="113">
+      <td width="113" valign="top" rowspan="3">
 
 Cat. B
 
 57 ans
 
 </td>
-      <td rowspan="3" valign="top" width="151">
+      <td valign="top" width="151" rowspan="3">
 
 En vertu de l'article 4 de la loi n° 89-1007, ces agents, s'ils ont accompli 15 années de services effectifs dans leur corps,
 bénéficient d'une possibilité de départ anticipé à 50 ans.
@@ -14364,19 +14328,19 @@ bénéficient d'une possibilité de départ anticipé à 50 ans.
 6803
 
 </td>
-      <td width="151" valign="top">
+      <td valign="top" width="151">
 
 Ingénieur principal du contrôle de la navigation aérienne
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="57">
+      <td width="57" valign="top">
 
 6802
 
 </td>
-      <td valign="top" width="151">
+      <td width="151" valign="top">
 
 Ingénieur du contrôle de la navigation aérienne de classe normale
 
@@ -14428,15 +14392,15 @@ Observations
 </td>
     </tr>
     <tr>
-      <td colspan="2" valign="top" width="208">
+      <td width="208" valign="top" colspan="2">
 
 AFFAIRES MARITIMES
 
 </td>
-      <td width="113" valign="top">
-      </td><td width="132" valign="top">
-      </td><td width="113" valign="top">
-      </td><td valign="top" width="151">
+      <td valign="top" width="113">
+      </td><td valign="top" width="132">
+      </td><td valign="top" width="113">
+      </td><td width="151" valign="top">
     </td></tr>
     <tr>
       <td width="57" valign="top">
@@ -14444,7 +14408,7 @@ AFFAIRES MARITIMES
 1103
 
 </td>
-      <td valign="top" width="151">
+      <td width="151" valign="top">
 
 Technicien supérieur du développement durable
 
@@ -14456,21 +14420,21 @@ Décret n° 2012-1064 du 18.09.2012
 (J.O. du 20.09.2012)
 
 </td>
-      <td rowspan="3" valign="top" width="132">
+      <td width="132" valign="top" rowspan="3">
 
 Décret n° 2012-1064 du 18.09.2012
 
 (J.O. du 20.09.2012)
 
 </td>
-      <td valign="top" width="113" rowspan="7">
+      <td valign="top" rowspan="7" width="113">
 
 Cat. A
 
 65 ans
 
 </td>
-      <td rowspan="3" valign="top" width="151">
+      <td width="151" valign="top" rowspan="3">
 
 (1) Seuls les techniciens supérieurs du développement durable classés dans la spécialité "navigation, sécurité maritime et
 gestion de la ressource halieutique et des espaces marin et littoral" bénéficient du classement en catégorie active et d'une
@@ -14479,7 +14443,7 @@ limite d'âge à 62 ans.
 </td>
     </tr>
     <tr>
-      <td valign="top" width="57">
+      <td width="57" valign="top">
 
 1104
 
@@ -14503,14 +14467,14 @@ Technicien supérieur en chef du développement durable
 </td>
     </tr>
     <tr>
-      <td width="208" valign="top" colspan="2">
+      <td width="208" colspan="2" valign="top">
 
 SYNDICS DES GENS DE MER
 
 </td>
       <td valign="top" width="113">
-      </td><td valign="top" width="132">
-      </td><td valign="top" width="151">
+      </td><td width="132" valign="top">
+      </td><td width="151" valign="top">
     </td></tr>
     <tr>
       <td width="57" valign="top">
@@ -14518,7 +14482,7 @@ SYNDICS DES GENS DE MER
 9971
 
 </td>
-      <td width="151" valign="top">
+      <td valign="top" width="151">
 
 Syndic (2)
 
@@ -14547,7 +14511,7 @@ ans.
 </td>
     </tr>
     <tr>
-      <td width="57" valign="top">
+      <td valign="top" width="57">
 
 9972
 
@@ -14561,7 +14525,7 @@ Syndic principal de
 </td>
     </tr>
     <tr>
-      <td valign="top" width="57">
+      <td width="57" valign="top">
 
 1349
 
@@ -14575,7 +14539,7 @@ Syndic principal de
 </td>
     </tr>
     <tr>
-      <td width="57" valign="top">
+      <td valign="top" width="57">
 
 9349
 
@@ -14585,7 +14549,7 @@ Syndic principal de
 Garde maritime principal
 
 </td>
-      <td width="113" valign="top">
+      <td valign="top" width="113">
 
 Décret n° 54-320 du 15.03.1954
 
@@ -14599,7 +14563,7 @@ Décret du 02.02.1937
 (J.O. du 03.02.1937)
 
 </td>
-      <td valign="top" width="113">
+      <td width="113" valign="top">
 
 Cat. B
 
@@ -14614,6 +14578,6 @@ Cat. B
 
 	**Modifié par**:
 
-	  - Décret n°2015-1259 du 9 octobre 2015 - art. 1
+	  - Décret n°2016-581 du 11 mai 2016 - art. 11 (V)
 
 
