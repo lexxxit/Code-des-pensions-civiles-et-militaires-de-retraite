@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 2016-10-01
+Version Consolidée au 2017-01-01
 
 # Partie législative
 
@@ -4280,7 +4280,7 @@ dans le cadre de l'exercice de ses fonctions ;
 
 5° Lorsqu'un sapeur-pompier de la brigade des sapeurs-pompiers de Paris ou du bataillon des marins-pompiers de Marseille ou
 un militaire des formations militaires de la sécurité civile est tué dans l'exercice de ses fonctions et est cité à l'ordre
-de la Nation ; 
+de la Nation ou à l'ordre de l'armée ; 
 
 6° Lorsqu'un agent d'exploitation des travaux publics de l'Etat ou un chef d'équipe des travaux publics de l'Etat est tué en
 service dans le cadre d'une intervention sur voirie circulée ; 
@@ -4290,7 +4290,10 @@ sur route ;
 
 8° Lorsqu'un fonctionnaire affecté dans les services exerçant des missions de contrôle dans le domaine des affaires maritimes
 sous l'autorité ou à la disposition du ministre chargé de la mer est tué en service au cours d'une mission de contrôle ou de
-surveillance. 
+surveillance ;
+
+9° Lorsqu'un militaire est tué dans l'exercice de ses fonctions sur le territoire national ou décède en service et est cité à
+l'ordre de la Nation ou à l'ordre de l'armée. 
 
 III.-Le total des pensions et, selon les cas, de la rente viagère ou de la pension militaire d'invalidité attribuables aux
 conjoints survivants et aux orphelins est porté à 100 % du traitement ou de la solde de base détenu par le fonctionnaire ou
@@ -4309,11 +4312,11 @@ opération militaire, alors qu'il se trouvait en service ou en mission à l'étr
 
 	**Modifié par**:
 
-	  - Loi n°2014-40 du 20 janvier 2014 - art. 5 (V)
+	  - Loi n°2016-1917 du 29 décembre 2016 - art. 121 (V)
 
 	**Cite**:
 
-	  - Code de la sécurité sociale. - art. L341-6 (V)
+	  - Code de la sécurité sociale. - art. L341-6
 
 	**Codifié par**:
 
@@ -5167,7 +5170,7 @@ suivantes peuvent être entièrement cumulés avec la pension :
 
 1° Activités entraînant affiliation au régime général de la sécurité sociale en application du 15° de l'article L. 311-3 et
 de l'article L. 382-1 du code de la sécurité sociale ainsi que les activités exercées par les artistes interprètes rattachés
-au régime mentionné au premier alinéa de l'article L. 622-5 du même code ; 
+au régime mentionné au premier alinéa de l'article L. 640-1 du même code ; 
 
 2° Activités entraînant la production d'oeuvres de l'esprit au sens des articles L. 112-2 et L. 112-3 du code de la propriété
 intellectuelle ; 
@@ -5188,11 +5191,6 @@ effectués pendant un rappel à l'activité donnant lieu à promotion de grade ;
 3° Les titulaires de pensions ayant atteint, avant le 1er janvier 2004, la limite d'âge qui leur était applicable dans leur
 ancien emploi.
 
-**Nota:**
-
-Conformément à l'article 19 VIII de la loi n° 2014-40 du 20 janvier 2014, le présent article est applicable aux assurés dont
-la première pension prend effet à compter du 1er janvier 2015.
-
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -5205,16 +5203,15 @@ la première pension prend effet à compter du 1er janvier 2015.
 
 	**Modifié par**:
 
-	  - Loi n°2014-40 du 20 janvier 2014 - art. 19 (V)
+	  - Loi n°2016-1827 du 23 décembre 2016 - art. 50 (V)
 
 	**Cite**:
 
 	  - Code de la propriété intellectuelle - art. L112-2
 	  - Code des pensions civiles et militaires de retraite - art. L85
 	  - Code de la sécurité sociale. - art. L161-22
-	  - Code de la sécurité sociale. - art. L311-3
 	  - Code de la sécurité sociale. - art. L382-1
-	  - Code de la sécurité sociale. - art. L622-5
+	  - Code de la sécurité sociale. - art. L640-1 (V)
 
 	**Codifié par**:
 
@@ -6669,7 +6666,9 @@ et des régions ;
 plus de 150 000 habitants ;
 
 - directeur des établissements publics locaux assimilés à l'un des emplois de directeurs des collectivités territoriales
-précités. 
+précités ;
+
+- directeur départemental et directeur départemental adjoint des services d'incendie et de secours. 
 
 2° Pour les emplois relevant de la loi n° 86-33 du 9 janvier 1986 portant dispositions statutaires relatives à la fonction
 publique hospitalière :
@@ -6704,7 +6703,7 @@ publique hospitalière :
 
 	**Modifié par**:
 
-	  - Décret n°2008-594 du 23 juin 2008 - art. 1
+	  - Décret n°2016-2001 du 30 décembre 2016 - art. 2
 
 
 ###### Article R28
