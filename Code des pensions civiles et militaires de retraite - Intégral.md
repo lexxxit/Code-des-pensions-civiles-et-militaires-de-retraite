@@ -1,5 +1,5 @@
 # Code des pensions civiles et militaires de retraite  
-Version Consolidée au 2017-01-01
+Version Consolidée au 2017-01-09
 
 # Partie législative
 
@@ -8898,18 +8898,27 @@ susvisé, prennent effet le 1er septembre 2016.
 
 ###### Article D2
 
-La demande de validation des services mentionnés à l'avant-dernier alinéa de l'article L. 5 porte obligatoirement sur la
-totalité desdits services que l'intéressé a accomplis antérieurement à son affiliation au régime du présent code.
+La demande de validation des services mentionnés à l'antépénultième alinéa de l'article L. 5 porte obligatoirement sur la
+totalité desdits services que l'intéressé a accomplis antérieurement à son affiliation au régime du présent code. 
 
-Le silence gardé par le fonctionnaire ou le militaire pendant le délai prévu au dernier alinéa de l'article L. 5 vaut refus.
-L'acceptation ou le refus sont irrévocables. Lorsque le fonctionnaire ou le militaire décède avant l'expiration de ce délai,
-sans avoir accepté ou refusé la notification de la validation, la procédure est définitivement interrompue.
+Le fonctionnaire ou le militaire dispose d'un délai de six mois pour répondre à toute demande de pièces complémentaires qui
+lui est notifiée par l'administration auprès de laquelle il a adressé sa demande de validation. 
+
+Le silence gardé par le fonctionnaire ou le militaire pendant le délai prévu à l'avant-dernier alinéa de l'article L. 5 vaut
+refus. L'acceptation ou le refus sont irrévocables. Lorsque le fonctionnaire ou le militaire décède avant l'expiration de ce
+délai, sans avoir accepté ou refusé la notification de la validation, la procédure est définitivement interrompue.
+
+**Nota:**
+
+Conformément à l'article 4 du n° 2017-17 du 6 janvier 2017, le délai de six mois mentionné au deuxième alinéa de l'article D.
+2 du code des pensions civiles et militaires de retraite s'applique à toute demande de pièces complémentaires notifiée aux
+fonctionnaires ou aux militaires à compter de l'entrée en vigueur du présent décret.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2003-1309 du 26 décembre 2003 - art. 2 () JORF 30 décembre 2003 en vigueur le 1er janvier 2004
+	  - Décret n°2017-17 du 6 janvier 2017 - art. 1
 
 	**Cité par**:
 
@@ -8917,11 +8926,11 @@ sans avoir accepté ou refusé la notification de la validation, la procédure e
 
 	**Cite**:
 
-	  - Code des pensions civiles et militaires de retrait - art. L5 (M)
+	  - Code des pensions civiles et militaires de retr... - art. L5 (V)
 
 	**Codifié par**:
 
-	  - Décret n°66-810 1966-10-28
+	  - Décret n°66-810 du 28 octobre 1966
 
 
 ###### Article D3
@@ -9753,47 +9762,55 @@ application éventuelle de la règle de prescription prévue à l'article L. 53 
 
 ###### Article D20
 
-I. - Le fonctionnaire, le magistrat ou le militaire dépose sa demande de pension six mois avant la date à laquelle il
-souhaite cesser son activité auprès du service des retraites de l'Etat. 
+I.-Le fonctionnaire, le magistrat ou le militaire dépose sa demande de pension six mois avant la date à laquelle il souhaite
+cesser son activité auprès du service des retraites de l'Etat ou, pour les demandes de pension d'invalidité prévue aux
+articles L. 27 à L. 37 ou de pension de retraite prévue au 4° du I et au 3° du II de l'article L. 24, auprès du service
+gestionnaire dont il relève. 
 
 La pension est concédée au plus tard un mois avant la date d'effet de la radiation des cadres. Toutefois, en cas de maintien
 en fonctions ou en activité en surnombre, au-delà de la limite d'âge, la pension est concédée au plus tard un mois avant le
 terme de ce maintien. 
 
-II. - L'ayant cause du fonctionnaire, du magistrat ou du militaire décédé avant ou après son admission à la retraite dépose
-sa demande de pension de réversion auprès du service des retraites de l'Etat.
+II.-L'ayant cause du fonctionnaire, du magistrat ou du militaire dépose sa demande de pension de réversion auprès du service
+des retraites de l'Etat ou, lorsque le fonctionnaire, le magistrat ou le militaire décède avant son admission à la retraite,
+auprès du service gestionnaire dont l'agent décédé relevait.
 
 **Nota:**
 
-Décret n° 2013-39 du 10 janvier 2013 article 3 : Les présentes dispositions prennent effet à l'égard des employeurs de
-fonctionnaires, magistrats et militaires, chacun pour ce qui le concerne, à une date fixée par arrêté conjoint des ministres
-chargés du budget et de la fonction publique et du ministre concerné.
+Décret n° 2013-39 du 10 janvier 2013 article 3 : Les présentes  dispositions prennent effet à l'égard des employeurs de
+fonctionnaires,  magistrats et militaires, chacun pour ce qui le concerne, à une date  fixée par arrêté conjoint des
+ministres chargés du budget et de la  fonction publique et du ministre concerné.
 
-Jusqu'à cette date, l'admission à la retraite des agents des employeurs en cause est régie par les dispositions de l'article
-D. 20 du code des pensions civiles et militaires de retraite, dans sa rédaction antérieure au 13 janvier 2013.
+Jusqu'à cette date,  l'admission à la retraite des agents des employeurs en cause est régie  par les dispositions de
+l'article D. 20 du code des pensions civiles et  militaires de retraite, dans sa rédaction antérieure au 13 janvier 2013.
 
-Arrêté du 22 mai 2014 article 1 : A l'égard de la direction générale de l'Institut national de la statistique et des études
-économiques, placée sous l'autorité conjointe du ministre des finances et des comptes publics et du ministre de l'économie,
-du redressement productif et du numérique, les dispositions de l'article D. 20 du code des pensions civiles et militaires de
-retraite, dans sa rédaction issue du décret du 10 janvier 2013 susvisé, prend effet le 1er juin 2014.
+Arrêté  du 22 mai 2014 article 1 : A l'égard de la direction générale de  l'Institut national de la statistique et des études
+économiques, placée  sous l'autorité conjointe du ministre des finances et des comptes  publics et du ministre de l'économie,
+du redressement productif et du  numérique, les dispositions de l'article D. 20 du code des pensions  civiles et militaires
+de retraite, dans sa rédaction issue du décret du  10 janvier 2013 susvisé, prend effet le 1er juin 2014.
 
-Arrêté du 27 août 2014 article 1 : A l'égard de la direction générale des finances publiques du ministère des finances et des
-comptes publics, les dispositions de l'article D. 20 du code des pensions civiles et militaires de retraite, dans sa
-rédaction issue du décret du 10 janvier 2013 susvisé, prennent effet le 1er octobre 2014.
+Arrêté du  27 août 2014 article 1 : A l'égard de la direction générale des finances  publiques du ministère des finances et
+des comptes publics, les  dispositions de l'article D. 20 du code des pensions civiles et  militaires de retraite, dans sa
+rédaction issue du décret du 10 janvier  2013 susvisé, prennent effet le 1er octobre 2014.
 
-Arrêté du 27 août 2014 : A l'égard de la direction générale des douanes et droits indirects placée sous l'autorité du
-ministre des finances et des comptes publics, les dispositions de l'article D. 20 du code des pensions civiles et militaires
-de retraite, dans sa rédaction issue du décret du 10 janvier 2013 susvisé, prennent effet le 1er octobre 2014.
+Arrêté du 27  août 2014 : A l'égard de la direction générale des douanes et droits  indirects placée sous l'autorité du
+ministre des finances et des comptes  publics, les dispositions de l'article D. 20 du code des pensions  civiles et
+militaires de retraite, dans sa rédaction issue du décret du  10 janvier 2013 susvisé, prennent effet le 1er octobre 2014.
 
-Arrêté du 25 septembre 2015 : A l'égard de la Cour des comptes, les dispositions de l'article D. 20 du code des pensions
-civiles et militaires de retraite, dans sa rédaction issue du décret du 10 janvier 2013 susvisé, prennent effet le 1er
+Arrêté  du 25 septembre 2015 : A l'égard de la Cour des comptes, les  dispositions de l'article D. 20 du code des pensions
+civiles et  militaires de retraite, dans sa rédaction issue du décret du 10 janvier  2013 susvisé, prennent effet le 1er
 octobre 2015.
 
-Arrêté du 17 décembre 2015, A l'égard des personnels appartenant à des corps ou occupant des emplois dont la gestion
-administrative relève du secrétariat général des ministères économiques et financiers, de la direction générale des
-entreprises et du conseil général de l'économie, de l'industrie, de l'énergie et des technologies, ainsi que de la direction
-générale du Trésor et de l'inspection générale des finances, les dispositions de l'article D. 20 du code des pensions civiles
-et militaires de retraite, dans sa rédaction issue du décret du 10 janvier 2013 susvisé, prennent effet le 1er janvier 2016.
+Arrêté du 17  décembre 2015, A l'égard des personnels appartenant à des corps ou  occupant des emplois dont la gestion
+administrative relève du  secrétariat général des ministères économiques et financiers, de la  direction générale des
+entreprises et du conseil général de l'économie,  de l'industrie, de l'énergie et des technologies, ainsi que de la
+direction générale du Trésor et de l'inspection générale des finances,  les dispositions de l'article D. 20 du code des
+pensions civiles et  militaires de retraite, dans sa rédaction issue du décret du 10 janvier  2013 susvisé, prennent effet le
+1er janvier 2016.
+
+Arrêté du 11 août 2016 : A l'égard des services du rectorat de  l'académie de Nancy-Metz, les dispositions des articles D. 1,
+D. 20 et  D. 21 du code des pensions civiles et militaires de retraite, dans leur  rédaction issue du décret du 10 janvier
+2013 susvisé, prennent effet le  1er septembre 2016.
 
 **Liens relatifs à cet article**
 
@@ -9812,7 +9829,12 @@ et militaires de retraite, dans sa rédaction issue du décret du 10 janvier 201
 
 	**Modifié par**:
 
-	  - Décret n°2013-39 du 10 janvier 2013 - art. 1
+	  - Décret n°2017-17 du 6 janvier 2017 - art. 2
+
+	**Cite**:
+
+	  - Code des pensions civiles et militaires de retr... - art. L24 (V)
+	  - Code des pensions civiles et militaires de retr... - art. L27 (V)
 
 	**Codifié par**:
 
@@ -10245,33 +10267,22 @@ du code des pensions militaires d'invalidité.
 
 ###### Article D27
 
-En vue de la concession des prestations d'invalidité, les  administrations, établissements, offices de l'Etat ou tous autres
-organismes employeurs des fonctionnaires de l'Etat, magistrats et  militaires constituent des dossiers, transmis au service
-des retraites  de l'Etat, dans lesquels figurent : 
+En vue de la concession des prestations d'invalidité, les administrations, établissements, offices de l'Etat ou tous autres
+organismes employeurs des fonctionnaires de l'Etat, magistrats et militaires constituent des dossiers, transmis au service
+des retraites de l'Etat après s'être prononcés, en application de l'article L. 31, sur la réalité des infirmités invoquées,
+la preuve de leur imputabilité au service, le taux d'invalidité qu'elles entraînent et l'incapacité permanente à l'exercice
+des fonctions. 
 
-- la demande de mise à la retraite pour invalidité ; 
-
-- le cas échéant, la copie de la carte d'invalidité ; 
-
--  les procès-verbaux des instances médicales obligatoirement saisies en  vertu des lois et règlements applicables à la
-situation de l'intéressé  accompagnés des pièces justificatives médicales et administratives  produites à ces organismes.
+Les dossiers comprennent, outre les pièces mentionnées aux articles D. 20 à D. 26, les procès-verbaux des instances médicales
+obligatoirement saisies en vertu des lois et règlements applicables à la situation de l'intéressé accompagnés des pièces
+justificatives médicales et administratives produites à ces organismes, ainsi que toutes les pièces nécessaires à
+l'établissement des droits à prestation d'invalidité.
 
 **Nota:**
 
-Décret n° 2011-616 du 30 mai 2011, article 6 et décret n° 2013-39 du 10 janvier 2013, article 2 : Les présentes dispositions
-prennent effet à l'égard des employeurs de fonctionnaires, magistrats et militaires chacun pour ce qui le concerne, à une
-date et selon les modalités fixées par arrêté conjoint des ministres chargés du budget et de la fonction publique et du
-ministre concerné et au plus tard le 31 décembre 2014.
 
-Jusqu'à cette date, la pension ou la rente viagère d'invalidité des agents des employeurs en cause est liquidée et concédée
-dans les conditions prévues aux articles D. 21-1 et D. 21-2 dans leur rédaction antérieure à l'entrée en vigueur du présent
-décret.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2011-616 du 30 mai 2011 - art. 4
 
 	**Cité par**:
 
@@ -10286,9 +10297,14 @@ décret.
 	  - Arrêté du 7 novembre 2014 - art. 1 (V)
 	  - Arrêté du 21 août 2015 - art. 1 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2017-17 du 6 janvier 2017 - art. 3
+
 	**Cite**:
 
-	  - Code des pensions civiles et militaires de retrait - art. L59 (Ab)
+	  - Code des pensions civiles et militaires de retr... - art. D20 (V)
+	  - Code des pensions civiles et militaires de retr... - art. L31 (V)
 
 
 ### Titre X : Cessation ou reprise de service - Coordination avec le régime de sécurité sociale.
